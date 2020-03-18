@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IJCAI2020 Tutorial on Multimodal Learning in K-12 Education - Promise, Progress and Challenges | ai4ed</title>
+    <link>https://ai4ed.github.io/tutorials/ijcai2020/</link>
+      <atom:link href="https://ai4ed.github.io/tutorials/ijcai2020/index.xml" rel="self" type="application/rss+xml" />
+    <description>IJCAI2020 Tutorial on Multimodal Learning in K-12 Education - Promise, Progress and Challenges</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 18 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>IJCAI2020 Tutorial on Multimodal Learning in K-12 Education - Promise, Progress and Challenges</title>
+      <link>https://ai4ed.github.io/tutorials/ijcai2020/</link>
+    </image>
+    
+  </channel>
+</rss>
