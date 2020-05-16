@@ -206,6 +206,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-166862523-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-166862523-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -433,6 +471,28 @@
         
 
         <li class="nav-item">
+          <a class="nav-link " href="/tutorials/kdd2020"><span>KDD2020 Tutorial</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
           <a class="nav-link " href="/tutorials/ijcai2020"><span>IJCAI2020 Tutorial</span></a>
         </li>
 
@@ -571,6 +631,21 @@
     
 
     
+    
+      <div class="card experience course">
+        <div class="card-body"><a href="tutorials/kdd2020" target="_blank" rel="noopener"><h4 class="card-title exp-title text-muted my-0">Tutorial - Recent Advances in Multimodal Educational Data Mining in K-12 Education</h4></a><div class="card-subtitle my-0 article-metadata"><a href="https://www.kdd.org/kdd2020/calls/view/kdd-2020-call-for-tutorials" target="_blank" rel="noopener">KDD</a><span class="middot-divider"></span>
+
+            Aug 2020
+            
+          </div>
+
+          
+            <div class="card-text">Organized by Zitao Liu (TAL Education Group), Songfan Yang (TAL Education Group), Jiliang Tang (Michigan State University), Neil Heffernan (Worcester Polytechnic Institute), Rose Luckin (University College London)</div>
+          
+
+          
+        </div>
+      </div>
     
       <div class="card experience course">
         <div class="card-body"><a href="tutorials/ijcai2020" target="_blank" rel="noopener"><h4 class="card-title exp-title text-muted my-0">Tutorial - Multimodal Learning in K-12 Education: Promise, Progress and Challenges</h4></a><div class="card-subtitle my-0 article-metadata"><a href="https://www.ijcai20.org/call-for-tutorials.html" target="_blank" rel="noopener">IJCAI</a><span class="middot-divider"></span>
