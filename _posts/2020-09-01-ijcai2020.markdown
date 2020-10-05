@@ -1,0 +1,81 @@
+---
+layout: post
+title:  IJCAI2020 Tutorial on Multimodal Learning in K-12 Education - Promise, Progress and Challenges
+date:   2020-09-01 00:00:00
+image:  '/images/ijcai2020.jpg'
+tags:   [Tutorial, IJCAI]
+featured: false
+category: tutorials
+---
+
+## Motivation & Description
+
+Recently we have seen a rapid rise in the amount of education data available through the digitization of education. This huge amount of education data usually exhibits in a mixture form of images, videos, speech, texts, etc. It is crucial to consider data from different modalities to build successful applications in AI in education (AIED). This tutorial targets AI researchers and practitioners who are interested in applying state-of-the-art multimodal machine learning techniques to tackle some of the hard-core AIED tasks. These include tasks such as automatic short answer grading, student assessment, class quality assurance, knowledge tracing, etc. 
+
+In this tutorial, we will comprehensively review recent developments of applying multimodal learning approaches in AIED, with a focus on those classroom multimodal data. Beyond introducing the recent advances of computer vision, speech, natural language processing in education respectively, we will discuss how to combine data from different modalities and build AI driven educational applications on top of these data. More specifically, we will talk about (1) **representation learning**; (2) **algorithmic assessment & evaluation**; and (3) **personalized feedback**. Participants will learn about recent trends and emerging challenges in this topic, representative tools and learning resources to obtain ready-to-use models, and how related models and techniques benefit real-world AIED applications.
+
+## Tentative Outline
+
+This tutorial presents a systematic overview of frontier approaches to multimodal learning in AIED. We will begin with introducing the main research problems, and motivate this topic with several real-world applications. Then, we will introduce methods for learning embedding for each domain and approaches to align embeddings across domains. Specifically, we will discuss how comprehensive information such as linguistic contexts and probabilistic soft logic rules can be leveraged to improve the quality of the embedding, and how to align embeddings in different domains by strategies such as retrofitting, joint learning, and self-supervised learning. Moreover, we will exemplify the use of these embeddings in applications of various areas, and will outline emerging research challenges that may catalyze further investigation on this topic. 
+
+
+We would like to have a `half-day 210-minute` tutorial with the following detailed contents.
+
+### Part I: The Future of Education for the 21st Century [25 mins]
+
+In this part, we will give an overview of the AIED research and provide sufficient background and potential opportunities of AIED to the general audience. In particular, we would like to cover the followings:
+
+* **The History of AIED**. We will briefly introduce the research area of AIED, which is an interdisciplinary community at the frontiers of the fields of computer science, education, and psychology. 
+
+* **The Reality and the Potential in AIED**. We will shed light on the future potential of applying various advanced AI techniques in education domain.
+
+
+
+### Part II: AI in K-12 Education [50 mins]
+
+In this part, we will specifically focus on AI in K-12 education and discuss the following topics:
+
+
+* **K-12 Education in China v.s United States**. The global education market is set to reach at least \$10T by 2030 as population growth in developing markets fuels a massive expansion and technology drives unprecedented re-skilling and up-skilling in developed economies. China, with the largest education market in the world, has led education VC investment growth over the past five years. China made up 50% of all Global VC investment in education through the decade, the USA 33% followed by Europe, India and the Rest of the World, each investing around 5% of the global funding total. It is worth to take a look at the difference of K-12 education in China and US and we will briefly discuss some interesting findings we observe and this gives us the basis of different classroom multimodal data sources.
+
+* **Existing AI Applications in K-12 Education**. We will show some well developed AI applications in K-12 education market and quickly give audience ideas about how AI can transform our old-fashioned education.
+
+* **Challenges in AI in K-12 Education**. We will introduce the new challenges when studying and developing AI approaches in K-12 education domain and explain the reasons behind the scene. The main challenges are divided into three categories: (1) limited data with crowdsourced labels; (2) human-centered evaluation metrics with long-lasting effects; and (3) low-quality data with heterogeneous sources.
+
+### Part III: Multimodal Learning in Education [120 mins]
+
+In this part, we will discuss some key sub-areas in multimodal learning in education, which is composed of three sub-parts: (1) Representation Learning; (2) Algorithmic Assessment \& Evaluation; and (3) Personalized Feedback. The detailed content structure is listed as follows:
+
+
+* **Representation Learning**
+	* Learning from Limited Crowdsourced Data
+	* Learning from Educational Multimodal Data
+* **Algorithmic Assessment & Evaluation**
+	* Student Assessment
+	* Teacher Evaluation
+* **Personalized Feedback**
+	* Knowledge Tracing
+	* Adaptive Learning
+
+
+
+In **Representation Learning** section, we will first discuss some state-of-the-art representation learning techniques for learning effective embeddings from limited crowdsourced data. This is pretty common in education scenarios, where the number of data instances is very limited and the corresponding crowdsourced labels are inconsistent. Then, we will review the multimodal representation learning frameworks with an educational focus. We will discuss both the methodologies and the educational applications. 
+
+In **Algorithmic Assessment & Evaluation** section, we will discuss the recent progress of using AI algorithms to assess and evaluate performance of both students and teachers. Algorithmic assessment tools will not only reduce the grading burdens from teachers but give students opportunities to practice and improve their various skills anytime anywhere. Teacher evaluations will analyze instructors' in-class pedagogical instructions and provide objective and timely feedback to them. All these works heavily rely on understanding the multimodal classroom data by using AI algorithms.
+
+
+In **Personalized Feedback** section, we will discuss some recent works on using AI in educational cognitive diagnosis. Such approaches try to understand the students' learning abilities and their learning outcomes. We will present recent research efforts in both knowledge tracing and adaptive learning. We will cover some recent advances in using deep neural networks in knowledge tracing and the personalized adaptive learning techniques in student modeling.
+
+### Part IV: Conclusion and Future Outlook [15 mins]
+
+In this part, we will conclude this tutorial and outline some interesting directions of both multimodal learning methodologies and the new trends in education.
+
+## Organizers
+
+![Beautiful place]({{site.baseurl}}/images/ijcai2020_tutorial_organizers.jpg)
+
+* **Zitao Liu** TAL Education Group
+* **Songfan Yang** TAL Education Group
+* **Jiliang Tang** Michigan State University
+* **Neil Heffernan** Worcester Polytechnic Institute
+* **Rose Luckin** University College London

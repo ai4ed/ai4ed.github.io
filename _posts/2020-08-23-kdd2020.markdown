@@ -1,0 +1,93 @@
+---
+layout: post
+title:  KDD2020 Tutorial on Recent Advances in Multimodal Educational Data Mining in K-12 Education
+date:   2020-08-23 00:00:00
+image:  '/images/kdd2020.jpg'
+tags:   [Tutorial, KDD]
+featured: false
+category: tutorials
+---
+
+## Abstract
+
+Recently we have seen a rapid rise in the amount of education data available through the digitization of education. This huge amount of education data usually exhibits in a mixture form of images, videos, speech, texts, etc. It is crucial to consider data from different modalities to build successful applications in AI in education (AIED). This tutorial targets AI researchers and practitioners who are interested in applying state-of-the-art multimodal machine learning techniques to tackle some of the hard-core AIED tasks. These include tasks such as automatic short answer grading, student assessment, class quality assurance, knowledge tracing, etc.
+
+In this tutorial, we will comprehensively review recent developments of applying multimodal learning approaches in AIED, with a focus on those classroom multimodal data. Beyond introducing the recent advances of computer vision, speech, natural language processing in education respectively, we will discuss how to combine data from different modalities and build AI driven educational applications on top of these data. More specifically, we will talk about (1) representation learning; (2) algorithmic assessment & evaluation; and (3) personalized feedback. Participants will learn about recent trends and emerging challenges in this topic, representative tools and learning resources to obtain ready-to-use models, and how related models and techniques benefit real-world AIED applications.
+
+
+## Social Impact
+
+Recent years have witnessed growing efforts from AI research community devoted to advancing our education. It is a vibrant multi-disciplinary field of increasing importance and with extraordinary potential. AI is becoming a valuable tool for teachers in many ways and teachers are able to get insights from results of AI driven applications. Although it is still in the early stage, promising results have been achieved in solving various critical problems in education. The potential AIED applications is able to free up time for teachers, ensure students receive the timely assistance, and allow students to learn independently. It very well may help us to rethink and restructure how we approach compulsory education in the 21st century in a way that is beneficial to all parties.
+
+
+## Intended Audience
+
+All the researchers and practitioners are welcome. The audiences are assumed to have basic knowledge in data mining and machine learning. Specially, those who have devoted to advanced methodologies in speech, computer vision, natural language processing and machine learning, etc., will be encouraged to participate to learn the new challenges when applying real-world educational scenarios. This tutorial will shed light on the opportunities of building successful education application with the recent advanced algorithms of learning from different modalities and encourages AI researchers from different domains to understand and work together to tackle some of the most exciting and challenging AIED problems. This tutorial aims to be composed of a good balance between the introductory and advanced material (50% for beginners and 50% for intermediate and advanced).
+
+## Tutorial Slides 
+
+Tutorial slides can be found at [here](https://drive.google.com/drive/folders/1SahIip8e8W8dOxY5rntGRQxOSzgk_jOM?usp=sharing).
+
+## Tutorial Video Content
+
+Video content is available at [bilibili](https://space.bilibili.com/673434640/channel/detail?cid=149750) as well. 
+
+> ### Part I: The Future of Education for the 21st Century
+> 
+> <cite>Dr. Rose Luckin, University College London</cite>
+
+<p><iframe src="https://www.youtube.com/embed/q1wrjKymaaM" frameborder="0" allowfullscreen></iframe></p>
+
+
+> ### Part II: AI in K-12 Education
+> 
+> <cite>Dr. Zitao Liu, TAL Education Group</cite>
+
+<p><iframe src="https://www.youtube.com/embed/h85aqzdQxco" frameborder="0" allowfullscreen></iframe></p>
+
+
+> ### Part III: Multimodal Learning in Education - Part A
+> 
+> <cite>Mr. Guowei Xu, TAL Education Group</cite>
+
+<p><iframe src="https://www.youtube.com/embed/p2xBKAS1HTw" frameborder="0" allowfullscreen></iframe></p>
+
+
+> ### Part III: Multimodal Learning in Education - Part B
+> 
+> <cite>Mr. Yang Hao, TAL Education Group</cite>
+
+<p><iframe src="https://www.youtube.com/embed/WVUBd0WCG9o" frameborder="0" allowfullscreen></iframe></p>
+
+
+> ### Part III: Multimodal Learning in Education - Part C
+> 
+> <cite>Dr. Neil Heffernan, Worcester Polytechnic Institute</cite>
+
+<p><iframe src="https://www.youtube.com/embed/CCiszinOezU" frameborder="0" allowfullscreen></iframe></p>
+
+
+> ### Part III: Multimodal Learning in Education - Part D
+> 
+> <cite>Dr. Andrew Lan, University of Massachusetts, Amherst</cite>
+
+<p><iframe src="https://www.youtube.com/embed/sd2FuX11x7k" frameborder="0" allowfullscreen></iframe></p>
+
+
+> ### Part III: Multimodal Learning in Education - Part E
+> 
+> <cite>Dr. Neil Heffernan, Worcester Polytechnic Institute</cite>
+
+<p><iframe src="https://www.youtube.com/embed/9DIHBulY3ac" frameborder="0" allowfullscreen></iframe></p>
+
+
+
+## Organizers
+
+![Beautiful place]({{site.baseurl}}/images/kdd2020_tutorial_organizers.jpg)
+
+* **Zitao Liu** TAL Education Group
+* **Songfan Yang** TAL Education Group
+* **Jiliang Tang** Michigan State University
+* **Neil Heffernan** Worcester Polytechnic Institute
+* **Rose Luckin** University College London

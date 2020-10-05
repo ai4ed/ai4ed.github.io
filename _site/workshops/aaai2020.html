@@ -1,0 +1,774 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>AAAI2020 Workshop on Artificial Intelligence for Education</title>
+  <meta name='description' content='AI in Education'>
+
+  <link rel="canonical" href="http://localhost:4000/workshops/aaai2020">
+  <link rel="alternate" type="application/rss+xml" title="ai4ed" href="/feed.xml">
+
+  <!-- Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Darker+Grotesque:wght@500;600;700;800&display=swap" rel="stylesheet">
+
+  <!-- Ionicons -->
+  <link href="https://unpkg.com/ionicons@4.2.2/dist/css/ionicons.min.css" rel="stylesheet">
+
+  <style>
+  
+  /*!------------------------------------------------------------------
+[MAIN STYLESHEET]
+-------------------------------------------------------------------*/.block{display:block}.inline-block{display:inline-block}.inline{display:inline}.show{display:block}.hide{display:none}.invisible{visibility:hidden}.list-reset{list-style-type:none;margin:0;padding:0}.clearfix::after,.clearfix ::before{content:"";display:table;clear:both}.screen-reader-text{clip:rect(1px, 1px, 1px, 1px);height:1px;overflow:hidden;position:absolute !important;width:1px;word-wrap:normal !important}/*! normalize.css v8.0.0 | MIT License | github.com/necolas/normalize.css */html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}h1{font-size:2em;margin:0.67em 0}hr{box-sizing:content-box;height:0;overflow:visible}pre{font-family:monospace, monospace;font-size:1em}a{background-color:transparent}abbr[title]{border-bottom:none;text-decoration:underline;text-decoration:underline dotted}b,strong{font-weight:bolder}code,kbd,samp{font-family:monospace, monospace;font-size:1em}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sub{bottom:-0.25em}sup{top:-0.5em}img{border-style:none}button,input,optgroup,select,textarea{font-family:inherit;font-size:100%;line-height:1.15;margin:0}button,input{overflow:visible}button,select{text-transform:none}button,[type="button"],[type="reset"],[type="submit"]{-webkit-appearance:button}button::-moz-focus-inner,[type="button"]::-moz-focus-inner,[type="reset"]::-moz-focus-inner,[type="submit"]::-moz-focus-inner{border-style:none;padding:0}button:-moz-focusring,[type="button"]:-moz-focusring,[type="reset"]:-moz-focusring,[type="submit"]:-moz-focusring{outline:1px dotted ButtonText}fieldset{padding:0.35em 0.75em 0.625em}legend{box-sizing:border-box;color:inherit;display:table;max-width:100%;padding:0;white-space:normal}progress{vertical-align:baseline}textarea{overflow:auto}[type="checkbox"],[type="radio"]{box-sizing:border-box;padding:0}[type="number"]::-webkit-inner-spin-button,[type="number"]::-webkit-outer-spin-button{height:auto}[type="search"]{-webkit-appearance:textfield;outline-offset:-2px}[type="search"]::-webkit-search-decoration{-webkit-appearance:none}::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}details{display:block}summary{display:list-item}template{display:none}[hidden]{display:none}body,h1,h2,h3,h4,h5,h6,p,blockquote,pre,dl,dd,ol,ul,fieldset,legend,figure,hr{margin:0;padding:0}li>ul,li>ol{margin-bottom:0}table{border-collapse:collapse;border-spacing:0}h1,h2,h3,h4,h5,h6,ul,ol,dl,blockquote,p,address,hr,table,fieldset,figure,pre{margin-bottom:30px}ul,ol,dd{margin-left:20px}.highlight{background:#f6f7f9}.highlighter-rouge .highlight{background:#eef}.highlight .c{color:#998;font-style:italic}.highlight .err{color:#a61717;background-color:#e3d2d2}.highlight .k{font-weight:bold}.highlight .o{font-weight:bold}.highlight .cm{color:#998;font-style:italic}.highlight .cp{color:#999;font-weight:bold}.highlight .c1{color:#998;font-style:italic}.highlight .cs{color:#999;font-weight:bold;font-style:italic}.highlight .gd{color:#000;background-color:#fdd}.highlight .gd .x{color:#000;background-color:#faa}.highlight .ge{font-style:italic}.highlight .gr{color:#a00}.highlight .gh{color:#999}.highlight .gi{color:#000;background-color:#dfd}.highlight .gi .x{color:#000;background-color:#afa}.highlight .go{color:#888}.highlight .gp{color:#555}.highlight .gs{font-weight:bold}.highlight .gu{color:#aaa}.highlight .gt{color:#a00}.highlight .kc{font-weight:bold}.highlight .kd{font-weight:bold}.highlight .kp{font-weight:bold}.highlight .kr{font-weight:bold}.highlight .kt{color:#458;font-weight:bold}.highlight .m{color:#099}.highlight .s{color:#d14}.highlight .na{color:#008080}.highlight .nb{color:#0086B3}.highlight .nc{color:#458;font-weight:bold}.highlight .no{color:#008080}.highlight .ni{color:#800080}.highlight .ne{color:#900;font-weight:bold}.highlight .nf{color:#900;font-weight:bold}.highlight .nn{color:#555}.highlight .nt{color:#6565ff}.highlight .nv{color:#008080}.highlight .ow{font-weight:bold}.highlight .w{color:#bbb}.highlight .mf{color:#099}.highlight .mh{color:#099}.highlight .mi{color:#099}.highlight .mo{color:#099}.highlight .sb{color:#e03460}.highlight .sc{color:#e03460}.highlight .sd{color:#e03460}.highlight .s2{color:#e03460}.highlight .se{color:#e03460}.highlight .sh{color:#e03460}.highlight .si{color:#e03460}.highlight .sx{color:#e03460}.highlight .sr{color:#009926}.highlight .s1{color:#e03460}.highlight .ss{color:#990073}.highlight .bp{color:#999}.highlight .vc{color:#008080}.highlight .vg{color:#008080}.highlight .vi{color:#008080}.highlight .il{color:#099}.container{max-width:1440px;padding-left:20px;padding-right:20px;margin:0 auto}.container-big{max-width:1600px;padding-left:20px;padding-right:20px;margin:0 auto}.row{display:flex;flex-wrap:wrap;flex:0 1 auto;flex-direction:row;box-sizing:border-box;margin-left:-10px;margin-right:-10px}.col{padding-left:10px;padding-right:10px}[class^="col-"]{flex:auto}.col-0{width:0%}.col-1{width:8.3333333333%}.col-2{width:16.6666666667%}.col-3{width:25%}.col-4{width:33.3333333333%}.col-5{width:41.6666666667%}.col-6{width:50%}.col-7{width:58.3333333333%}.col-8{width:66.6666666667%}.col-9{width:75%}.col-10{width:83.3333333333%}.col-11{width:91.6666666667%}.col-12{width:100%}.push-0{margin-left:0%}.push-1{margin-left:8.3333333333%}.push-2{margin-left:16.6666666667%}.push-3{margin-left:25%}.push-4{margin-left:33.3333333333%}.push-5{margin-left:41.6666666667%}.push-6{margin-left:50%}.push-7{margin-left:58.3333333333%}.push-8{margin-left:66.6666666667%}.push-9{margin-left:75%}.push-10{margin-left:83.3333333333%}.push-11{margin-left:91.6666666667%}.push-12{margin-left:100%}.pull-0{margin-right:0%}.pull-1{margin-right:8.3333333333%}.pull-2{margin-right:16.6666666667%}.pull-3{margin-right:25%}.pull-4{margin-right:33.3333333333%}.pull-5{margin-right:41.6666666667%}.pull-6{margin-right:50%}.pull-7{margin-right:58.3333333333%}.pull-8{margin-right:66.6666666667%}.pull-9{margin-right:75%}.pull-10{margin-right:83.3333333333%}.pull-11{margin-right:91.6666666667%}.pull-12{margin-right:100%}@media (max-width: 992px){.col-d-0{width:0%}.col-d-1{width:8.3333333333%}.col-d-2{width:16.6666666667%}.col-d-3{width:25%}.col-d-4{width:33.3333333333%}.col-d-5{width:41.6666666667%}.col-d-6{width:50%}.col-d-7{width:58.3333333333%}.col-d-8{width:66.6666666667%}.col-d-9{width:75%}.col-d-10{width:83.3333333333%}.col-d-11{width:91.6666666667%}.col-d-12{width:100%}.push-d-0{margin-left:0%}.push-d-1{margin-left:8.3333333333%}.push-d-2{margin-left:16.6666666667%}.push-d-3{margin-left:25%}.push-d-4{margin-left:33.3333333333%}.push-d-5{margin-left:41.6666666667%}.push-d-6{margin-left:50%}.push-d-7{margin-left:58.3333333333%}.push-d-8{margin-left:66.6666666667%}.push-d-9{margin-left:75%}.push-d-10{margin-left:83.3333333333%}.push-d-11{margin-left:91.6666666667%}.push-d-12{margin-left:100%}.pull-d-0{margin-right:0%}.pull-d-1{margin-right:8.3333333333%}.pull-d-2{margin-right:16.6666666667%}.pull-d-3{margin-right:25%}.pull-d-4{margin-right:33.3333333333%}.pull-d-5{margin-right:41.6666666667%}.pull-d-6{margin-right:50%}.pull-d-7{margin-right:58.3333333333%}.pull-d-8{margin-right:66.6666666667%}.pull-d-9{margin-right:75%}.pull-d-10{margin-right:83.3333333333%}.pull-d-11{margin-right:91.6666666667%}.pull-d-12{margin-right:100%}}@media (max-width: 768px){.col-t-0{width:0%}.col-t-1{width:8.3333333333%}.col-t-2{width:16.6666666667%}.col-t-3{width:25%}.col-t-4{width:33.3333333333%}.col-t-5{width:41.6666666667%}.col-t-6{width:50%}.col-t-7{width:58.3333333333%}.col-t-8{width:66.6666666667%}.col-t-9{width:75%}.col-t-10{width:83.3333333333%}.col-t-11{width:91.6666666667%}.col-t-12{width:100%}.push-t-0{margin-left:0%}.push-t-1{margin-left:8.3333333333%}.push-t-2{margin-left:16.6666666667%}.push-t-3{margin-left:25%}.push-t-4{margin-left:33.3333333333%}.push-t-5{margin-left:41.6666666667%}.push-t-6{margin-left:50%}.push-t-7{margin-left:58.3333333333%}.push-t-8{margin-left:66.6666666667%}.push-t-9{margin-left:75%}.push-t-10{margin-left:83.3333333333%}.push-t-11{margin-left:91.6666666667%}.push-t-12{margin-left:100%}.pull-t-0{margin-right:0%}.pull-t-1{margin-right:8.3333333333%}.pull-t-2{margin-right:16.6666666667%}.pull-t-3{margin-right:25%}.pull-t-4{margin-right:33.3333333333%}.pull-t-5{margin-right:41.6666666667%}.pull-t-6{margin-right:50%}.pull-t-7{margin-right:58.3333333333%}.pull-t-8{margin-right:66.6666666667%}.pull-t-9{margin-right:75%}.pull-t-10{margin-right:83.3333333333%}.pull-t-11{margin-right:91.6666666667%}.pull-t-12{margin-right:100%}}@media (max-width: 576px){.col-m-0{width:0%}.col-m-1{width:8.3333333333%}.col-m-2{width:16.6666666667%}.col-m-3{width:25%}.col-m-4{width:33.3333333333%}.col-m-5{width:41.6666666667%}.col-m-6{width:50%}.col-m-7{width:58.3333333333%}.col-m-8{width:66.6666666667%}.col-m-9{width:75%}.col-m-10{width:83.3333333333%}.col-m-11{width:91.6666666667%}.col-m-12{width:100%}.push-m-0{margin-left:0%}.push-m-1{margin-left:8.3333333333%}.push-m-2{margin-left:16.6666666667%}.push-m-3{margin-left:25%}.push-m-4{margin-left:33.3333333333%}.push-m-5{margin-left:41.6666666667%}.push-m-6{margin-left:50%}.push-m-7{margin-left:58.3333333333%}.push-m-8{margin-left:66.6666666667%}.push-m-9{margin-left:75%}.push-m-10{margin-left:83.3333333333%}.push-m-11{margin-left:91.6666666667%}.push-m-12{margin-left:100%}.pull-m-0{margin-right:0%}.pull-m-1{margin-right:8.3333333333%}.pull-m-2{margin-right:16.6666666667%}.pull-m-3{margin-right:25%}.pull-m-4{margin-right:33.3333333333%}.pull-m-5{margin-right:41.6666666667%}.pull-m-6{margin-right:50%}.pull-m-7{margin-right:58.3333333333%}.pull-m-8{margin-right:66.6666666667%}.pull-m-9{margin-right:75%}.pull-m-10{margin-right:83.3333333333%}.pull-m-11{margin-right:91.6666666667%}.pull-m-12{margin-right:100%}}@media (max-width: 992px){.col-d-0{width:0%}.col-d-1{width:8.3333333333%}.col-d-2{width:16.6666666667%}.col-d-3{width:25%}.col-d-4{width:33.3333333333%}.col-d-5{width:41.6666666667%}.col-d-6{width:50%}.col-d-7{width:58.3333333333%}.col-d-8{width:66.6666666667%}.col-d-9{width:75%}.col-d-10{width:83.3333333333%}.col-d-11{width:91.6666666667%}.col-d-12{width:100%}.push-d-0{margin-left:0%}.push-d-1{margin-left:8.3333333333%}.push-d-2{margin-left:16.6666666667%}.push-d-3{margin-left:25%}.push-d-4{margin-left:33.3333333333%}.push-d-5{margin-left:41.6666666667%}.push-d-6{margin-left:50%}.push-d-7{margin-left:58.3333333333%}.push-d-8{margin-left:66.6666666667%}.push-d-9{margin-left:75%}.push-d-10{margin-left:83.3333333333%}.push-d-11{margin-left:91.6666666667%}.push-d-12{margin-left:100%}.pull-d-0{margin-right:0%}.pull-d-1{margin-right:8.3333333333%}.pull-d-2{margin-right:16.6666666667%}.pull-d-3{margin-right:25%}.pull-d-4{margin-right:33.3333333333%}.pull-d-5{margin-right:41.6666666667%}.pull-d-6{margin-right:50%}.pull-d-7{margin-right:58.3333333333%}.pull-d-8{margin-right:66.6666666667%}.pull-d-9{margin-right:75%}.pull-d-10{margin-right:83.3333333333%}.pull-d-11{margin-right:91.6666666667%}.pull-d-12{margin-right:100%}}@media (max-width: 768px){.col-t-0{width:0%}.col-t-1{width:8.3333333333%}.col-t-2{width:16.6666666667%}.col-t-3{width:25%}.col-t-4{width:33.3333333333%}.col-t-5{width:41.6666666667%}.col-t-6{width:50%}.col-t-7{width:58.3333333333%}.col-t-8{width:66.6666666667%}.col-t-9{width:75%}.col-t-10{width:83.3333333333%}.col-t-11{width:91.6666666667%}.col-t-12{width:100%}.push-t-0{margin-left:0%}.push-t-1{margin-left:8.3333333333%}.push-t-2{margin-left:16.6666666667%}.push-t-3{margin-left:25%}.push-t-4{margin-left:33.3333333333%}.push-t-5{margin-left:41.6666666667%}.push-t-6{margin-left:50%}.push-t-7{margin-left:58.3333333333%}.push-t-8{margin-left:66.6666666667%}.push-t-9{margin-left:75%}.push-t-10{margin-left:83.3333333333%}.push-t-11{margin-left:91.6666666667%}.push-t-12{margin-left:100%}.pull-t-0{margin-right:0%}.pull-t-1{margin-right:8.3333333333%}.pull-t-2{margin-right:16.6666666667%}.pull-t-3{margin-right:25%}.pull-t-4{margin-right:33.3333333333%}.pull-t-5{margin-right:41.6666666667%}.pull-t-6{margin-right:50%}.pull-t-7{margin-right:58.3333333333%}.pull-t-8{margin-right:66.6666666667%}.pull-t-9{margin-right:75%}.pull-t-10{margin-right:83.3333333333%}.pull-t-11{margin-right:91.6666666667%}.pull-t-12{margin-right:100%}}@media (max-width: 576px){.col-m-0{width:0%}.col-m-1{width:8.3333333333%}.col-m-2{width:16.6666666667%}.col-m-3{width:25%}.col-m-4{width:33.3333333333%}.col-m-5{width:41.6666666667%}.col-m-6{width:50%}.col-m-7{width:58.3333333333%}.col-m-8{width:66.6666666667%}.col-m-9{width:75%}.col-m-10{width:83.3333333333%}.col-m-11{width:91.6666666667%}.col-m-12{width:100%}.push-m-0{margin-left:0%}.push-m-1{margin-left:8.3333333333%}.push-m-2{margin-left:16.6666666667%}.push-m-3{margin-left:25%}.push-m-4{margin-left:33.3333333333%}.push-m-5{margin-left:41.6666666667%}.push-m-6{margin-left:50%}.push-m-7{margin-left:58.3333333333%}.push-m-8{margin-left:66.6666666667%}.push-m-9{margin-left:75%}.push-m-10{margin-left:83.3333333333%}.push-m-11{margin-left:91.6666666667%}.push-m-12{margin-left:100%}.pull-m-0{margin-right:0%}.pull-m-1{margin-right:8.3333333333%}.pull-m-2{margin-right:16.6666666667%}.pull-m-3{margin-right:25%}.pull-m-4{margin-right:33.3333333333%}.pull-m-5{margin-right:41.6666666667%}.pull-m-6{margin-right:50%}.pull-m-7{margin-right:58.3333333333%}.pull-m-8{margin-right:66.6666666667%}.pull-m-9{margin-right:75%}.pull-m-10{margin-right:83.3333333333%}.pull-m-11{margin-right:91.6666666667%}.pull-m-12{margin-right:100%}}@media (max-width: 992px){.col-d-0{width:0%}.col-d-1{width:8.3333333333%}.col-d-2{width:16.6666666667%}.col-d-3{width:25%}.col-d-4{width:33.3333333333%}.col-d-5{width:41.6666666667%}.col-d-6{width:50%}.col-d-7{width:58.3333333333%}.col-d-8{width:66.6666666667%}.col-d-9{width:75%}.col-d-10{width:83.3333333333%}.col-d-11{width:91.6666666667%}.col-d-12{width:100%}.push-d-0{margin-left:0%}.push-d-1{margin-left:8.3333333333%}.push-d-2{margin-left:16.6666666667%}.push-d-3{margin-left:25%}.push-d-4{margin-left:33.3333333333%}.push-d-5{margin-left:41.6666666667%}.push-d-6{margin-left:50%}.push-d-7{margin-left:58.3333333333%}.push-d-8{margin-left:66.6666666667%}.push-d-9{margin-left:75%}.push-d-10{margin-left:83.3333333333%}.push-d-11{margin-left:91.6666666667%}.push-d-12{margin-left:100%}.pull-d-0{margin-right:0%}.pull-d-1{margin-right:8.3333333333%}.pull-d-2{margin-right:16.6666666667%}.pull-d-3{margin-right:25%}.pull-d-4{margin-right:33.3333333333%}.pull-d-5{margin-right:41.6666666667%}.pull-d-6{margin-right:50%}.pull-d-7{margin-right:58.3333333333%}.pull-d-8{margin-right:66.6666666667%}.pull-d-9{margin-right:75%}.pull-d-10{margin-right:83.3333333333%}.pull-d-11{margin-right:91.6666666667%}.pull-d-12{margin-right:100%}}@media (max-width: 768px){.col-t-0{width:0%}.col-t-1{width:8.3333333333%}.col-t-2{width:16.6666666667%}.col-t-3{width:25%}.col-t-4{width:33.3333333333%}.col-t-5{width:41.6666666667%}.col-t-6{width:50%}.col-t-7{width:58.3333333333%}.col-t-8{width:66.6666666667%}.col-t-9{width:75%}.col-t-10{width:83.3333333333%}.col-t-11{width:91.6666666667%}.col-t-12{width:100%}.push-t-0{margin-left:0%}.push-t-1{margin-left:8.3333333333%}.push-t-2{margin-left:16.6666666667%}.push-t-3{margin-left:25%}.push-t-4{margin-left:33.3333333333%}.push-t-5{margin-left:41.6666666667%}.push-t-6{margin-left:50%}.push-t-7{margin-left:58.3333333333%}.push-t-8{margin-left:66.6666666667%}.push-t-9{margin-left:75%}.push-t-10{margin-left:83.3333333333%}.push-t-11{margin-left:91.6666666667%}.push-t-12{margin-left:100%}.pull-t-0{margin-right:0%}.pull-t-1{margin-right:8.3333333333%}.pull-t-2{margin-right:16.6666666667%}.pull-t-3{margin-right:25%}.pull-t-4{margin-right:33.3333333333%}.pull-t-5{margin-right:41.6666666667%}.pull-t-6{margin-right:50%}.pull-t-7{margin-right:58.3333333333%}.pull-t-8{margin-right:66.6666666667%}.pull-t-9{margin-right:75%}.pull-t-10{margin-right:83.3333333333%}.pull-t-11{margin-right:91.6666666667%}.pull-t-12{margin-right:100%}}@media (max-width: 576px){.col-m-0{width:0%}.col-m-1{width:8.3333333333%}.col-m-2{width:16.6666666667%}.col-m-3{width:25%}.col-m-4{width:33.3333333333%}.col-m-5{width:41.6666666667%}.col-m-6{width:50%}.col-m-7{width:58.3333333333%}.col-m-8{width:66.6666666667%}.col-m-9{width:75%}.col-m-10{width:83.3333333333%}.col-m-11{width:91.6666666667%}.col-m-12{width:100%}.push-m-0{margin-left:0%}.push-m-1{margin-left:8.3333333333%}.push-m-2{margin-left:16.6666666667%}.push-m-3{margin-left:25%}.push-m-4{margin-left:33.3333333333%}.push-m-5{margin-left:41.6666666667%}.push-m-6{margin-left:50%}.push-m-7{margin-left:58.3333333333%}.push-m-8{margin-left:66.6666666667%}.push-m-9{margin-left:75%}.push-m-10{margin-left:83.3333333333%}.push-m-11{margin-left:91.6666666667%}.push-m-12{margin-left:100%}.pull-m-0{margin-right:0%}.pull-m-1{margin-right:8.3333333333%}.pull-m-2{margin-right:16.6666666667%}.pull-m-3{margin-right:25%}.pull-m-4{margin-right:33.3333333333%}.pull-m-5{margin-right:41.6666666667%}.pull-m-6{margin-right:50%}.pull-m-7{margin-right:58.3333333333%}.pull-m-8{margin-right:66.6666666667%}.pull-m-9{margin-right:75%}.pull-m-10{margin-right:83.3333333333%}.pull-m-11{margin-right:91.6666666667%}.pull-m-12{margin-right:100%}}img[data-action="zoom"]{cursor:pointer;cursor:-webkit-zoom-in;cursor:-moz-zoom-in}.zoom-img,.zoom-img-wrap{position:relative;z-index:666;-webkit-transition:all 300ms;-o-transition:all 300ms;transition:all 300ms}img.zoom-img{cursor:pointer;cursor:-webkit-zoom-out;cursor:-moz-zoom-out}.zoom-overlay{z-index:420;background:#fff;position:fixed;top:0;left:0;right:0;bottom:0;pointer-events:none;opacity:0;-webkit-transition:opacity 300ms;-o-transition:opacity 300ms;transition:opacity 300ms}@supports (-webkit-backdrop-filter: none) or (backdrop-filter: none){.zoom-overlay{-webkit-backdrop-filter:saturate(180%) blur(10px);backdrop-filter:saturate(180%) blur(10px);background:rgba(255,255,255,0.8)}}.zoom-overlay-open .zoom-overlay{opacity:1}.zoom-overlay-open,.zoom-overlay-transitioning{cursor:default}.animate{animation:animateElement cubic-bezier(0.3, 0.45, 0.45, 0.95) 0.75s;animation-duration:.85s;animation-iteration-count:1;transition:transform .2s}@keyframes animateElement{0%{opacity:0;transform:translate(0px, 50px)}100%{opacity:1;transform:translate(0px, 0px)}}.slick-slider{position:relative;display:block;box-sizing:border-box;-webkit-touch-callout:none;-webkit-user-select:none;-khtml-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;-ms-touch-action:pan-y;touch-action:pan-y;-webkit-tap-highlight-color:transparent}.slick-list{position:relative;overflow:hidden;display:block;margin:0;padding:0}.slick-list:focus{outline:none}.slick-list.dragging{cursor:pointer;cursor:hand}.slick-slider .slick-track,.slick-slider .slick-list{-webkit-transform:translate3d(0, 0, 0);-moz-transform:translate3d(0, 0, 0);-ms-transform:translate3d(0, 0, 0);-o-transform:translate3d(0, 0, 0);transform:translate3d(0, 0, 0)}.slick-track{position:relative;left:0;top:0;display:block;margin-left:auto;margin-right:auto}.slick-track:before,.slick-track:after{content:"";display:table}.slick-track:after{clear:both}.slick-loading .slick-track{visibility:hidden}.slick-slide{float:left;height:100%;min-height:1px;display:none}[dir="rtl"] .slick-slide{float:right}.slick-slide img{display:block}.slick-slide.slick-loading img{display:none}.slick-slide.dragging img{pointer-events:none}.slick-initialized .slick-slide{display:block}.slick-loading .slick-slide{visibility:hidden}.slick-vertical .slick-slide{display:block;height:auto;border:1px solid transparent}.slick-arrow.slick-hidden{display:none}*,*::after,*::before{box-sizing:border-box}body{font-family:"Darker Grotesque",sans-serif;font-size:22px;font-weight:500;line-height:1.4;color:#12111b;background-color:#fff;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;overflow-x:hidden}body.is-in::after{visibility:hidden;opacity:0;pointer-events:none}body::after{content:"";position:fixed;left:0;top:0;width:100%;height:100%;background-color:#fff;z-index:15;transition:1s}body input,body textarea{border:1px solid #f8f8f8;outline:none}@media only screen and (max-width: 576px){body{font-size:18px}}::placeholder{color:#6b6a79}*::selection{color:#fff;background-color:#02C4EC}h1,h2,h3,h4,h5,h6{font-family:"Darker Grotesque",sans-serif;font-weight:700;line-height:1.4em;color:#12111b}h1{font-size:36px}h2{font-size:28px}h3{font-size:24px}h4{font-size:20px}h5{font-size:18px}h6{font-size:16px}blockquote{position:relative;padding:20px 20px 20px 50px;margin-bottom:0;font-family:"Darker Grotesque",sans-serif;font-size:31px;line-height:38px;font-weight:800;color:#12111b}blockquote:before{content:'\201C';position:absolute;font-family:"Darker Grotesque",sans-serif;top:0.2em;left:-0.01em;font-size:3.5em;color:#02C4EC}blockquote p{margin-bottom:15px}blockquote cite{font-size:15px;font-weight:600;letter-spacing:1px;text-transform:uppercase;font-style:normal;color:#12111b}blockquote cite:before{content:'\2014' '\00a0'}@media only screen and (max-width: 576px){blockquote{padding:20px 20px 20px 35px;font-size:21px;line-height:28px}}pre{overflow:auto;padding:15px;font-size:14px;white-space:pre-wrap;word-wrap:break-word;word-break:break-all}code[class*=language-],pre[class*=language-]{white-space:pre-wrap;word-break:break-all;line-height:inherit}img,.zoom-img-wrap{max-width:100%;height:auto;vertical-align:middle}img+em,.zoom-img-wrap+em{display:block;margin-top:10px;font-size:14px;font-style:normal;font-weight:600;text-transform:uppercase;text-align:center}a{text-decoration:none;color:#12111b;transition:all 0.3s}a:hover{color:#02C4EC}hr{display:block;width:100%;height:1px;margin:50px 0;border:0;background:rgba(18,17,27,0.1)}.table-container{display:block;max-width:100%;overflow-x:auto}table{font-size:12px;color:#12111b;width:100%;border-width:1px;border-color:#12111b;border-collapse:collapse}table th{padding:10px;font-size:18px;text-align:left;border:1px solid #12111b;color:#fff;font-weight:700;background-color:#12111b}table tr{background-color:#f8f8f8;transition:all .3s ease}table tr:nth-child(even){background-color:transparent}table td{padding:10px;font-size:16px;font-weight:600;border:1px solid #12111b}table tr:hover{background-color:#02C4EC}.gallery-box{margin-bottom:30px}.gallery-box em{display:block;margin:10px 0 30px;font-size:14px;font-style:normal;font-weight:600;text-transform:uppercase;text-align:center}.gallery-box em a{text-decoration:underline;border-bottom:none}.gallery{display:grid;grid-template-columns:repeat(3, auto);justify-content:center;align-content:center;grid-gap:10px}.gallery img{width:100%;height:auto}.hero{margin-bottom:50px}.hero .row{align-items:center}@media only screen and (max-width: 768px){.hero{margin-bottom:20px}}.author .author__avatar{display:block;width:120px;height:120px;margin-bottom:10px;border-radius:50%;overflow:hidden}.author .author__name{margin-bottom:5px;font-size:31px;line-height:1;font-weight:800}.author .author__job{font-size:63px;line-height:58px;font-weight:800}@media only screen and (max-width: 992px){.author .author__name{font-size:24px}.author .author__job{margin-bottom:20px;font-size:38px;line-height:33px}}@media only screen and (max-width: 768px){.author{margin:20px 0}}.single-author .author{width:100%;max-width:500px;margin:0 auto;text-align:center}.single-author .author .author__avatar{margin:0 auto 10px}.single-author .author .social__list{justify-content:center}.top{position:fixed;bottom:25px;right:-100px;z-index:5;width:35px;height:35px;font-size:16px;line-height:35px;text-align:center;border-radius:50%;box-shadow:0px 1px 4px rgba(0,0,0,0.15);color:#12111b;background-color:#fff;cursor:pointer;transition:all .25s ease}.top:hover{color:#02C4EC}.top.is-active{right:30px}@media only screen and (max-width: 768px){.top{bottom:15px}.top.is-active{right:25px}}.header{width:100%;padding:35px 0;transition:all 0.3s}@media only screen and (max-width: 992px){.header{padding:25px 0}}.header__inner{position:relative;display:flex;justify-content:space-between;align-items:center}.logo__link{position:relative;font-family:"Darker Grotesque",sans-serif;font-size:27px;font-weight:800;color:#12111b;text-transform:uppercase;text-decoration:none;letter-spacing:2px}.logo__link:hover{color:#12111b}.logo__image{max-height:40px}.main-nav{width:100%;max-width:1300px;margin:0 auto}.main-nav__box{display:flex;align-items:center;width:80%;padding-top:200px;margin:0 auto}.main-nav__box .nav__icon-close{position:absolute;top:20px;right:40px;z-index:5;display:flex;align-items:center;justify-content:center;font-size:30px;width:40px;height:40px;text-align:center;line-height:40px;color:#12111b;transition:all .25s ease;cursor:pointer}.main-nav__box .nav__icon-close:hover{transform:rotate(90deg);color:#12111b}@media only screen and (max-width: 768px){.main-nav__box{padding-top:100px}.main-nav__box .nav__icon-close{top:22px;right:42px}}@media only screen and (max-width: 576px){.main-nav__box{width:90%}}.navigation{display:flex;align-items:center}.top-nav{margin-right:25px}.top-nav .nav__list .nav__item{display:inline-block;margin-right:25px}.top-nav .nav__list .nav__item:last-child{margin-right:0}.top-nav .nav__list .nav__item .nav__link{position:relative;padding:0 3px;font-size:18px;font-weight:700;text-decoration:none;color:#6b6a79}.top-nav .nav__list .nav__item .nav__link:hover{color:#12111b}.top-nav .nav__list .nav__item .nav__link:hover::after{transform:translate3d(0px, 0px, 0px) scale3d(1, 1, 1)}.top-nav .nav__list .nav__item .nav__link::after{content:"";position:absolute;left:0;bottom:0px;z-index:-1;display:block;width:100%;height:38%;transform-origin:50% 100%;transform:translate3d(0px, 0px, 0px) scale3d(1, 0, 1);background-color:rgba(2,196,236,0.3);transition:all .2s ease}@media only screen and (max-width: 992px){.top-nav{display:none}}.mobile-nav .nav__list .nav__item{display:block;margin-bottom:35px;text-align:center}.mobile-nav .nav__list .nav__item:last-child{margin-bottom:0}.mobile-nav .nav__list .nav__item .nav__link{position:relative;padding:0 3px;font-size:23px;font-weight:700;color:#12111b}.mobile-nav .nav__list .nav__item .nav__link:hover::after{transform:translate3d(0px, 0px, 0px) scale3d(1, 1, 1)}.mobile-nav .nav__list .nav__item .nav__link::after{content:"";position:absolute;left:0;bottom:0px;z-index:-1;display:block;width:100%;height:38%;transform-origin:50% 100%;transform:translate3d(0px, 0px, 0px) scale3d(1, 0, 1);background-color:rgba(2,196,236,0.3);transition:all .2s ease}@media only screen and (max-width: 576px){.mobile-nav .nav__list .nav__item{margin-bottom:20px}}.nav-buttons{display:flex;align-items:center;font-size:22px;color:#12111b}.nav-buttons .nav__icon-menu{display:none}@media only screen and (max-width: 992px){.nav-buttons .nav__icon-menu{display:block}}.nav-buttons .nav__icon{cursor:pointer}.nav-buttons .nav__icon:first-child{margin-right:15px}.menu-overlay{position:fixed;top:0;left:0;right:0;bottom:0;z-index:100;opacity:0;visibility:hidden;background-color:#fff;transition:all 0.5s ease-in-out}.menu-overlay.is-open{opacity:1;visibility:visible}@supports (-webkit-backdrop-filter: none) or (backdrop-filter: none){.menu-overlay{-webkit-backdrop-filter:saturate(180%) blur(10px);backdrop-filter:saturate(180%) blur(10px);background-color:rgba(255,255,255,0.9)}}@media only screen and (min-width: 992px){.menu-overlay{display:none}}.nav-grid{width:100%;height:75vh;overflow-y:auto}.nav-grid__item{margin-bottom:30px}@media only screen and (max-width: 768px){.nav-grid__item{height:auto}}.nav-grid__title{position:relative;margin-bottom:50px;padding-bottom:15px;font-size:30px;font-weight:700;text-align:center;color:#12111b}.nav-grid__title::after{content:"";position:absolute;left:50%;bottom:0;transform:translate(-50%, -50%);display:block;width:25px;height:2px;background-color:#12111b}@media only screen and (max-width: 768px){.nav-grid__title{margin-bottom:30px}}.search{position:fixed;top:0;left:0;right:0;bottom:0;z-index:100;opacity:0;visibility:hidden;background-color:#fff;transition:all 0.5s ease-in-out}.search.is-visible{opacity:1;visibility:visible}@supports (-webkit-backdrop-filter: none) or (backdrop-filter: none){.search{-webkit-backdrop-filter:saturate(180%) blur(10px);backdrop-filter:saturate(180%) blur(10px);background-color:rgba(255,255,255,0.9)}}.search__box{position:relative;max-width:550px;width:100%;margin:0 auto;padding-top:200px}.search__box .search__close{position:absolute;right:0;top:175px;padding:0 5px;font-size:30px;line-height:1;color:#12111b;transition:all .25s;cursor:pointer}.search__box .search__close:hover{transform:rotate(90deg);color:#000}@media only screen and (max-width: 768px){.search__box .search__close{top:75px}}@media only screen and (max-width: 768px){.search__box{width:80%;padding-top:100px}}@media only screen and (max-width: 576px){.search__box{width:90%}}.search__group{position:relative;margin-bottom:30px}.search__group .search__text{width:100%;height:auto;padding:0 25px 10px 0;font-family:"Darker Grotesque",sans-serif;font-size:38px;font-weight:800;line-height:1;border:0;border-bottom:5px solid #12111b;color:#12111b;background-color:transparent}.search__group .search__text::-webkit-input-placeholder{color:#12111b}.search__group .search__text::placeholder{color:#12111b}.search__group .search__text::-ms-clear{display:none}@media only screen and (max-width: 576px){.search__group .search__text{font-size:30px}}.search-results-list{height:55vh;padding:0 0 25px 0;list-style:circle;font-weight:700;color:#12111b;overflow:auto;white-space:normal}.search-results-list .search-results__item{display:flex;align-items:center;padding-bottom:12px;margin-bottom:12px;border-bottom:1px solid rgba(18,17,27,0.1)}.search-results-list .search-results__image{position:relative;display:inline-block;margin-right:15px;min-width:80px;height:80px;border-radius:50%;background-size:cover;background-color:#f8f8f8;background-position:center;background-repeat:no-repeat;transition:.3s filter ease}.search-results-list .search-results__image:hover{filter:saturate(1.5)}.search-results-list .search-results__link{position:relative;display:block;padding:10px 0 10px 0;font-family:"Darker Grotesque",sans-serif;font-size:21px;line-height:24px;font-weight:700;color:#12111b;transition:all .15s ease-in-out}.search-results-list .search-results__link:hover{color:#02C4EC}.search-results-list .search-results-date{font-size:13px;line-height:16px;font-weight:600;text-transform:uppercase;color:#6b6a79}.search-results-list .no-results{list-style:none}.search-results-list .no-results h3{font-size:21px}.load-more{margin:0 auto}.load-more-section{margin:30px auto;text-align:center}@media only screen and (max-width: 576px){.load-more-section{margin:20px auto}}.load-more-posts{padding:20px 40px;border:1px solid #eee;color:#12111b;background-color:#f1f1f1}.load-more-posts:hover{background-color:#e4e4e4}.footer-widgets{padding:80px 0;margin-top:20px;background-color:#f8f8f8}.footer-widgets .row .col{flex-grow:1}.footer-widgets .row .col:last-child>.widget{padding-right:0}@media only screen and (max-width: 768px){.footer-widgets{padding:80px 0 0}}@media only screen and (max-width: 576px){.footer-widgets{padding:50px 0 0}}@media only screen and (max-width: 768px){.widget{margin-bottom:50px}}.widget__title{position:relative;margin-bottom:20px;font-size:26px;line-height:1;font-weight:800;color:#12111b}@media only screen and (max-width: 992px){.widget__title{font-size:24px}}.footer-logo{margin-bottom:20px;font-size:27px;line-height:33px;font-weight:800;color:#12111b;text-transform:uppercase;letter-spacing:1px;transition:none}.footer-logo:hover a{color:#12111b}.footer-desc{margin-bottom:25px;font-size:18px;line-height:26px;font-weight:500;color:#6b6a79}.recent-posts{position:relative;display:flex;padding-right:15px;margin-bottom:15px}.recent-posts:last-child{margin-bottom:0}@media only screen and (max-width: 992px){.recent-posts{padding-right:0}}.recent-posts__header{margin-right:15px}.recent-posts__image{position:relative;display:block;margin-right:15px;min-width:80px;height:80px;border-radius:50%;background-size:cover;background-position:center;background-repeat:no-repeat;transition:.3s filter ease}.recent-posts__image:hover{filter:saturate(1.5)}.recent-posts__title{margin-bottom:0;font-size:21px;line-height:24px;font-weight:700}.recent-posts__title a{color:#12111b}.recent-posts__title a:hover{box-shadow:0 -1px 0 0 #02C4EC inset,0 -2px 0 0 #02C4EC inset}.recent-posts__date{margin-bottom:5px;font-size:13px;line-height:16px;font-weight:600;text-transform:uppercase;color:#6b6a79}.subscribe-subtitle{width:100%;margin-bottom:20px;font-size:18px;line-height:26px;color:#6b6a79}@media only screen and (max-width: 768px){.subscribe-subtitle{max-width:100%}}.subscribe-group-top{display:flex;align-items:center}.subscribe-group-top .subscribe-email{position:relative;width:100%;height:50px;padding:15px;font-family:"Darker Grotesque",sans-serif;font-size:17px;line-height:50px;font-weight:500;color:#12111b;background-color:#fff;border:1px solid #eee;outline:0;-webkit-appearance:none;box-sizing:border-box;transition:border-color .2s ease-in-out;cursor:text}.subscribe-group-top .subscribe-email::placeholder{font-size:17px}.subscribe-group-top .subscribe-email:focus{color:#12111b;border-color:#02C4EC}.subscribe-group-top .subscribe-button{margin:0 0 0 10px;border-radius:3px}@media only screen and (max-width: 576px){.subscribe-group-top{flex-direction:column}.subscribe-group-top .subscribe-email{text-align:center}.subscribe-group-top .subscribe-button{width:100%;margin:10px 0 0 0}}.footer{position:relative;padding:30px 0;border-top:1px solid #eee;background-color:#f8f8f8}.copyright{font-size:16px;font-weight:600;text-align:center;color:#6b6a79}.social{text-align:center}.social .social__list{display:flex;flex-wrap:wrap;align-items:center}.social .social__item{display:inline-block;margin-left:10px}.social .social__item:first-child{margin-left:0}.social .social__link{position:relative;display:flex;justify-content:center;align-items:center;width:45px;height:45px;font-size:19px;line-height:45px;border-radius:50%;color:#16151f;background-color:#fff;box-shadow:0px 1px 4px rgba(0,0,0,0.15);transition:all 0.3s ease;overflow:hidden}.social .social__link::after{content:"";position:absolute;transform:translate(0, 45px);width:45px;height:45px;border-radius:50%;background-color:#02C4EC;transition:all 0.3s ease}.social .social__link:hover{transform:translateY(-4px);box-shadow:0px 5px 12px rgba(0,0,0,0.17);color:#fff}.social .social__link:hover::after{transform:translate(0) scale(1.2)}.social .social__link i{z-index:1;display:inline-block;padding:2px;margin:auto}@media only screen and (max-width: 992px){.social{margin-bottom:5px}.social .social__item{margin-bottom:10px}.social .social__link{width:35px;height:35px;line-height:35px;font-size:16px}}.button{display:inline-block;white-space:nowrap;vertical-align:middle;font-family:"Darker Grotesque",sans-serif;font-size:14px;font-weight:800;text-transform:uppercase;letter-spacing:1px;border:none;border-radius:3px;outline:none;-webkit-appearance:none;text-align:center;text-decoration:none;transition:all 0.2s ease;cursor:pointer}.button--primary{padding:0px 1.8rem;height:50px;line-height:50px;color:#fff;background-color:#12111b}.button--primary:hover{color:#fff;background-color:#02afd3}.button--big{display:block;width:100%}.slider .article{margin:0}.slider .article:hover{transform:none}.slider .article__inner{flex-direction:column;padding-top:35%}.slider__inner{position:relative}.slider__inner .slick-track{margin-left:0}.slider__inner .main-slider__item a{outline:none}.slider__inner .slider-buttons{position:relative;z-index:1;display:flex;justify-content:space-between;align-items:center;margin:0 30px 10% 30px;outline:none;pointer-events:none}.slider__inner .slider-buttons .main__item-prev,.slider__inner .slider-buttons .main__item-next{width:35px;height:35px;font-size:16px;line-height:35px;text-align:center;border-radius:2px;outline:none;border:1px solid rgba(255,255,255,0.3);border-radius:50%;color:#fff;box-shadow:0 1px 4px rgba(0,0,0,0.12);transition:all 0.3s;pointer-events:visible;cursor:pointer}.slider__inner .slider-buttons .main__item-prev:hover,.slider__inner .slider-buttons .main__item-next:hover{border-color:#fff}@media only screen and (max-width: 576px){.slider__inner .slider-buttons{margin:0 20px 5% 20px}.slider__inner .slider-buttons .main__item-prev,.slider__inner .slider-buttons .main__item-next{width:30px;height:30px;line-height:30px}}.article{align-items:stretch;flex-grow:1;margin-bottom:20px}.article:hover{transform:translateY(-2px)}.article:hover .article__image img{filter:saturate(1.7)}@media only screen and (max-width: 576px){.article{min-height:280px}}.article__inner{position:relative;display:flex;width:100%;height:100%;padding-top:45%;border-radius:8px;transform:translate(0);overflow:hidden}.article__inner .featured-post{position:absolute;top:0;right:0;z-index:10;width:45px;height:45px;display:flex;justify-content:center;align-items:center;font-size:21px;color:#fff;user-select:none}.article__inner .featured-post i{position:relative}.article__title{margin:10px 0 15px;max-width:500px;font-size:35px;line-height:37px;font-weight:800}.article__title a{color:#fff}.article__title a:hover{box-shadow:0 -1px 0 0 #02C4EC inset,0 -3px 0 0 #02C4EC inset}@media only screen and (max-width: 992px){.article__title{font-size:31px;line-height:33px}}@media only screen and (max-width: 576px){.article__title{margin:5px 0 10px;font-size:24px;line-height:26px}}.article__image{position:absolute;top:0;display:block;width:100%;height:100%;border-radius:8px;user-select:none;background-color:#f8f8f8}.article__image::after{content:"";display:block;position:absolute;top:0;left:0;width:100%;height:100%;border-radius:8px;background:linear-gradient(rgba(0,0,0,0), rgba(53,53,53,0.7));pointer-events:none}.article__image img{position:absolute;top:0;width:100%;height:100%;object-fit:cover;pointer-events:none;transition:filter .3s ease}.article__content{z-index:1;width:100%;margin-top:auto;padding:0 30px 30px}@media only screen and (max-width: 576px){.article__content{padding:0 20px 20px}}.article__meta{display:flex;align-items:center;flex-wrap:wrap;justify-content:flex-start;color:#fff}.article-tags{display:flex;flex-wrap:wrap;align-items:center}.article-tags__box{position:relative;display:flex;flex-wrap:wrap;align-items:center;margin-right:-3px;line-height:1}.article-tags__box .article__tag{position:relative;font-size:14px;font-weight:700;text-transform:uppercase;color:#fff}.article-tags__box .article__tag:hover{color:#02C4EC}.article-tags__box .article__tag::after{content:",";margin:0 2px;display:inline-block;color:#fff}.article-tags__box .article__tag:last-child::after{content:""}.article__date{font-size:14px;text-transform:uppercase;font-weight:700;color:rgba(255,255,255,0.7)}.article__date::before{content:"";position:relative;bottom:0.2rem;display:inline-block;height:3px;width:3px;margin:0 .5rem 0 .5rem;border-radius:50%;background-color:#fff}@media only screen and (max-width: 576px){.article__date{display:none}}.article__author{display:flex;align-items:center}.article__author-image{display:inline-block;width:20px;height:20px;margin-right:5px;border-radius:50%;border:1px solid rgba(255,255,255,0.6);background-size:cover;background-position:center;background-repeat:no-repeat;background-color:#12111b}.article__author-link{position:relative;padding-right:8px;font-size:14px;line-height:20px;text-transform:uppercase;font-weight:700;color:#fff}.article__author-link:hover{color:#fff}.article__author-link:hover::before{width:115%}.article__author-link::before{content:"";position:absolute;left:-15%;z-index:-1;display:block;height:100%;width:0;border-radius:0 15px 15px 0;background-color:#02C4EC;transition:all .25s ease}.article__author span{color:rgba(255,255,255,0.8)}.post{position:relative;margin-bottom:30px}.post-image{position:absolute;top:0;width:100%;height:100%;object-fit:cover;user-select:none}.image-box{position:relative;padding-top:50%;min-height:280px;border-radius:8px;overflow:hidden;background-color:#f8f8f8}@media only screen and (max-width: 992px){.image-box{padding-top:55%}}@media only screen and (max-width: 768px){.image-box{padding-top:65%}}.post-tags{position:relative;display:flex;flex-wrap:wrap;align-items:center;margin-right:-3px;line-height:1}.post-tags .post-tags__tag{position:relative;font-size:15px;font-weight:700;text-transform:uppercase;color:#12111b}.post-tags .post-tags__tag:hover{color:#02C4EC}.post-tags .post-tags__tag::after{content:",";margin:0 2px;display:inline-block;color:#12111b}.post-tags .post-tags__tag:last-child::after{content:""}.post-head{margin:40px 0}@media only screen and (max-width: 576px){.post-head{margin:25px 0}}.post-title{margin:10px 0 15px;font-size:63px;line-height:65px;font-weight:800;text-align:center}@media only screen and (max-width: 768px){.post-title{font-size:48px;line-height:50px}}@media only screen and (max-width: 576px){.post-title{font-size:33px;line-height:35px}}.post__meta{display:flex;align-items:center;flex-wrap:wrap;justify-content:center;color:#12111b}.post__author{display:flex;align-items:center;justify-content:center}.post__author-image{display:inline-block;width:20px;height:20px;margin-right:5px;border-radius:50%;background-size:cover;background-position:center;background-repeat:no-repeat;background-color:#f8f8f8}.post__author-link{font-size:15px;text-transform:uppercase;font-weight:700;color:#12111b}.post__author-link:hover{color:#12111b}.post__author span{margin-right:5px;font-size:15px;text-transform:uppercase;font-weight:700}.post__date{font-size:15px;text-transform:uppercase;font-weight:700;color:#12111b}.post__date::before{content:"";position:relative;bottom:0.2rem;display:inline-block;height:3px;width:3px;margin:0 .5rem 0 .5rem;border-radius:50%;background-color:#12111b}.post__content a{border-bottom:2px solid #02C4EC}.post__share{margin:50px 0}.post__share .share__list{display:flex;justify-content:center;align-items:center;flex-wrap:wrap}.post__share .share__item{margin-right:10px;text-align:center}.post__share .share__item:last-child{margin-right:0}.post__share .share__link{display:flex;align-items:center;justify-content:center;width:40px;height:40px;font-size:16px;line-height:1;border-radius:50%;color:#fff;transition:all 0.3s}.post__share .share__link .share-name::before{content:"";position:relative;top:0;display:inline-block;margin:0 8px;width:1px;height:9px;background-color:rgba(255,255,255,0.5)}.post__share .share__link.share__facebook{background-color:#3b5998}.post__share .share__link.share__facebook:hover{background-color:#2d4373}.post__share .share__link.share__twitter{background-color:#55acee}.post__share .share__link.share__twitter:hover{background-color:#2795e9}.post__share .share__link.share__linkedin{background-color:#0077b5}.post__share .share__link.share__linkedin:hover{background-color:#005582}.post__share .share__link.share__pinterest{background-color:#bd081c}.post__share .share__link.share__pinterest:hover{background-color:#8c0615}@media only screen and (max-width: 576px){.post__share{margin:30px 0}.post__share .share__item{margin-right:5px}.post__share .share__link{width:30px;height:30px;font-size:15px}}.related-posts{display:none}.related-posts.is-related{display:block}.related-title{margin-bottom:30px;padding-bottom:30px;font-size:24px;line-height:1;font-weight:800;border-bottom:1px solid #eee}.show-comments{text-align:center}.disqus-button{margin:50px 0;padding:20px 40px;border:1px solid #eee;background-color:#f1f1f1}.disqus-button:hover{background-color:#e4e4e4}@media only screen and (max-width: 576px){.disqus-button{margin:20px 0}}#disqus_thread iframe{margin:50px 0}@media only screen and (max-width: 576px){#disqus_thread iframe{margin:20px 0}}.page{position:relative;margin-bottom:30px}.page-title{font-size:63px;line-height:65px;font-weight:800;text-align:center}@media only screen and (max-width: 768px){.page-title{font-size:48px;line-height:50px}}@media only screen and (max-width: 576px){.page-title{margin-bottom:0;font-size:33px;line-height:35px}}.page-image{position:absolute;top:0;width:100%;height:100%;object-fit:cover;user-select:none}.image-box{position:relative;padding-top:50%;overflow:hidden;background-color:#f8f8f8}@media only screen and (max-width: 992px){.image-box{padding-top:55%}}@media only screen and (max-width: 768px){.image-box{padding-top:65%}}.page-head{margin:40px 0}@media only screen and (max-width: 576px){.page-head{margin:25px 0}}.page__content a{border-bottom:2px solid #02C4EC}.archive-box{position:relative;transform:translate(0);margin-bottom:20px;text-align:center;border-radius:8px;overflow:hidden}.archive-box::before{content:"";display:block;position:absolute;top:0;left:0;z-index:1;width:100%;height:100%;background:linear-gradient(rgba(0,0,0,0), rgba(53,53,53,0.7))}.archive-text{position:relative;z-index:5;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:8vw 20px;min-height:280px}.archive-meta{font-size:21px;font-weight:700;color:rgba(255,255,255,0.8)}.archive-title{margin:0;font-size:63px;line-height:45px;font-weight:800;color:#fff}@media only screen and (max-width: 576px){.archive-title{font-size:43px;line-height:38px}}.tag-slider{position:absolute;overflow:hidden;top:0;left:0;width:100%;height:100%}.tag-slider div{height:100%}.tag-slider .tag-slider__item{height:100%;background-position:center;background-size:cover;background-repeat:no-repeat}.contact-description{text-align:center}.form__group{margin-bottom:20px}.form__label{display:inline-block;margin-bottom:5px;font-family:"Darker Grotesque",sans-serif;font-size:16px;font-weight:600}.form__input{width:100%;padding:15px;font-family:"Darker Grotesque",sans-serif;font-size:18px;border:1px solid #e1e1e1;transition:all 0.3s}.form__input:focus{border-color:#02C4EC}textarea.form__input{resize:none}
+
+  </style>
+</head>
+  <body>
+    
+      <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-166862523-1', 'auto');
+  ga('send', 'pageview');
+</script>
+    
+
+    <!-- begin header -->
+<header class="header">
+  <div class="container">
+    <div class="row">
+      <div class="header__inner col col-12">
+
+      <div class="logo">
+        <a class="logo__link" href="/">
+        
+          ai4ed
+        
+        </a>
+      </div>
+        
+      <div class="menu-overlay">
+        <nav class="main-nav">
+          <div class="main-nav__box">
+            <div class="nav__icon-close">
+              <i class="ion ion-md-close"></i>
+            </div>
+            <div class="nav-grid">
+              <div class="nav-grid__item">
+                <h2 class="nav-grid__title">Menu</h2>
+                <div class="mobile-nav">
+                  <ul class="nav__list list-reset">
+  <li class="nav__item">
+    <a href="/" class="nav__link">Home</a>
+  </li>
+  
+    
+  
+    
+      
+      <li class="nav__item">
+        <a href="/activity/" class="nav__link">Events</a>
+      </li>
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+</ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </nav>
+      </div>
+
+      <div class="navigation">
+        <div class="top-nav">
+          <ul class="nav__list list-reset">
+  <li class="nav__item">
+    <a href="/" class="nav__link">Home</a>
+  </li>
+  
+    
+  
+    
+      
+      <li class="nav__item">
+        <a href="/activity/" class="nav__link">Events</a>
+      </li>
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+</ul>
+        </div>
+        <div class="nav-buttons">
+          <i class="nav__icon nav__icon-menu ion ion-md-menu"></i>
+          <i class="nav__icon nav__icon-search ion ion-md-search"></i>
+        </div>
+      </div>
+
+      </div>
+    </div>
+  </div>
+</header>
+<!-- end header -->
+
+<div class="search">
+  <div class="container">
+    <div class="row">
+      <div class="col col-12">
+        <div class="search__box">
+          <div class="search__close">
+            <i class="ion ion-md-close"></i>
+          </div>
+          <div class="search__group">
+            <label for="js-search-input" class="screen-reader-text">Search for Blog</label>
+            <input type="text" id="js-search-input" class="search__text" placeholder="Type to search...">
+          </div>
+          <div id="js-results-container" class="search-results-list"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+    <!-- begin content -->
+    <main class="content" aria-label="Content">
+      
+<div class="container">
+  <div class="row">
+    <div class="col col-12">
+      <div class="image-box">
+        <img class="post-image" src="/images/aaai2020.jpg" alt="AAAI2020 Workshop on Artificial Intelligence for Education">
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="container">
+  <div class="row">
+    <div class="col col-8 col-d-10 push-2 push-d-1 col-t-12 push-t-0">
+      <!-- begin post -->
+      <article class="post animate">
+        <div class="post-head">
+          <div class="post__author">
+            <span>By</span>
+            <a href="/about/" class="post__author-image" style="background-image: url(/images/01.jpg)" aria-label="ai4ed's Picture"></a> <a href="/about/" class="post__author-link">ai4ed</a>
+          </div>
+          <h1 class="post-title">AAAI2020 Workshop on Artificial Intelligence for Education</h1>
+          <div class="post__meta">
+            
+            <div class="post-tags">
+              
+              <a href="/tag/Workshop" class="post-tags__tag">Workshop</a>
+              
+              <a href="/tag/AAAI" class="post-tags__tag">AAAI</a>
+              
+            </div>
+            
+            <span class="post__date">
+              <time datetime="2020-02-07T08:00:00+08:00">Feb 07, 2020</time>
+            </span>
+          </div>
+        </div>
+
+        <div class="post__content">
+          <h2 id="introduction">Introduction</h2>
+
+<p>Artificial Intelligence (AI) has dramatically transformed a variety of domains. However, education, a crucial component of our society still remains a relatively under-explored domain. In fact, the increasingly digitalized education tools and the popularity of the massive open online courses have produced an unprecedented amount of data that provides us with invaluable opportunities for applying AI in education. Recent years have witnessed growing efforts from AI research community devoted to advancing our education. Although it is still in the early stage, promising results have been achieved in solving various critical problems in education. For example, knowledge tracing, which is a intrinsically difficult problem due to the complexity under human learning procedure, has been solved successfully with powerful deep neural networks that can fully take the advantages of massive student exercise data. Besides the achievement in improving the student learning efficiency, similar excitement has been generated in other areas of education. For instance, researchers have also devoted to reducing the monotonous and tedious grading workloads of teaching professionals by building automatic grading systems that are underpinned by effective models from natural language process fields. Despite aforementioned success, developing and applying AI technologies to education is fraught with its unique challenges, including, but not limited to, extreme data sparsity, lack of labeled data, and privacy issues. Therefore, it is timely and necessary to provide a venue, which can bring together academia researchers and education practitioners to (1) to discuss the principles, limitations and applications of AI for education; and (2) to foster research on innovative algorithms, novel techniques, and new applications to education.</p>
+
+<h2 id="call-for-paper">Call For Paper</h2>
+
+<p>We invite the submission of novel research paper (6 pages plus references), demo paper (4 pages plus references), visionary papers (4 pages plus references) as well as extended abstracts (2 pages plus references). Submissions must be in PDF format, written in English, and formatted according to the AAAI <code class="language-plaintext highlighter-rouge">camera-ready style</code>. All papers will be peer reviewed, <code class="language-plaintext highlighter-rouge">single-blinded</code>. Submitted papers will be assessed based on their novelty, technical quality, potential impact, insightfulness, depth, clarity, and reproducibility. All the papers are required to be submitted via <code class="language-plaintext highlighter-rouge">EasyChair</code> system. For more questions about the workshop and submissions, please send email to <code class="language-plaintext highlighter-rouge">wangzh65@msu.edu</code>.</p>
+
+<h2 id="topics">Topics</h2>
+
+<p>We encourage submissions on a broad range of AI technologies for various education domains. Topics of interest include but are not limited to the following:</p>
+
+<ul>
+  <li>Emerging technologies in education</li>
+  <li>Evaluation of education technologies</li>
+  <li>Immersive learning and multimedia applications</li>
+  <li>Implications of big data in education</li>
+  <li>Self-adaptive learning</li>
+  <li>Individual and personalized education</li>
+  <li>Intelligent learning Systems</li>
+  <li>Intelligent tutoring and monitoring systems</li>
+  <li>Automatic assessment in education</li>
+  <li>Automated grading of assignments</li>
+  <li>Learning technology for lifelong learning</li>
+  <li>Course development techniques</li>
+  <li>Mining and web mining in education</li>
+  <li>Learning tools experiences and cases of study</li>
+  <li>Life long education</li>
+  <li>MOOC’s and data analytics</li>
+  <li>Social media in education</li>
+  <li>Smart education</li>
+  <li>Education analytic approaches, methods, and tools</li>
+  <li>Knowledge management for learning</li>
+  <li>Learning analytics and educational data mining</li>
+  <li>Smart classroom</li>
+  <li>Dropout prediction</li>
+  <li>Knowledge tracing</li>
+  <li>Tracking learning activities</li>
+  <li>Uses of multimedia for education</li>
+  <li>Wearable computing technology in e-learning</li>
+  <li>Analysis of communities of learning</li>
+  <li>Computer-aided assessment</li>
+  <li>Course development techniques</li>
+  <li>Automated feedback and recommendations</li>
+  <li>Big data analytics for education</li>
+</ul>
+
+<h2 id="important-dates">Important Dates</h2>
+
+<ul>
+  <li><strong>December 04, 2019</strong>: Workshop paper submission due (23:59, Pacific Standard Time)</li>
+  <li><strong>December 15, 2019</strong>: Workshop paper notifications</li>
+  <li><strong>January 15, 2020</strong>: Camera-ready deadline for workshop papers</li>
+  <li><strong>February 08, 2020</strong>: Workshop Date</li>
+</ul>
+
+<h2 id="best-poster-award">Best Poster Award</h2>
+
+<blockquote>
+  <h3 id="where-ai-meets-the-learner-classroom-as-a-mediator">Where AI meets the learner: Classroom as a mediator</h3>
+
+  <p><cite>Shiyi Shao, Beata Beigman Klebanov, Anastassia Loukina, Priya Kannan and Paola Heincke</cite></p>
+</blockquote>
+
+<h2 id="best-paper-award-tie">Best Paper Award (tie)</h2>
+
+<blockquote>
+  <h3 id="ranking-distractors-for-multiple-choice-questions-using-multichannel-semantically-informed-cnn-lstm-networks">Ranking Distractors for Multiple Choice Questions Using Multichannel Semantically Informed CNN-LSTM Networks</h3>
+
+  <p><cite>Tirthankar Dasgupta and Manjira Sinha</cite></p>
+</blockquote>
+
+<blockquote>
+  <h3 id="identifying-ngss-aligned-ideas-in-student-science-explanations">Identifying NGSS-Aligned Ideas in Student Science Explanations</h3>
+
+  <p><cite>Brian Riordan, Cahill Aoife, Jennifer King Chen, Wiley Korah, Allison Bradford, Libby Gerard and Marcia Linn</cite></p>
+</blockquote>
+
+<h2 id="accepted-papers">Accepted Papers</h2>
+
+<ul>
+  <li>
+    <p>Dropout Prediction over Weeks in MOOCs via Interpretable Multi-Layer Representation Learning. Byungsoo Jeon, Namyong Park and Seojin Bang.</p>
+  </li>
+  <li>
+    <p>Question Generation by Transformers. Kettip Kriangchaivech and Artit Wangperawong.</p>
+  </li>
+  <li>
+    <p>Interpreting Models of Student Interaction in Immersive Simulation Settings. Nicholas Hoernle, Kobi Gal, Barbara Grosz, Leilah Lyons, Ada Ren and Andee Rubin.</p>
+  </li>
+  <li>
+    <p>The Impact of Training Data Quality on Automated Content Scoring Performance. Lili Yao, Aoife Cahill and Daniel McCaffrey.</p>
+  </li>
+  <li>
+    <p>Automated Anonymisation of Visual and Audio Data in Classroom Studies. Ömer Sümer, Peter Gerjets, Ulrich Trautwein and Enkelejda Kasneci.</p>
+  </li>
+  <li>
+    <p>edBB: Biometrics and Behavior for Assessing Remote Education. Javier Hernandez-Ortega, Roberto Daza, Aythami Morales, Julian Fierrez and Javier Ortega-Garcia.</p>
+  </li>
+  <li>
+    <p>Dropout Prediction over Weeks in MOOCs by Learning Representations of Clicks and Videos. Byungsoo Jeon, Namyong Park and Seojin Bang.</p>
+  </li>
+  <li>
+    <p>Where AI meets the learner: Classroom as a mediator. Shiyi Shao, Beata Beigman Klebanov, Anastassia Loukina, Priya Kannan and Paola Heincke.</p>
+  </li>
+  <li>
+    <p>Personalized Technical Learning Assistance for Deaf and Hard of Hearing. Sameena Hossain, Ayan Banerjee and Sandeep Gupta.</p>
+  </li>
+  <li>
+    <p>Identifying NGSS-Aligned Ideas in Student Science Explanations. Brian Riordan, Cahill Aoife, Jennifer King Chen, Wiley Korah, Allison Bradford, Libby Gerard and Marcia Linn.</p>
+  </li>
+  <li>
+    <p>Towards Instance-Based Content Scoring with Pre-Trained Transformer Models. Kenneth Steimel and Brian Riordan.</p>
+  </li>
+  <li>
+    <p>Ranking Distractors for Multiple Choice Questions Using Multichannel Semantically Informed CNN-LSTM Networks. Tirthankar Dasgupta and Manjira Sinha.</p>
+  </li>
+  <li>
+    <p>Intelligent Tutoring Strategies for Students with Autism Spectrum Disorder: A Reinforcement Learning Approach. Stephanie Milani, Zhou Fan, Saurabh Gulati, Thanh Nguyen, Fei Fang, and Amulya Yadav.</p>
+  </li>
+  <li>
+    <p>Clustering Skills for Industrial Learning. Rajiv Srivastava, Swapnil Hingmire and Girish Palshikar.</p>
+  </li>
+  <li>
+    <p>Cloud enabled Multi-modal Knowledge Modeling for Learning and Skill Management (KaaS). Mahdi Bohlouli and Sebastian Hellekes.</p>
+  </li>
+  <li>
+    <p>An Application of Automated Scoring and Feedback to Support Student Writing of Scientific Arguments. Mengxiao Zhu, Ou Lydia Liu and Hee-Sun Lee.</p>
+  </li>
+  <li>
+    <p>Automatic Generation of Programming Word Problems. Rajas Vanjape, Vinayak Athavale and Manish Shrivastava.</p>
+  </li>
+  <li>
+    <p>A Deep Model for Predicting Online Course Performance. Hamid Karimi, Jiangtao Huang and Tyler Derr.</p>
+  </li>
+</ul>
+
+<h2 id="keynotes">Keynotes</h2>
+
+<blockquote>
+  <h3 id="fact-an-automated-teaching-assistant">FACT: An Automated Teaching Assistant</h3>
+
+  <p><cite>Dr. Kurt VanLehn, Arizona State University</cite></p>
+</blockquote>
+
+<figure class="highlight"><pre><code class="language-html" data-lang="html">Bio: Kurt VanLehn is the Diane and Gary Tooker Chair for Effective Education in Science, Technology, Engineering and Math at Arizona State University. He is also a Professor of Computer Science. He received a Ph. D. from MIT in 1983 in Computer Science, and worked at BBN, Xerox PARC, CMU and the LRDC (University of Pittsburgh). He founded and co-directed two large NSF research centers (Circle; the Pittsburgh Science of Learning Center). He has published over 185 peer-reviewed publications, is a fellow in the Cognitive Science Society, and is on the editorial boards of Cognition and Instruction and the International Journal of Artificial Intelligence in Education. Dr. VanLehn has been working in the field of intelligent tutoring systems since such systems were first invented. Most of his current work seeks new applications of this well-established technology. Four current projects are: (1) FACT, a classroom orchestration system for helping middle school math teachers both deeply analyze student work and manage the flow of ideas and student work across individual, group and whole-class activities; (2) TopoMath, an intelligent tutoring system that teaches high school and developmental math students how to solve algebra word/modeling problems by displaying their structural topology; (3) Dragoon, an intelligent tutoring system that imparts skill in constructing models of dynamic systems so rapidly that it has been used in high school science classes, university sustainability classes and Navy electronics classes to help students understand the systems more deeply; and (4) SEATR, a general-purpose adaptive task selection service that is currently being used in an intelligent tutoring system for organic chemistry.</code></pre></figure>
+
+<blockquote>
+  <h3 id="ai-singapore-ai-in-education-grand-challenge">AI Singapore: AI in Education Grand Challenge</h3>
+
+  <p><cite>Dr. Bryan Low and Su Su Ma, AI Singapore</cite></p>
+</blockquote>
+
+<figure class="highlight"><pre><code class="language-html" data-lang="html">Bio: Bryan Low is the deputy director of research and technology, AI Singapore. He is also an assistant professor of School of Computing, National University of Singapore. Su Su Ma is the head of research management, AI Singapore.</code></pre></figure>
+
+<blockquote>
+  <h3 id="ai-the-next-step-for-education-tech-innovations-making-our-classrooms-smarter">AI the Next Step for Education: Tech Innovations Making Our Classrooms Smarter</h3>
+
+  <p><cite>Dr. Zitao Liu, TAL Education Group</cite></p>
+</blockquote>
+
+<figure class="highlight"><pre><code class="language-html" data-lang="html">Bio: Zitao Liu is the Head of AI Lab at TAL Education Group (NYSE:TAL), one of the largest leading education and technology enterprises in China. He studies and develops AI approaches to tackle some of the hard-core problems in AIED, such as automatic short answer grading, knowledge tracing, etc. He has published in highly ranked conference proceedings, such as AAAI, AIED, etc. and serves as top tier AI conference/workshop organizers/program committees. Before joining TAL, Zitao was a senior research scientist at Pinterest and received his Ph.D degree in Computer Science from University of Pittsburgh.</code></pre></figure>
+
+<blockquote>
+  <h3 id="the-smart-classroom-of-the-future-progress-and-open-challenges">The Smart Classroom of the Future: Progress and Open Challenges</h3>
+
+  <p><cite>Dr. Vincent Aleven, Carnegie Mellon University</cite></p>
+</blockquote>
+
+<figure class="highlight"><pre><code class="language-html" data-lang="html">Bio: Dr. Vincent Aleven is a Professor of Human-Computer Interaction at Carnegie Mellon University in Pittsburgh, USA. He has over 25 years of experience in research and development of adaptive learning technologies, based on cognitive theory and self-regulated learning theory. He has investigated widely how such technologies can be most effective, with projects ranging from computer-based tutoring of help seeking, to a website with intelligent tutoring software for middle-school mathematics, to a real-time mixed-reality teacher awareness tool. He and his colleagues have also created easy-to-use, easy-to-learn authoring tools for adaptive learning technologies. He has over 250 publications to his name. He is co-editor-in-chief of the International Journal of Artificial Intelligence in Education. He also was co-editor of the International Handbook on Metacognition in Computer-based Learning Environments. He and his colleagues and students have won 10 best paper awards at international conferences. He is or has been PI on 12 major research grants and co-PI on 11 others.</code></pre></figure>
+
+<blockquote>
+  <h3 id="algorithmic-openness-in-data-intensive-education-analytics-k-12-early-warning-systems--prediction-accuracy-and-visual-data-analytics">Algorithmic Openness in Data Intensive Education Analytics: K-12 Early Warning Systems, &gt; Prediction, Accuracy, and Visual Data Analytics</h3>
+
+  <p><cite>Dr. Alex Bowers, Columbia University</cite></p>
+</blockquote>
+
+<figure class="highlight"><pre><code class="language-html" data-lang="html">Bio: Alex J. Bowers is an Associate Professor of Education Leadership at Teachers College, Columbia University, where he works to help school leaders use the data that they already collect in schools in more effective ways to help direct the limited resources of schools and districts to specific student needs. His research focuses on the intersection of effective school and district leadership, organization and HR, data driven decision making, student grades and test scores, student persistence and dropouts. His work also considers the influence of school finance, facilities, and technology on student achievement. He studies these areas through the application of Education Leadership Data Analytics (ELDA), which is at the intersection of education leadership, evidence-based improvement cycles, and data science.</code></pre></figure>
+
+<blockquote>
+  <h3 id="teachers-in-social-media-applications-in-computational-education-science">Teachers in Social Media: Applications in Computational Education Science</h3>
+
+  <p><cite>Dr. Kaitlin Torphy, Michigan State University</cite></p>
+</blockquote>
+
+<figure class="highlight"><pre><code class="language-html" data-lang="html">Bio: Kaitlin Torphy, Ph.D. is the Lead Researcher and Founder of the Teachers in Social Media Project at Michigan State University. This project considers the intersection of cloud to class, nature of resources within virtual resource pools, and implications for equity as educational spaces grow increasingly connected. Dr. Torphy conceptualizes the emergence of a teacherpreneurial guild in which teachers turn to one another for instructional content and resources. She has expertise in teachers’ engagement across virtual platforms, teachers’ physical and virtual social networks, and education policy reform. Dr. Torphy was a co-PI and presenter for an American Education Research Association conference convened in October 2018 at Michigan State University on social media and education. She has published work on charter school impacts, curricular reform, teachers’ social networks, and presented work regarding teachers’ engagement within social media at the national and international level. Her other work examines diffusion of sustainable practices across social networks within The Nature Conservancy. Dr. Torphy earned a Ph.D. in education policy, a specialization in the economics of education from Michigan State University in 2014 and is a Teach for America alumni and former Chicago Public Schools teacher.</code></pre></figure>
+
+<blockquote>
+  <h3 id="ai-in-education">AI in Education</h3>
+
+  <p><cite>Dr. Salil Mehta, ETS</cite></p>
+</blockquote>
+
+<figure class="highlight"><pre><code class="language-html" data-lang="html">Bio: Salil has over two decades of leadership experience in various industries, including the White House, and in AI and education.  He has also been teaching data science at Columbia University, and Georgetown University. He is the creator of the Salil Statistics (statisticalideas.blogspot.com) website that has over ¼ million followers. Salil is currently a statistics director at ETS, overseeing innovative business applications for about a hundred data statisticians. His various experience includes regulating and defending audits of information models, at the federal government.</code></pre></figure>
+
+<h2 id="program">Program</h2>
+
+<ul>
+  <li>08:30 - 08:45 – Opening Remarks</li>
+  <li>08:45 - 09:30 – Keynote: Kurt VanLehn, Arizona State University</li>
+  <li>09:30 - 10:00 – Keynote: Bryan Low and Su Su Ma, AI Singapore</li>
+  <li>10:00 - 10:30 – Keynote: Zitao Liu, TAL Education Group</li>
+  <li>10:30 - 11:00 – Coffee Break</li>
+  <li>11:00 - 12:00 – Paper Poster Session (will select the best paper and the best presentation awards)</li>
+  <li>12:00 - 13:00 – Lunch</li>
+  <li>13:00 - 13:45 – Keynote: Vincent Aleven, Carnegie Mellon University</li>
+  <li>13:45 - 14:30 – Keynote: Alex Bowers, Columbia University</li>
+  <li>14:30 - 15:00 – Keynote: Kaitlin Trophy, Michigan State University</li>
+  <li>15:00 - 15:30 – Keynote: Salil Mehta, ETS</li>
+  <li>15:30 - 16:00 – Coffee Break</li>
+  <li>16:00 - 17:00 – Award Announcement and Panel on “Ethics in AIED”</li>
+</ul>
+
+<h2 id="organizers">Organizers</h2>
+
+<p><img src="/images/aaai2020_workshop_organizers.jpg" alt="Beautiful place" /></p>
+
+<ul>
+  <li><strong>Jiliang Tang</strong> Michigan State University</li>
+  <li><strong>Zitao Liu</strong> TAL Education Group</li>
+  <li><strong>Kaitlin Torphy</strong> Michigan State University</li>
+  <li><strong>Ken Frank</strong> Michigan State University</li>
+  <li><strong>Zhiwei Wang</strong> Michigan State University</li>
+</ul>
+
+
+        </div>
+
+        <div class="post__share">
+          <ul class="share__list list-reset">
+            <li class="share__item">
+              <a class="share__link share__facebook" href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:4000/workshops/aaai2020"
+                onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
+                title="Share on Facebook" rel="nofollow"><i class="ion ion-logo-facebook"></i></a>
+            </li>
+
+            <li class="share__item">
+              <a class="share__link share__twitter" href="https://twitter.com/intent/tweet?text=AAAI2020%20Workshop%20on%20Artificial%20Intelligence%20for%20Education&url=http://localhost:4000/workshops/aaai2020"
+                onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
+                title="Share on Twitter" rel="nofollow"><i class="ion ion-logo-twitter"></i></a>
+            </li>
+
+            <li class="share__item">
+              <a class="share__link share__linkedin" href="https://www.linkedin.com/shareArticle?mini=true&url=http://localhost:4000/workshops/aaai2020&title=AAAI2020%20Workshop%20on%20Artificial%20Intelligence%20for%20Education&summary=&source=ai4ed"
+              onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn" rel="nofollow"><i class="ion ion-logo-linkedin"></i></a>
+            </li>
+
+            <li class="share__item">
+              <a class="share__link share__pinterest" href="http://pinterest.com/pin/create/button/?url=http://localhost:4000/workshops/aaai2020&amp;media=http://localhost:4000/images/aaai2020.jpg&amp;description=AAAI2020%20Workshop%20on%20Artificial%20Intelligence%20for%20Education"
+              onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;" title="Share on Pinterest"
+              rel="nofollow"><i class="ion ion-logo-pinterest"></i></a>
+            </li>
+          </ul>
+        </div>
+      </article>
+      <!-- end post -->
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+<div class="container">
+  <div class="related-posts section is-related">
+    <h5 class="related-title">You may also like</h5>
+    <div class="row grid">
+    
+
+      
+      
+
+      
+
+      
+
+        <div class="article col col-4 col-t-12 grid__post animate">
+          <div class="article__inner">
+            
+            <span class="featured-post"><i class="ion ion-ios-star-outline"></i></span>
+            
+            
+            <a class="article__image" href="/workshops/aaai-sss2021">
+              <img src="/images/aaai-sss2021.jpg" alt="AAAI2021 Spring Symposium on Artificial Intelligence for K-12 Education">
+            </a>
+            
+            <div class="article__content">
+              <div class="article__author">
+                <a href="/about/" class="article__author-image"
+                  style="background-image: url(/images/01.jpg)"
+                  aria-label="ai4ed's Picture"></a> <a href="/about/"
+                  class="article__author-link">ai4ed</a>
+              </div>
+              <h2 class="article__title">
+                <a href="/workshops/aaai-sss2021">AAAI2021 Spring Symposium on Artificial Intelligence for K-12 Education</a>
+              </h2>
+              <div class="article__meta">
+                <div class="article-tags">
+                  
+                  <div class="article-tags__box">
+                    
+                    <a href="/tag/Workshop" class="article__tag">Workshop</a>
+                    
+                    <a href="/tag/AAAI" class="article__tag">AAAI</a>
+                    
+                  </div>
+                  
+                </div>
+                <span class="article__date"><time
+                    datetime="2020-09-15T08:00:00+08:00">Sep 15, 2020</time></span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        
+        
+      
+    
+
+      
+      
+
+      
+
+      
+    
+
+      
+      
+
+      
+
+      
+    
+
+      
+      
+
+      
+
+      
+    
+    </div>
+  </div>
+</div>
+
+
+<div class="container">
+  <div class="row">
+    <div class="col col-8 col-d-10 push-2 push-d-1 col-t-12 push-t-0">
+        <!-- begin comments -->
+<div class="show-comments">
+  <button class="disqus-button button" id="show-comments-button" onclick="disqus();return false;">Comments</button>
+</div>
+
+
+<div class="post__comments" id="disqus_thread"></div>
+
+
+<script>
+  var disqus_loaded = false;
+  var disqus_shortname = 'dr-ai4ed';
+  function disqus() {
+    if (!disqus_loaded) {
+      disqus_loaded = true;
+      var e = document.createElement("script");
+      e.type = "text/javascript";
+      e.async = true;
+      e.src = "//" + disqus_shortname + ".disqus.com/embed.js";
+      (document.getElementsByTagName("head")[0] ||
+        document.getElementsByTagName("body")[0])
+        .appendChild(e);
+      // Hide the button after opening
+      document.getElementById("show-comments-button").style.display = "none";
+    }
+  }
+</script>
+<noscript>Please enable JavaScript to view the
+  <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a>
+</noscript>
+<!-- end comments -->
+    </div>
+  </div>
+</div>
+
+    </main> 
+    <!-- end content -->
+    
+    <div class="top" title="Top"><i class="ion ion-ios-arrow-up"></i></div>
+    <!-- begin footer-widgets -->
+<div class="footer-widgets">
+  <div class="container">
+    <div class="row">
+      <div class="col col-4 col-d-6 col-t-12">
+  <div class="widget widget-info">
+    <div class="footer-logo">
+      <a href="/" class="footer-logo__link">
+        
+        ai4ed
+        
+      </a>
+    </div>
+    <p class="footer-desc">AI in Education</p>
+    
+<div class="social">
+  <ul class="social__list list-reset">
+    
+    <li class="social__item">
+      <a class="social__link" href="https://twitter.com" target="_blank"><i class="ion ion-logo-twitter"></i></a>
+    </li>
+    
+    <li class="social__item">
+      <a class="social__link" href="https://youtube.com" target="_blank"><i class="ion ion-logo-youtube"></i></a>
+    </li>
+    
+    <li class="social__item">
+      <a class="social__link" href="https://instagram.com" target="_blank"><i class="ion ion-logo-instagram"></i></a>
+    </li>
+    
+    <li class="social__item">
+      <a class="social__link" href="https://github.com" target="_blank"><i class="ion ion ion-logo-github"></i></a>
+    </li>
+    
+  </ul>
+</div>
+
+  </div>
+</div>
+      <div class="col col-4 col-d-6 col-t-12">
+  <div class="widget widget-recent">
+    <div class="widget__head">
+      <h4 class="widget__title">Recent Posts</h4>
+    </div>
+    
+    <div class="recent-posts">
+      
+      <a class="recent-posts__image" href="/workshops/aaai-sss2021"
+        style="background-image: url(/images/aaai-sss2021.jpg)"></a>
+      
+      <div class="recent-posts__content">
+        <div class="recent-posts__date">
+          <time datetime="2020-09-15T08:00:00+08:00">Sep 15, 2020</time>
+        </div>
+        <h6 class="recent-posts__title"><a href="/workshops/aaai-sss2021">AAAI2021 Spring Symposium on Artificial Intelligence for K-12 Education</a></h6>
+      </div>
+    </div>
+    
+    <div class="recent-posts">
+      
+      <a class="recent-posts__image" href="/tutorials/ijcai2020"
+        style="background-image: url(/images/ijcai2020.jpg)"></a>
+      
+      <div class="recent-posts__content">
+        <div class="recent-posts__date">
+          <time datetime="2020-09-01T08:00:00+08:00">Sep 1, 2020</time>
+        </div>
+        <h6 class="recent-posts__title"><a href="/tutorials/ijcai2020">IJCAI2020 Tutorial on Multimodal Learning in K-12 Education - Promise, Progress and Challenges</a></h6>
+      </div>
+    </div>
+    
+  </div>
+</div>
+      
+    </div>
+  </div>
+</div>
+<!-- end footer-widgets -->
+
+<!-- begin footer -->
+<footer class="footer">
+  <div class="container">
+    <div class="row">
+      <div class="col col-12">
+        <div class="copyright">2020 &copy; <a href="/">ai4ed</a>. Crafted & Designed by <a href="https://jekyllthemes.io/developers/artem-sheludko" target="_blank">Artem Sheludko</a>.</div>
+      </div>
+    </div>
+  </div>
+</footer>
+<!-- end footer -->
+    <script src="/js/vendors/jquery-3.3.1.min.js"></script>
+<script src="/js/vendors/simple-jekyll-search.min.js"></script>
+<script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById("js-search-input"),
+    resultsContainer: document.getElementById("js-results-container"),
+    json: "/search.json",
+    searchResultTemplate: '<div class="search-results__item"><a class="search-results__image" href="{url}" style="background-image: url({image})"></a> <a class="search-results__link" href="{url}"><span class="search-results-date"> <time datetime="{date}">{date}</time></span><div class="result-title">{title}</div></a></div>',
+    noResultsText: '<li class="no-results"><h3>No results found</h3></li>'
+  });
+</script>
+<script src="/js/vendors/jquery.fitvids.js"></script>
+<script src="/js/vendors/transition.js"></script>
+<script src="/js/vendors/zoom.min.js"></script>
+<script src="/js/vendors/slick.min.js"></script>
+<script src="/js/common.js"></script>
+<script>
+  var base_url = "",
+    pagination_next_url = base_url + '/page2',
+    pagination_next_page_number = '',
+    pagination_available_pages_number = '';
+</script>
+  </body>
+</html>

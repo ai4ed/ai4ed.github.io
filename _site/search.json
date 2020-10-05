@@ -1,0 +1,39 @@
+[
+  
+    {
+      "title"    : "AAAI2021 Spring Symposium on Artificial Intelligence for K-12 Education",
+      "category" : "workshops",
+      "tags"     : "Workshop and AAAI",
+      "url"      : "/workshops/aaai-sss2021",
+      "date"     : "Sep 15, 2020",
+      "image": "/images/aaai-sss2021.jpg"
+    } ,
+  
+    {
+      "title"    : "IJCAI2020 Tutorial on Multimodal Learning in K-12 Education - Promise, Progress and Challenges",
+      "category" : "tutorials",
+      "tags"     : "Tutorial and IJCAI",
+      "url"      : "/tutorials/ijcai2020",
+      "date"     : "Sep 1, 2020",
+      "image": "/images/ijcai2020.jpg"
+    } ,
+  
+    {
+      "title"    : "KDD2020 Tutorial on Recent Advances in Multimodal Educational Data Mining in K-12 Education",
+      "category" : "tutorials",
+      "tags"     : "Tutorial and KDD",
+      "url"      : "/tutorials/kdd2020",
+      "date"     : "Aug 23, 2020",
+      "image": "/images/kdd2020.jpg"
+    } ,
+  
+    {
+      "title"    : "AAAI2020 Workshop on Artificial Intelligence for Education",
+      "category" : "workshops",
+      "tags"     : "Workshop and AAAI",
+      "url"      : "/workshops/aaai2020",
+      "date"     : "Feb 7, 2020",
+      "image": "/images/aaai2020.jpg"
+    } 
+  
+]
