@@ -11,7 +11,7 @@ Feel free to contact **ai4ed.workshops@gmail.com** to add your event here :)
 
 ## Incoming
 
-> [Workshop on Artificial Intelligence for K-12 Education](http://ai4ed.cc/workshops/aaai-sss2021)
+> [Workshop on Artificial Intelligence for K-12 Education](http://ai4ed.cc/workshops/aaai2021sss)
 >
 > <cite>AAAI 2021 Spring Symposium</cite>
 

@@ -2,7 +2,7 @@
 layout: post
 title:  AAAI2021 Spring Symposium on Artificial Intelligence for K-12 Education
 date:   2020-09-15 00:00:00
-image:  '/images/aaai-sss2021.jpg'
+image:  '/images/aaai2021sss.jpg'
 tags:   [Workshop, AAAI]
 featured: true
 category: workshops
@@ -135,7 +135,7 @@ We outline the tentative schedule for the proposed symposium:
 
 ## Organizers
 
-![Beautiful place]({{site.baseurl}}/images/aaai-sss2021workshop_organizers.jpg)
+![Beautiful place]({{site.baseurl}}/images/aaai2021sss_workshop_organizers.jpg)
 
 * **Zitao Liu** TAL Education Group, China
 * **Jiliang Tang** Michigan State University, USA
