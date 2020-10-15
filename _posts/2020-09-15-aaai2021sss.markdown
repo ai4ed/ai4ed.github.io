@@ -65,9 +65,11 @@ The symposium solicits paper submissions from participants (2–6 pages). Abstra
 4. best practice papers
 5. lessons learned. 
 
-The format is the standard double-column AAAI Proceedings Style. 
+The format is the standard double-column AAAI Proceedings Style and *single blind*. The author kit can be found at [https://www.aaai.org/Publications/Templates/AuthorKit21.zip](https://www.aaai.org/Publications/Templates/AuthorKit21.zip).
 
 We will encourage submissions of works-in-progress and extended abstracts, in addition to full length papers. All submissions will be peer-reviewed. Some will be selected for spotlight talks, and some for the poster session. 
+
+The submission website is at [https://easychair.org/conferences/?conf=sss21](https://easychair.org/conferences/?conf=sss21). For more questions about the workshop and submissions, please send email to *liuzitao@100tal.com*.
 
 ## Tentative Schedule
 
@@ -115,7 +117,7 @@ We outline the tentative schedule for the proposed symposium:
   * 11:00 - 11:30 Invited Talk 2
   * 11:30 - 12:00 Invited Talk 3
 
-### Day 2: NLP Innovation in Educational Application
+### Day 2: Innovative Industrial AI Applications in Education
 
 * Afternoon Session
   * 13:30 - 13:45 Opening
