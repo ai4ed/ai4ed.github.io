@@ -11,42 +11,24 @@ Feel free to contact **ai4ed.workshops@gmail.com** to add your event here :)
 
 ## Incoming
 
-> [Challenge on Riiid! Answer Correctness Prediction - Track knowledge states of 1M+ students in the wild](https://www.kaggle.com/c/riiid-test-answer-prediction)
-> 
-> <cite>Kaggle Riiid AIEd Challenge 2020</cite>
-
 
 > [Workshop on Artificial Intelligence for K-12 Education](http://ai4ed.cc/workshops/aaai2021sss)
 >
 > <cite>AAAI 2021 Spring Symposium</cite>
 
 
-
-> [Workshop on Imagining Post-COVID Education with AI](https://sites.google.com/view/tipce-2021)
->
-> <cite>AAAI 2021</cite>
-
-
-
-> [Tutorial on Multimodal Learning in K-12 Education - Promise, Progress and Challenges](http://ai4ed.cc/tutorials/ijcai2020/)
->
-> <cite>IJCAI 2020</cite>
-
-
-
-> [Challenge on Diagnostic Questions: Predicting Student Responses and Measuring Question Quality](https://www.microsoft.com/en-us/research/academic-program/diagnostic-questions/)
-> 
-> <cite>NeurIPS 2020</cite>
-
-
-
-> [Workshop on Advances and Opportunities: Machine Learning for Education](https://www.the-learning-agency.com/neurips-2020.html)
-> 
-> <cite>NeurIPS 2020</cite>
-
-
-
 ## Past
+
+
+* [Challenge on Riiid! Answer Correctness Prediction - Track knowledge states of 1M+ students in the wild](https://www.kaggle.com/c/riiid-test-answer-prediction) - Kaggle Riiid AIEd Challenge 2020
+
+* [Workshop on Imagining Post-COVID Education with AI](https://sites.google.com/view/tipce-2021)  in conjunction with AAAI 2021
+
+* [Tutorial on Multimodal Learning in K-12 Education - Promise, Progress and Challenges](http://ai4ed.cc/tutorials/ijcai2020/) in conjunction with IJCAI 2020
+
+* [Challenge on Diagnostic Questions: Predicting Student Responses and Measuring Question Quality](https://www.microsoft.com/en-us/research/academic-program/diagnostic-questions/) in conjunction with NeurIPS 2020
+
+* [Workshop on Advances and Opportunities: Machine Learning for Education](https://www.the-learning-agency.com/neurips-2020.html) in conjunction with NeurIPS 2020
 
 * [Tutorial on Recent Advances in Multimodal Educational Data Mining in K-12 Education](http://ai4ed.cc/tutorials/kdd2020/) in conjunction with KDD 2020
 
