@@ -8,6 +8,26 @@ featured: true
 category: workshops
 ---
 
+## UPDATES
+
+* Due to the COVID-19 Pandemic, the 2021 Spring Symposium will be held **virtually** on **March 22-23, 2021**.
+* To avoid connectivity issues in real time, we choose to use the **pre-recording option**. Live Q&A is optional. 
+* This year, we have speakers from North America, Asia and Europe. Therefore, we will have **two sessions** on each day (March 22 and March 23) to make sure people from different time zones can join. Specifically, we will have
+  * Session One at
+    * New York 09:00 - 12:00
+    * San Francisco 05:00 - 09:00
+    * London 13:00 - 17:00
+    * Beijing 20:00 - 00:00
+  * Session Two at 
+    * New York 19:00 - 23:00
+    * San Francisco 16:00 - 20:00
+    * London 00:00 - 04:00
+    * Beijing 07:00 - 11:00
+
+* All accepted authors, invited speakers, symposium participants, and other invited attendees should register at [https://aaaiconf.cventevents.com/sss21](https://aaaiconf.cventevents.com/sss21). 
+
+
+
 ## Introduction
 
 Technology has transformed over the last few years, turning from futuristic ideas into today’s reality. Artificial intelligence (AI) is one of these transformative technologies that is now achieving great successes in various real-world applications and made our life more convenient and safe. AI is now shaping the way businesses, governments, and educational institutions do things and is making its way into K-12 classrooms, schools and districts across many countries.
@@ -17,7 +37,61 @@ In fact, the increasingly digitalized education tools and the popularity of onli
 Despite gratifying achievements have demonstrated the great potential and bright development prospect of introducing AI in K-12 education, developing and applying AI technologies to educational practice is fraught with its unique challenges, including, but not limited to, extreme data sparsity, lack of labeled data, and privacy issues. Hence, this symposium will focus on introducing research progress on applying AI to K-12 education and discussing recent advances of handling challenges encountered in AI educational practice. The proposed symposium builds upon our continued efforts ([AAAI'20 workshop](http://ai4ed.cc/workshops/aaai2020), [IJCAI'20 tutorial](http://ai4ed.cc/tutorials/ijcai2020), [KDD'20 tutorial](http://ai4ed.cc/tutorials/kdd2020)) in bringing the AI community members together for the above-mentioned themes. This symposium will bring together AI researchers, learning scientists, educators and policymakers to exchange problems and solutions and build possible collaborations in the future.
 
 
-## Symposium Description
+
+## Symposium Schedule
+
+Day 1 activities will be centered around the theme of how can **AI to empower K-12 education** (in general)? While day 2 activities will focus on two topics of **NLP Innovation in Educational Applications** and **Innovative Industrial AI Applications in Education**.
+
+We outline the tentative schedule for the proposed symposium. All the time slots are in EST.
+
+### March 22 Session One: Artificial Intelligence to Empower K-12 Education
+
+* 08:45 - 09:00 Opening
+* 09:00 - 09:45 **[Keynote Talk]** Fengchun Miao, UNESCO (tentative)
+* 09:45 - 10:30 **[Keynote Talk]** Ryan Baker, University of Pennsylvania
+* 10:30 - 11:00 **[Invited Talk]** Joseph Jay Williams, University of Toronto (tentative)
+* 11:00 - 11:30 **[Invited Talk]** Scott Crossley, Georgia State University
+* 11:30 - 12:00 **[Invited Talk]** Thomas Price, North Carolina State University
+* 12:00 - 12:30 **[Invited Talk]** Erin Walker, University of Pittsburgh
+
+
+### March 22 Session Two: Artificial Intelligence to Empower K-12 Education
+
+* 18:45 - 19:00 Opening
+* 19:00 - 19:45 **[Keynote Talk]** John Whitmer, Federation of American Scientists (tentative)
+* 19:45 - 20:30 **[Keynote Talk]** Kurt VanLehn, Arizona State University (tentative)
+* 20:30 - 21:00 **[Invited Talk]** Shayan Doroudi, University of California, Irvine
+* 21:00 - 21:30 **[Invited Talk]** Nigel Bosch, University of Illinois Urbana–Champaign
+* 21:30 - 21:50 **[Paper Presentation]** _Classifying Documents to Multiple Readability levels_. Wejdan Alkaldi and Diana Inkpen
+* 21:50 - 22:10 **[Paper Presentation]** _Using Transformers to Provide Teachers with Personalized Feedback on their Classroom Discourse: The TalkMoves Application_. Abhijit Suresh, Jennifer Jacobs, Vivian Lai, Chenhao Tan, Wayne Ward, James H. Martin and Tamara Sumner
+* 22:10 - 22:30 **[Paper Presentation]** _Artificial Agents to Help Address the U.S. K–12 Math Gap Between Economically Disadvantaged vs. Advantaged Youth_. Selmer Bringsjord, John Angel, Naveen Sundar Govindarajulu and Michael Giancola
+* 22:30 - 22:50 **[Paper Presentation]** _Designing Teachable Systems for Intelligent Tutor Authoring_. Adit Gupta and Christopher MacLellan
+* 22:50 - 23:10 **[Paper Presentation]** _Investigating Knowledge Tracing Models using Simulated Students_. Qiao Zhang and Christopher MacLellan
+
+
+
+### March 23 Session One: NLP Innovation in Educational Applications
+
+* 08:45 - 09:00 Opening
+* 09:00 - 09:45 **[Keynote Talk]** Kara McWilliams, ETS AI Research Labs
+* 09:45 - 10:15 **[Invited Talk]** Ekaterina Kochmar, University of Cambridge
+* 10:15 - 10:45 **[Invited Talk]** Helen Yannakoudakis, King's College London
+* 10:45 - 11:30 **[Keynote Talk]** Mehran Sahami, Stanford University
+* 11:00 - 11:30 **[Invited Talk]** Yu Lv, Beijing Normal University
+* 11:30 - 12:00 **[Invited Talk]** Hang Li, TAL Education Group
+
+### March 23 Session Two: Innovative Industrial AI Applications in Education
+
+* 18:45 - 19:00 Opening
+* 19:00 - 19:45 **[Keynote Talk]** Alina von Davier, Duolingo
+* 19:45 - 20:30 **[Keynote Talk]** TBD
+* 20:30 - 21:00 **[Invited Talk]** Patricia Scanlon, SoapBox Labs
+* 21:00 - 21:30 **[Invited Talk]** Richard Tong, Squirrel AI Learning
+* 21:30 - 22:00 **[Invited Talk]** TBD
+* 22:00 - 22:30 **[Invited Talk]** TBD
+* 22:30 - 23:00 **[Invited Talk]** TBD
+
+<!-- ## Symposium Description
 
 ### Topics
 
@@ -71,68 +145,16 @@ We will encourage submissions of works-in-progress and extended abstracts, in ad
 
 The submission website is at [https://easychair.org/conferences/?conf=sss21](https://easychair.org/conferences/?conf=sss21). For more questions about the workshop and submissions, please send email to *liuzitao@100tal.com*.
 
-## Tentative Schedule
-
-We propose **two-day** symposium with the following sessions:
-
-* Oral presentations session: 10 minute presentation for oral papers.
-* Poster session: One poster session of all accepted papers which leads for interaction and personal feedback to the research.
-* Keynotes and invited talks: Several keynotes and invited talks by leading researchers in the area will be presented.
-* Panel discussion: Interactive Q\&A session with a panel of leading researchers
-
-A poster session has been a highly effective form of communicating early stage research, compared to full presentations. In combination with oral representations, the accepted papers will get audience attention and lead to a very interactive, feedback based poster session.
-
-Day 1 activities will be centered around the theme of how can **AI to empower K-12 education** (in general)? While day 2 activities will focus on two topics of **NLP Innovation in Educational Applications** and **Innovative Industrial AI Applications in Education**.
-
-
-We outline the tentative schedule for the proposed symposium:
-
-### Day 1: Artificial Intelligence to Empower K-12 Education
-
-* Morning
-  * 08:30 - 08:45 Opening
-  * 08:45 - 09:30 Keynote 1 
-  * 09:30 - 10:00 Oral Presentation Session
-  * 10:00 - 10:20 Coffee Break
-  * 10:20 - 10:50 Invited Talk 1
-  * 10:50 - 12:00 Poster Session
-* Lunch~(12:00 - 13:30)
-* Afternoon
-  * 13:30 - 14:15 Keynote 2 
-  * 14:15 - 14:45 Oral Presentation Session
-  * 14:45 - 15:15 Invited Talk 2
-  * 15:15 - 15:30 Coffee Break
-  * 15:30 - 16:00 Invited Talk 3
-  * 16:00 - 16:30 Invited Talk 4
-  * 16:30 - 17:10 Panel Discussion 
-
-### Day 2: NLP Innovation in Educational Applications
-
-* Morning Session
-  * 08:30 - 08:45 Opening
-  * 08:45 - 09:30 Keynote 1 
-  * 09:30 - 10:00 Invited Talk 1
-  * 10:00 - 10:15 Coffee Break
-  * 10:15 - 11:00 Keynote 2
-  * 11:00 - 11:30 Invited Talk 2
-  * 11:30 - 12:00 Invited Talk 3
-
-### Day 2: Innovative Industrial AI Applications in Education
-
-* Afternoon Session
-  * 13:30 - 13:45 Opening
-  * 13:45 - 14:30 Keynote 1 
-  * 14:30 - 15:00 Invited Talk 1
-  * 15:00 - 15:15 Coffee Break
-  * 15:15 - 16:00 Keynote 2
-  * 16:00 - 16:30 Invited Talk 2
-  * 16:30 - 17:00 Invited Talk 3
-
 ## Important Dates
 
 * **December 15, 2020**: Workshop paper submission due (23:59, Pacific Standard Time)
 * **December 31, 2020**: Notifications of acceptance
-* **March 22–24, 2021**: Symposium Date
+* **March 22–24, 2021**: Symposium Date -->
+
+
+## Talk Details
+
+TBD
 
 
 ## Organizers
