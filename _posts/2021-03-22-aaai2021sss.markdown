@@ -58,7 +58,7 @@ We outline the tentative schedule for the proposed symposium. All the time slots
 ### March 22 Session Two: Artificial Intelligence to Empower K-12 Education
 
 * 18:45 - 19:00 Opening
-* 19:00 - 19:45 **[Keynote Talk]** TBD
+* 19:00 - 19:45 **[Keynote Talk]** Alex Bowers, Columbia University
 * 19:45 - 20:30 **[Keynote Talk]** Kurt VanLehn, Arizona State University
 * 20:30 - 21:00 **[Invited Talk]** Shayan Doroudi, University of California, Irvine
 * 21:00 - 21:30 **[Invited Talk]** Nigel Bosch, University of Illinois Urbana–Champaign
