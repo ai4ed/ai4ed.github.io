@@ -77,7 +77,7 @@ We outline the tentative schedule for the proposed symposium. All the time slots
 * 09:45 - 10:15 **[Invited Talk]** Ekaterina Kochmar, University of Cambridge
 * 10:15 - 10:45 **[Invited Talk]** Helen Yannakoudakis, King's College London
 * 10:45 - 11:30 **[Keynote Talk]** Mehran Sahami, Stanford University
-* 11:00 - 11:30 **[Invited Talk]** Yu Lv, Beijing Normal University
+* 11:00 - 11:30 **[Invited Talk]** [AI-Driven Robot for Education](#ai-driven-robot-for-education), Yu Lv, Beijing Normal University
 * 11:30 - 12:00 **[Invited Talk]** Hang Li, TAL Education Group
 
 ### March 23 Session Two: Innovative Industrial AI Applications in Education
@@ -154,7 +154,17 @@ The submission website is at [https://easychair.org/conferences/?conf=sss21](htt
 
 ## Talk Details
 
-TBD
+> ### AI-Driven Robot for Education
+> 
+> <cite>Dr. Yu Lv, Beijing Normal University</cite>
+
+{% highlight html %}
+Abstract: In this talk, I introduce two different AI-driven robots for the education purposes. The first robot mainly targets on better motivating learners and optimizing the learning experiments for subject learning. The second one focuses on providing the intelligent dialogue service to help young teachers and parents to solve their problems for moral education. The designed robots adopt the latest AI technologies, typically including natural language processing, machine learning and affective computing, and have been deployed in practical learning context.
+{% endhighlight %}
+
+{% highlight html %}
+Bio: LU Yu received the Ph.D. degree from National University of Singapore in computer engineering, and B.S./M.S. degrees from Beijing University of Aeronautics and Astronautics (Beihang University). He is currently an Associate Professor with the School of Educational Technology, Faculty of Education, Beijing Normal University (BNU), where he also serves as the director of the artificial intelligence lab (AI Lab) at the advanced innovation center for future education (AICFE). He has published more than 40 academic papers in the prestigious journals and conferences (e.g., IEEE TKDE, TMC, ICDM, AIED, CIKM, EDBT, IJCAI, ICDE), and currently serves as the PC member for multiple international conferences (e.g., AAAI and AIED). Before joining BNU, he was a research scientist and principle investigator at the Institute for Infocomm Research (I2R), A*STAR, Singapore. His current research interests sit at the intersection of artificial intelligence and educational technology, including learner modeling, educational robotics, intelligent tutoring system and educational data mining.
+{% endhighlight %}
 
 
 ## Organizers
