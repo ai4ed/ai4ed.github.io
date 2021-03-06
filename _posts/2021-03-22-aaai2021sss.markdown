@@ -47,8 +47,8 @@ We outline the tentative schedule for the proposed symposium. All the time slots
 ### March 22 Session One: Artificial Intelligence to Empower K-12 Education
 
 * 08:45 - 09:00 Opening
-* 09:00 - 09:45 **[Keynote Talk]** TBD
-* 09:45 - 10:30 **[Keynote Talk]** Ryan Baker, University of Pennsylvania
+* 09:00 - 09:45 **[Keynote Talk]** Kenneth Frank, Michigan State University
+* 09:45 - 10:30 **[Keynote Talk]** [Six Challenges for the Future of Artificial Intelligence in Education](#six-challenges-for-the-future-of-artificial-intelligence-in-education), Ryan Baker, University of Pennsylvania
 * 10:30 - 11:00 **[Invited Talk]** Joseph Jay Williams, University of Toronto
 * 11:00 - 11:30 **[Invited Talk]** [Empowering better automated writing evaluation systems with the PERSUADE corpus](#empowering-better-automated-writing-evaluation-systems-with-the-persuade-corpus), Scott Crossley, Georgia State University
 * 11:30 - 12:00 **[Invited Talk]** [Helping Students Learn to Program with Automated, Data-driven Support](#helping-students-learn-to-program-with-automated-data-driven-support), Thomas Price, North Carolina State University
@@ -79,6 +79,7 @@ We outline the tentative schedule for the proposed symposium. All the time slots
 * 10:45 - 11:30 **[Keynote Talk]** [Using Machine Learning to Better Understand Human Learning](#using-machine-learning-to-better-understand-human-learning), Mehran Sahami, Stanford University
 * 11:00 - 11:30 **[Invited Talk]** [AI-Driven Robot for Education](#ai-driven-robot-for-education), Yu Lv, Beijing Normal University
 * 11:30 - 12:00 **[Invited Talk]** Hang Li, TAL Education Group
+* 12:00 - 12:30 **[Invited Talk]** Kristy Boyer, University of Florida
 
 ### March 23 Session Two: Innovative Industrial AI Applications in Education
 
@@ -154,14 +155,14 @@ The submission website is at [https://easychair.org/conferences/?conf=sss21](htt
 
 ## Talk Details
 
-> ### TBD
+> ### Six Challenges for the Future of Artificial Intelligence in Education
 > 
 > <cite>Dr. Ryan Baker, University of Pennsylvania</cite>
 
 {% highlight html %}
-Abstract: TBD
+Abstract: Artificial intelligence has had a positive impact on education. Today we have accurate models of constructs many didn’t think we could model, dashboards and interventions and (some) evidence they work, and scaled solutions that are being used to change student outcomes. As a field, we have solved some challenging problems. So, what’s next? In this talk, I’ll discuss a few hard problems that could block AI in education from reaching its full potential; some of the big goals I think we can strive to achieve; some of the grand challenges we will need to — and I think can — solve; and perhaps most importantly — how we’ll know if we’ve gotten there. 
 
-Bio: TBD
+Bio: Ryan Baker is Associate Professor at the University of Pennsylvania, and Director of the Penn Center for Learning Analytics. His lab conducts research on engagement and robust learning within online and blended learning, seeking to find actionable indicators that can be used today but which predict future student outcomes. Baker has developed models that can automatically detect student engagement in over a dozen online learning environments, and has led the development of an observational protocol and app for field observation of student engagement that has been used by over 160 researchers in 6 countries. Predictive analytics models he helped develop have been used to benefit over a million students, over a hundred thousand people have taken MOOCs he ran, and he has coordinated longitudinal studies that spanned over a decade. He was the founding president of the International Educational Data Mining Society, is currently serving as Editor of the journal Computer-Based Learning in Context, is Associate Editor of two journals, was the first technical director of the Pittsburgh Science of Learning Center DataShop, and currently serves as Co-Director of the MOOC Replication Framework (MORF). Baker has co-authored published papers with over 300 colleagues. 
 {% endhighlight %}
 
 
