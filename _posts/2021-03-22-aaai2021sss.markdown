@@ -78,7 +78,7 @@ We outline the tentative schedule for the proposed symposium. All the time slots
 * 10:15 - 10:45 **[Invited Talk]** Helen Yannakoudakis, King's College London
 * 10:45 - 11:30 **[Keynote Talk]** [Using Machine Learning to Better Understand Human Learning](#using-machine-learning-to-better-understand-human-learning), Mehran Sahami, Stanford University
 * 11:00 - 11:30 **[Invited Talk]** [AI-Driven Robot for Education](#ai-driven-robot-for-education), Yu Lv, Beijing Normal University
-* 11:30 - 12:00 **[Invited Talk]** Hang Li, TAL Education Group
+* 11:30 - 12:00 **[Invited Talk]** [GodEye: An Efficient and Practical AI-based System Designing for Improving the Course Quality of K12 Online 1 on 1  Classes](#godeye-an-efficient-and-practical-ai-based-system-designing-for-improving-the-course-quality-of-k12-online-1-on-1-classes)Hang Li, TAL Education Group
 * 12:00 - 12:30 **[Invited Talk]** Kristy Boyer, University of Florida
 
 ### March 23 Session Two: Innovative Industrial AI Applications in Education
@@ -360,14 +360,16 @@ Bio: LU Yu received the Ph.D. degree from National University of Singapore in co
 
 
 
-> ### TBD
+> ### GodEye: An Efficient and Practical AI-based System Designing for Improving the Course Quality of K12 Online 1 on 1  Classes
 > 
 > <cite>Mr. Hang Li, TAL Education Group</cite>
 
 {% highlight html %}
-Abstract: TBD
+Abstract: In recent years, the high-speed development in Internet technologies like streaming encourages the rise of online education among both students and teachers. With the help of the online education, students and teachers from anywhere could get rid of the limitation of physical distances and receive the education resources in a more fair way. Although, the benefits of the online education is appealing, the drawbacks of current online education are also obvious, including the difficulties in assuring the course qualities of huge amounts of online classes and the inferior study status caused by the unfamiliar feeling in online environments. 
 
-Bio: TBD
+In this talk, I will introduce our proposed AI-based online course quality assurance system, GodEye, which receives the course video recordings as the input data and utilizes multiply advanced NLP and machine learning techniques to analyze the classroom performance of both students and teachers from four aspects: classroom manners, instruction behaviors, interaction status and overall performance. The first three aspects focusing on converting the classroom behaviors into different indicators, and the last aspect generates the system’s final judgment on course qualities. To demonstrate the effectiveness of the system, I will overview the models and experiment we conducted for each indicator of our system. Besides, the system’s online performance is also presented to reveal its real-world influence.
+
+Bio: Hang Li is a senior machine learning engineer of TAL Education Group (NYSE:TAL). His research interests including multimodal learning, data mining and machine learning and their applications in education. He developed several influential systems in education related fields, including AI-based teaching quality evaluation system, offline study highlights detection system, etc. He has published several papers at top conference proceedings, such as ICASSP, AIED, EDM. Before joining TAL, he received his M.S degree in Statistics from University of Illinois at Urbana-Champaign.
 {% endhighlight %}
 
 
