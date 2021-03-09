@@ -75,7 +75,7 @@ We outline the tentative schedule for the proposed symposium. All the time slots
 * 08:45 - 09:00 Opening
 * 09:00 - 09:45 **[Keynote Talk]** [Efficiency, Efficacy, and Equity: Leveraging Ethical AI to Revolutionize Education](#efficiency-efficacy-and-equity-leveraging-ethical-ai-to-revolutionize-education), Kara McWilliams, ETS AI Research Labs
 * 09:45 - 10:15 **[Invited Talk]** [Towards Automated Generation of Personalized Pedagogical Interventions in Intelligent Tutoring Systems](#towards-automated-generation-of-personalized-pedagogical-interventions-in-intelligent-tutoring-systems), Ekaterina Kochmar, University of Cambridge
-* 10:15 - 10:45 **[Invited Talk]** Helen Yannakoudakis, King's College London
+* 10:15 - 10:45 **[Invited Talk]** [Transfer Learning for Language Assessment and Feedback](#transfer-learning-for-language-assessment-and-feedback)Helen Yannakoudakis, King's College London
 * 10:45 - 11:30 **[Keynote Talk]** [Using Machine Learning to Better Understand Human Learning](#using-machine-learning-to-better-understand-human-learning), Mehran Sahami, Stanford University
 * 11:00 - 11:30 **[Invited Talk]** [AI-Driven Robot for Education](#ai-driven-robot-for-education), Yu Lv, Beijing Normal University
 * 11:30 - 12:00 **[Invited Talk]** [GodEye: An Efficient and Practical AI-based System Designing for Improving the Course Quality of K12 Online 1 on 1  Classes](#godeye-an-efficient-and-practical-ai-based-system-designing-for-improving-the-course-quality-of-k12-online-1-on-1-classes)Hang Li, TAL Education Group
@@ -326,14 +326,14 @@ Bio: Ekaterina Kochmar is an Assistant Professor at the University of Bath, wher
 {% endhighlight %}
 
 
-> ### TBD
+> ### Transfer Learning for Language Assessment and Feedback
 > 
 > <cite>Dr. Helen Yannakoudakis, King's College London</cite>
 
 {% highlight html %}
-Abstract: TBD
+Abstract: In this talk, I will describe our development of state of the art deep learning models for automated language assessment and feedback. Given the richness of learning strategies for acquiring domain specific knowledge, I will present multi-task and representation learning approaches that allow us to learn from relatively small amounts of learner data, cover a larger space of possible meanings, and enable better generalisation. I will discuss the application of such approaches to written and spoken language assessment as well as grammatical error detection. I will conclude with two new resources we released: CWEB, a new benchmark for grammatical error correction that presents existing systems with two forms of drift — covariate shift and label bias; and TSCC, a teacher—student chatroom corpus consisting of online one-to-one conversations between teachers and learners, manually annotated using a rich set of taxonomies. 
 
-Bio: TBD
+Bio: Helen Yannakoudakis is an Assistant Professor at the Dept. of Informatics, King's College London, and a Visiting Researcher at the Dept. of Computer Science and Technology, University of Cambridge. Helen's research interests include transfer learning, few-shot learning, continual learning, and multilingual NLP, as well as real-world applications such as automated language teaching and assessment, abusive language detection, emotion detection, and misinformation. Among others, she has developed models for automatically assessing someone's language proficiency that are now deployed under the Cambridge brand (Write&Improve). Helen is also a Research and Development specialist at iLexIR, working on viable commercial applications in AI. Previously, she was Affiliated Lecturer and Senior Researcher at the University of Cambridge. Helen holds a PhD in Natural Language and Information Processing, and an MPhil in Computer Speech, Text and Internet Technology.
 {% endhighlight %}
 
 
