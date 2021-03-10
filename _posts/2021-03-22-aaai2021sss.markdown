@@ -49,7 +49,7 @@ We outline the tentative schedule for the proposed symposium. All the time slots
 * 08:45 - 09:00 Opening
 * 09:00 - 09:45 **[Keynote Talk]** Kenneth Frank, Michigan State University
 * 09:45 - 10:30 **[Keynote Talk]** [Six Challenges for the Future of Artificial Intelligence in Education](#six-challenges-for-the-future-of-artificial-intelligence-in-education), Ryan Baker, University of Pennsylvania
-* 10:30 - 11:00 **[Invited Talk]** Joseph Jay Williams, University of Toronto
+* 10:30 - 11:00 **[Invited Talk]** [Enhancing Online Problems Through Instructor-Centered Tools for Randomized Experiments](#enhancing-online-problems-through-instructor-centered-tools-for-randomized-experiments)Joseph Jay Williams, University of Toronto
 * 11:00 - 11:30 **[Invited Talk]** [Empowering better automated writing evaluation systems with the PERSUADE corpus](#empowering-better-automated-writing-evaluation-systems-with-the-persuade-corpus), Scott Crossley, Georgia State University
 * 11:30 - 12:00 **[Invited Talk]** [Helping Students Learn to Program with Automated, Data-driven Support](#helping-students-learn-to-program-with-automated-data-driven-support), Thomas Price, North Carolina State University
 * 12:00 - 12:30 **[Invited Talk]** Erin Walker, University of Pittsburgh
@@ -60,13 +60,13 @@ We outline the tentative schedule for the proposed symposium. All the time slots
 * 18:45 - 19:00 Opening
 * 19:00 - 19:45 **[Keynote Talk]** Alex Bowers, Columbia University
 * 19:45 - 20:30 **[Keynote Talk]** [FACT: An automated teaching assistant in the Zoom classroom](#fact-an-automated-teaching-assistant-in-the-zoom-classroom), Kurt VanLehn, Arizona State University
-* 20:30 - 21:00 **[Invited Talk]** Shayan Doroudi, University of California, Irvine
+* 20:30 - 21:00 **[Invited Talk]** [Mastery Learning Heuristics: Understanding the Gap Between Research and Practice](#mastery-learning-heuristics-understanding-the-gap-between-research-and-practice), Shayan Doroudi, University of California, Irvine
 * 21:00 - 21:30 **[Invited Talk]** [Learning about Learning from Unstructured Classroom Data](#learning-about-learning-from-unstructured-classroom-data), Nigel Bosch, University of Illinois Urbana–Champaign
-* 21:30 - 21:50 **[Paper Presentation]** [Classifying Documents to Multiple Readability levels](#classifying-documents-to-multiple-readability-levels). Wejdan Alkaldi and Diana Inkpen
-* 21:50 - 22:10 **[Paper Presentation]** [Using Transformers to Provide Teachers with Personalized Feedback on their Classroom Discourse: The TalkMoves Application](#using-transformers-to-provide-teachers-with-personalized-feedback-on-their-classroom-discourse-the-talkmoves-application). Abhijit Suresh, Jennifer Jacobs, Vivian Lai, Chenhao Tan, Wayne Ward, James H. Martin and Tamara Sumner
-* 22:10 - 22:30 **[Paper Presentation]** [Artificial Agents to Help Address the U.S. K–12 Math Gap Between Economically Disadvantaged vs. Advantaged Youth](#artificial-agents-to-help-address-the-u-s-k–12-math-gap-between-economically-disadvantaged-vs-advantaged-youth). Selmer Bringsjord, John Angel, Naveen Sundar Govindarajulu and Michael Giancola
-* 22:30 - 22:50 **[Paper Presentation]** [Designing Teachable Systems for Intelligent Tutor Authoring](#designing-teachable-systems-for-intelligent-tutor-authoring). Adit Gupta and Christopher MacLellan
-* 22:50 - 23:10 **[Paper Presentation]** [Investigating Knowledge Tracing Models using Simulated Students](#investigating-knowledge-tracing-models-using-simulated-students). Qiao Zhang and Christopher MacLellan
+* 21:30 - 21:50 **[Paper Presentation]** [Classifying Documents to Multiple Readability levels](#classifying-documents-to-multiple-readability-levels), Wejdan Alkaldi and Diana Inkpen
+* 21:50 - 22:10 **[Paper Presentation]** [Using Transformers to Provide Teachers with Personalized Feedback on their Classroom Discourse: The TalkMoves Application](#using-transformers-to-provide-teachers-with-personalized-feedback-on-their-classroom-discourse-the-talkmoves-application), Abhijit Suresh, Jennifer Jacobs, Vivian Lai, Chenhao Tan, Wayne Ward, James H. Martin and Tamara Sumner
+* 22:10 - 22:30 **[Paper Presentation]** [Artificial Agents to Help Address the U.S. K–12 Math Gap Between Economically Disadvantaged vs. Advantaged Youth](#artificial-agents-to-help-address-the-u-s-k–12-math-gap-between-economically-disadvantaged-vs-advantaged-youth), Selmer Bringsjord, John Angel, Naveen Sundar Govindarajulu and Michael Giancola
+* 22:30 - 22:50 **[Paper Presentation]** [Designing Teachable Systems for Intelligent Tutor Authoring](#designing-teachable-systems-for-intelligent-tutor-authoring), Adit Gupta and Christopher MacLellan
+* 22:50 - 23:10 **[Paper Presentation]** [Investigating Knowledge Tracing Models using Simulated Students](#investigating-knowledge-tracing-models-using-simulated-students), Qiao Zhang and Christopher MacLellan
 
 
 
@@ -75,10 +75,10 @@ We outline the tentative schedule for the proposed symposium. All the time slots
 * 08:45 - 09:00 Opening
 * 09:00 - 09:45 **[Keynote Talk]** [Efficiency, Efficacy, and Equity: Leveraging Ethical AI to Revolutionize Education](#efficiency-efficacy-and-equity-leveraging-ethical-ai-to-revolutionize-education), Kara McWilliams, ETS AI Research Labs
 * 09:45 - 10:15 **[Invited Talk]** [Towards Automated Generation of Personalized Pedagogical Interventions in Intelligent Tutoring Systems](#towards-automated-generation-of-personalized-pedagogical-interventions-in-intelligent-tutoring-systems), Ekaterina Kochmar, University of Cambridge
-* 10:15 - 10:45 **[Invited Talk]** [Transfer Learning for Language Assessment and Feedback](#transfer-learning-for-language-assessment-and-feedback)Helen Yannakoudakis, King's College London
+* 10:15 - 10:45 **[Invited Talk]** [Transfer Learning for Language Assessment and Feedback](#transfer-learning-for-language-assessment-and-feedback), Helen Yannakoudakis, King's College London
 * 10:45 - 11:30 **[Keynote Talk]** [Using Machine Learning to Better Understand Human Learning](#using-machine-learning-to-better-understand-human-learning), Mehran Sahami, Stanford University
 * 11:00 - 11:30 **[Invited Talk]** [AI-Driven Robot for Education](#ai-driven-robot-for-education), Yu Lv, Beijing Normal University
-* 11:30 - 12:00 **[Invited Talk]** [GodEye: An Efficient and Practical AI-based System Designing for Improving the Course Quality of K12 Online 1 on 1  Classes](#godeye-an-efficient-and-practical-ai-based-system-designing-for-improving-the-course-quality-of-k12-online-1-on-1-classes)Hang Li, TAL Education Group
+* 11:30 - 12:00 **[Invited Talk]** [GodEye: An Efficient and Practical AI-based System Designing for Improving the Course Quality of K12 Online 1 on 1  Classes](#godeye-an-efficient-and-practical-ai-based-system-designing-for-improving-the-course-quality-of-k12-online-1-on-1-classes), Hang Li, TAL Education Group
 * 12:00 - 12:30 **[Invited Talk]** Kristy Boyer, University of Florida
 
 ### March 23 Session Two: Innovative Industrial AI Applications in Education
@@ -86,7 +86,7 @@ We outline the tentative schedule for the proposed symposium. All the time slots
 * 18:45 - 19:00 Opening
 * 19:00 - 19:45 **[Keynote Talk]** [Digital-first Assessments in a Computational Psychometrics Framework](#digital-first-assessments-in-a-computational-psychometrics-framework), Alina von Davier, Duolingo
 * 19:45 - 20:30 **[Keynote Talk]** TBD
-* 20:30 - 21:00 **[Invited Talk]** Patricia Scanlon, SoapBox Labs
+* 20:30 - 21:00 **[Invited Talk]** [Child Specific Voice Technology in Education](#child-specific-voice-technology-in-education), Patricia Scanlon, SoapBox Labs
 * 21:00 - 21:30 **[Invited Talk]** Richard Tong, Squirrel AI Learning
 * 21:30 - 22:00 **[Invited Talk]** Qianying Wang, Lenovo Group
 * 22:00 - 22:30 **[Invited Talk]** TBD
@@ -166,14 +166,14 @@ Bio: Ryan Baker is Associate Professor at the University of Pennsylvania, and Di
 {% endhighlight %}
 
 
-> ### TBD
+> ### Enhancing Online Problems Through Instructor-Centered Tools for Randomized Experiments
 > 
 > <cite>Dr. Joseph Jay Williams, University of Toronto</cite>
 
 {% highlight html %}
-Abstract: TBD
+Abstract: Digital educational resources could enable the use of randomized experiments to answer pedagogical questions that instructors care about, taking academic research out of the laboratory and into the classroom. We take an instructor- centered approach to designing tools for experimentation that lower the barriers for instructors to conduct experiments. We explore this approach through DynamicProblem, a proof-of- concept system for experimentation on components of digital problems, which provides interfaces for authoring of experiments on explanations, hints, feedback messages, and learning tips. To rapidly turn data from experiments into practical improvements, the system uses an interpretable machine learning algorithm to analyze students’ ratings of which conditions are helpful, and present conditions to future students in proportion to the evidence they are higher rated. We evaluated the system by collaboratively deploying experiments in the courses of three mathematics instructors. They reported benefits in reflecting on their pedagogy, and having a new method for improving online problems for future students.
 
-Bio: TBD
+Bio: Joseph Jay Williams is an Assistant Professor in Computer Science (and a Vector Institute Faculty Affiliate, with courtesy appointments in Statistics & Psychology) at the University of Toronto, leading the Intelligent Adaptive Interventions research group. He was previously an Assistant Professor at the National University of Singapore's School of Computing in the department of Information Systems & Analytics, a Research Fellow at Harvard's Office of the Vice Provost for Advances in Learning, and a member of the Intelligent Interactive Systems Group in Computer Science. He completed a postdoc at Stanford University in Summer 2014, working with the Office of the Vice Provost for Online Learning and the Open Learning Initiative. He received his PhD from UC Berkeley in Computational Cognitive Science (with Tom Griffiths and Tania Lombrozo), where he applied Bayesian statistics and machine learning to model how people learn and reason. He received his B.Sc. from University of Toronto in Cognitive Science, Artificial Intelligence and Mathematics, and is originally from Trinidad and Tobago. More information about the Intelligent Adaptive Intervention group's research and papers is at www.josephjaywilliams.com.
 {% endhighlight %}
 
 
@@ -232,14 +232,14 @@ Bio: Kurt VanLehn is the Diane and Gary Tooker Chair for Effective Education in 
 {% endhighlight %}
 
 
-> ### TBD
+> ### Mastery Learning Heuristics: Understanding the Gap Between Research and Practice
 > 
 > <cite>Dr. Shayan Doroudi, University of California, Irvine</cite>
 
 {% highlight html %}
-Abstract: TBD
+Abstract: Over the past two decades, researchers have continuously developed new ways to conduct knowledge tracing, a technique that underpins algorithmic approaches to mastery learning in education. However, many state-of-the-art learning platforms that are used by millions of students each year, use heuristics—as opposed to data-driven algorithms—to assess mastery. Why is there such a gap between research and practice when it comes to mastery learning? In this talk, I show that two mastery learning heuristics can actually be reinterpreted as model-based algorithms. Specifically, I show that they can be viewed as optimal policies under variants of the popular Bayesian knowledge tracing (BKT) model. By analyzing the assumptions made by these models, we can discuss whether using these heuristics in practice is reasonable. I claim that one of these heuristics (a variant of the heuristic used by ALEKS) seems reasonable because (a) it is easy to understand, (b) makes weaker assumptions about how students learn than the BKT model, and (c) seems to perform favorably in simulations. Moreover, this heuristic establishes a connection to the change point detection literature in statistics, which, to my knowledge, has not been connected to mastery learning previously.
 
-Bio: TBD
+Bio: Shayan Doroudi is an assistant professor at the University of California, Irvine School of Education and (by courtesy) Department of Informatics. His research is at the intersection of the learning sciences, educational technology, and educational data science. He is particularly interested in studying the prospects and limitations of data-driven algorithms in learning technologies, including lessons that can be drawn from the rich history of educational technology.
 {% endhighlight %}
 
 
@@ -393,12 +393,12 @@ She earned her doctorate in mathematics from Otto von Guericke University of Mag
 {% endhighlight %}
 
 
-> ### TBD
+> ### Child Specific Voice Technology in Education
 > 
 > <cite>Dr. Patricia Scanlon, SoapBox Labs</cite>
 
 {% highlight html %}
-Abstract: TBD
+Abstract: Automatic Speech Recognition systems that have been built using predominantly adult data and modeling adult voices and behaviors are not accurate for young children's speech as the children's voices differ greatly from adults both physically and behaviorally. Children's voices and speech change as they grow older. Other challenges that have a significant impact on performance include the treatment of accents, dialects and how bias in such ASR systems can have a detrimental effect on those children using such systems.
 
 Bio: Dr. Patricia Scanlon is the founder and CEO of SoapBox Labs, the world's leading provider of proprietary voice technology for children. Dr. Scanlon holds a PhD and has over 20 years experience working in speech recognition technology, including at Bell Labs and IBM. An acclaimed TEDx speaker, in 2018 Dr. Scanlon was named one of Forbes "Top 50 Women in Tech" globally. In 2020, she was ranked 6th of 17 global "Visionaries in Voice” by industry leading publication Voicebot.ai. Inspired by her oldest child, and her background as a speech engineer, Dr. Scanlon founded SoapBox Labs in 2013 to redefine how children interact with technology using their voices. SoapBox Labs proprietary voice engine is now the leading voice solution for kids ages 2-12 years across the education and entertainment industries globally. The company is based in Dublin, Ireland, and has a world class team of 30 employees.
 {% endhighlight %}
