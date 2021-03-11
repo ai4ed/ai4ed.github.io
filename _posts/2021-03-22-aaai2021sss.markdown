@@ -87,9 +87,9 @@ We outline the tentative schedule for the proposed symposium. All the time slots
 * 19:00 - 19:45 **[Keynote Talk]** [Digital-first Assessments in a Computational Psychometrics Framework](#digital-first-assessments-in-a-computational-psychometrics-framework), Alina von Davier, Duolingo
 * 19:45 - 20:30 **[Keynote Talk]** TBD
 * 20:30 - 21:00 **[Invited Talk]** [Child Specific Voice Technology in Education](#child-specific-voice-technology-in-education), Patricia Scanlon, SoapBox Labs
-* 21:00 - 21:30 **[Invited Talk]** Richard Tong, Squirrel AI Learning
+* 21:00 - 21:30 **[Invited Talk]** [Smart Path to Future Success](#smart-path-to-future-success), Susan Liu, TAL Education Group
 * 21:30 - 22:00 **[Invited Talk]** Qianying Wang, Lenovo Group
-* 22:00 - 22:30 **[Invited Talk]** TBD
+* 22:00 - 22:30 **[Invited Talk]** Richard Tong, Squirrel AI Learning
 * 22:30 - 23:00 **[Invited Talk]** TBD
 
 <!-- ## Symposium Description
@@ -417,6 +417,17 @@ Bio: Dr. Patricia Scanlon is the founder and CEO of SoapBox Labs, the world's le
 {% endhighlight %}
 
 
+> ### Smart Path to Future Success
+> 
+> <cite>Ms. Susan Liu, TAL Education Group</cite>
+
+{% highlight html %}
+Abstract: Tesol Advanced Certificiate holder, M.S in IMC of Golden Gate University, English high-end product designer & teacher.
+
+Bio: Xuersi has made efforts to become a top brand in China during the last decade.To achieve the goal, we are making new progress building "Smart class" with endless efforts. We believe that everyone should have equal right to get good education, whether it's online or offline. And we have buit strong bond with parents and students. Of course, huge improvememt can't be made without our secret --- the assessment system--- which has helped thouands of students figure out their problems accurately and rapidly.
+{% endhighlight %}
+
+
 > ### TBD
 > 
 > <cite>Mr. Richard Tong, Squirrel AI Learning</cite>
@@ -437,7 +448,6 @@ Abstract: TBD
 
 Bio: TBD
 {% endhighlight %}
-
 
 
 
