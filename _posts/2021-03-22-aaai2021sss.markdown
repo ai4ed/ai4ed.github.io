@@ -89,7 +89,7 @@ We outline the tentative schedule for the proposed symposium. All the time slots
 * 20:30 - 21:00 **[Invited Talk]** [Child Specific Voice Technology in Education](#child-specific-voice-technology-in-education), Patricia Scanlon, SoapBox Labs
 * 21:00 - 21:30 **[Invited Talk]** [Smart Path to Future Success](#smart-path-to-future-success), Susan Liu, TAL Education Group
 * 21:30 - 22:00 **[Invited Talk]** Qianying Wang, Lenovo Group
-* 22:00 - 22:30 **[Invited Talk]** Richard Tong, Squirrel AI Learning
+* 22:00 - 22:30 **[Invited Talk]** [OLAF: A Multiagent Architecture Framework for Adaptive Instruction Systems](#olaf-a-multiagent-architecture-framework-for-adaptive-instruction-systems), Richard Tong, Yixue Squirrel AI Learning
 * 22:30 - 23:00 **[Invited Talk]** TBD
 
 <!-- ## Symposium Description
@@ -428,14 +428,23 @@ Bio: Xuersi has made efforts to become a top brand in China during the last deca
 {% endhighlight %}
 
 
-> ### TBD
+> ### OLAF: A Multiagent Architecture Framework for Adaptive Instruction Systems
 > 
-> <cite>Mr. Richard Tong, Squirrel AI Learning</cite>
+> <cite>Mr. Richard Tong, Yixue Squirrel AI Learning</cite>
 
 {% highlight html %}
-Abstract: TBD
+Abstract: In this talk, the author discusses how multiagent AI architecture can be applied to the future of adaptive instructional systems (AIS) to enable a new breed of educational AI.
 
-Bio: TBD
+Advances in technology have changed the landscape of education. They have improved access to education, delivering educational content at scale without limitations of space and temporal synchrony. Learning Management Systems (LMS) are extremely useful learning tools for both teachers and students. While providing materials that help students learn remotely, most educational technology platforms are limited in their personalization capability, leaving the burden of content choice to the student or instructors. Like a vast empty library, these learning management systems (LMS), video sharing platforms, and mobile applications make knowledge available, but provide few signposts that tell the student where to begin or go next.
+
+A small but growing set of tools are in the category now called Adaptive Instructional Systems (AIS), e.g. Generalized Intelligent Framework for Tutoring, GIFT; Sottilare, Goldberg, Brawner & Holden, 2012. These AIS provide individually tailored recommendations, feedback, or both, to students based on strategies informed by learner goals, preferences, attributes, and instructional conditions (Sottilare, Barr, Robson, Hu & Grasser, 2018). AIS bring together research in artificial intelligence, cognitive science, and education to characterize a student’s knowledge and offer him or her the best available resources to meet learning goals.
+
+AIS can perform as well as human tutors (VanLehn, 2011). However, this success is limited to a few well-defined domains, and AIS are far from ubiquitous (Sottilare, 2018). Sottilare (2018) identified 8 goals for AIS enhancement to bring AIS closer towards becoming ubiquitous instructional tools. We envision that OLI Adaptive Framework (OLAF), an adaptive LMS with an innovative multiagent adaptive architecture, and the research it enables, will help move towards many of the goals that Sottilare set out. These are Developing Efficient Authoring Processes (Goal 1), Developing Effective Instructional Decisions (Goal 2), Building Rapport and Engagement with Learners (Goal 4), Expanding Adaptive Instruction to a Broader Array of Task Domains (Goal 6), and Evaluating the Effectiveness and Efficiency of Adaptive Instructional Systems (Goal 7). In addition, OLAF aims to expand the possibilities of AIS by enabling ML driven and human-in-the-loop adaptive instruction and allow for much easier research experiments and AI expansion.
+
+Our ultimate vision for OLAF is to provide a reference implementation for standards for the future of AI systems in education. Like a personal librarian in the empty library, the AI system makes use of a vast trove of available content to show the students the ropes of a domain, while also considering how it can do this better in the future. We believe that OLAF’s development will upgrade the AIS community’s current toolset for building adaptive online courses and serve as a template for the enhancement of current systems. Having addressed key challenges for AIS, next-generation systems like OLAF will be far more capable of achieving ubiquitous application to provide high quality personalized learning at scale. We also believe that in doing so, OLAF will have enabled several advances in fields such as explainable AI, learner and pedagogical modeling, multi-agent systems in complex domains. OLAF’s feature set and adoption in real-world settings will also accelerate research in the AI for learning and education. 
+
+
+Bio: Richard Tong is the Chief Architect and General Manager of US Operations, Squirrel AI Learning. He currently serves as the Chair of IEEE Learning Technology Standards Committee and Vice-Chair of IEEE artificial intelligence Standards Committee. Prior to Squirrel Ai, he was the Head of Implementation, Greater China Region for Knewton, and Director of Solution Architecture for Amplify Education. He also served as the CTO of Phoenix New Media (NYSE:FENG). Richard is an experienced technologist, executive, entrepreneur and one of the leading evangelists for global standardization effort for learning technologies and artificial intelligence. 
 {% endhighlight %}
 
 
