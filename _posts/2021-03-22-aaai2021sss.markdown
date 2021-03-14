@@ -85,7 +85,7 @@ We outline the tentative schedule for the proposed symposium. All the time slots
 
 * 18:45 - 19:00 Opening
 * 19:00 - 19:45 **[Keynote Talk]** [Digital-first Assessments in a Computational Psychometrics Framework](#digital-first-assessments-in-a-computational-psychometrics-framework), Alina von Davier, Duolingo
-* 19:45 - 20:30 **[Keynote Talk]** TBD
+* 19:45 - 20:30 **[Keynote Talk]** [Innovative Adaptive Instructional Solutions](#innovative-adaptive-instructional-solutions), Robert Sottilare, Soar Technology.
 * 20:30 - 21:00 **[Invited Talk]** [Child Specific Voice Technology in Education](#child-specific-voice-technology-in-education), Patricia Scanlon, SoapBox Labs
 * 21:00 - 21:30 **[Invited Talk]** [Smart Path to Future Success](#smart-path-to-future-success), Susan Liu, TAL Education Group
 * 21:30 - 22:00 **[Invited Talk]** Qianying Wang, Lenovo Group
@@ -404,6 +404,21 @@ Von Davier is currently the president of the International Association of Comput
 
 She earned her doctorate in mathematics from Otto von Guericke University of Magdeburg, Germany, and her master of science degree in mathematics from the University of Bucharest, Romania.
 {% endhighlight %}
+
+
+
+> ### Innovative Adaptive Instructional Solutions
+> 
+> <cite>Dr. Robert Sottilare, Soar Technology</cite>
+
+{% highlight html %}
+Abstract: This talk reviews current and emerging instructional technology to enable adaptive educational and training experiences. Adaptive instructional systems (AISs), tools and methods are used to tailor learning experiences to support the goals, interests, learning gaps, and preferences of individual learners and teams of learners. AISs are composed of technologies, learning strategies and enablers, and products (commercial and open source) that leverage the power of artificial intelligence (AI) to enhance opportunities for learning. Adaptive instructional technologies include computer-based tutors, mentors, and recommender systems along with models of the learner(s), the domain of instruction, the interface and the instructional principles. Learner models range from representations of performance, knowledge and skill acquisition to long-term competency assessment). Learning strategies include policies (e.g., error-sensitive feedback, worked examples and mastery learning) and theory-based frameworks that include processes for efficiently acquiring knowledge (rules and examples) and applying that knowledge to develop skills through practice. This talk will review the intersection of AI and learning effectiveness along with a review of open source products and initiatives in the AIS marketplace.  
+
+Bio: Dr. Robert Sottilare is the Director of Learning Sciences at Soar Technology, Inc. and Chairman of the Board for the not-for-profit Adaptive Instructional Systems (AIS) Consortium. He has nearly 40 years of experience as a researcher, developer and evaluator of instructional technology and training systems. His experience spans government (US Army and Navy science & technology organizations), industry and academia. His recent research has focused on adaptive instruction including learner and team modeling, automated authoring tools, AI-based real-time instructional management, and evaluation methods for intelligent tutoring systems (ITSs).  At the US Army Research Laboratory, he founded and led the adaptive training science & technology program and is the father of the award-winning Generalized Intelligent Framework for Tutoring (GIFT), an adaptive instructional architecture. Dr. Sottilare is widely published with over 240 technical papers with over 2500 citations. He has a long history as a leader, speaker and supporter of learning sciences. He is a senior member of the IEEE and founding Chair of the IEEE AIS Working Group, Chair of the HCII AIS Conference and is a former Program Chair of the Defense & Homeland Security Simulation Conference. 
+
+Dr. Sottilare is an associate editor for the IEEE Transactions on Learning Technologies Journal and has held membership in the AI in Education Society, the Florida AI Research Society, the IEEE Computer Society, the IEEE Standards Association, the National Defense Industry Association and the National Training Systems Association. He is a faculty scholar and formerly taught graduate level courses on ITS theory and design. He was also an appointed visiting lecturer at the United States Military Academy where he taught a senior level colloquium in adaptive training methods and ITS design. Dr. Sottilare earned a patent (#7,525,735) for a high resolution, head mounted projection display using virtual target technologies to support virtual, live (embedded) and augmented reality training. He is a recipient of the US Army Meritorious Service Award (2018), the US Army Achievement Medal for Civilian Service (2008), the National Training & Simulation Association (NTSA) Team Award for Education & Human Performance (2019) for his contributions to GIFT, and two lifetime achievement awards in Modeling & Simulation: US Army RDECOM (2012; inaugural recipient) and the NTSA Governor’s Award (2015). He recently won best tutorial for his short course on the “Fundamentals of Adaptive Instruction” at the 2020 Interservice/Industry Training, Simulation & Education Conference (IITSEC).
+{% endhighlight %}
+
 
 
 > ### Child Specific Voice Technology in Education
