@@ -253,14 +253,6 @@ Bio: Nigel Bosch is an Assistant Professor in the School of Information Sciences
 {% endhighlight %}
 
 
-> ### Classifying Documents to Multiple Readability levels
-> 
-> <cite>Wejdan Alkaldi and Diana Inkpen</cite>
-
-{% highlight html %}
-Abstract: TBD
-{% endhighlight %}
-
 
 > ### Using Transformers to Provide Teachers with Personalized Feedback on their Classroom Discourse: The TalkMoves Application
 > 
