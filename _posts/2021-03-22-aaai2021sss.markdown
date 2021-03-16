@@ -87,7 +87,7 @@ We outline the tentative schedule for the proposed symposium. All the time slots
 * 19:45 - 20:30 **[Keynote Talk]** [Innovative Adaptive Instructional Solutions](#innovative-adaptive-instructional-solutions), Robert Sottilare, Soar Technology.
 * 20:30 - 21:00 **[Invited Talk]** [Child Specific Voice Technology in Education](#child-specific-voice-technology-in-education), Patricia Scanlon, SoapBox Labs
 * 21:00 - 21:30 **[Invited Talk]** [Smart Path to Future Success](#smart-path-to-future-success), Susan Liu, TAL Education Group
-* 21:30 - 22:00 **[Invited Talk]** [AI + Education](#AI-+-Education), Qianying Wang, Lenovo Group
+* 21:30 - 22:00 **[Invited Talk]** [Efficiency and Revolution: How AI Will Empower K-12 Education](#efficiency-and-revolution-how-ai-will-empower-k-12-education), Qianying Wang, Lenovo Group
 * 22:00 - 22:30 **[Invited Talk]** [OLAF: A Multiagent Architecture Framework for Adaptive Instruction Systems](#olaf-a-multiagent-architecture-framework-for-adaptive-instruction-systems), Richard Tong, Yixue Squirrel AI Learning
 * 22:30 - 23:00 **[Invited Talk]** TBD
 
@@ -454,12 +454,12 @@ Bio: Richard Tong is the Chief Architect and General Manager of US Operations, S
 {% endhighlight %}
 
 
-> ### TBD
+> ### Efficiency and Revolution: How AI Will Empower K-12 Education
 > 
 > <cite>Dr. Qianying Wang, Lenovo Group</cite>
 
 {% highlight html %}
-Abstract: The efficiency improvement and business model transformation, made possible by the smartification of industries, will be the major driving force of the growth of the digital economy in the future. This presentation will focus on Lenovo's smart education practices, and explore how artificial intelligence could enable K12 education. It will also make clear that, when empowering education with cutting-edge technologies, education itself is the end, while technology is the means. And smart education solutions should primarily meet the needs of teachers and students, with teaching and learning being the key scenarios. First of all, the problem of efficiency should be addressed. Artificial intelligence is expected to provide whole-process, multi-dimensional and fine-grained teaching and learning support, thus could become the best teaching assistant in human history, and helping teachers, students, parents and education administrators reduce workloads and boost efficiency. Secondly, the reform of education systems and models needs to be studied to see whether artificial intelligence would likely redefine the learning environment, and deliver brand-new teaching and learning experiences. 
+Abstract: The efficiency improvement and business model transformation, made possible by the smartification of industries, will be the major driving force of the growth of the digital economy in the future. This presentation will focus on Lenovo's smart education practices, and explore how artificial intelligence could enable K-12 education. It will also make clear that, when empowering education with cutting-edge technologies, education itself is the end, while technology is the means. And smart education solutions should primarily meet the needs of teachers and students, with teaching and learning being the key scenarios. First of all, the problem of efficiency should be addressed. Artificial intelligence is expected to provide whole-process, multi-dimensional and fine-grained teaching and learning support, thus could become the best teaching assistant in human history, and helping teachers, students, parents and education administrators reduce workloads and boost efficiency. Secondly, the reform of education systems and models needs to be studied to see whether artificial intelligence would likely redefine the learning environment, and deliver brand-new teaching and learning experiences. 
 
 
 Bio: Qianying Wang graduated from Stanford University with a Ph.D of human-computer interaction. Serving as Lenovo Corporate VP, she oversees Lenovo's technical strategy formulation, innovation planning and smart education product R&D. 
