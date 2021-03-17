@@ -47,7 +47,7 @@ We outline the tentative schedule for the proposed symposium. All the time slots
 ### March 22 Session One: Artificial Intelligence to Empower K-12 Education
 
 * 08:45 - 09:00 Opening
-* 09:00 - 09:45 **[Keynote Talk]** Kenneth Frank, Michigan State University
+* 09:00 - 09:45 **[Keynote Talk]** [AI and the Social Context of Education: I’ll Meet You in the Middle](ai-and-the-social-context-of-education-ill-meet-you-in-the-middle), Kenneth Frank & Kaitlin Torphy, Michigan State University
 * 09:45 - 10:30 **[Keynote Talk]** [Six Challenges for the Future of Artificial Intelligence in Education](#six-challenges-for-the-future-of-artificial-intelligence-in-education), Ryan Baker, University of Pennsylvania
 * 10:30 - 11:00 **[Invited Talk]** [Enhancing Online Problems Through Instructor-Centered Tools for Randomized Experiments](#enhancing-online-problems-through-instructor-centered-tools-for-randomized-experiments)Joseph Jay Williams, University of Toronto
 * 11:00 - 11:30 **[Invited Talk]** [Empowering better automated writing evaluation systems with the PERSUADE corpus](#empowering-better-automated-writing-evaluation-systems-with-the-persuade-corpus), Scott Crossley, Georgia State University
@@ -153,6 +153,22 @@ The submission website is at [https://easychair.org/conferences/?conf=sss21](htt
 
 
 ## Talk Details
+
+
+> ### AI and the Social Context of Education: I’ll Meet You in the Middle
+> 
+> <cite>Dr. Kenneth Frank & Dr. Kaitlin Torphy, Michigan State University</cite>
+
+{% highlight html %}
+Abstract: The past 3 decades have seen accelerating applications of AI in educational contexts.  Many of these applications have yielded important contributions to the fundamental production process of learning by drawing on existing disciplinary knowledge. For example, intelligent tutors informed by the learning sciences provide customized feedback and lessons to students based on their current state of knowledge and cognitive abilities.  Similarly, natural language interpreters informed by psychometrics have broadened the types of assessment that can be used to give feedback to teachers and policymakers.  But less of the AI potential has been realized in the realm of the social processes in which learning is embedded. For example, the new Institute for Student-AI Teaming (iSAT) housed at the University of Colorado Boulder is focused on how AI can support student to student interactions, which will be critical for understanding student motivation and learning.  Here I will also call attention to how AI could be used to understand the teacher’s social context, such as through the interactions in a professional learning community. The success of AI, like other technologies, will depend on our understanding of the ecosystem into which AI is entering, and in particular the teacher’s role in that ecosystem. In this sense as a sociologist I see classroom interaction as a middle ground social space mediating between the social realm of the teachers and that of the students – in this talk I look forward to meeting you in that middle ground.
+
+Bio: Kenneth Frank received his Ph.D. in measurement, evaluation and statistical analysis from the School of Education at the University of Chicago in 1993.  He is a member of the National Academy of Education and MSU Foundation professor of Sociometrics, professor in Counseling, Educational Psychology and Special Education; and adjunct (by courtesy) in Fisheries and Wildlife and Sociology at Michigan State University.  His substantive interests include the study of schools as organizations, social structures of students and teachers and school decision-making, and social capital.  His substantive areas are linked to several methodological interests: social network analysis, sensitivity analysis and causal inference (http://konfound-it.com), and multi-level models. His publications include quantitative methods for representing relations among actors in a social network, robustness indices for sensitivity analysis for causal inferences, and the effects of social capital in schools, natural resource management, and other social contexts.  Dr. Frank’s current projects include how beginning teachers’ networks affect their response to the Common Core; how schools respond to increases in core curricular requirements; school governance; teachers’ use of social media (https://www.teachersinsocialmedia.com/); implementation of the Carbon-Time science curriculum (http://carbontime.bscs.org/); epistemic network analysis (http://www.epistemicnetwork.org/); social network intervention in natural resources and construction management; complex decision-making in health care; and the diffusion of knowledge about climate change.
+
+
+Kaitlin Torphy, Ph.D. is the Lead Researcher and Founder of the Teachers in Social Media Project at Michigan State University. This project considers the intersection of cloud to class, nature of resources within virtual resource pools, and implications for equity as educational spaces grow increasingly connected. Dr. Torphy conceptualizes the emergence of a teacherpreneurial guild in which teachers turn to one another for instructional content and resources. She has expertise in teachers’ engagement across virtual platforms, teachers’ physical and virtual social networks, and education policy reform. Most recently, Dr. Torphy was the PI on a grant with DARPA examining social media diffusion across Pinterest. She and colleagues convened an American Education Research Association conference in October 2018 at Michigan State University on social media and education with scholars across the country. She has published work on charter school impacts, curricular reform, teachers’ social networks, and presented work regarding teachers’ engagement within social media at the national and international level. She is the editor and an author of four special issues on social media and education. Her other work examines diffusion of sustainable practices across social networks within The Nature Conservancy. Dr. Torphy earned a Ph.D. in education policy, a specialization in the economics of education from Michigan State University in 2014 and is a Teach for America alumni and former Chicago Public Schools teacher.
+{% endhighlight %}
+
+
 
 > ### Six Challenges for the Future of Artificial Intelligence in Education
 > 
