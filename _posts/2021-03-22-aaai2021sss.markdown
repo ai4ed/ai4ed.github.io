@@ -89,7 +89,7 @@ We outline the tentative schedule for the proposed symposium. All the time slots
 * 21:00 - 21:30 **[Invited Talk]** [Smart Path to Future Success](#smart-path-to-future-success), Susan Liu, TAL Education Group
 * 21:30 - 22:00 **[Invited Talk]** [Efficiency and Revolution: How AI Will Empower K-12 Education](#efficiency-and-revolution-how-ai-will-empower-k-12-education), Qianying Wang, Lenovo Group
 * 22:00 - 22:30 **[Invited Talk]** [OLAF: A Multiagent Architecture Framework for Adaptive Instruction Systems](#olaf-a-multiagent-architecture-framework-for-adaptive-instruction-systems), Richard Tong, Yixue Squirrel AI Learning
-* 22:30 - 23:00 **[Invited Talk]** TBD
+* 22:30 - 23:00 **[Invited Talk]** [Next Generation eBooks: Dynamic Data-rich Learning with PeBL](#next-generation-ebooks-dynamic-data-rich-learning-with-pebl), Elliot Robson, Eduworks Corporation
 
 <!-- ## Symposium Description
 
@@ -465,6 +465,19 @@ Abstract: The efficiency improvement and business model transformation, made pos
 Bio: Qianying Wang graduated from Stanford University with a Ph.D of human-computer interaction. Serving as Lenovo Corporate VP, she oversees Lenovo's technical strategy formulation, innovation planning and smart education product R&D. 
 
 She is a director of the China Computer Federation, and vice-chair of the China chapter of ACM's special interest group on computer-human interaction. In 2019, she was listed among Forbes China's Top 50 Women in Tech rankings. A holder of more than 80 patents, she published over 30 papers in top international academic journals and periodicals.
+{% endhighlight %}
+
+
+
+> ### Next Generation eBooks: Dynamic Data-rich Learning with PeBL
+> 
+> <cite>Mr. Elliot Robson, Eduworks Corporation</cite>
+
+{% highlight html %}
+Abstract: TBD
+
+
+Bio: Elliot Robson is the General Manager at Eduworks Corporation. He has worked at Eduworks since 2013 and is the Principal Investigator on the Personalized eBooks for Learning (PeBL) project funded by the US Advanced Distributed Learning (ADL). He is currently Co-PI on the NSF SkillSync project as well as the Competency and Skills System (CaSS) project where he helped manage the research team and design algorithms. He has over 15 years of experience as an analyst and researcher in ICT for Education. He previously worked as the Head Analyst at Amplify Learning where he analyzed student data from school districts around the country and provided policy recommendations for multiple major districts.
 {% endhighlight %}
 
 
