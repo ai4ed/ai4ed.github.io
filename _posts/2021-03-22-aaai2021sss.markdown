@@ -62,10 +62,16 @@ We outline the tentative schedule for the proposed symposium. All the time slots
 * 19:45 - 20:30 **[Keynote Talk]** [FACT: An Automated Teaching Assistant in the Zoom Classroom](#fact-an-automated-teaching-assistant-in-the-zoom-classroom), Kurt VanLehn, Arizona State University
 * 20:30 - 21:00 **[Invited Talk]** [Mastery Learning Heuristics: Understanding the Gap Between Research and Practice](#mastery-learning-heuristics-understanding-the-gap-between-research-and-practice), Shayan Doroudi, University of California, Irvine
 * 21:00 - 21:30 **[Invited Talk]** [Learning about Learning from Unstructured Classroom Data](#learning-about-learning-from-unstructured-classroom-data), Nigel Bosch, University of Illinois Urbana–Champaign
-* 21:30 - 21:50 **[Paper Presentation]** [Using Transformers to Provide Teachers with Personalized Feedback on their Classroom Discourse: The TalkMoves Application](#using-transformers-to-provide-teachers-with-personalized-feedback-on-their-classroom-discourse-the-talkmoves-application), Abhijit Suresh, Jennifer Jacobs, Vivian Lai, Chenhao Tan, Wayne Ward, James H. Martin and Tamara Sumner
-* 21:50 - 22:10 **[Paper Presentation]** [Artificial Agents to Help Address the U.S. K–12 Math Gap Between Economically Disadvantaged vs. Advantaged Youth](#artificial-agents-to-help-address-the-u-s-k–12-math-gap-between-economically-disadvantaged-vs-advantaged-youth), Selmer Bringsjord, John Angel, Naveen Sundar Govindarajulu and Michael Giancola
-* 22:10 - 22:30 **[Paper Presentation]** [Designing Teachable Systems for Intelligent Tutor Authoring](#designing-teachable-systems-for-intelligent-tutor-authoring), Adit Gupta and Christopher MacLellan
-* 22:30 - 22:50 **[Paper Presentation]** [Investigating Knowledge Tracing Models using Simulated Students](#investigating-knowledge-tracing-models-using-simulated-students), Qiao Zhang and Christopher MacLellan
+* 21:30 - 21:50 **[Paper Presentation]** [Designing Teachable Systems for Intelligent Tutor Authoring](#designing-teachable-systems-for-intelligent-tutor-authoring), Adit Gupta and Christopher MacLellan
+* 21:50 - 22:10 **[Paper Presentation]** [Investigating Knowledge Tracing Models using Simulated Students](#investigating-knowledge-tracing-models-using-simulated-students), Qiao Zhang and Christopher MacLellan
+
+* **[Paper ONLY]** [Using Transformers to Provide Teachers with Personalized Feedback on their Classroom Discourse: The TalkMoves Application], Abhijit Suresh, Jennifer Jacobs, Vivian Lai, Chenhao Tan, Wayne Ward, James H. Martin and Tamara Sumner
+
+* **[Paper ONLY]** [Artificial Agents to Help Address the U.S. K–12 Math Gap Between Economically Disadvantaged vs. Advantaged Youth], Selmer Bringsjord, John Angel, Naveen Sundar Govindarajulu and Michael Giancola
+
+
+
+
 
 
 
@@ -270,30 +276,13 @@ Bio: Nigel Bosch is an Assistant Professor in the School of Information Sciences
 
 
 
-> ### Using Transformers to Provide Teachers with Personalized Feedback on their Classroom Discourse: The TalkMoves Application
-> 
-> <cite>Abhijit Suresh, Jennifer Jacobs, Vivian Lai, Chenhao Tan, Wayne Ward, James H. Martin and Tamara Sumner</cite>
-
-{% highlight html %}
-Abstract: TBD
-{% endhighlight %}
-
-
-> ### Artificial Agents to Help Address the U.S. K–12 Math Gap Between Economically Disadvantaged vs. Advantaged Youth
-> 
-> <cite>Selmer Bringsjord, John Angel, Naveen Sundar Govindarajulu and Michael Giancola</cite>
-
-{% highlight html %}
-Abstract: TBD
-{% endhighlight %}
-
-
 > ### Designing Teachable Systems for Intelligent Tutor Authoring
 > 
 > <cite>Adit Gupta and Christopher MacLellan</cite>
 
 {% highlight html %}
-Abstract: TBD
+Abstract: Intelligent tutoring systems (ITS) consistently improve students’ educational outcomes when used alone or in combination with traditional instruction (MacLellan et al. 2018). One major barrier to the wider use of AI tutoring systems is that they are non-trivial to build, requiring both time and expertise. Typically, authoring a tutor takes 200-300 hours of developer time to produce an hour of instruction time (Aleven et al. 2009; Weitekamp, Harpstead, and Koedinger 2020). Existing authoring methods, including Cognitive Tutor Authoring Tool’s (CTAT) Example Tracing and SimStudent’s Authoring by Tutoring approaches, let authors create ITSs quicker than traditional approaches, such as hand program- ming. While Example Tracing and Authoring by Tutoring re- duce the time and expertise required to create an ITS, such techniques do not allow humans to teach AI technologies in ways that are natural to humans. In this paper, we propose a research plan based on Natural Training Interactions (NTI) framework (MacLellan et al. 2018) that aims to create more human-centered and efficient tutor authoring tools. We pro- pose dual-sided, restricted-perception Wizard-of-Oz (WoZ) experiments, a novel variant of commonly used WoZ experiments, to prototype teachable AI technologies for tutor authoring. We engineered the NTI testbed to allow novel tasks to be studied in WoZ experiments without having to start from scratch for each experiment. Lastly, we propose three research questions that we believe will help us understand how to create teachable AI technology to power tutoring systems. The NTI framework aims to produce teachable agents that can be used by teachers and other non-programmers to naturally and efficiently author ITSs.
+
 {% endhighlight %}
 
 
@@ -303,7 +292,7 @@ Abstract: TBD
 > <cite>Qiao Zhang and Christopher MacLellan</cite>
 
 {% highlight html %}
-Abstract: TBD
+Abstract: Intelligent Tutoring Systems (ITS) are widely applied in K-12 education to help students to learn and master skills. Knowledge tracing algorithms are embedded in the tutors to keep track of what students know and do not know, in order to better focus practice. While knowledge tracing models have been extensively studied in offline settings, very little work has explored their use in online settings. This is primarily be- cause conducting experiments to evaluate and select knowledge tracing models in classroom settings is expensive. We explore the idea that machine learning models that simulated students might fill this gap. We conduct experiments using such agents generated by Apprentice Learner (AL) Architecture to investigate the online use of different knowledge tracing models (Bayesian Knowledge Tracing and the Streak model). We were able to successfully A/B test these different approaches using simulated students. An analysis of our experimental results revealed an error in the implementation of one of our knowledge tracing models that was not identified in our previous work, suggesting AL agents provide a practical means of evaluating knowledge tracing models prior to more costly classroom deployments. Additionally, our analysis found that there is a positive correlation between the model parameters achieved from human data and the parameters obtained from simulated learners. This finding suggests that it might be possible to initialize the parameters for knowledge tracing models using simulated data when no human- student data is yet available.
 {% endhighlight %}
 
 
