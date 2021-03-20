@@ -50,7 +50,7 @@ We outline the tentative schedule for the proposed symposium. All the time slots
 * 09:00 - 09:45 **[Keynote Talk]** [AI and the Social Context of Education: I’ll Meet You in the Middle](ai-and-the-social-context-of-education-i-ll-meet-you-in-the-middle), Kenneth Frank & Kaitlin Torphy, Michigan State University
 * 09:45 - 10:30 **[Keynote Talk]** [Six Challenges for the Future of Artificial Intelligence in Education](#six-challenges-for-the-future-of-artificial-intelligence-in-education), Ryan Baker, University of Pennsylvania
 * 10:30 - 11:00 **[Invited Talk]** [Enhancing Online Problems Through Instructor-Centered Tools for Randomized Experiments](#enhancing-online-problems-through-instructor-centered-tools-for-randomized-experiments)Joseph Jay Williams, University of Toronto
-* 11:00 - 11:30 **[Invited Talk]** [Empowering better automated writing evaluation systems with the PERSUADE corpus](#empowering-better-automated-writing-evaluation-systems-with-the-persuade-corpus), Scott Crossley, Georgia State University
+* 11:00 - 11:30 **[Invited Talk]** [Empowering Better Automated Writing Evaluation Systems with The PERSUADE Corpus](#empowering-better-automated-writing-evaluation-systems-with-the-persuade-corpus), Scott Crossley, Georgia State University
 * 11:30 - 12:00 **[Invited Talk]** [Helping Students Learn to Program with Automated, Data-driven Support](#helping-students-learn-to-program-with-automated-data-driven-support), Thomas Price, North Carolina State University
 * 12:00 - 12:30 **[Invited Talk]** [Intelligent Modeling and Support of Reading Comprehension Processes](#intelligent-modeling-and-support-of-reading-comprehension-processes), Erin Walker, University of Pittsburgh
 
@@ -59,7 +59,7 @@ We outline the tentative schedule for the proposed symposium. All the time slots
 
 * 18:45 - 19:00 Opening
 * 19:00 - 19:45 **[Keynote Talk]** [K-12 Early Warning Systems and Decision Making in Education: Considering Issues of Algorithmic Accuracy and Openness](#k-12-early-warning-systems-and-decision-making-in-education-considering-issues-of-algorithmic-accuracy-and-openness), Alex Bowers, Columbia University
-* 19:45 - 20:30 **[Keynote Talk]** [FACT: An automated teaching assistant in the Zoom classroom](#fact-an-automated-teaching-assistant-in-the-zoom-classroom), Kurt VanLehn, Arizona State University
+* 19:45 - 20:30 **[Keynote Talk]** [FACT: An Automated Teaching Assistant in the Zoom Classroom](#fact-an-automated-teaching-assistant-in-the-zoom-classroom), Kurt VanLehn, Arizona State University
 * 20:30 - 21:00 **[Invited Talk]** [Mastery Learning Heuristics: Understanding the Gap Between Research and Practice](#mastery-learning-heuristics-understanding-the-gap-between-research-and-practice), Shayan Doroudi, University of California, Irvine
 * 21:00 - 21:30 **[Invited Talk]** [Learning about Learning from Unstructured Classroom Data](#learning-about-learning-from-unstructured-classroom-data), Nigel Bosch, University of Illinois Urbana–Champaign
 * 21:30 - 21:50 **[Paper Presentation]** [Using Transformers to Provide Teachers with Personalized Feedback on their Classroom Discourse: The TalkMoves Application](#using-transformers-to-provide-teachers-with-personalized-feedback-on-their-classroom-discourse-the-talkmoves-application), Abhijit Suresh, Jennifer Jacobs, Vivian Lai, Chenhao Tan, Wayne Ward, James H. Martin and Tamara Sumner
