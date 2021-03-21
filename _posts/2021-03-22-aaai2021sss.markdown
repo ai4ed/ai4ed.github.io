@@ -82,7 +82,7 @@ We outline the tentative schedule for the proposed symposium. All the time slots
 * 09:45 - 10:15 **[Invited Talk]** [Towards Automated Generation of Personalized Pedagogical Interventions in Intelligent Tutoring Systems](#towards-automated-generation-of-personalized-pedagogical-interventions-in-intelligent-tutoring-systems), Ekaterina Kochmar, University of Cambridge
 * 10:15 - 10:45 **[Invited Talk]** [Transfer Learning for Language Assessment and Feedback](#transfer-learning-for-language-assessment-and-feedback), Helen Yannakoudakis, King's College London
 * 10:45 - 11:30 **[Keynote Talk]** [Using Machine Learning to Better Understand Human Learning](#using-machine-learning-to-better-understand-human-learning), Mehran Sahami, Stanford University
-* 11:00 - 11:30 **[Invited Talk]** [AI-Driven Robot for Education](#ai-driven-robot-for-education), Yu Lv, Beijing Normal University
+* 11:00 - 11:30 **[Invited Talk]** [AI-Driven Robot for Education](#ai-driven-robot-for-education), Yu Lu, Beijing Normal University
 * 11:30 - 12:00 **[Invited Talk]** [GodEye: An Efficient and Practical AI-based System Designing for Improving the Course Quality of K12 Online 1 on 1 Classes](#godeye-an-efficient-and-practical-ai-based-system-designing-for-improving-the-course-quality-of-k12-online-1-on-1-classes), Hang Li, TAL Education Group
 * 12:00 - 12:30 **[Invited Talk]** [Intelligent Dialogue Agents to Support K-12 Learning](#intelligent-dialogue-agents-to-support-k-12-learning), Kristy Boyer, University of Florida
 
@@ -346,7 +346,7 @@ Bio: Mehran Sahami is the James and Ellenor Chesebrough Professor in Engineering
 
 > ### AI-Driven Robot for Education
 > 
-> <cite>Dr. Yu Lv, Beijing Normal University</cite>
+> <cite>Dr. Yu Lu, Beijing Normal University</cite>
 
 {% highlight html %}
 Abstract: In this talk, I introduce two different AI-driven robots for the education purposes. The first robot mainly targets on better motivating learners and optimizing the learning experiments for subject learning. The second one focuses on providing the intelligent dialogue service to help young teachers and parents to solve their problems for moral education. The designed robots adopt the latest AI technologies, typically including natural language processing, machine learning and affective computing, and have been deployed in practical learning context.
