@@ -17,7 +17,7 @@ category: workshops
     * New York 09:00 - 12:00
     * San Francisco 05:00 - 09:00
     * London 13:00 - 17:00
-    * Beijing 20:00 - 00:00
+    * Beijing 21:00 - 00:00
   * Session Two at 
     * New York 19:00 - 23:00
     * San Francisco 16:00 - 20:00
