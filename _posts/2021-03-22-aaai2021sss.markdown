@@ -503,6 +503,13 @@ Bio: Elliot Robson is the General Manager at Eduworks Corporation. He has worked
 {% endhighlight %}
 
 
+> ### Classifying Documents to Multiple Readability levels
+> 
+> <cite>Wejdan Alkaldi and Diana Inkpen</cite>
+
+{% highlight html %}
+Abstract: Year after year, reading becomes more important to keep up with the growing amount of knowledge. The ability to read a document varies from person to person depending on their skills and knowledge. It also depends on the readability level of the text, whether it matches the reader’s level or not. In this paper, we propose a system that uses state-of-the-art technology, including deep learning, to classify text documents into their appropriate readability level. We design several features, including readability metrics. Our models are trained on on the Newsela dataset, that is labeled with five readability levels. We also propose an improved version of the dataset, that we use in order to achieve higher classification accuracy. This work could be beneficial to educators in assisting readers with different reading levels, in order to choose materials that match their readability level.
+{% endhighlight %}
 
 ## Organizers
 
