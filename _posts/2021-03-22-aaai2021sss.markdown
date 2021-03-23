@@ -94,6 +94,7 @@ We outline the tentative schedule for the proposed symposium. All the time slots
 * 21:30 - 22:00 **[Invited Talk]** [Efficiency and Revolution: How AI Will Empower K-12 Education](#efficiency-and-revolution-how-ai-will-empower-k-12-education), Qianying Wang, Lenovo Group
 * 22:00 - 22:30 **[Invited Talk]** [OLAF: A Multiagent Architecture Framework for Adaptive Instruction Systems](#olaf-a-multiagent-architecture-framework-for-adaptive-instruction-systems), Richard Tong, Yixue Squirrel AI Learning
 * 22:30 - 23:00 **[Invited Talk]** [Next Generation eBooks: Dynamic Data-rich Learning with PeBL](#next-generation-ebooks-dynamic-data-rich-learning-with-pebl), Elliot Robson, Eduworks Corporation
+* 23:00 - 23:20 **[Paper Presentation]** [Classifying Documents to Multiple Readability levels](#classifying-documents-to-multiple-readability-levels), Wejdan Alkaldi and Diana Inkpen
 
 <!-- ## Symposium Description
 
