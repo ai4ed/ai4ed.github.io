@@ -12,12 +12,14 @@ Feel free to contact **ai4ed.workshops@gmail.com** to add your event here :)
 ## Incoming
 
 
-> [Workshop on Artificial Intelligence for K-12 Education](http://ai4ed.cc/workshops/aaai2021sss)
+> [Workshop on Artificial Intelligence for Education](http://ai4ed.cc/workshops/ijcai2021)
 >
-> <cite>AAAI 2021 Spring Symposium</cite>
+> <cite>IJCAI 2021</cite>
 
 
 ## Past
+
+* [AAAI 2021 Spring Symposium on Artificial Intelligence for K-12 Education](http://ai4ed.cc/workshops/aaai2021sss)
 
 
 * [Challenge on Riiid! Answer Correctness Prediction - Track knowledge states of 1M+ students in the wild](https://www.kaggle.com/c/riiid-test-answer-prediction) - Kaggle Riiid AIEd Challenge 2020
