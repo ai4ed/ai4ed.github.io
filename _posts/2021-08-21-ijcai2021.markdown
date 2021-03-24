@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  IJCAI2021 Artificial Intelligence for Education
-date:   2021-03-22 00:00:00
+date:   2021-08-21 00:00:00
 image:  '/images/ijcai2021.jpg'
 tags:   [Workshop, IJCAI]
 featured: true

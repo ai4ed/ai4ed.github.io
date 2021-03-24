@@ -4,7 +4,7 @@ title:  AAAI2021 Spring Symposium on Artificial Intelligence for K-12 Education
 date:   2021-03-22 00:00:00
 image:  '/images/aaai2021sss.jpg'
 tags:   [Workshop, AAAI]
-featured: true
+featured: false
 category: workshops
 ---
 
