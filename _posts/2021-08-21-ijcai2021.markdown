@@ -1,0 +1,101 @@
+---
+layout: post
+title:  IJCAI2021 Artificial Intelligence for Education
+date:   2021-03-22 00:00:00
+image:  '/images/ijcai2021.jpg'
+tags:   [Workshop, IJCAI]
+featured: true
+category: workshops
+---
+
+
+## Introduction
+
+Technology has transformed over the last few years, turning from futuristic ideas into today’s reality. Artificial intelligence (AI) is one of these transformative technologies that is now achieving great successes in various real-world applications and making our life more convenient and safe. AI is now shaping the way businesses, governments, and educational institutions doing things and is making its way into classrooms, schools and districts across many countries.
+
+In fact, the increasingly digitalized education tools and the popularity of online learning have produced an unprecedented amount of data that provides us with invaluable opportunities for applying AI in education. Recent years have witnessed growing efforts from AI research community devoted to advancing our education and promising results have been obtained in solving various critical problems in education. For examples, AI tools are built to ease the workload for teachers. Instead of grading each piece of work individually, which can take up a bulk of extra time, intelligent scoring tools allow teachers the ability to have their students work automatically graded. In the coronoavirus era, requiring many schools to move to online learning, the ability to give feedback at scale could provide needed support to teachers. What's more, various AI based models are trained on massive student behavioral and exercise data to have the ability to take note of a student’s strengths and weaknesses, identifying where they may be struggling. These models can also generate instant feedback to instructors and help them to improve their teaching effectiveness. Furthermore, leveraging AI to connect disparate social networks amongst teachers, we may be able to provide greater resources for their planning, which have been shown to significantly effect students' achievement.
+
+
+Despite gratifying achievements have demonstrated the great potential and bright development prospect of introducing AI in education, developing and applying AI technologies to educational practice is fraught with its unique challenges, including, but not limited to, extreme data sparsity, lack of labeled data, and privacy issues. Hence, this workshop will focus on introducing research progress on applying AI to education and discussing recent advances of handling challenges encountered in AI educational practice. 
+
+
+
+## Topics
+
+We encourage keynote speeches on a broad range of AI domains for education. Topics of interest include (in no particular order) but are not limited to following:
+
+* Emerging technologies in education
+* Evaluation of education technologies
+* Immersive learning and multimedia applications
+* Implications of big data in education
+* Self-adaptive learning
+* Individual and personalized education
+* Intelligent learning systems
+* Intelligent tutoring and monitoring systems
+* Automatic assessment in education
+* Automated grading of assignments
+* Automated feedback and recommendations
+* Big data analytics for education
+* Analysis of communities of learning
+* Computer-aided assessment
+* Course development techniques
+* Data analytics & big data in education
+* Mining and web mining in education
+* Learning tools experiences and cases of study
+* Social media in education
+* Smart education
+* Digital libraries for learning
+* Education analytic approaches, methods, and tools
+* Knowledge management for learning
+* Learning analytics and educational data mining
+* Learning technology for lifelong learning
+* Tracking learning activities
+* Uses of multimedia for education
+* Wearable computing technology in e-learning
+* Smart classroom
+* Dropout prediction
+* Knowledge tracing
+
+
+
+## Submissions
+
+The symposium solicits paper submissions from participants (2–6 pages). Abstracts of the following flavors will be sought: 
+
+1. research ideas
+2. case studies (or deployed projects)
+3. review papers
+4. best practice papers
+5. lessons learned. 
+
+The format is the standard double-column AAAI Proceedings Style and *single blind*. The author kit can be found at [https://ijcai-21.org/docs/authors_response_template.zip](https://ijcai-21.org/docs/authors_response_template.zip).
+
+We will encourage submissions of works-in-progress and extended abstracts, in addition to full length papers. All submissions will be peer-reviewed. Some will be selected for spotlight talks, and some for the poster session. A poster session has been a highly effective form of communicating early stage research, compared to full presentations. In combination with oral representations, the accepted papers will get audience attention and lead to a very interactive, feedback based poster session.
+
+
+For more questions about the workshop and submissions, please send email to *liuzitao@100tal.com*.
+
+
+
+## Important Dates
+
+* **June 01, 2021**: Workshop paper submission due AOE
+* **June 20, 2021**: Notifications of acceptance
+* **August 21, 2021**: Workshop Date 
+
+
+
+
+## Organizers
+
+![Beautiful place]({{site.baseurl}}/images/ijcai2021_workshop_organizers.jpg)
+
+* **Zitao Liu** TAL Education Group, China
+* **Richard Tong** Squirrel AI Learning, USA
+* **Xiangen Hu** University of Memphis, USA
+* **Jiliang Tang** Michigan State University, USA
+* **Hang Li** TAL Education Group, China
+
+
+
+
