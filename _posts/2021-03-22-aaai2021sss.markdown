@@ -53,24 +53,53 @@ We outline the tentative schedule for the proposed symposium. All the time slots
 * 09:00 - 09:45 **[Keynote Talk]** [AI and the Social Context of Education: I’ll Meet You in the Middle](#ai-and-the-social-context-of-education-ill-meet-you-in-the-middle), Kenneth Frank & Kaitlin Torphy, Michigan State University  
     * Talk Video@Youtube [Link](https://www.youtube.com/watch?v=2-1RD27F8cU&list=PLCs_ylKds0dNXo8kd8eHRDZK2KbCBcL27&index=2) 
     * Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV1Vy4y1h7wr)
-* 09:45 - 10:30 **[Keynote Talk]** [Six Challenges for the Future of Artificial Intelligence in Education](#six-challenges-for-the-future-of-artificial-intelligence-in-education), Ryan Baker, University of Pennsylvania  [Youtube]() [Bilibili]()
-* 10:30 - 11:00 **[Invited Talk]** [Enhancing Online Problems Through Instructor-Centered Tools for Randomized Experiments](#enhancing-online-problems-through-instructor-centered-tools-for-randomized-experiments), Joseph Jay Williams, University of Toronto  [Youtube]() [Bilibili]()
-* 11:00 - 11:30 **[Invited Talk]** [Empowering Better Automated Writing Evaluation Systems with The PERSUADE Corpus](#empowering-better-automated-writing-evaluation-systems-with-the-persuade-corpus), Scott Crossley, Georgia State University  [Youtube]() [Bilibili]()
-* 11:30 - 12:00 **[Invited Talk]** [Helping Students Learn to Program with Automated, Data-driven Support](#helping-students-learn-to-program-with-automated-data-driven-support), Thomas Price, North Carolina State University  [Youtube]() [Bilibili]()
-* 12:00 - 12:30 **[Invited Talk]** [Intelligent Modeling and Support of Reading Comprehension Processes](#intelligent-modeling-and-support-of-reading-comprehension-processes), Erin Walker, University of Pittsburgh  [Youtube]() [Bilibili]()
-
+* 09:45 - 10:30 **[Keynote Talk]** [Six Challenges for the Future of Artificial Intelligence in Education](#six-challenges-for-the-future-of-artificial-intelligence-in-education), Ryan Baker, University of Pennsylvania
+    * Talk Video@Youtube [Link](https://www.youtube.com/watch?v=6prq8RozKx8&list=PLCs_ylKds0dNXo8kd8eHRDZK2KbCBcL27&index=3) 
+    * Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV1A54y1h7KY)
+* 10:30 - 11:00 **[Invited Talk]** [Enhancing Online Problems Through Instructor-Centered Tools for Randomized Experiments](#enhancing-online-problems-through-instructor-centered-tools-for-randomized-experiments), Joseph Jay Williams, University of Toronto
+    * Talk Video@Youtube [Link](https://www.youtube.com/watch?v=z2WL6uYzrfE&list=PLCs_ylKds0dNXo8kd8eHRDZK2KbCBcL27&index=4) 
+    * Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV115411w7VC)
+* 11:00 - 11:30 **[Invited Talk]** [Empowering Better Automated Writing Evaluation Systems with The PERSUADE Corpus](#empowering-better-automated-writing-evaluation-systems-with-the-persuade-corpus), Scott Crossley, Georgia State University
+    * Talk Video@Youtube [Link](https://www.youtube.com/watch?v=AETWJWL2M5Q&list=PLCs_ylKds0dNXo8kd8eHRDZK2KbCBcL27&index=5&t=1s) 
+    * Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV1zB4y1P7Tq)
+* 11:30 - 12:00 **[Invited Talk]** [Helping Students Learn to Program with Automated, Data-driven Support](#helping-students-learn-to-program-with-automated-data-driven-support), Thomas Price, North Carolina State University
+    * Talk Video@Youtube [Link](https://www.youtube.com/watch?v=-GWDHkLRn30&list=PLCs_ylKds0dNXo8kd8eHRDZK2KbCBcL27&index=6) 
+    * Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV1Vi4y1P78q)
+* 12:00 - 12:30 **[Invited Talk]** [Intelligent Modeling and Support of Reading Comprehension Processes](#intelligent-modeling-and-support-of-reading-comprehension-processes), Erin Walker, University of Pittsburgh
+    * Talk Video@Youtube [Link](https://www.youtube.com/watch?v=zzbCb7grAKk&list=PLCs_ylKds0dNXo8kd8eHRDZK2KbCBcL27&index=7) 
+    * Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV1cU4y1Y7hz)
 
 ### March 22 Session Two: Artificial Intelligence to Empower K-12 Education
 
 * 18:45 - 19:00 Opening
-* 19:00 - 19:45 **[Keynote Talk]** [K-12 Early Warning Systems and Decision Making in Education: Considering Issues of Algorithmic Accuracy and Openness](#k-12-early-warning-systems-and-decision-making-in-education-considering-issues-of-algorithmic-accuracy-and-openness), Alex Bowers, Columbia University [Youtube]() [Bilibili]()
-* 19:45 - 20:30 **[Keynote Talk]** [FACT: An Automated Teaching Assistant in the Zoom Classroom](#fact-an-automated-teaching-assistant-in-the-zoom-classroom), Kurt VanLehn, Arizona State University [Youtube]() [Bilibili]()
-* 20:30 - 21:00 **[Invited Talk]** [Mastery Learning Heuristics: Understanding the Gap Between Research and Practice](#mastery-learning-heuristics-understanding-the-gap-between-research-and-practice), Shayan Doroudi, University of California, Irvine [Youtube]() [Bilibili]()
-* 21:00 - 21:30 **[Invited Talk]** [Learning about Learning from Unstructured Classroom Data](#learning-about-learning-from-unstructured-classroom-data), Nigel Bosch, University of Illinois Urbana–Champaign [Youtube]() [Bilibili]()
+* 19:00 - 19:45 **[Keynote Talk]** [K-12 Early Warning Systems and Decision Making in Education: Considering Issues of Algorithmic Accuracy and Openness](#k-12-early-warning-systems-and-decision-making-in-education-considering-issues-of-algorithmic-accuracy-and-openness), Alex Bowers, Columbia University
+    * Talk Video@Youtube [Link](https://www.youtube.com/watch?v=Hj7vWt6-OeY&list=PLCs_ylKds0dNXo8kd8eHRDZK2KbCBcL27&index=8) 
+    * Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV1qK4y1T7Kp)
+* 19:45 - 20:30 **[Keynote Talk]** [FACT: An Automated Teaching Assistant in the Zoom Classroom](#fact-an-automated-teaching-assistant-in-the-zoom-classroom), Kurt VanLehn, Arizona State University
+    * Talk Video@Youtube [Link](https://www.youtube.com/watch?v=9rzLIPiT6vo&list=PLCs_ylKds0dNXo8kd8eHRDZK2KbCBcL27&index=9) 
+    * Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV1mA411N7Uz)
+* 20:30 - 21:00 **[Invited Talk]** [Mastery Learning Heuristics: Understanding the Gap Between Research and Practice](#mastery-learning-heuristics-understanding-the-gap-between-research-and-practice), Shayan Doroudi, University of California, Irvine
+    * Talk Video@Youtube [Link](https://www.youtube.com/watch?v=10t1q0XUHYc&list=PLCs_ylKds0dNXo8kd8eHRDZK2KbCBcL27&index=10) 
+    * Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV1654y187m4)
+* 21:00 - 21:30 **[Invited Talk]** [Learning about Learning from Unstructured Classroom Data](#learning-about-learning-from-unstructured-classroom-data), Nigel Bosch, University of Illinois Urbana–Champaign
+    * Talk Video@Youtube [Link](https://www.youtube.com/watch?v=KdXsRIjxeLY&list=PLCs_ylKds0dNXo8kd8eHRDZK2KbCBcL27&index=11) 
+    * Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV1FA411K7ZD)
 * 21:30 - 21:50 **[Paper Presentation]** [Designing Teachable Systems for Intelligent Tutor Authoring](#designing-teachable-systems-for-intelligent-tutor-authoring), Adit Gupta and Christopher MacLellan
+    * Camera Ready [PDF](https://drive.google.com/file/d/1NG0f3Kix8G4gaW0CMdkFjzTMNb6oC4P4/view?usp=sharing)
+    * Talk Video@Youtube [Link](https://www.youtube.com/watch?v=UV7r9yvz5I0&list=PLCs_ylKds0dNXo8kd8eHRDZK2KbCBcL27&index=11) 
+    * Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV1YK4y1N73A)
 * 21:50 - 22:10 **[Paper Presentation]** [Investigating Knowledge Tracing Models using Simulated Students](#investigating-knowledge-tracing-models-using-simulated-students), Qiao Zhang and Christopher MacLellan
+    * Camera Ready [PDF](https://drive.google.com/file/d/1WJ2UowFxeUkIqm4xb3mOPUem6_3h5FDX/view?usp=sharing)
+    * Talk Video@Youtube [Link](https://www.youtube.com/watch?v=a5ssnJp_EYo&list=PLCs_ylKds0dNXo8kd8eHRDZK2KbCBcL27&index=13) 
+    * Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV1kU4y1a7P2)
 * 22:10 - 22:30 **[Paper Presentation]** [Using Transformers to Provide Teachers with Personalized Feedback on their Classroom Discourse: The TalkMoves Application](#using-transformers-to-provide-teachers-with-personalized-feedback-on-their-classroom-discourse-the-talkmoves-application), Abhijit Suresh, Jennifer Jacobs, Vivian Lai, Chenhao Tan, Wayne Ward, James H. Martin and Tamara Sumner
+    * Camera Ready [PDF](https://drive.google.com/file/d/1cDSNPSpNO2eirRPXkXUN-lhvjVlZrWkl/view?usp=sharing)
+    * Talk Video@Youtube [Link](https://www.youtube.com/watch?v=PVlmRbV_3qk&list=PLCs_ylKds0dNXo8kd8eHRDZK2KbCBcL27&index=29) 
+    * Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV1tV411n7vt)
 * 22:30 - 22:50 **[Paper Presentation]** [Artificial Agents to Help Address the U.S. K–12 Math Gap Between Economically Disadvantaged vs. Advantaged Youth](#artificial-agents-to-help-address-the-us-k–12-math-gap-between-economically-disadvantaged-vs-advantaged-youth), Selmer Bringsjord, John Angel, Naveen Sundar Govindarajulu and Michael Giancola
+    * Camera Ready [PDF](https://drive.google.com/file/d/1tE0MHdRgwFqh5BGQJqfWD58kagOZAM4Q/view?usp=sharing)
+    * Talk Video@Youtube [Link](https://www.youtube.com/watch?v=d0RO4oZX9uw&list=PLCs_ylKds0dNXo8kd8eHRDZK2KbCBcL27&index=30) 
+    * Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV16v41187MW)
 
 
 
@@ -82,24 +111,55 @@ We outline the tentative schedule for the proposed symposium. All the time slots
 
 * 08:45 - 09:00 Opening
 * 09:00 - 09:45 **[Keynote Talk]** [Efficiency, Efficacy, and Equity: Leveraging Ethical AI to Revolutionize Education](#efficiency-efficacy-and-equity-leveraging-ethical-ai-to-revolutionize-education), Kara McWilliams, ETS AI Research Labs
+    * Talk Video@Youtube [Link](https://www.youtube.com/watch?v=EviEWw8eFLY&list=PLCs_ylKds0dNXo8kd8eHRDZK2KbCBcL27&index=14&t=6s) 
+    * Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV1JV411e7NJ)
 * 09:45 - 10:15 **[Invited Talk]** [Towards Automated Generation of Personalized Pedagogical Interventions in Intelligent Tutoring Systems](#towards-automated-generation-of-personalized-pedagogical-interventions-in-intelligent-tutoring-systems), Ekaterina Kochmar, University of Cambridge
+    * Talk Video@Youtube [Link](https://www.youtube.com/watch?v=7BgXI_15PPQ&list=PLCs_ylKds0dNXo8kd8eHRDZK2KbCBcL27&index=28&t=8s) 
+    * Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV1VZ4y1A7E7)
 * 10:15 - 10:45 **[Invited Talk]** [Transfer Learning for Language Assessment and Feedback](#transfer-learning-for-language-assessment-and-feedback), Helen Yannakoudakis, King's College London
+    * Talk Video@Youtube [Link](https://www.youtube.com/watch?v=bWtoB27DAO4&list=PLCs_ylKds0dNXo8kd8eHRDZK2KbCBcL27&index=15) 
+    * Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV1z5411w7vs)
 * 10:45 - 11:30 **[Keynote Talk]** [Using Machine Learning to Better Understand Human Learning](#using-machine-learning-to-better-understand-human-learning), Mehran Sahami, Stanford University
+    * Talk Video@Youtube [Link](https://www.youtube.com/watch?v=bEtI4NZ2Ik4&list=PLCs_ylKds0dNXo8kd8eHRDZK2KbCBcL27&index=16) 
+    * Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV1aK4y1N7XJ)
 * 11:00 - 11:30 **[Invited Talk]** [AI-Driven Robot for Education](#ai-driven-robot-for-education), Yu Lu, Beijing Normal University
+    * Talk Video@Youtube [Link](https://www.youtube.com/watch?v=8KdnmlMJ1gI&list=PLCs_ylKds0dNXo8kd8eHRDZK2KbCBcL27&index=17) 
+    * Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV1ch411D7iQ)
 * 11:30 - 12:00 **[Invited Talk]** [GodEye: An Efficient and Practical AI-based System Designing for Improving the Course Quality of K12 Online 1 on 1 Classes](#godeye-an-efficient-and-practical-ai-based-system-designing-for-improving-the-course-quality-of-k12-online-1-on-1-classes), Hang Li, TAL Education Group
+    * Talk Video@Youtube [Link](https://www.youtube.com/watch?v=lm_HZ8ObJrc&list=PLCs_ylKds0dNXo8kd8eHRDZK2KbCBcL27&index=18) 
+    * Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV1wv41187Sv)
 * 12:00 - 12:30 **[Invited Talk]** [Intelligent Dialogue Agents to Support K-12 Learning](#intelligent-dialogue-agents-to-support-k-12-learning), Kristy Boyer, University of Florida
+    * Talk Video@Youtube [Link](https://www.youtube.com/watch?v=NyQ9L9qD9NE&list=PLCs_ylKds0dNXo8kd8eHRDZK2KbCBcL27&index=19) 
+    * Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV1TU4y1Y7uF)
 
 ### March 23 Session Two: Innovative Industrial AI Applications in Education
 
 * 18:45 - 19:00 Opening
 * 19:00 - 19:45 **[Keynote Talk]** [Digital-first Assessments in a Computational Psychometrics Framework](#digital-first-assessments-in-a-computational-psychometrics-framework), Alina von Davier, Duolingo
+    * Talk Video@Youtube [Link](https://www.youtube.com/watch?v=V96xliEod6Q&list=PLCs_ylKds0dNXo8kd8eHRDZK2KbCBcL27&index=20) 
+    * Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV1By4y1t7mr)
 * 19:45 - 20:30 **[Keynote Talk]** [Innovative Adaptive Instructional Solutions](#innovative-adaptive-instructional-solutions), Robert Sottilare, Soar Technology
+    * Talk Video@Youtube [Link](https://www.youtube.com/watch?v=3BaiPJsa-Jg&list=PLCs_ylKds0dNXo8kd8eHRDZK2KbCBcL27&index=21) 
+    * Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV1nf4y1x7zZ)
 * 20:30 - 21:00 **[Invited Talk]** [Child Specific Voice Technology in Education](#child-specific-voice-technology-in-education), Patricia Scanlon, SoapBox Labs
+    * Talk Video@Youtube [Link](https://www.youtube.com/watch?v=okh8IdCu7mk&list=PLCs_ylKds0dNXo8kd8eHRDZK2KbCBcL27&index=22) 
+    * Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV1oy4y1t7oZ)
 * 21:00 - 21:30 **[Invited Talk]** [Smart Path to Future Success](#smart-path-to-future-success), Susan Liu, TAL Education Group
+    * Talk Video@Youtube [Link](https://www.youtube.com/watch?v=oR3Z6jlc9pg&list=PLCs_ylKds0dNXo8kd8eHRDZK2KbCBcL27&index=26) 
+    * Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV1Sp4y1b7EV)
 * 21:30 - 22:00 **[Invited Talk]** [Efficiency and Revolution: How AI Will Empower K-12 Education](#efficiency-and-revolution-how-ai-will-empower-k-12-education), Qianying Wang, Lenovo Group
+    * Talk Video@Youtube [Link](https://www.youtube.com/watch?v=6rZBnZ2fu14&list=PLCs_ylKds0dNXo8kd8eHRDZK2KbCBcL27&index=23) 
+    * Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV1k5411w73v)
 * 22:00 - 22:30 **[Invited Talk]** [OLAF: A Multiagent Architecture Framework for Adaptive Instruction Systems](#olaf-a-multiagent-architecture-framework-for-adaptive-instruction-systems), Richard Tong, Yixue Squirrel AI Learning
+    * Talk Video@Youtube [Link](https://www.youtube.com/watch?v=T-xCl0_Yx-U&list=PLCs_ylKds0dNXo8kd8eHRDZK2KbCBcL27&index=24) 
+    * Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV18b4y1Q7jz)
 * 22:30 - 23:00 **[Invited Talk]** [Next Generation eBooks: Dynamic Data-rich Learning with PeBL](#next-generation-ebooks-dynamic-data-rich-learning-with-pebl), Elliot Robson, Eduworks Corporation
+    * Talk Video@Youtube [Link](https://www.youtube.com/watch?v=HYS4SxAwdsQ&list=PLCs_ylKds0dNXo8kd8eHRDZK2KbCBcL27&index=25) 
+    * Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV1TA411K7fy)
 * 23:00 - 23:20 **[Paper Presentation]** [Classifying Documents to Multiple Readability levels](#classifying-documents-to-multiple-readability-levels), Wejdan Alkaldi and Diana Inkpen
+    * Camera Ready [PDF](https://drive.google.com/file/d/129dSQJvQfncnlyYL4d5d5CKC50Aq0wJb/view?usp=sharing)
+    * Talk Video@Youtube [Link](https://www.youtube.com/watch?v=CuYseydxdC8&list=PLCs_ylKds0dNXo8kd8eHRDZK2KbCBcL27&index=27&t=4s) 
+    * Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV1oi4y1P7yH)
 
 <!-- ## Symposium Description
 
