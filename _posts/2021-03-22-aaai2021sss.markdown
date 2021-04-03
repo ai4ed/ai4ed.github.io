@@ -50,12 +50,12 @@ We outline the tentative schedule for the proposed symposium. All the time slots
 ### March 22 Session One: Artificial Intelligence to Empower K-12 Education
 
 * 08:45 - 09:00 Opening
-* 09:00 - 09:45 **[Keynote Talk]** [AI and the Social Context of Education: I’ll Meet You in the Middle](#ai-and-the-social-context-of-education-i-ll-meet-you-in-the-middle), Kenneth Frank & Kaitlin Torphy, Michigan State University
-* 09:45 - 10:30 **[Keynote Talk]** [Six Challenges for the Future of Artificial Intelligence in Education](#six-challenges-for-the-future-of-artificial-intelligence-in-education), Ryan Baker, University of Pennsylvania
-* 10:30 - 11:00 **[Invited Talk]** [Enhancing Online Problems Through Instructor-Centered Tools for Randomized Experiments](#enhancing-online-problems-through-instructor-centered-tools-for-randomized-experiments), Joseph Jay Williams, University of Toronto
-* 11:00 - 11:30 **[Invited Talk]** [Empowering Better Automated Writing Evaluation Systems with The PERSUADE Corpus](#empowering-better-automated-writing-evaluation-systems-with-the-persuade-corpus), Scott Crossley, Georgia State University
-* 11:30 - 12:00 **[Invited Talk]** [Helping Students Learn to Program with Automated, Data-driven Support](#helping-students-learn-to-program-with-automated-data-driven-support), Thomas Price, North Carolina State University
-* 12:00 - 12:30 **[Invited Talk]** [Intelligent Modeling and Support of Reading Comprehension Processes](#intelligent-modeling-and-support-of-reading-comprehension-processes), Erin Walker, University of Pittsburgh
+* 09:00 - 09:45 **[Keynote Talk]** [AI and the Social Context of Education: I’ll Meet You in the Middle](#ai-and-the-social-context-of-education-ill-meet-you-in-the-middle), Kenneth Frank & Kaitlin Torphy, Michigan State University  [Youtube]() [Bilibili]()
+* 09:45 - 10:30 **[Keynote Talk]** [Six Challenges for the Future of Artificial Intelligence in Education](#six-challenges-for-the-future-of-artificial-intelligence-in-education), Ryan Baker, University of Pennsylvania  [Youtube]() [Bilibili]()
+* 10:30 - 11:00 **[Invited Talk]** [Enhancing Online Problems Through Instructor-Centered Tools for Randomized Experiments](#enhancing-online-problems-through-instructor-centered-tools-for-randomized-experiments), Joseph Jay Williams, University of Toronto  [Youtube]() [Bilibili]()
+* 11:00 - 11:30 **[Invited Talk]** [Empowering Better Automated Writing Evaluation Systems with The PERSUADE Corpus](#empowering-better-automated-writing-evaluation-systems-with-the-persuade-corpus), Scott Crossley, Georgia State University  [Youtube]() [Bilibili]()
+* 11:30 - 12:00 **[Invited Talk]** [Helping Students Learn to Program with Automated, Data-driven Support](#helping-students-learn-to-program-with-automated-data-driven-support), Thomas Price, North Carolina State University  [Youtube]() [Bilibili]()
+* 12:00 - 12:30 **[Invited Talk]** [Intelligent Modeling and Support of Reading Comprehension Processes](#intelligent-modeling-and-support-of-reading-comprehension-processes), Erin Walker, University of Pittsburgh  [Youtube]() [Bilibili]()
 
 
 ### March 22 Session Two: Artificial Intelligence to Empower K-12 Education
