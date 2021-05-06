@@ -72,7 +72,7 @@ The paper should be formatted to the standard IJCAI 2021 template. The author ki
 
 Please submit your paper to:
 
-https://easychair.org/conferences/?conf=ai4eduijcai2021
+[https://easychair.org/conferences/?conf=ai4eduijcai2021](https://easychair.org/conferences/?conf=ai4eduijcai2021)
 
 We will encourage submissions of works-in-progress and extended abstracts, in addition to full length papers. All submissions will be peer-reviewed. Some will be selected for spotlight talks, and some for the poster session. A poster session has been a highly effective form of communicating early stage research, compared to full presentations. In combination with oral representations, the accepted papers will get audience attention and lead to a very interactive, feedback based poster session.
 
