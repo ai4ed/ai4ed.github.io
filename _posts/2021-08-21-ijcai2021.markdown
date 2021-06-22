@@ -85,9 +85,32 @@ For more questions about the workshop and submissions, please send email to *liu
 
 * ~~**May 10, 2021**~~ ~~**May 30, 2021**~~ **June 5, 2021**: Workshop paper submission due AOE
 * ~~**May 25, 2021**~~ ~~**June 15, 2021**~~ **June 22, 2021** (*Sorry for the late notification*): Notifications of acceptance
+* **July 6, 2021**: Deadline of the camera-ready final paper submission
 * **August 21, 2021**: Workshop Date 
 
 
+## Accepted Papers
+
+* **Supporting Self-Regulation Learning Using a Bayesian Approach. Some Preliminary Insights.**  
+Fahima Djelil, Jean-Marie Gilliot, Philippe Leray and Serge Garlatti
+
+* **ADAPQUEST: A Software for Web-Based Adaptive Questionnaires based on Bayesian Networks**  
+Claudio Bonesana, Francesca Mangili and Alessandro Antonucci
+
+* **RLTutor: Reinforcement Learning Based Adaptive Tutoring System by Modeling Virtual Student with Fewer Interactions**  
+Yoshiki Kubotani, Yoshihiro Fukuhara and Shigeo Morishima
+
+* **Competency Model Approach to AI Literacy: Research-based Path from Initial Framework to Model**  
+Farhana Faruqe, Larry Medsker and Ryan Watkins
+
+* **EQ-Net: A Geometric Deep Model to Assist Educational Questionnaire Analysis**  
+Yaqing Wang, Min Lu and Quanming Yao
+
+* **Neural Prerequisite Prediction**  
+Fatima Al-Raisi, Rayyan Al Khadhuri, Khoula Al Kharusi, Istabraq Al Rahaili and Sara Al Hosni
+
+* **Deep Knowledge Tracing using Temporal Convolutional Networks**  
+Nisrine Ait Khai, Vasile Rus and Lasang Tamang
 
 
 ## Organizers
