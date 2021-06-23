@@ -10,7 +10,7 @@ category: workshops
 
 ## Updates
 
-* [June 22, 2021] AI4EDU @ IJCAI2021 accepted paper list is released, details can be found in [Accepted Papers](#Accepted-Papers) section. Congratulations!
+* [June 22, 2021] AI4EDU @ IJCAI2021 accepted paper list is released, details can be found in [Accepted Papers](#accepted-papers) section. Congratulations!
 
 * [June 22, 2021] Deadline of the camera-ready final paper submission is set at <u>July 6, 2021</u>. Please submit your FINAL paper through the "update file" button on your paper submission page: [https://easychair.org/conferences/?conf=ai4eduijcai2021](https://easychair.org/conferences/?conf=ai4eduijcai2021). 
 
