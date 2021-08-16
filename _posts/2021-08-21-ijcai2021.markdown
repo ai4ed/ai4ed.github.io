@@ -9,6 +9,7 @@ category: workshops
 ---
 
 ## Updates
+* [August 15, 2021] Workshop schedule is now updated. More information about topics and titles of each talk is displayed in [Workshop Schedule](#workshop-schedule).
 
 * [August 1, 2021] Workshop schedule for AI4EDU @ IJCAI2021 is decided! Please check [Workshop Schedule](#workshop-schedule) for more details. More information about invited talks will be released soon.
 
@@ -31,10 +32,53 @@ We outline the tentative schedule for the proposed workshop. All the time slots 
 
 * 10:00 - 10:10 Opening Remarks
 * 10:10 - 12:10 Invited Talk Session 1
+    * 10:10 - 10:40 Automated Content Creation (Automated Authoring of ITS)  
+      Speaker: Andrew Olney, 
+    * 10:40 - 11:10 Intelligent tutoring system  
+      Speaker: James Lester, North Carolina State University
+    * 11:10 - 11:40 MOOCS/LA  
+      Speaker: Jie Tang, Tsinghua University
+    * 11:40 - 12:10 Course Recommendation  
+      Speaker: Zachary A. Pardos, UC Berkeley
 * 12:10 - 12:50 Paper Presentation Session 1
+    * 12:10 - 12:20 RLTutor: Reinforcement Learning Based Adaptive Tutoring System by Modeling Virtual Student with Fewer Interactions  
+    Authors: Yoshiki Kubotani, Yoshihiro Fukuhara and Shigeo Morishima
+    * 12:20 - 12:30 EQ-Net: A Geometric Deep Model to Assist Educational Questionnaire Analysis  
+    Authors: Yaqing Wang, Min Lu and Quanming Yao
+    * 12:30 - 12:40 Supporting Self-Regulation Learning Using a Bayesian Approach. Some Preliminary Insights.  
+    Authors: Fahima Djelil, Jean-Marie Gilliot, Serge Garlatti and Philippe Leray
+    * 12:40 - 12:50 Deep Knowledge Tracing using Temporal Convolutional Networks  
+    Authors: Nisrine Ait Khai, Vasile Rus and Lasang Tamang
 * 12:50 - 14:50 Invited Talk Session 2
+    * 12:50 - 13:20 Reading Comprehension  
+    Speaker: Danielle McNamara, Arizona State University
+    * 13:20 - 13:50 Reinforcement Learning in Education  
+    Speaker: Vasile Rus, University of Memphis
+    * 13:50 - 14:20 Computational Thinking  
+    Speaker: Gautam Biswas, Vanderbilt University
+    * 14:20 - 14:50 The impact of Pedagogical Policy on Student Learning: An Reinforcement Learning Approach  
+    Speaker: Min Chi, North Carolina State University
 * 14:50 - 15:20 Paper Presentation Session 2
+    * 14:50 - 15:00 Competency Model Approach to AI Literacy: Research-based Path from Initial Framework to Model  
+    Authors: Farhana Faruqe, Larry Medsker and Ryan Watkins
+    * 15:00 - 15:10 Neural Prerequisite Prediction  
+    Authors: Fatima Al-Raisi, Rayyan Al Khadhuri, Khoula Al Kharusi, Istabraq Al Rahaili and Sara Al Hosni
+    * 15:10 - 15:20 ADAPQUEST: A Software for Web-Based Adaptive Questionnaires based on Bayesian Networks  
+    Authors: Claudio Bonesana, Francesca Mangili and Alessandro Antonucci
 * 15:20 - 18:20 Invited Talk Session 3
+    * 15:20 - 15:50 Identify learning in real time  
+    Speaker: Charles Lang, Columbia University
+    * 15:50 - 16:20 Human system evaluations on Educational Technologies  
+    Speaker: Scotty Craig, Arizona State University
+    * 16:20 - 16:50 Anticipate, Notice, Respond: A Framework for Learner Variability  
+    Speaker: David Dockterman, Harvard University
+    * 16:50 - 17:20 Explainable question answering for education  
+    Speaker: Dapeng Wu, University of Florida
+    * 17:20 - 17:50 Analogy and Reasoning  
+    Speaker: Ken Forbus, Northwestern University
+    * 17:50 - 18:20 An automated teaching assistant for middle school math classrooms  
+    Speaker: Kurt VanLehn, Arizona State University
+
 * 18:20 - 18:30 Final Remarks
 
 
