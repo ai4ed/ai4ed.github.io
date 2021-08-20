@@ -9,6 +9,8 @@ category: workshops
 ---
 
 ## Updates
+* [August 19, 2021] Workshop Day is approaching. See you all tomorrow!
+
 * [August 15, 2021] Workshop schedule is now updated. More information about topics and titles of each talk is displayed in [Workshop Schedule](#workshop-schedule).
 
 * [August 1, 2021] Workshop schedule for AI4EDU @ IJCAI2021 is decided! Please check [Workshop Schedule](#workshop-schedule) for more details. More information about invited talks will be released soon.
@@ -33,11 +35,11 @@ We outline the tentative schedule for the proposed workshop. All the time slots 
 * 10:00 - 10:10 Opening Remarks
 * 10:10 - 12:10 Invited Talk Session 1
     * 10:10 - 10:40 Automated Content Creation (Automated Authoring of ITS)  
-      Speaker: Andrew Olney, 
+      Speaker: Andrew Olney, University of Memphis
     * 10:40 - 11:10 Intelligent tutoring system  
       Speaker: James Lester, North Carolina State University
-    * 11:10 - 11:40 MOOCS/LA  
-      Speaker: Jie Tang, Tsinghua University
+    * 11:10 - 11:40 An automated teaching assistant for middle school math classrooms  
+      Speaker: Kurt VanLehn, Arizona State University
     * 11:40 - 12:10 Course Recommendation  
       Speaker: Zachary A. Pardos, UC Berkeley
 * 12:10 - 12:50 Paper Presentation Session 1
@@ -76,10 +78,8 @@ We outline the tentative schedule for the proposed workshop. All the time slots 
     Speaker: Dapeng Wu, University of Florida
     * 17:20 - 17:50 Analogy and Reasoning  
     Speaker: Ken Forbus, Northwestern University
-    * 17:50 - 18:20 An automated teaching assistant for middle school math classrooms  
-    Speaker: Kurt VanLehn, Arizona State University
 
-* 18:20 - 18:30 Final Remarks
+* 17:50 - 18:00 Final Remarks
 
 
 ## Accepted Papers
