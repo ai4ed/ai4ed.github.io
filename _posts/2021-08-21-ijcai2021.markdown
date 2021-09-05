@@ -4,7 +4,7 @@ title:  IJCAI2021 Artificial Intelligence for Education
 date:   2021-08-20 10:00:00
 image:  '/images/ijcai2021.jpg'
 tags:   [Workshop, IJCAI]
-featured: true
+featured: false
 category: workshops
 ---
 
