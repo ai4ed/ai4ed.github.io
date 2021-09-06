@@ -12,12 +12,14 @@ Feel free to contact **ai4ed.workshops@gmail.com** to add your event here :)
 ## Incoming
 
 
-> [Workshop on Artificial Intelligence for Education](http://ai4ed.cc/workshops/ijcai2021)
+> [Workshop on Artificial Intelligence for Education](http://ai4ed.cc/workshops/aaai2022)
 >
-> <cite>IJCAI 2021</cite>
+> <cite>AAAI 2022</cite>
 
 
 ## Past
+
+* [Workshop on Artificial Intelligence for Education](http://ai4ed.cc/workshops/ijcai2021/)  in conjunction with IJCAI 2021
 
 * [AAAI 2021 Spring Symposium on Artificial Intelligence for K-12 Education](http://ai4ed.cc/workshops/aaai2021sss)
 
