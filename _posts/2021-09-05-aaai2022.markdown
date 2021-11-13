@@ -64,7 +64,7 @@ Submission website: [https://easychair.org/conferences/?conf=aaai2022ai4edu](htt
 
 ## Important Dates
 
-* **November 12, 2021**: Workshop paper submission due AOE
+* ~~**November 12, 2021**~~ **November 19, 2021**: Workshop paper submission due AOE
 * **November 30, 2021** : Notifications of acceptance
 * **December 15, 2021**: Deadline of the camera-ready final paper submission
 * **Feb 21, 2022**: Workshop Date 
@@ -111,5 +111,5 @@ We outline the tentative schedule for the proposed workshop:
 
 * **Zitao Liu** TAL Education Group, China
 * **Jiliang Tang** Michigan State University, USA
-* **Hang Li** TAL Education Group, China
-* **Hang Li** TAL Education Group, China
+* **Lihan Zhao** TAL Education Group, China
+* **Xiao Zhai** TAL Education Group, China
