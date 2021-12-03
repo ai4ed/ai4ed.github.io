@@ -11,10 +11,15 @@ Feel free to contact **ai4ed.workshops@gmail.com** to add your event here :)
 
 ## Incoming
 
+> [Workshop on Math AI for Education: Bridging the Gap Between Research and Smart Education](https://mathai4ed.github.io/)
+>
+> <cite>NeurIPS 2021</cite>
+
 
 > [Workshop on Artificial Intelligence for Education](http://ai4ed.cc/workshops/aaai2022)
 >
 > <cite>AAAI 2022</cite>
+
 
 
 ## Past
