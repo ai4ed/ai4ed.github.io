@@ -9,6 +9,12 @@ category: workshops
 ---
 
 
+## UPDATES
+
+* November 30, 2021: Notification of final acceptance. All accepted paper can be found at [here](#accepted-papers).
+
+
+
 ## Introduction
 
 Technology has transformed over the last few years, turning from futuristic ideas into today’s reality. AI is one of these transformative technologies that is now achieving great successes in various real-world applications and making our life more convenient and safe. AI is now shaping the way businesses, governments, and educational institutions doing things and is making its way into classrooms, schools and districts across many countries.
@@ -68,6 +74,25 @@ Submission website: [https://easychair.org/conferences/?conf=aaai2022ai4edu](htt
 * **November 30, 2021** : Notifications of acceptance
 * **December 15, 2021**: Deadline of the camera-ready final paper submission
 * **Feb 21, 2022**: Workshop Date 
+
+
+## Accepted Papers
+
+* Yinkai Wang, Aowei Ding, Kaiyi Guan, Shixi Wu and Yuanqi Du. **Graph-based Ensemble Machine Learning for Student Performance Prediction**
+* Chanjun Park, Yoonna Jang, Seolhwa Lee, Sungjin Park and Heuiseok Lim. **FreeTalky: Don’t Be Afraid! Conversations Made Easier by a Humanoid Robot using Persona-based Dialogue**
+* Yajun Zou, Yixin Li, Lei Shen, Shiqi Dong, Hui Lin, Jinwen Ma and Yitao Duan. **A Multi-task Model for Structural Recognition in Educational Scenario**
+* Eric Slyman, Chris Daw, Morgan Skrabut, Ana Usenko and Brian Hutchinson. **Fine-Grained Classroom Activity Detection from Audio with Neural Networks**
+* Sujanya Suresh, Savitha Ramasamy, P.N**Suganthan and Cheryl Sze Yin Wong. **Incremental Knowledge Tracing from Multiple Schools**
+* Prerna Mishra, Santosh Kumar and Mithilesh Chaube. **Assistive Accessible Charts for Visually Impaired Students: An Automated Learning System**
+* Rushil Thareja, Venktesh V and Mukesh Mohania. **Pdf2PreReq : Automatic Extraction of Concept Dependency Graphs from Academic Textbooks**
+* Roberto Daza, Daniel DeAlcala, Aythami Morales, Ruben Tolosana and Julian Fierrez. **Remote Attention Level Estimation: Feasibility Study based on Automatic Blink Frequency Detection**
+* Ying-Hong Chan, Ho-Lam Chung and Yao-Chung Fan. **Improving Controllability of Educational Question Generation by Keyword Provision**
+* Mohammad Imrul Jubair, Tashfiq Ahmed, Hasanath Jamy, Arafat Ibne Yousuf, Foisal Reza and Mohsena Ashraf. **DIY Graphics Tab: A Cost-Effective Alternative to Graphics Tablet for Educators**
+* Nina Ziegenbein, Alexandra Moringen and Jason Friedman. **Monitoring the Learning Progress In Piano Playing With Hidden Markov Models**
+* Yunkai Xiao, Qinjin Jia and Jialin Cui. **What should students comment on each other’s work to improve their learning outcomes?**
+* Zheng Zheng, Ying Xu, Yanhao Wang, Tongshuang Wu, Bingsheng Yao, Daniel Ritchie, Mo Yu, Dakuo Wang and Toby Jia-Jun Li. **Building a storytelling conversational agent through parent-AI collaboration**
+* Ankan Mullick and Suman Kalyan Maity. **Conversation for Counseling: A survey**
+
 
 
 ## Tentative Schedule
