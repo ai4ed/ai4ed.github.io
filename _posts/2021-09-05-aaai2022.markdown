@@ -82,7 +82,7 @@ Submission website: [https://easychair.org/conferences/?conf=aaai2022ai4edu](htt
 * Chanjun Park, Yoonna Jang, Seolhwa Lee, Sungjin Park and Heuiseok Lim. **FreeTalky: Don’t Be Afraid! Conversations Made Easier by a Humanoid Robot using Persona-based Dialogue**
 * Yajun Zou, Yixin Li, Lei Shen, Shiqi Dong, Hui Lin, Jinwen Ma and Yitao Duan. **A Multi-task Model for Structural Recognition in Educational Scenario**
 * Eric Slyman, Chris Daw, Morgan Skrabut, Ana Usenko and Brian Hutchinson. **Fine-Grained Classroom Activity Detection from Audio with Neural Networks**
-* Sujanya Suresh, Savitha Ramasamy, P.N**Suganthan and Cheryl Sze Yin Wong. **Incremental Knowledge Tracing from Multiple Schools**
+* Sujanya Suresh, Savitha Ramasamy, P.N Suganthan and Cheryl Sze Yin Wong. **Incremental Knowledge Tracing from Multiple Schools**
 * Prerna Mishra, Santosh Kumar and Mithilesh Chaube. **Assistive Accessible Charts for Visually Impaired Students: An Automated Learning System**
 * Rushil Thareja, Venktesh V and Mukesh Mohania. **Pdf2PreReq : Automatic Extraction of Concept Dependency Graphs from Academic Textbooks**
 * Roberto Daza, Daniel DeAlcala, Aythami Morales, Ruben Tolosana and Julian Fierrez. **Remote Attention Level Estimation: Feasibility Study based on Automatic Blink Frequency Detection**
