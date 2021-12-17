@@ -78,20 +78,20 @@ Submission website: [https://easychair.org/conferences/?conf=aaai2022ai4edu](htt
 
 ## Accepted Papers
 
-* Yinkai Wang, Aowei Ding, Kaiyi Guan, Shixi Wu and Yuanqi Du. **Graph-based Ensemble Machine Learning for Student Performance Prediction** [PDF](https://drive.google.com/file/d/1KggCuA9a-QbJIF2pVF4kAqN-sQT9ETpZ/view?usp=sharing)
-* Chanjun Park, Yoonna Jang, Seolhwa Lee, Sungjin Park and Heuiseok Lim. **FreeTalky: Don’t Be Afraid! Conversations Made Easier by a Humanoid Robot using Persona-based Dialogue** [PDF](https://drive.google.com/file/d/1ymfXH7sytpODvVxl7qSbEAb49qUZtIFB/view?usp=sharing)
-* Yajun Zou, Yixin Li, Lei Shen, Shiqi Dong, Hui Lin, Jinwen Ma and Yitao Duan. **A Multi-task Model for Structural Recognition in Educational Scenario** [PDF](https://drive.google.com/file/d/1p7zFbZrG1Yut3WU8PBYUZeDq8oTK0fe7/view?usp=sharing)
-* Eric Slyman, Chris Daw, Morgan Skrabut, Ana Usenko and Brian Hutchinson. **Fine-Grained Classroom Activity Detection from Audio with Neural Networks** [PDF](https://drive.google.com/file/d/1Li2legv21k8s71UXKrF3vrAl5ikQqDM6/view?usp=sharing)
-* Sujanya Suresh, Savitha Ramasamy, P.N Suganthan and Cheryl Sze Yin Wong. **Incremental Knowledge Tracing from Multiple Schools** [PDF](https://drive.google.com/file/d/1OgDDsXHUBcSARUoVFQDozC0QnPa6HOHS/view?usp=sharing)
-* Prerna Mishra, Santosh Kumar and Mithilesh Chaube. **Assistive Accessible Charts for Visually Impaired Students: An Automated Learning System** [PDF](https://drive.google.com/file/d/15bOVRK56-97b8Vh1ISQVuMc6zXI75nmV/view?usp=sharing)
-* Rushil Thareja, Venktesh V and Mukesh Mohania. **Pdf2PreReq : Automatic Extraction of Concept Dependency Graphs from Academic Textbooks** [PDF](https://drive.google.com/file/d/13gzdnjeZGnt7rtylQeglXBDIsxeVeR_W/view?usp=sharing)
-* Roberto Daza, Daniel DeAlcala, Aythami Morales, Ruben Tolosana and Julian Fierrez. **ALEBk: Feasibility Study of Attention Level Estimation via Blink Detection applied to e-Learning** [PDF](https://drive.google.com/file/d/1jquGAKgbigsxfCvhg3uN9tJn9QjJx1x4/view?usp=sharing)
-* Ying-Hong Chan, Ho-Lam Chung and Yao-Chung Fan. **Improving Controllability of Educational Question Generation by Keyword Provision** [PDF](https://drive.google.com/file/d/1gQXD7Va4Ks9XZJ2mr3JQpYoI2IVPUMyv/view?usp=sharing)
-* Mohammad Imrul Jubair, Tashfiq Ahmed, Hasanath Jamy, Arafat Ibne Yousuf, Foisal Reza and Mohsena Ashraf. **DIY Graphics Tab: A Cost-Effective Alternative to Graphics Tablet for Educators** [PDF](https://drive.google.com/file/d/1Yot4hPGPVh-E1ow_qXitphymDO12gP9J/view?usp=sharing)
-* Nina Ziegenbein, Alexandra Moringen and Jason Friedman. **Monitoring the Learning Progress In Piano Playing With Hidden Markov Models** [PDF](https://drive.google.com/file/d/1KKmF2IP44SRVBsU_KayYt_p8Gxu8yCyS/view?usp=sharing)
-* Yunkai Xiao, Qinjin Jia and Jialin Cui. **What kind of peer-assessment comments help improve learning outcomes? Evidence from a programming course** [PDF](https://drive.google.com/file/d/1BszcTAlumb_hmdD6zUSKieMNbASzStwj/view?usp=sharing)
-* Zheng Zheng, Ying Xu, Yanhao Wang, Tongshuang Wu, Bingsheng Yao, Daniel Ritchie, Mo Yu, Dakuo Wang and Toby Jia-Jun Li. **Building a storytelling conversational agent through parent-AI collaboration** [PDF](https://drive.google.com/file/d/1GnYHgBVFComswGv7jcwk-B9F7GraQ5f1/view?usp=sharing)
-* Ankan Mullick and Suman Kalyan Maity. **Conversation for Counseling: A survey** [PDF]()
+* Yinkai Wang, Aowei Ding, Kaiyi Guan, Shixi Wu and Yuanqi Du. **Graph-based Ensemble Machine Learning for Student Performance Prediction** [\[PDF\]](https://drive.google.com/file/d/1KggCuA9a-QbJIF2pVF4kAqN-sQT9ETpZ/view?usp=sharing)
+* Chanjun Park, Yoonna Jang, Seolhwa Lee, Sungjin Park and Heuiseok Lim. **FreeTalky: Don’t Be Afraid! Conversations Made Easier by a Humanoid Robot using Persona-based Dialogue** [\[PDF\]](https://drive.google.com/file/d/1ymfXH7sytpODvVxl7qSbEAb49qUZtIFB/view?usp=sharing)
+* Yajun Zou, Yixin Li, Lei Shen, Shiqi Dong, Hui Lin, Jinwen Ma and Yitao Duan. **A Multi-task Model for Structural Recognition in Educational Scenario** [\[PDF\]](https://drive.google.com/file/d/1p7zFbZrG1Yut3WU8PBYUZeDq8oTK0fe7/view?usp=sharing)
+* Eric Slyman, Chris Daw, Morgan Skrabut, Ana Usenko and Brian Hutchinson. **Fine-Grained Classroom Activity Detection from Audio with Neural Networks** [\[PDF\]](https://drive.google.com/file/d/1Li2legv21k8s71UXKrF3vrAl5ikQqDM6/view?usp=sharing)
+* Sujanya Suresh, Savitha Ramasamy, P.N Suganthan and Cheryl Sze Yin Wong. **Incremental Knowledge Tracing from Multiple Schools** [\[PDF\]](https://drive.google.com/file/d/1OgDDsXHUBcSARUoVFQDozC0QnPa6HOHS/view?usp=sharing)
+* Prerna Mishra, Santosh Kumar and Mithilesh Chaube. **Assistive Accessible Charts for Visually Impaired Students: An Automated Learning System** [\[PDF\]](https://drive.google.com/file/d/15bOVRK56-97b8Vh1ISQVuMc6zXI75nmV/view?usp=sharing)
+* Rushil Thareja, Venktesh V and Mukesh Mohania. **\[Pdf\]2PreReq : Automatic Extraction of Concept Dependency Graphs from Academic Textbooks** [\[PDF\]](https://drive.google.com/file/d/13gzdnjeZGnt7rtylQeglXBDIsxeVeR_W/view?usp=sharing)
+* Roberto Daza, Daniel DeAlcala, Aythami Morales, Ruben Tolosana and Julian Fierrez. **ALEBk: Feasibility Study of Attention Level Estimation via Blink Detection applied to e-Learning** [\[PDF\]](https://drive.google.com/file/d/1jquGAKgbigsxfCvhg3uN9tJn9QjJx1x4/view?usp=sharing)
+* Ying-Hong Chan, Ho-Lam Chung and Yao-Chung Fan. **Improving Controllability of Educational Question Generation by Keyword Provision** [\[PDF\]](https://drive.google.com/file/d/1gQXD7Va4Ks9XZJ2mr3JQpYoI2IVPUMyv/view?usp=sharing)
+* Mohammad Imrul Jubair, Tashfiq Ahmed, Hasanath Jamy, Arafat Ibne Yousuf, Foisal Reza and Mohsena Ashraf. **DIY Graphics Tab: A Cost-Effective Alternative to Graphics Tablet for Educators** [\[PDF\]](https://drive.google.com/file/d/1Yot4hPGPVh-E1ow_qXitphymDO12gP9J/view?usp=sharing)
+* Nina Ziegenbein, Alexandra Moringen and Jason Friedman. **Monitoring the Learning Progress In Piano Playing With Hidden Markov Models** [\[PDF\]](https://drive.google.com/file/d/1KKmF2IP44SRVBsU_KayYt_p8Gxu8yCyS/view?usp=sharing)
+* Yunkai Xiao, Qinjin Jia and Jialin Cui. **What kind of peer-assessment comments help improve learning outcomes? Evidence from a programming course** [\[PDF\]](https://drive.google.com/file/d/1BszcTAlumb_hmdD6zUSKieMNbASzStwj/view?usp=sharing)
+* Zheng Zheng, Ying Xu, Yanhao Wang, Tongshuang Wu, Bingsheng Yao, Daniel Ritchie, Mo Yu, Dakuo Wang and Toby Jia-Jun Li. **Building a storytelling conversational agent through parent-AI collaboration** [\[PDF\]](https://drive.google.com/file/d/1GnYHgBVFComswGv7jcwk-B9F7GraQ5f1/view?usp=sharing)
+* Ankan Mullick and Suman Kalyan Maity. **Conversation for Counseling: A survey** [\[PDF\]]()
 
 
 
