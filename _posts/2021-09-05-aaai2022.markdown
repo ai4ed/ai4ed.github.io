@@ -11,7 +11,54 @@ category: workshops
 
 ## UPDATES
 
+
+* Due to the COVID-19 Pandemic, the 3rd AI4Edu workshop will be held **virtually** on **Feb 28, 2022**.
+* To avoid connectivity issues in real time, we choose to use the **pre-recording option**. Live Q & A is optional. 
+* This year, we have speakers from North America, Asia and Europe. Therefore, we will have **two sessions** to make sure people from different time zones can join. Specifically, we will have
+  * Session One at
+    * Vancouver/San Francisco 05:00 - 08:00
+    * New York 09:00 - 12:00
+    * London 13:00 - 16:00
+    * Beijing 21:00 - 00:00
+  * Session Two at 
+    * Vancouver/San Francisco 17:00 - 20:00
+    * New York 20:00 - 23:00
+    * London 00:10 - 04:00
+    * Beijing 08:00 - 11:00
+
 * November 30, 2021: Notification of final acceptance. All accepted paper can be found at [here](#accepted-papers).
+
+
+
+
+## Workshop Schedule
+
+We outline the tentative schedule for the proposed workshop. All the time slots are in PST (Vancouver/San Francisco local time).
+
+
+### Feb 28 Session One
+
+* 05:00 - 05:15 Opening
+* 05:15 - 06:00 **[Keynote Talk]** [Title TBD], Speaker TBD
+* 06:00 - 06:15 **[Paper Presentation]** [A Multi-task Model for Structural Recognition in Educational Scenario], Yajun Zou, Yixin Li, Lei Shen, Shiqi Dong, Hui Lin, Jinwen Ma and Yitao Duan
+* 06:15 - 06:30 **[Paper Presentation]** [ALEBk: Feasibility Study of Attention Level Estimation via Blink Detection applied to e-Learning], Roberto Daza, Daniel DeAlcala, Aythami Morales, Ruben Tolosana and Julian Fierrez
+* 06:30 - 06:45 **[Paper Presentation]** [Assistive Accessible Charts for Visually Impaired Students: An Automated Learning System], Prerna Mishra, Santosh Kumar and Mithilesh Chaube
+* 06:45 - 07:00 **[Paper Presentation]** [DIY Graphics Tab: A Cost-Effective Alternative to Graphics Tablet for Educators], Mohammad Imrul Jubair, Tashfiq Ahmed, Hasanath Jamy, Arafat Ibne Yousuf, Foisal Reza and Mohsena Ashraf
+* 07:00 - 07:15 **[Paper Presentation]** [FreeTalky: Don’t Be Afraid! Conversations Made Easier by a Humanoid Robot using Persona-based Dialogue], Chanjun Park, Yoonna Jang, Seolhwa Lee, Sungjin Park and Heuiseok Lim
+* 07:15 - 07:30 **[Paper Presentation]** [Improving Controllability of Educational Question Generation by Keyword Provision], Ying-Hong Chan, Ho-Lam Chung and Yao-Chung Fan
+* 07:30 - 07:45 **[Paper Presentation]** [Incremental Knowledge Tracing from Multiple Schools], Sujanya Suresh, Savitha Ramasamy, P.N Suganthan and Cheryl Sze Yin Wong
+* 07:45 - 08:00 **[Paper Presentation]** [Monitoring the Learning Progress In Piano Playing With Hidden Markov Models], Nina Ziegenbein, Alexandra Moringen and Jason Friedman
+* 08:00 - 08:15 **[Paper Presentation]** [Pdf2PreReq: Automatic Extraction of Concept Dependency Graphs from Academic Textbooks], Rushil Thareja, Venktesh V and Mukesh Mohania
+
+### Feb 28 Session Two
+
+* 17:00 - 17:45 **[Keynote Talk]** [Title TBD], Speaker TBD
+* 17:45 - 18:30 **[Keynote Talk]** [Title TBD], Speaker TBD
+* 18:30 - 19:15 **[Keynote Talk]** [Title TBD], Speaker TBD
+* 19:15 - 19:30 **[Paper Presentation]** [Building a storytelling conversational agent through parent-AI collaboration], Zheng Zheng, Ying Xu, Yanhao Wang, Tongshuang Wu, Bingsheng Yao, Daniel Ritchie, Mo Yu, Dakuo Wang and Toby Jia-Jun Li
+* 19:30 - 19:45 **[Paper Presentation]** [Fine-Grained Classroom Activity Detection from Audio with Neural Networks], Eric Slyman, Chris Daw, Morgan Skrabut, Ana Usenko and Brian Hutchinson
+* 19:45 - 20:00 **[Paper Presentation]** [Graph-based Ensemble Machine Learning for Student Performance Prediction], Yinkai Wang, Aowei Ding, Kaiyi Guan, Shixi Wu and Yuanqi Du
+* 20:00 - 20:15 **[Paper Presentation]** [What kind of peer-assessment comments help improve learning outcomes? Evidence from a programming course], Yunkai Xiao, Qinjin Jia and Jialin Cui
 
 
 
