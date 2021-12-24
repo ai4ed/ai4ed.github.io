@@ -142,40 +142,6 @@ Submission website: [https://easychair.org/conferences/?conf=aaai2022ai4edu](htt
 
 
 
-## Tentative Schedule
-
-We propose **a full day** workshop with the following sessions:
-
-* Oral presentations: 10 minute presentation for oral papers.
-* Poster session: One poster session of all accepted papers which leads for interaction and personal feedback to the research.
-*  Keynotes and invited talks: Several keynotes and invited talks by leading researchers in the area will be presented.
-* Panel discussion: Interactive Q&A session with a panel of leading researchers
-
-We will encourage submissions of works-in-progress and extended abstracts, in addition to full length papers. A poster session has been a highly effective form of communicating early stage research, compared to full presentations. In combination with oral representations, the accepted papers will get audience attention and lead to a very interactive, feedback based poster session.
-
-We outline the tentative schedule for the proposed workshop:
-
-* Morning
-
-    * 08:30 - 08:45 Opening
-    * 08:45 - 09:30 Keynote 1 
-    * 09:30 - 10:00 Oral
-    * 10:00 - 10:20 Coffee Break
-    * 10:20 - 10:50 Invited Talk 1
-    * 10:50 - 12:00 Poster Session
-
-* Lunch~(12:00 - 13:30)
-
-* Afternoon
-
-    * 13:30 - 14:15 Keynote 2 
-    * 14:15 - 14:45 Oral
-    * 14:45 - 15:15 Invited Talk 2
-    * 15:15 - 15:30 Coffee Break
-    * 15:30 - 16:00 Invited Talk 3
-    * 16:00 - 16:30 Invited Talk 4
-    * 16:30 - 17:10 Panel Discussion
-
 
 ## Organizers
 
