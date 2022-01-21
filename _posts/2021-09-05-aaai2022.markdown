@@ -39,7 +39,7 @@ We outline the tentative schedule for the proposed workshop. All the time slots 
 ### Feb 28 Session One
 
 * 05:00 - 05:15 Opening
-* 05:15 - 06:00 **[Keynote Talk]** [Title TBD], Speaker TBD
+* 05:15 - 06:00 **[Keynote Talk]** [Title TBD], Richard Tong, Yixue Squirrel AI Learning
 * 06:00 - 06:15 **[Paper Presentation]** [A Multi-task Model for Structural Recognition in Educational Scenario], Yajun Zou, Yixin Li, Lei Shen, Shiqi Dong, Hui Lin, Jinwen Ma and Yitao Duan
 * 06:15 - 06:30 **[Paper Presentation]** [ALEBk: Feasibility Study of Attention Level Estimation via Blink Detection applied to e-Learning], Roberto Daza, Daniel DeAlcala, Aythami Morales, Ruben Tolosana and Julian Fierrez
 * 06:30 - 06:45 **[Paper Presentation]** [Assistive Accessible Charts for Visually Impaired Students: An Automated Learning System], Prerna Mishra, Santosh Kumar and Mithilesh Chaube
@@ -52,9 +52,9 @@ We outline the tentative schedule for the proposed workshop. All the time slots 
 
 ### Feb 28 Session Two
 
-* 17:00 - 17:45 **[Keynote Talk]** [Title TBD], Speaker TBD
-* 17:45 - 18:30 **[Keynote Talk]** [Title TBD], Speaker TBD
-* 18:30 - 19:15 **[Keynote Talk]** [Title TBD], Speaker TBD
+* 17:00 - 17:45 **[Keynote Talk]** [Title TBD], Peter Brusilovsky, University of Pittsburgh
+* 17:45 - 18:30 **[Keynote Talk]** [Title TBD], Kurt VanLehn, Arizona State University
+* 18:30 - 19:15 **[Keynote Talk]** [Title TBD], Zachary Pardos, UC Berkeley
 * 19:15 - 19:30 **[Paper Presentation]** [Building a storytelling conversational agent through parent-AI collaboration], Zheng Zheng, Ying Xu, Yanhao Wang, Tongshuang Wu, Bingsheng Yao, Daniel Ritchie, Mo Yu, Dakuo Wang and Toby Jia-Jun Li
 * 19:30 - 19:45 **[Paper Presentation]** [Fine-Grained Classroom Activity Detection from Audio with Neural Networks], Eric Slyman, Chris Daw, Morgan Skrabut, Ana Usenko and Brian Hutchinson
 * 19:45 - 20:00 **[Paper Presentation]** [Graph-based Ensemble Machine Learning for Student Performance Prediction], Yinkai Wang, Aowei Ding, Kaiyi Guan, Shixi Wu and Yuanqi Du

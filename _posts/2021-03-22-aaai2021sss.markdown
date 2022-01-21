@@ -18,7 +18,7 @@ category: workshops
 * This year, we have speakers from North America, Asia and Europe. Therefore, we will have **two sessions** on each day (March 22 and March 23) to make sure people from different time zones can join. Specifically, we will have
   * Session One at
     * New York 09:00 - 12:00
-    * San Francisco 05:00 - 08:00
+    * San Francisco 06:00 - 09:00
     * London 13:00 - 16:00
     * Beijing 21:00 - 00:00
   * Session Two at 
