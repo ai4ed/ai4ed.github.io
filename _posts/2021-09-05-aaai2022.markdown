@@ -17,14 +17,14 @@ category: workshops
 * This year, we have speakers from North America, Asia and Europe. Therefore, we will have **two sessions** to make sure people from different time zones can join. Specifically, we will have
   * Session One at
     * Vancouver/San Francisco 05:00 - 08:00
-    * New York 09:00 - 12:00
+    * New York 08:00 - 11:00
     * London 13:00 - 16:00
     * Beijing 21:00 - 00:00
   * Session Two at 
     * Vancouver/San Francisco 17:00 - 20:00
     * New York 20:00 - 23:00
-    * London 00:10 - 04:00
-    * Beijing 08:00 - 11:00
+    * London 01:00 - 04:00
+    * Beijing 09:00 - 12:00
 
 * November 30, 2021: Notification of final acceptance. All accepted paper can be found at [here](#accepted-papers).
 
