@@ -33,7 +33,7 @@ category: workshops
 
 ## Workshop Schedule
 
-We outline the tentative schedule for the proposed workshop. All the time slots are in PST (Vancouver/San Francisco local time).
+All the time slots are in PST (Vancouver/San Francisco local time).
 
 
 ### Feb 28 Session One
