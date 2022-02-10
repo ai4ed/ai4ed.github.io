@@ -39,7 +39,7 @@ All the time slots are in PST (Vancouver/San Francisco local time).
 ### Feb 28 Session One
 
 * 05:00 - 05:15 Opening
-* 05:15 - 06:00 **[Keynote Talk]** [Title TBD], Richard Tong, Yixue Squirrel AI Learning
+* 05:15 - 06:00 **[Keynote Talk]** [The Need and Challenge of Trustworthy AI For Next-generation Education Systems That Engage Humans as Partners in Teaching and Learning](#the-need-and-challenge-of-trustworthy-ai-for-next-generation-education-systems-that-engage-humans-as-partners-in-teaching-and-learning), Richard Tong, Yixue Squirrel AI Learning
 * 06:00 - 06:15 **[Paper Presentation]** [A Multi-task Model for Structural Recognition in Educational Scenario](#a-multi-task-model-for-structural-recognition-in-educational-scenario), Yajun Zou, Yixin Li, Lei Shen, Shiqi Dong, Hui Lin, Jinwen Ma and Yitao Duan
 * 06:15 - 06:30 **[Paper Presentation]** [ALEBk: Feasibility Study of Attention Level Estimation via Blink Detection applied to e-Learning](#alebk-feasibility-study-of-attention-level-estimation-via-blink-detection-applied-to-e-learning), Roberto Daza, Daniel DeAlcala, Aythami Morales, Ruben Tolosana and Julian Fierrez
 * 06:30 - 06:45 **[Paper Presentation]** [Assistive Accessible Charts for Visually Impaired Students: An Automated Learning System](#assistive-accessible-charts-for-visually-impaired-students-an-automated-learning-system), Prerna Mishra, Santosh Kumar and Mithilesh Chaube
@@ -88,6 +88,20 @@ Bio: Bahar Shahrokhian is currently working toward obtaining her doctoral degree
 Jon Wetzel is a research scientist at Arizona State University studying educational software and artificial intelligence.  He received his PhD in Computer Science at Northwestern University, and his B.S. and M.Eng. in Computer Science and Engineering from the Massachusetts Institute of Technology.
 
 Kurt VanLehn is the Diane and Gary Tooker Chair for Effective Education in Science, Technology, Engineering and Math at Arizona State University. He received a Ph.D. from MIT in 1983 in Computer Science, was a post-doc at BBN and Xerox PARC, joined the faculty of Carnegie-Mellon University in 1985, moved to the University of Pittsburgh in 1990 and joined ASU in 2008. He founded and co-directed two large NSF research centers (Circle; the Pittsburgh Science of Learning Center). He has published over 125 peer-reviewed publications, is a fellow in the Cognitive Science Society, and is on the editorial boards of Cognition and Instruction and the International Journal of Artificial Intelligence in Education. Dr. VanLehn's research focuses on intelligent tutoring systems, classroom orchestration systems, and other intelligent interactive instructional technology.   
+{% endhighlight %}
+
+
+
+> ### The Need and Challenge of Trustworthy AI For Next-generation Education Systems That Engage Humans as Partners in Teaching and Learning
+> 
+> <cite>Richard Tong</cite>
+
+{% highlight html %}
+Abstract: The potential applications of artificial intelligence to educational settings are vast. However, we argue that developers must first build trust in educational technologies to realize their potential in society. This view emerges from the interaction of three factors: 1) the general need to address the concerns surrounding costs and benefits of technological applications as they are adopted, 2) the diversity of important views and dimensions regarding education and pedagogy, and 3) the necessity for technology to bear important accountability in real-time decisioning in many educational applications. We propose that in educational AI applications, Human-in-the-loop (HITL) approaches that engage both learners and educators in an AI-involved teaching process presents an opportunity to build trust in the efficacy of educational AI applications, on top of increasing the quality of education delivered, by allowing them to participate actively in the process of educational decision making. Although nascent forms of HITL processes in educational technology exist, developing AI systems with truly human-involved collaborative teaching and learning requires surmounting several key challenges: 1) Designing a reliable and practical process to handle variation in the quality of human input and dynamic teaching/learning interaction 2) Developing a shared mental model of learning between humans and AI systems. We review some of the state of the art approaches in this research and development area, examine some promising Human-AI collaboration use cases in adaptive instructional system settings, and also recommend practical implementation of IEEE artificial intelligence and learning technology standards that help to advance this endeavor. 
+
+Bio: Richard Tong is the Chief Architect and General Manager of US Research Operations, Squirrel AI Learning by Yixue Group. He serves as the Chair of IEEE Learning Technology Standards Committee and also the Chair of IEEE Artificial Intelligence Standards Committee. Richard is an experienced technologist and one of the leading evangelists for global standardization efforts for learning technologies and artificial intelligence. Prior to joining Squirrel Ai Learning, he was the Head of Implementation, Greater China Region for Knewton, and Director of Solution Architecture for Amplify Education.
+
+On the academic and research front, he has organized conferences such as the AIAED conferences (2018, 2019, 2020), and organized workshops such as multimodal artificial intelligence for education workshops (AIMA4EDU) at the IJCAI 2019, IJCAI 2020, IJCAI 2021, the AI for K12 Workshop at IJCAI 2021 the ed-tech standardization and collaboration workshops at the AIED 2019, AIED 2020 and AIED 2021. He was the workshop co-chair of AIED 2020, industry co-chair of ITS 2021 and AIED 2021 and held several track-chair and program committee positions in various AI and Ed-tech conferences.   
 {% endhighlight %}
 
 
