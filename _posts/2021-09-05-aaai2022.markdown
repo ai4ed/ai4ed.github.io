@@ -120,6 +120,157 @@ Bio: Zach Pardos is an Associate Professor at UC Berkeley studying adaptive lear
 {% endhighlight %}
 
 
+
+
+
+> ### A Multi-task Model for Structural Recognition in Educational Scenario
+> 
+> <cite>Yajun Zou, Yixin Li, Lei Shen, Shiqi Dong, Hui Lin, Jinwen Ma and Yitao Duan</cite>
+
+{% highlight html %}
+Abstract: In this paper, we introduce a structural recognition task which is a specific OCR task in the educational scenario. For students’ exercise pages, an anchor-free detector with dynamic convolution is designed to segment questions in various layouts and shapes by predicting a full-scale accurate mask for each question. As notes and answers in handwriting-style are inevitable within the question mask, we introduce handwriting removal, which is an image generation task to improve the recognition accuracy of print text. Specifically, a multi-task model is designed to perform question segmentation and handwriting removal simultaneously. In addition, we propose a two-phase strategy to overcome the discrepancy of data source and input scale between these two tasks. With a novel evaluation system on structural recognition, the promising results are obtained which show the effectiveness of question segmentation and handwriting removal branches and the superiority of our proposed multi-task model.   
+{% endhighlight %}
+
+
+
+
+> ### ALEBk: Feasibility Study of Attention Level Estimation via Blink Detection applied to e-Learning
+> 
+> <cite>Roberto Daza, Daniel DeAlcala, Aythami Morales, Ruben Tolosana and Julian Fierrez</cite>
+
+{% highlight html %}
+Abstract: This work presents a feasibility study of remote attention level estimation based on eye blink frequency. We first propose an eye blink detection system based on Convolutional Neural Networks (CNNs), very competitive with respect to related works. Using this detector, we experimentally evaluate the relationship between the eye blink rate and the attention level of students captured during online sessions. The experimental framework is carried out using a public multi-modal database for eye blink detection and attention level estimation called mEBAL, which comprises data from 38 students and multiples acquisition sensors, in particular, i) an electroencephalogram (EEG) band which provides the time signals coming from the student’s cognitive information, and ii) RGB and NIR cameras to capture the students face gestures. The results achieved suggest an inverse correlation between the eye blink frequency and the attention level. This relation is used in our proposed method called ALEBk for estimating the attention level as the inverse of the eye blink frequency. Our results open a new research line to introduce this technology for attention level estimation on future e-learning platforms, among other applications of this kind of behavioral biometrics based on face analysis.   
+{% endhighlight %}
+
+
+
+
+> ### Assistive Accessible Charts for Visually Impaired Students: An Automated Learning System
+> 
+> <cite>Prerna Mishra, Santosh Kumar and Mithilesh Chaube</cite>
+
+{% highlight html %}
+Abstract: Charts are an indispensable component of documents or books. All charts aim to represent, visualize, and depict a certain meaning about data or subject matter. However, charts are not accompanied by any contextual message nor mostly addressed in the textual description. People with visual impairment(VI) rely on screen readers for understanding the text, but are unable to comprehend charts. This paper proposes an assistive learning system ChartVI, that automatically extracts chart images from e-documents, retrieves all data from extracted chart and generates multi-modal accessible summaries for leveraging learning ability of students with VI. Moreover, ChartVI is also robust towards generating summaries from hand-drawn images. We evaluated ChartVI with visually impaired students from a native blind school. Results obtained were satisfactory and were easily comprehended by the participants. ChartVI provides a detailed and correct description for various chart types, maintaining ease of access while using the system. ChartVI has detection accuracy of 99%, textual segment accuracy 98%, and graphical segment extraction accuracy of 100%.    
+{% endhighlight %}
+
+
+
+
+> ### DIY Graphics Tab: A Cost-Effective Alternative to Graphics Tablet for Educators
+> 
+> <cite>Mohammad Imrul Jubair, Tashfiq Ahmed, Hasanath Jamy, Arafat Ibne Yousuf, Foisal Reza and Mohsena Ashraf</cite>
+
+{% highlight html %}
+Abstract: Everyday, more and more people are turning to online learning, which has altered our traditional classroom method. Recording lectures has always been a normal task for online educators, and it has lately become even more important during the epidemic because actual lessons are still being postponed in several countries. When recording lectures, a graphics tablet is a great substitute for a whiteboard because of its portability and ability to interface with computers. This graphic tablet, however, is too expensive for the majority of instructors. In this paper, we propose a computer vision-based alternative to the graphics tablet for instructors and educators, which functions largely in the same way as a graphic tablet but just requires a pen, paper, and a laptop’s webcam. We call it “Do-It-Yourself Graphics Tab” or “DIY Graphics Tab”. Our system receives a sequence of images of a person’s writing on paper acquired by a camera as input and outputs the screen containing the contents of the writing from the paper. The task is not straightforward since there are many obstacles such as occlusion due to the person’s hand, random movement of the paper, poor lighting condition, perspective distortion due to the angle of view, etc. A pipeline is used to route the input recording through our system, which conducts instance segmentation and preprocessing before generating the appropriate output. We also conducted user experience evaluations from the teachers and students, and their responses are examined in this paper.     
+{% endhighlight %}
+
+
+
+
+> ### FreeTalky: Don't Be Afraid! Conversations Made Easier by a Humanoid Robot using Persona-based Dialogue
+> 
+> <cite>Chanjun Park, Yoonna Jang, Seolhwa Lee, Sungjin Park and Heuiseok Lim</cite>
+
+{% highlight html %}
+Abstract: We propose a deep learning-based foreign language learning platform, named FREETALKY, for people who experience anxiety dealing with foreign languages, by employing a humanoid robot NAO and various deep learning models. A persona-based dialogue system that is embedded in NAO provides an interesting and consistent multi-turn dialogue for users. Also, an grammar error correction system promotes improvement in grammar skills of the users. Thus, our system enables personalized learning based on persona dialogue and facilitates grammar learning of a user using grammar error feedback. Furthermore, we verified whether FREETALKY provides practical help in alleviating xenoglossophobia by replacing the real human in the conversation with a NAO robot, through human evaluation.      
+{% endhighlight %}
+
+
+
+
+> ### Improving Controllability of Educational Question Generation by Keyword Provision
+> 
+> <cite>Ying-Hong Chan, Ho-Lam Chung and Yao-Chung Fan</cite>
+
+{% highlight html %}
+Abstract: Question Generation (QG) receives increasing research attention in NLP community. One motivation for QG is that QG significantly facilitates the preparation of educational reading practice and assessments. While the significant advancement of QG techniques was reported, current QG results are not ideal for educational reading practice assessment in terms of controllability and question difficulty. This paper reports our results toward the two issues. First, we report a state-of-the-art exam-like QG model by advancing the current best model from 11.96 to 20.19 (in terms of BLEU 4 score). Second, we propose to investigate a variant of QG setting by allowing users to provide keywords for guiding QG direction. We also present a simple but effective model toward the QG controllability task. Experiments are also performed and the results demonstrate the feasibility and potentials of improving QG diversity and controllability by the proposed keyword provision QG model.       
+{% endhighlight %}
+
+
+
+> ### Incremental Knowledge Tracing from Multiple Schools
+> 
+> <cite>Sujanya Suresh, Savitha Ramasamy, P.N Suganthan and Cheryl Sze Yin Wong</cite>
+
+{% highlight html %}
+Abstract: Knowledge tracing is the task of predicting a learner’s future performance based on the history of the learner’s performance. Current knowledge tracing models are built based on an extensive set of data that are collected from multiple schools. However, it is impossible to pool learner’s data from all schools, due to data privacy and PDPA policies. Hence, this paper explores the feasibility of building knowledge tracing models while preserving the privacy of learners’ data within their respective schools. This study is conducted using part of the ASSISTment 2009 dataset, with data from multiple schools being treated as separate tasks in a continual learning framework. The results show that learning sequentially with the Self Attentive Knowledge Tracing (SAKT) algorithm is able to achieve considerably similar performance to that of pooling all the data together.       
+{% endhighlight %}
+
+
+
+
+> ### Monitoring the Learning Progress In Piano Playing With Hidden Markov Models
+> 
+> <cite>Nina Ziegenbein, Jason Friedman and Alexandra Moringen</cite>
+
+{% highlight html %}
+Abstract: Monitoring a learner’s performance during practice plays an important role in scaffolding. It helps with scheduling suitable practice exercises, and by doing so sustain learner motivation and a steady learning progress while they move through the curriculum. In this paper we present our approach for monitoring the learning progress of students learning to play piano with Hidden Markov Models. First, we present and implement the so-called practice modes, practice units that are derived from the original task by reducing its complexity and focusing on one or several relevant task dimensions. Second, for each practice mode a Hidden Markov Model is trained to predict whether the player is in the Mastered or NonMastered latent state regarding the current task and practice mode.      
+{% endhighlight %}
+
+
+
+> ### Pdf2PreReq: Automatic Extraction of Concept Dependency Graphs from Academic Textbooks
+> 
+> <cite>Rushil Thareja, Venktesh V and Mukesh Mohania</cite>
+
+{% highlight html %}
+Abstract: Online learning platforms are rich sources of quality learning content. The learning content in such online learning platforms has to be organized according to a well defined taxonomy to enable ease of access and aid in curriculum planning. The taxonomy is usually of form subject→chapter→topic→concept. The concepts are leaf nodes that indicate the core idea described in the learning content. By automatically inferring prerequisite edges between these concepts, we can form concept dependency graphs that help in linking related learning content. These graphs act as a guiding path to learners paving the way for a personalized learning experience. The graphs are also beneficial for automatically organizing academic data in online learning platforms. However, creating these graphs by hand is error-prone and time-consuming. This paper proposes an end-to-end pipeline to generate concept dependency graphs aligned with the existing curriculum by leveraging academic textbooks. The textbooks organize the learning content according a well defined learning taxonomy of form chapter→section name→sub-section name→concept which can be extracted for creating the dependency graphs. We show the efficacy of these algorithms compared to existing methods on the K12 textbooks and open source the high-quality labeled datasets.      
+{% endhighlight %}
+
+
+
+
+> ### Building a storytelling conversational agent through parent-AI collaboration
+> 
+> <cite>Zheng Zhang, Ying Xu, Yanhao Wang, Tongshuang Wu, Bingsheng Yao, Daniel Ritchie, Mo Yu, Dakuo Wang and Toby Jia-Jun Li</cite>
+
+{% highlight html %}
+Abstract: In this paper, we describe the design of StoryBuddy, a prototype system that allows parents to collaborate with AI in creating interactive storytelling experiences. To accommodate dynamic user needs, StoryBuddy supports two modes: a parent-child joint reading mode where parents involve in book reading process and a child independent reading mode where parents have minimal involvement. StoryBuddy also allows parents to configure question types and track child progress, and generates questions automatically. A preliminary user study suggests that parents and children found StoryBuddy useful, helpful, and likable.      
+{% endhighlight %}
+
+
+
+
+> ### Fine-Grained Classroom Activity Detection from Audio with Neural Networks
+> 
+> <cite>Eric Slyman, Chris Daw, Morgan Skrabut, Ana Usenko and Brian Hutchinson</cite>
+
+{% highlight html %}
+Abstract: Instructors are increasingly incorporating student-centered learning techniques in their classrooms to improve learning outcomes. In addition to lecture, these class sessions involve forms of individual and group work, and greater rates of student-instructor interaction. Quantifying classroom activity is a key element of accelerating the evaluation and refinement of innovative teaching practices, but manual annotation does not scale. In this manuscript, we present advances to the young application area of automatic classroom activity detection from audio. Using a university classroom corpus with nine activity labels (e.g., “lecture,” “group work,” “student question”), we propose and evaluate deep fully connected, convolutional, and recurrent neural network architectures, comparing the performance of mel-filterbank, OpenSmile, and self-supervised acoustic features. We compare 9- way classification performance with 5-way and 4-way simplifications of the task and assess two types of generalization: (1) new class sessions from previously seen instructors, and (2) previously unseen instructors. We obtain strong results on the new fine-grained task and state-of-the-art on the 4-way task: our best model obtains frame-level error rates of 6.2%, 7.7% and 28.0% when generalizing to unseen instructors for the 4-way, 5-way, and 9-way classification tasks, respectively (relative reductions of 35.4%, 48.3% and 21.6% over a strong baseline). When estimating the aggregate time spent on classroom activities, our average root mean squared error is 1.64 minutes per class session, a 54.9% relative reduction over the baseline.     
+{% endhighlight %}
+
+
+
+> ### Graph-based Ensemble Machine Learning for Student Performance Prediction
+> 
+> <cite>Yinkai Wang, Aowei Ding, Kaiyi Guan, Shixi Wu and Yuanqi Du</cite>
+
+{% highlight html %}
+Abstract: Student performance prediction is a critical research problem to understand the students’ needs, present proper learning opportunities/resources, and develop the teaching quality. However, traditional machine learning methods fail to produce stable and accurate prediction results. In this paper, we propose a graph-based ensemble machine learning method that aims to improve the stability of single machine learning methods via the consensus of multiple methods. To be specific, we leverage both supervised prediction methods and unsupervised clustering methods, build an iterative approach that propagates in a bipartite graph as well as converges to more stable and accurate prediction results. Extensive experiments demonstrate the effectiveness of our proposed method in predicting more accurate student performance. Specifically, our model outperforms the best traditional machine learning algorithms by up to 14.8% in prediction accuracy.    
+{% endhighlight %}
+
+
+
+
+> ### Graph-based Ensemble Machine Learning for Student Performance Prediction
+> 
+> <cite>Yinkai Wang, Aowei Ding, Kaiyi Guan, Shixi Wu and Yuanqi Du</cite>
+
+{% highlight html %}
+Abstract: Student performance prediction is a critical research problem to understand the students’ needs, present proper learning opportunities/resources, and develop the teaching quality. However, traditional machine learning methods fail to produce stable and accurate prediction results. In this paper, we propose a graph-based ensemble machine learning method that aims to improve the stability of single machine learning methods via the consensus of multiple methods. To be specific, we leverage both supervised prediction methods and unsupervised clustering methods, build an iterative approach that propagates in a bipartite graph as well as converges to more stable and accurate prediction results. Extensive experiments demonstrate the effectiveness of our proposed method in predicting more accurate student performance. Specifically, our model outperforms the best traditional machine learning algorithms by up to 14.8% in prediction accuracy.    
+{% endhighlight %}
+
+
+
+> ### What kind of peer-assessment comments help improve learning outcomes? Evidence from a programming course
+> 
+> <cite>Yunkai Xiao, Qinjin Jia and Jialin Cui</cite>
+
+{% highlight html %}
+Abstract: Peer assessment has been proven to not only be a reliable way to assess students but also a means to encourage self-improvements. It is found that writing and receiving feedback could benefit students’ learning outcomes. In computer science and engineering education, students are required to master programming skills, and nowadays many code repositories are managed on version control systems such as GitHub. This paper studies the relationship between students’ behavior on GitHub before and after they are reviewed and commented on by their peers, as well as the nature of these comments. Eighteen machine learning models are studied and compared to automatically categorize the nature of the comment, and fifty-eight student project teams’ GitHub repositories are studied in this paper. The results show that comments that identify problems are positively correlated with students’ behaviors on improvements, while suggestions do not show any meaningful correlation with it. Contrary to common beliefs, positive comments do not encourage students to make more improvements, instead, it is moderately negatively correlated to behavior on improvements.   
+{% endhighlight %}
+
+
 ## Introduction
 
 Technology has transformed over the last few years, turning from futuristic ideas into today's reality. AI is one of these transformative technologies that is now achieving great successes in various real-world applications and making our life more convenient and safe. AI is now shaping the way businesses, governments, and educational institutions doing things and is making its way into classrooms, schools and districts across many countries.
