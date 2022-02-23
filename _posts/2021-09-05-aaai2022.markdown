@@ -252,16 +252,6 @@ Abstract: Student performance prediction is a critical research problem to under
 
 
 
-> ### Graph-based Ensemble Machine Learning for Student Performance Prediction
-> 
-> <cite>Yinkai Wang, Aowei Ding, Kaiyi Guan, Shixi Wu and Yuanqi Du</cite>
-
-{% highlight html %}
-Abstract: Student performance prediction is a critical research problem to understand the students’ needs, present proper learning opportunities/resources, and develop the teaching quality. However, traditional machine learning methods fail to produce stable and accurate prediction results. In this paper, we propose a graph-based ensemble machine learning method that aims to improve the stability of single machine learning methods via the consensus of multiple methods. To be specific, we leverage both supervised prediction methods and unsupervised clustering methods, build an iterative approach that propagates in a bipartite graph as well as converges to more stable and accurate prediction results. Extensive experiments demonstrate the effectiveness of our proposed method in predicting more accurate student performance. Specifically, our model outperforms the best traditional machine learning algorithms by up to 14.8% in prediction accuracy.    
-{% endhighlight %}
-
-
-
 > ### What kind of peer-assessment comments help improve learning outcomes? Evidence from a programming course
 > 
 > <cite>Yunkai Xiao, Qinjin Jia and Jialin Cui</cite>
