@@ -48,7 +48,7 @@ All the time slots are in PST (Vancouver/San Francisco local time).
 * 07:15 - 07:30 **[Paper Presentation]** [Improving Controllability of Educational Question Generation by Keyword Provision](#improving-controllability-of-educational-question-generation-by-keyword-provision), Ying-Hong Chan, Ho-Lam Chung and Yao-Chung Fan
 * 07:30 - 07:45 **[Paper Presentation]** [Incremental Knowledge Tracing from Multiple Schools](#incremental-knowledge-tracing-from-multiple-schools), Sujanya Suresh, Savitha Ramasamy, P.N Suganthan and Cheryl Sze Yin Wong
 * 07:45 - 08:00 **[Paper Presentation]** [Monitoring the Learning Progress In Piano Playing With Hidden Markov Models](#monitoring-the-learning-progress-in-piano-playing-with-hidden-markov-models), Nina Ziegenbein, Jason Friedman and Alexandra Moringen
-* 08:00 - 08:15 **[Paper Presentation]** [Pdf2PreReq: Automatic Extraction of Concept Dependency Graphs from Academic Textbooks](#pdf2prereq--automatic-extraction-of-concept-dependency-graphs-from-academic-textbooks), Rushil Thareja, Venktesh V and Mukesh Mohania
+* 08:00 - 08:15 **[Paper Presentation]** [Pdf2PreReq: Automatic Extraction of Concept Dependency Graphs from Academic Textbooks](#pdf2prereq-automatic-extraction-of-concept-dependency-graphs-from-academic-textbooks), Rushil Thareja, Venktesh V and Mukesh Mohania
 
 ### Feb 28 Session Two
 
