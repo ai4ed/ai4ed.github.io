@@ -36,4 +36,3 @@ Effectively solving the KT problem would have real-world impacts on enabling rec
 * **Zitao Liu** TAL Education Group, China
 * **Jiahao Chen** TAL Education Group, China
 * **Weiqi Luo** Jinan University, China
-* **Xiao Zhai** TAL Education Group, China

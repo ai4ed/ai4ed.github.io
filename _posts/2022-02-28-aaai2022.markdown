@@ -4,7 +4,7 @@ title:  AAAI2022 Artificial Intelligence for Education
 date:   2022-02-28 10:00:00
 image:  '/images/aaai2022.jpg'
 tags:   [Workshop, AAAI]
-featured: true
+featured: false
 category: workshops
 ---
 
