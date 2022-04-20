@@ -1,0 +1,39 @@
+---
+layout: post
+title:  NeurIPS2022 Artificial Intelligence for Education
+date:   2022-04-20 10:00:00
+image:  '/images/neurips2022.jpg'
+tags:   [Competition, NeurIPS]
+featured: true
+category: competitions
+---
+
+
+
+## Introduction
+
+Technology has transformed over the last few years, turning from futuristic ideas into today's reality. Artificial intelligence (AI) is one of these transformative technologies that is now achieving great successes in various real-world applications and making our life more convenient and safe. AI is now shaping the way businesses, governments, and educational institutions doing things and is making its way into classrooms, schools and districts across many countries.
+
+In fact, the increasingly digitalized education tools and the popularity of online learning have produced an unprecedented amount of data that provides us with invaluable opportunities for machines to assess the knowledge of students and customize their learning experience. Such data-driven assessments are a very necessary and important tool in the teaching and learning process, which give teachers real-time direction for what students need to learn to master course content. Specifically, there is a pressing need to investigate approaches of \textbf{how to effectively track the knowledge states of a student through their online interactions with teaching materials?} This is known as the knowledge tracing (KT) problems in the literature that aim to estimate a student's mastery level of knowledge components (KCs) underlying the teaching contents (shown in Figure \ref{fig:kt}) \cite{}. 
+
+Effectively solving the KT problem would have real-world impacts on enabling recommending personalized questions to students that best fit their background and learning preference and enabling automatically discovering potential common misconceptions that students have.
+
+
+
+
+## Important Dates
+
+* ~~**November 12, 2021**~~ **November 19, 2021**: Workshop paper submission due AOE
+* **November 30, 2021** : Notifications of acceptance
+* **December 15, 2021**: Deadline of the camera-ready final paper submission
+* **Feb 21, 2022**: Workshop Date 
+
+
+
+## Organizers
+
+
+* **Zitao Liu** TAL Education Group, China
+* **Jiahao Chen** TAL Education Group, China
+* **Weiqi Luo** Jinan University, China
+* **Xiao Zhai** TAL Education Group, China

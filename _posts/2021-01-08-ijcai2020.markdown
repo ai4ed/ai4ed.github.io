@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  IJCAI2020 Tutorial on Multimodal Learning in K-12 Education - Promise, Progress and Challenges
-date:   2020-09-01 00:00:00
+date:   2021-01-08 00:00:00
 image:  '/images/ijcai2020.jpg'
 tags:   [Tutorial, IJCAI]
 featured: false
