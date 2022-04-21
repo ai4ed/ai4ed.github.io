@@ -9,26 +9,30 @@ category: competitions
 ---
 
 
-
 ## Introduction
 
 Using students' historical learning interaction data to model their knowledge mastery over time so as to make predictions on their future performance is crucial for building next-generation smart and personalized education. Such smart student assessment capabilities can potentially help students learn better and faster when paired with high-quality learning materials and instructions. In this competition, participants will focus on how to effectively track the knowledge states of students through their online interactions with teaching materials. Specifically, to tackle this problem in a fine-grained manner, we divide this problem into four competition tracks based on different amounts of historical data and different prediction horizons (i.e., one-step ahead or multi-step ahead). These tasks closely mimic the goals of real-world educational applications and are highly representative of the educational challenges faced today. Meanwhile, nowadays pre-trained models have demonstrated their success in many natural language processing and AI related tasks with the help of extracting meaningful information and knowledge from large-scale unlabelled data. In the competition, we provide a large-scale dataset containing rich information about questions, knowledge components and their relations to see whether the pre-trained models can improve the performance of AI-driven student assessment. We encourage researchers and practitioners from both AI research communities such as machine learning, data mining, natural language processing and education communities such as learning analytics, educational data mining, and psychology to join this competition to make a real-world impact on unleashing the power of personalized education for millions of students worldwide.
 
 
-
-
 ## Important Dates
 
-* ~~**November 12, 2021**~~ **November 19, 2021**: Workshop paper submission due AOE
-* **November 30, 2021** : Notifications of acceptance
-* **December 15, 2021**: Deadline of the camera-ready final paper submission
-* **Feb 21, 2022**: Workshop Date 
+* **July 15, 2022**: Start date.
+* **November 5, 2022** : Entry deadline. You must accept the competition rules before this date in order to compete.
+* **November 15, 2022**: Final submission deadline for all tasks.
+* **November 30, 2022**: Final competition results announced. 
 
 
+## Competition Prizes
+All the prize winners will have invited presentations to share their experience. We will provide monetary awards to the top 3 teams with award certificates. Specifically, we plan to give $2000, $1000, and $500 cash or equivalent APPLE products to top 3 winning teams.
+
+## Rules
+- Submitted code must use a machine learning model to generate predictions. Submission of hard-coded prediction results is prohibited.
+- Users may work in teams of up to 5 people.
+- For participants to be eligible for prizes, their code must be publicly available.
 
 ## Organizers
-
-
 * **Zitao Liu** TAL Education Group, China
 * **Jiahao Chen** TAL Education Group, China
 * **Weiqi Luo** Jinan University, China
+* **Weining Qian** East China Normal University, China
+* **Xiangen Hu** University of Memphis, United States
