@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: post
 title:  NeurIPS2022 Artificial Intelligence for Education
 date:   2022-04-18 10:00:00
@@ -31,4 +31,4 @@ Using students' historical learning interaction data to model their knowledge ma
 
 * **Zitao Liu** TAL Education Group, China
 * **Jiahao Chen** TAL Education Group, China
-* **Weiqi Luo** Jinan University, China
+* **Weiqi Luo** Jinan University, China -->
