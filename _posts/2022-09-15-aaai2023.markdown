@@ -1,0 +1,114 @@
+---
+layout: post
+title:  AAAI2023 Artificial Intelligence for Education
+date:   2023-09-15 10:00:00
+image:  '/images/aaai2023.jpg'
+tags:   [Workshop, AAAI]
+featured: true
+category: workshops
+---
+
+
+
+## Introduction
+
+Technology has transformed over the last few years, turning from futuristic ideas into today's reality. AI is one of these transformative technologies that is now achieving great successes in various real-world applications and making our life more convenient and safe. AI is now shaping the way businesses, governments, and educational institutions doing things and is making its way into classrooms, schools and districts across many countries.
+
+In fact, the increasingly digitalized education tools and the popularity of online learning have produced an unprecedented amount of data that provides us with invaluable opportunities for applying AI in education. Recent years have witnessed growing efforts from AI research community devoted to advancing our education and promising results have been obtained in solving various critical problems in education. For examples, AI tools are built to ease the workload for teachers. Instead of grading each piece of work individually, which can take up a bulk of extra time, intelligent scoring tools allow teachers the ability to have their students work automatically graded. In the coronoavirus era, requiring many schools to move to online learning, the ability to give feedback at scale could provide needed support to teachers. What's more, various AI based models are trained on massive student behavioral and exercise data to have the ability to take note of a student's strengths and weaknesses, identifying where they may be struggling. These models can also generate instant feedback to instructors and help them to improve their teaching effectiveness. Furthermore, leveraging AI to connect disparate social networks among teachers, we may be able to provide greater resources for their planning, which have been shown to significantly effect students' achievement.
+
+
+Despite gratifying achievements have demonstrated the great potential and bright development prospect of introducing AI in education, developing and applying AI technologies to educational practice is fraught with its unique challenges, including, but not limited to, extreme data sparsity, lack of labeled data, and privacy issues. Hence, this workshop will focus on introducing research progress on applying AI to education and discussing recent advances of handling challenges encountered in AI educational practice. 
+
+
+
+
+## Workshop Description
+
+
+In this workshop, we invited AIED enthusiasts from all around the world through the following **three different channels**:
+
+* First, we invited established researchers in the AIED community to give a <span style="color:red">broad talk</span> that (1) describes a vision for bridging AIED communities; (2) summarizes a well-developed AIED research area; or (3) presents promising ideas and visions for new AIED research directions. 
+
+* Second, we called for <span style="color:red">regular workshop paper submissions</span> and <span style="color:red">cross-submissions</span> (papers that have appeared in or submitted to alternative venues) related to a broad range of AI domains for education. 
+
+* Third, we hosted a <span style="color:red">global challenge</span> on Codalab for a fair comparison of state-of-the-art **Knowledge Tracing** models and invited technical reports from winning teams. 
+
+
+
+### Regular Workshop Paper Submission
+
+We invite high-quality paper submissions of theoretical and experimental nature on topics including, but not limited to, the following:
+
+* Emerging technologies in education
+* Evaluation of education technologies
+* Immersive learning and multimedia applications
+* Implications of big data in education
+* Self-adaptive learning
+* Individual and personalized education
+* Intelligent learning systems
+* Intelligent tutoring and monitoring systems
+* Automatic assessment in education
+* Automated grading of assignments
+* Automated feedback and recommendations
+* Big data analytics for education
+* Analysis of communities of learning
+* Computer-aided assessment
+* Course development techniques
+* Data analytics & big data in education
+* Mining and web mining in education
+* Learning tools experiences and cases of study
+* Social media in education
+* Smart education
+* Digital libraries for learning
+* education analytic approaches, methods, and tools
+* Knowledge management for learning
+* Learning analytics and educational data mining
+* Learning technology for lifelong learning
+* Tracking learning activities
+* Uses of multimedia for education
+* Wearable computing technology in e-learning
+* Smart classroom
+* Dropout prediction
+* Knowledge tracing
+
+
+The workshop solicits **4-6 pages double-blind** paper submissions from participants. Submissions of the following flavors will be sought: (1) research ideas, (2) case studies (or deployed projects), (3) review papers, (4) best practice papers, and (5) lessons learned. The format is the standard double-column [AAAI Proceedings Style](https://www.aaai.org/Publications/Templates/AnonymousSubmission23.zip). All submissions will be peer-reviewed. Some will be selected for spotlight talks, and some for the poster session.
+
+
+
+### Cross-submissions 
+
+In addition to previously unpublished work, we invite papers on relevant topics which have appeared in or submitted to alternative venues (such as other ML or AIED conferences). Accepted cross-submissions will be presented as posters, with an indication of the original venue. Selection of cross-submissions will be determined solely by the organizing committee.
+
+
+### Submission Website
+
+Submission website: [https://easychair.org/conferences/?conf=aaai2023ai4edu](https://easychair.org/conferences/?conf=aaai2023ai4edu). The submission AUTHOR KIT can be found at [https://www.aaai.org/Publications/Templates/AnonymousSubmission23.zip](https://www.aaai.org/Publications/Templates/AnonymousSubmission23.zip).
+
+
+### Global Knowledge Tracing Challenge
+
+In this competition, we would like to call for researchers and practitioners worldwide to investigate the opportunities of **improving the student assessment performance via knowledge tracing approaches with rich side information**. 
+
+The details of this competition can be found at [http://ai4ed.cc/competition/aaai2023competition](http://ai4ed.cc/competition/aaai2023competition).
+
+<!-- ## Important Dates
+
+* ~~**November 12, 2021**~~ **November 19, 2021**: Workshop paper submission due AOE
+* **November 30, 2021** : Notifications of acceptance
+* **December 15, 2021**: Deadline of the camera-ready final paper submission
+* **Feb 21, 2022**: Workshop Date  -->
+
+
+
+## Organizers
+
+<!-- ![Beautiful place]({{site.baseurl}}/images/aaai2022_workshop_organizers.jpg) -->
+
+* **Zitao Liu** TAL Education Group, China
+* **Weiqi Luo** Guangdong Institute of Smart Education, Jinan University, China
+* **Shaghayegh (Sherry) Sahebi** University at Albany – SUNY, USA
+* **Lu Yu** Beijing Normal University, China
+* **Richard Tong** Squirrel AI Learning, USA
+* **Jiahao Chen** TAL Education Group, China
+* **Qiongqiong Liu** TAL Education Group, China
