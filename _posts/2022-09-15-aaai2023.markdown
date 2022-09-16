@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  AAAI2023 Artificial Intelligence for Education
-date:   2023-09-15 10:00:00
+date:   2022-09-15 10:00:00
 image:  '/images/aaai2023.jpg'
 tags:   [Workshop, AAAI]
 featured: true
