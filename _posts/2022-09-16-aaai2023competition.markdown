@@ -35,14 +35,27 @@ Therefore, in this competition, we would like to call for researchers and practi
 We will choose to use **AUC score** as the main evaluation metric for this competition. We will release the public training and test datasets for offline training and self-evaluation and will use a withheld private dataset to evaluate the final ranking of the competition participation teams. 
 
 
+### Schedule
+- November 17, 2022 - Start Date.
+- December 31, 2022 - Final submission deadline.
+- January 2, 2023 - Final competition results announced.
 
-<!-- ## Important Dates
+All deadlines are at 11:59 PM UTC on the corresponding day unless otherwise noted.The competition organizers reserve the right to update the contest timeline if they deem it necessary.
 
-* ~~**November 12, 2021**~~ **November 19, 2021**: Workshop paper submission due AOE
-* **November 30, 2021** : Notifications of acceptance
-* **December 15, 2021**: Deadline of the camera-ready final paper submission
-* **Feb 21, 2022**: Workshop Date  -->
+### Award
+- We will provide cash prizes for the top-3 teams (1st place: $1000; 2nd place: $600 ; 3rd place $300)
+- An official certificate will be awarded to the top-3 teams.
+- The top-3 teams will be invited to give oral presentations during AAAI 2023.
+- The first author of the top-3 teams will be invited to contribute to a competition review paper.
 
+Note: The top-3 teams should make their training and testing code publicly available for verification after the testing submission deadline.
+
+### Terms and Conditions
+
+The rules of the competition are as follows:
+- Submitted code must use a machine learning model to generate predictions. Submission of hard-coded prediction results is prohibited.
+- Users may work in teams of up to 6 people.
+- For participants to be eligible for prizes, their code must be publicly available.
 
 
 ## Organizers
@@ -56,3 +69,6 @@ We will choose to use **AUC score** as the main evaluation metric for this compe
 * **Richard Tong** Squirrel AI Learning, USA
 * **Jiahao Chen** TAL Education Group, China
 * **Qiongqiong Liu** TAL Education Group, China
+
+**Contact**
+pykt.team@gmail.com
