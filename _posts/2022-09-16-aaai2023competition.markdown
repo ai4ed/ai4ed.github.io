@@ -62,7 +62,7 @@ We have re-implemented more than 10 popular deep learning based knowledge tracin
 
 Details of pyKT can be found at 
 
-#### Liu, Zitao, et al. "pyKT: A Python Library to Benchmark Deep Learning based Knowledge Tracing Models." Thirty-sixth Conference on Neural Information Processing Systems Datasets and Benchmarks Track. [\[PDF\](https://openreview.net/pdf?id=BkMGK9dv2Z9)
+#### Liu, Zitao, et al. "pyKT: A Python Library to Benchmark Deep Learning based Knowledge Tracing Models." Thirty-sixth Conference on Neural Information Processing Systems Datasets and Benchmarks Track. [\[PDF\]](https://openreview.net/pdf?id=BkMGK9dv2Z9)
 
 We highly recommend to utilize pyKT to conduct the KT experiments and build your own KT models upon pyKT. **All the provided data files have been processed into the pyKT format and can be fed into pyKT directly.**
 
@@ -78,7 +78,7 @@ We highly recommend to utilize pyKT to conduct the KT experiments and build your
 We have used pyKT to run **DKT**, **AKT**, and **SimpleKT** on the aforementioned training data and evaluate on our final withheld test sets. All these approaches are purely trained with question/KC ids and student responses without any auxiliary information, such as question content. The results are used as baseline results for this competition:
 
 | Model      | Non-Accumulative | Accumulative     |
-| :---       |    :----:        |          ---:    |
+| :---       |    :----:        |    :----:        |
 | DKT        | 0.6777           | 0.7115           |
 | AKT        | 0.7815           | 0.7671           |
 | SimpleKT   | 0.7810           | 0.7618           |
