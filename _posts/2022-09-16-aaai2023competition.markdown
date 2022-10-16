@@ -29,9 +29,9 @@ However, even through a large body of deep learning based KT models are proposed
 * **KC side information**: (1) latent knowledge representation; and (2) relations among KCs.
 
 
-## Data \& Task Description
+## Data & Task Description
 
-We released a large student assessment dataset with rich textual and structural information (well anonymized). The data is collected from students in grade 3 math classes at [Xueersi](https://www.speiyou.com/). Specifically, the dataset is made up of 18,066 students, 7,652 questions, 1,175 KCs and 5,549,635 interactions/responses. The average student historical sequence length is 307.19. 79.47% responses are with positive labels, i.e., students correctly answer the questions.
+We released a large student assessment dataset with rich textual and structural information (well anonymized). The data is collected from students in grade 3 math classes at [Xueersi](https://www.speiyou.com/) from TAL Education Group that is a leading smart learning solutions provider in China with global footprints. Specifically, the dataset is made up of 18,066 students, 7,652 questions, 1,175 KCs and 5,549,635 interactions/responses. The average student historical sequence length is 307.19. 79.47% responses are with positive labels, i.e., students correctly answer the questions.
 
 
 Each question is associated with question text content, the explanations of question answers and its corresponding KCs. The relevant KCs are hierarchically structured. **All the textual characters are anonymized and mapped into internal unique integer tokens.**
@@ -44,7 +44,7 @@ There are 3,613 student interaction sequences in the test set. For each interact
 We will choose to use **AUC score** as the main evaluation metric for this competition. 
 
 
-### Tools and Open Sourced Software 
+### Open Sourced Tools 
 
 We have re-implemented more than 10 popular deep learning based knowledge tracing models and integrated them into a unified benchmark tool, called **pyKT** [https://www.pykt.org/](https://www.pykt.org/), including but not limited to:
 
@@ -62,11 +62,34 @@ We have re-implemented more than 10 popular deep learning based knowledge tracin
 
 Details of pyKT can be found at 
 
-> Liu, Zitao, et al. "pyKT: A Python Library to Benchmark Deep Learning based Knowledge Tracing Models." Thirty-sixth Conference on Neural Information Processing Systems Datasets and Benchmarks Track. [PDF](https://openreview.net/pdf?id=BkMGK9dv2Z9)
+#### Liu, Zitao, et al. "pyKT: A Python Library to Benchmark Deep Learning based Knowledge Tracing Models." Thirty-sixth Conference on Neural Information Processing Systems Datasets and Benchmarks Track. [\[PDF\](https://openreview.net/pdf?id=BkMGK9dv2Z9)
 
 We highly recommend to utilize pyKT to conduct the KT experiments and build your own KT models upon pyKT. **All the provided data files have been processed into the pyKT format and can be fed into pyKT directly.**
 
 
+### Data Files
+
+
+
+
+
+### Baseline Results
+
+We have used pyKT to run **DKT**, **AKT**, and **SimpleKT** on the aforementioned training data and evaluate on our final withheld test sets. All these approaches are purely trained with question/KC ids and student responses without any auxiliary information, such as question content. The results are used as baseline results for this competition:
+
+| Model      | Non-Accumulative | Accumulative     |
+| :---       |    :----:        |          ---:    |
+| DKT        | 0.6777           | 0.7115           |
+| AKT        | 0.7815           | 0.7671           |
+| SimpleKT   | 0.7810           | 0.7618           |
+
+
+Practically, there are two different approaches, i.e., **accumulative prediction** and **non-accumulative prediction**. The accumulative prediction approach uses the last predicted values for the current prediction while the non-accumulative prediction predicts all future values all at once. Details are discussed in the pyKT paper [^11].
+
+
+### Discussion Forum
+
+For any question regarding data files and pyKT tools, please post your question at [https://github.com/pykt-team/pykt-toolkit/discussions](https://github.com/pykt-team/pykt-toolkit/discussions).
 
 
 ## Competition Schedule
@@ -116,3 +139,4 @@ The rules of the competition are as follows:
 [^8]: Ghosh, Aritra, Neil Heffernan, and Andrew S. Lan. "Context-aware attentive knowledge tracing." Proceedings of the 26th ACM SIGKDD international conference on knowledge discovery & data mining. 2020.
 [^9]: Pandey, Shalini, and George Karypis. "A self-attentive model for knowledge tracing." 12th International Conference on Educational Data Mining, EDM 2019. International Educational Data Mining Society, 2019.
 [^10]: Choi, Youngduck, et al. "Towards an appropriate query, key, and value computation for knowledge tracing." Proceedings of the Seventh ACM Conference on Learning@Scale. 2020.
+[^11]: Liu, Zitao, et al. "pyKT: A Python Library to Benchmark Deep Learning based Knowledge Tracing Models." Thirty-sixth Conference on Neural Information Processing Systems Datasets and Benchmarks Track.
