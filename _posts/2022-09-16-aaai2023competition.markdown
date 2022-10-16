@@ -120,6 +120,11 @@ Practically, there are two different approaches, i.e., **accumulative prediction
 For any question regarding data files and pyKT tools, please post your question at [https://github.com/pykt-team/pykt-toolkit/discussions](https://github.com/pykt-team/pykt-toolkit/discussions).
 
 
+### Submission Site
+
+We use codalab to receive submissions and please submit your results at []().
+
+
 ## Competition Schedule
 
 - November 17, 2022 - Start Date.
