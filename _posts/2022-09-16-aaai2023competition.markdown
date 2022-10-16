@@ -98,7 +98,7 @@ We highly recommend to utilize pyKT to conduct the KT experiments and build your
 ```
 
 
-**<span style="color:red">All the data files can be download at []().</span>**
+**<span style="color:red">All the data files can be download at [https://forms.gle/3TT5VN9ZFnG3JXBPA](https://forms.gle/3TT5VN9ZFnG3JXBPA).</span>**
 
 
 ### Baseline Results
@@ -122,7 +122,7 @@ For any question regarding data files and pyKT tools, please post your question 
 
 ### Submission Site
 
-We use codalab to receive submissions and please submit your results at []().
+We use codalab to receive submissions and please submit your results at [https://codalab.lisn.upsaclay.fr/competitions/8087](https://codalab.lisn.upsaclay.fr/competitions/8087).
 
 
 ## Competition Schedule
@@ -141,6 +141,12 @@ All deadlines are at 11:59 PM UTC on the corresponding day unless otherwise note
 - The first author of the top-3 teams will be invited to contribute to a competition review paper.
 
 Note: The top-3 teams should make their training and testing code publicly available for verification after the testing submission deadline.
+
+
+## Sponsor
+
+![Sponsor TAL Education Group]({{site.baseurl}}/images/aaai2023competition_sponsor.jpg) 
+
 
 ## Terms and Conditions
 
