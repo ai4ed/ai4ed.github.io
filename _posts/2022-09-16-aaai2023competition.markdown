@@ -16,7 +16,7 @@ In this competition, we would like to call for researchers and practitioners wor
 Knowledge tracing (KT) is the task of **using students' historical learning interaction data to model their knowledge mastery over time so as to make predictions on their future interaction performance**, shown in the following Figure. Such predictive capabilities can potentially help students learn better and faster when paired with high-quality learning materials and instructions, which is crucial for building next-generation smart and personalized education. 
 
 
-![A graphical illustration of knowledge tracing]({{site.baseurl}}/images/aaai2023competition_kt.jpg  =250x)
+![A graphical illustration of knowledge tracing]({{site.baseurl}}/images/aaai2023competition_kt.jpg | width=250)
 
 
 The KT related research has been studied since 1990s where Corbett and Anderson, to the best of our knowledge, were the first to estimate students' current knowledge with regard to each individual knowledge component (KC). A KC is a description of a mental structure or process that a learner uses, alone or in combination with other KCs, to accomplish steps in a task or a problem. Since then, many attempts have been made to solve the KT problem, such as probabilistic graphical models and factor analysis based models. Recently, due to the rapid advances of deep neural networks, deep learning based knowledge tracing (DLKT) models have become the de facto KT framework for modeling students' mastery of KCs. 
@@ -69,7 +69,7 @@ We highly recommend to utilize pyKT to conduct the KT experiments and build your
 
 ### Data Files
 
-* **train_valid_sequences.csv**: the main data file to conduct offline model training and validation. Each student interaction sequence at question level is first expanded into KC level when a question is associated with multiple KCs. ![Illustration of KC expansion]({{site.baseurl}}/images/aaai2023competition_kc_expansion.jpg =250x) Then each sequence is truncated into sub-sequences of length of 200. The data has been split into 5 folds. The file has the following columns:
+* **train_valid_sequences.csv**: the main data file to conduct offline model training and validation. Each student interaction sequence at question level is first expanded into KC level when a question is associated with multiple KCs. ![Illustration of KC expansion]({{site.baseurl}}/images/aaai2023competition_kc_expansion.jpg | width=250) Then each sequence is truncated into sub-sequences of length of 200. The data has been split into 5 folds. The file has the following columns:
 	* fold: the id for each fold, ranging from 0, 1, 2, 3, 4.
 	* uid: internal user id. 
 	* questions: the sequence of internal question ids.
