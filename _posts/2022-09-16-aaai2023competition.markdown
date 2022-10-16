@@ -86,7 +86,7 @@ We highly recommend to utilize pyKT to conduct the KT experiments and build your
 
 * **questions.json**: the file that contains all the auxiliary information of questions and KCs. The json file structure is defined as follows:
 
-``
+```
 {original question id: 
   {
     "content": the question textual content. The text tokens are anonymized and mapped into internal unique integer tokens. 
@@ -95,7 +95,7 @@ We highly recommend to utilize pyKT to conduct the KT experiments and build your
     "type": the question type. 0: blank filling question; 1: single-choice question; 2: problem-solving question.
   }
 }
-``
+```
 
 
 **<span style="color:red">All the data files can be download at []().</span>**
