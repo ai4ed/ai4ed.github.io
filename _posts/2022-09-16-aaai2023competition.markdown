@@ -115,6 +115,8 @@ We have used pyKT to run **DKT** and **AKT** on the aforementioned training data
 
 Practically, there are two different approaches, i.e., **accumulative prediction** and **non-accumulative prediction**. The accumulative prediction approach uses the last predicted values for the current prediction while the non-accumulative prediction predicts all future values all at once. Details are discussed in the pyKT paper [^11].
 
+### Instruction and codes
+We provide easy to use codes and detailed instructions in [here](https://github.com/pykt-team/pykt-toolkit/tree/main/examples/competitions/aaai2023_competition).
 
 ### Discussion Forum
 
