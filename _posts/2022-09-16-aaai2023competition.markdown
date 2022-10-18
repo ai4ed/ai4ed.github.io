@@ -103,12 +103,13 @@ We highly recommend to utilize pyKT to conduct the KT experiments and build your
 
 ### Baseline Results
 
-We have used pyKT to run **DKT** and **AKT** on the aforementioned training data and evaluate on our final withheld test sets. All these approaches are purely trained with question/KC ids and student responses without any auxiliary information, such as question content. The results are used as baseline results for this competition:
+We have used pyKT to run **DKT** and **AKT** on the aforementioned training data and evaluate on our public test sets. All these approaches are purely trained with question/KC ids and student responses without any auxiliary information, such as question content. The results are used as baseline results for this competition:
 
 | Model      | Non-Accumulative | Accumulative     |
 | :---       |    :----:        |    :----:        |
-| DKT        | 0.6777           | 0.7115           |
-| AKT        | 0.7815           | 0.7671           |
+| DKT        | 0.6801           | 0.7086           |
+| AKT        | 0.7812           | 0.7692           |
+| Majority   | 0.7381           | -                |
 
 
 
