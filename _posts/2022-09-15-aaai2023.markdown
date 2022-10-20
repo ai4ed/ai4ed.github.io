@@ -72,13 +72,13 @@ We invite high-quality paper submissions of theoretical and experimental nature 
 * Knowledge tracing
 
 
-The workshop solicits **4-6 pages double-blind** paper submissions from participants. Submissions of the following flavors will be sought: (1) research ideas, (2) case studies (or deployed projects), (3) review papers, (4) best practice papers, and (5) lessons learned. The format is the standard double-column [AAAI Proceedings Style](https://www.aaai.org/Publications/Templates/AnonymousSubmission23.zip). All submissions will be peer-reviewed. Some will be selected for spotlight talks, and some for the poster session.
+The workshop solicits **4-7 pages double-blind** paper submissions from participants. Submissions of the following flavors will be sought: (1) research ideas, (2) case studies (or deployed projects), (3) review papers, (4) best practice papers, and (5) lessons learned. The format is the standard double-column [AAAI Proceedings Style](https://www.aaai.org/Publications/Templates/AnonymousSubmission23.zip). All submissions will be peer-reviewed. Some will be selected for spotlight talks, and some for the poster session.
 
 
 
 ### Cross-submissions 
 
-In addition to previously unpublished work, we invite papers on relevant topics which have appeared in or submitted to alternative venues (such as other ML or AIED conferences). Accepted cross-submissions will be presented as posters, with an indication of the original venue. Selection of cross-submissions will be determined solely by the organizing committee.
+In addition to previously unpublished work, we invite papers on relevant topics which have appeared in alternative venues (such as other ML or AIED conferences). Accepted cross-submissions will be presented as 15-min oral presentations, with an indication of the original venue. Selection of cross-submissions will be determined solely by the organizing committee. There will be no regular paper reviews for cross submissions.
 
 
 ### Submission Website
@@ -90,15 +90,18 @@ Submission website: [https://easychair.org/conferences/?conf=aaai2023ai4edu](htt
 
 In this competition, we would like to call for researchers and practitioners worldwide to investigate the opportunities of **improving the student assessment performance via knowledge tracing approaches with rich side information**. 
 
-The details of this competition can be found at [http://ai4ed.cc/competition/aaai2023competition](http://ai4ed.cc/competition/aaai2023competition).
 
-<!-- ## Important Dates
+![A graphical illustration of knowledge tracing]({{site.baseurl}}/images/aaai2023competition_kt.jpg)
 
-* ~~**November 12, 2021**~~ **November 19, 2021**: Workshop paper submission due AOE
-* **November 30, 2021** : Notifications of acceptance
-* **December 15, 2021**: Deadline of the camera-ready final paper submission
-* **Feb 21, 2022**: Workshop Date  -->
 
+The details of this competition can be found at [http://ai4ed.cc/competitions/aaai2023competition](http://ai4ed.cc/competitions/aaai2023competition).
+
+## Important Dates
+
+* **Nov 27, 2022**: Workshop paper submission due AOE
+* **Dec 25, 2022** : Notifications of acceptance
+* **Jan 5, 2023**: Deadline of the camera-ready final paper submission
+* **Feb 13 (or 14), 2023**: Workshop Date 
 
 
 ## Organizers
@@ -109,6 +112,6 @@ The details of this competition can be found at [http://ai4ed.cc/competition/aaa
 * **Weiqi Luo** Guangdong Institute of Smart Education, Jinan University, China
 * **Shaghayegh (Sherry) Sahebi** University at Albany – SUNY, USA
 * **Lu Yu** Beijing Normal University, China
-* **Richard Tong** Squirrel AI Learning, USA
+* **Richard Tong** IEEE AI Standard Committee & Squirrel AI Learning, USA
 * **Jiahao Chen** TAL Education Group, China
 * **Qiongqiong Liu** TAL Education Group, China
