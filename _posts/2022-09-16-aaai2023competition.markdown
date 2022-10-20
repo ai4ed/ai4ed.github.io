@@ -103,17 +103,20 @@ We highly recommend to utilize pyKT to conduct the KT experiments and build your
 
 ### Baseline Results
 
-We have used pyKT to run **DKT** and **AKT** on the aforementioned training data and evaluate on our final withheld test sets. All these approaches are purely trained with question/KC ids and student responses without any auxiliary information, such as question content. The results are used as baseline results for this competition:
+We have used pyKT to run **DKT** and **AKT** on the aforementioned training data and evaluate on our public test sets. All these approaches are purely trained with question/KC ids and student responses without any auxiliary information, such as question content. The results are used as baseline results for this competition:
 
 | Model      | Non-Accumulative | Accumulative     |
 | :---       |    :----:        |    :----:        |
-| DKT        | 0.6777           | 0.7115           |
-| AKT        | 0.7815           | 0.7671           |
+| DKT        | 0.6801           | 0.7086           |
+| AKT        | 0.7812           | 0.7692           |
+| Majority   | 0.7381           | -                |
 
 
 
 Practically, there are two different approaches, i.e., **accumulative prediction** and **non-accumulative prediction**. The accumulative prediction approach uses the last predicted values for the current prediction while the non-accumulative prediction predicts all future values all at once. Details are discussed in the pyKT paper [^11].
 
+### Instruction and Codes
+We provide easy to use codes and detailed instructions in [here](https://github.com/pykt-team/pykt-toolkit/tree/main/examples/competitions/aaai2023_competition).
 
 ### Discussion Forum
 
