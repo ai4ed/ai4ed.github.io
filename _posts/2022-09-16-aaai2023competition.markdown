@@ -90,7 +90,7 @@ We highly recommend to utilize pyKT to conduct the KT experiments and build your
 {original question id: 
   {
     "content": the question textual content. The text tokens are anonymized and mapped into internal unique integer tokens. 
-    "concept_routes": all the KCs are stored hierarchically in a tree-like structure. A concept route is a path from the root to the leaf in the KC tree.
+    "concept_routes": all the KCs are stored hierarchically in a tree-like structure. A concept route is a path from the root to the leaf in the KC tree. Different concept routes maybe have the same leaf node, because we build concept paths from different aspects.
     "analysis": the textual content of question answer and its detailed analysis. The text tokens are anonymized and mapped into internal unique integer tokens. 
     "type": the question type. 0: blank filling question; 1: single-choice question; 2: problem-solving question.
   }
