@@ -20,6 +20,7 @@ In fact, the increasingly digitalized education tools and the popularity of onli
 Despite gratifying achievements have demonstrated the great potential and bright development prospect of introducing AI in education, developing and applying AI technologies to educational practice is fraught with its unique challenges, including, but not limited to, extreme data sparsity, lack of labeled data, and privacy issues. Hence, this workshop will focus on introducing research progress on applying AI to education and discussing recent advances of handling challenges encountered in AI educational practice. 
 
 
+**<span style="color:red">This year, the AI4Edu workshop is co-located with the main AAAI 2023 conference in Washington DC, USA. We encourage offline participation and will also provide online option. Hotel and travel info can be found [here](https://aaai.org/Conferences/AAAI-23/hotel-and-travel/).</span>**
 
 
 ## Workshop Description
@@ -78,7 +79,7 @@ The workshop solicits **4-7 pages double-blind** paper submissions from particip
 
 ### Cross-submissions 
 
-In addition to previously unpublished work, we invite papers on relevant topics which have appeared in alternative venues (such as other ML or AIED conferences). Accepted cross-submissions will be presented as 15-min oral presentations, with an indication of the original venue. Selection of cross-submissions will be determined solely by the organizing committee. There will be no regular paper reviews for cross submissions.
+In addition to previously unpublished work, we invite papers on relevant topics which have appeared in alternative venues (such as other ML or AIED conferences). Accepted cross-submissions will be presented as 15-min oral presentations, with an indication of the original venue. Selection of cross-submissions will be determined solely by the organizing committee. There will be no regular paper reviews for cross submissions. Please use the **original paper format** when submitting to the cross-submission track.
 
 
 ### Submission Website
