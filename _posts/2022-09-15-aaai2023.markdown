@@ -20,7 +20,7 @@ In fact, the increasingly digitalized education tools and the popularity of onli
 Despite gratifying achievements have demonstrated the great potential and bright development prospect of introducing AI in education, developing and applying AI technologies to educational practice is fraught with its unique challenges, including, but not limited to, extreme data sparsity, lack of labeled data, and privacy issues. Hence, this workshop will focus on introducing research progress on applying AI to education and discussing recent advances of handling challenges encountered in AI educational practice. 
 
 
-**<span style="color:red">This year, the AI4Edu workshop is co-located with the main AAAI 2023 conference in Washington DC, USA. We encourage offline participation and will also provide online option. Hotel and travel info can be found [here](https://aaai.org/Conferences/AAAI-23/hotel-and-travel/).</span>**
+**<span style="color:red">This year, the AI4Edu workshop is co-located with the main AAAI 2023 conference in Washington DC, USA on Feb 13, 2023. We encourage offline participation and will also provide online option. Hotel and travel info can be found [here](https://aaai.org/Conferences/AAAI-23/hotel-and-travel/).</span>**
 
 
 ## Workshop Description
@@ -102,7 +102,7 @@ The details of this competition can be found at [http://ai4ed.cc/competitions/aa
 * **Nov 27, 2022**: Workshop paper submission due AOE
 * **Dec 25, 2022** : Notifications of acceptance
 * **Jan 5, 2023**: Deadline of the camera-ready final paper submission
-* **Feb 13 (or 14), 2023**: Workshop Date 
+* **Feb 13, 2023**: Workshop Date 
 
 
 ## Organizers
