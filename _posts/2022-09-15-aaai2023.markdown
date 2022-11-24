@@ -9,7 +9,7 @@ category: workshops
 ---
 
 ## UPDATES 
-* **Workshop Registration**: Registration is available at https://aaaiconf.cventevents.com/AAAI23. To participate in this workshop, the "Workshop Only" registration type is enough. For nontechnical regular registrants, the one-day early bird and normal price are $250 and $350 respectively, and for students, $150 and $200 respectively. More details can be found at https://aaai.org/Conferences/AAAI-23/registration/. 
+* **Workshop Registration**: Registration is available at https://aaaiconf.cventevents.com/AAAI23. To participate in this workshop, the "Workshop Only" registration type is enough. For nontechnical regular registrants, the 1-day early bird and normal price are $250 and $350 respectively, and for students, $150 and $200 respectively. Prices about technical registrants discount and 2-day can be found at https://aaai.org/Conferences/AAAI-23/registration/. 
 
 ## Introduction
 
