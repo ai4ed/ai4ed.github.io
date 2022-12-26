@@ -30,14 +30,15 @@ The AI4Edu workshop is co-located with the main AAAI 2023 conference in Washingt
 * 11:30 - 11:45 **[Winning Solution Presentation]** TBD 
 * 11:45 - 12:00 **[Winning Solution Presentation]** TBD 
 
-* 12:00 - 13:30 Lunch
+* 12:00 - 13:15 Lunch
 
-* 13:30 - 13:45 **[Cross-submission Presentation]** TBD 
-* 13:45 - 14:00 **[Cross-submission Presentation]** TBD 
-* 14:00 - 14:15 **[Cross-submission Presentation]** TBD 
-* 14:15 - 14:30 **[Cross-submission Presentation]** TBD 
+* 13:15 - 13:30 **[Cross-submission Presentation]** [Transition-Aware Multi-Activity Knowledge Tracing, Siqian Zhao, Chunpai Wang and Shaghayegh Sahebi.
+* 13:30 - 13:45 **[Cross-submission Presentation]** pyKT: A Python Library to Benchmark Deep Learning based Knowledge Tracing Models. Zitao Liu, Qiongqiong Liu, Jiahao Chen, Shuyan Huang, Jiliang Tang, Weiqi Luo. 36th Conference on Neural Information Processing Systems (NeurIPS 2022) Datasets and Benchmarks Track 
+* 13:45 - 14:00 **[Cross-submission Presentation]** Evaluating the Explainers: Black-Box Explainable Machine Learning for Student Success Prediction in MOOCs. Vinitra Swamy, Bahar Radmehr, Natasa Krco, Mirko Marras, Tanja Käser. The 15th International Conference on Educational Data Mining (EDM 2022)
+* 14:00 - 14:15 **[Cross-submission Presentation]** Meta Transfer Learning for Early Success Prediction in MOOCs. Vinitra Swamy, Mirko Marras, Tanja Käser. The 2022 ACM Conference on Learning at Scale (L@S 2022)
+* 14:15 - 14:30 **[Cross-submission Presentation]** Code-DKT: A Code-based Knowledge Tracing Model for Programming Tasks. Yang Shi, Min Chi, Tiffany Barnes, Thomas Price. The 15th International Conference on Educational Data Mining (EDM 2022)
 
-* 14:30 - 14:45 **[Paper Presentation]** TBD 
+* 14:30 - 14:45 **[Paper Presentation]** TBD
 * 14:45 - 15:00 **[Paper Presentation]** TBD 
 * 15:00 - 15:15 **[Paper Presentation]** TBD 
 * 15:15 - 15:30 **[Paper Presentation]** TBD 
