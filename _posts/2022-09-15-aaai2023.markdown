@@ -38,16 +38,23 @@ The AI4Edu workshop is co-located with the main AAAI 2023 conference in Washingt
 * 14:00 - 14:15 **[Cross-submission Presentation]** Meta Transfer Learning for Early Success Prediction in MOOCs. Vinitra Swamy, Mirko Marras, Tanja Käser. The 2022 ACM Conference on Learning at Scale (L@S 2022)
 * 14:15 - 14:30 **[Cross-submission Presentation]** Code-DKT: A Code-based Knowledge Tracing Model for Programming Tasks. Yang Shi, Min Chi, Tiffany Barnes, Thomas Price. The 15th International Conference on Educational Data Mining (EDM 2022)
 
-* 14:30 - 14:45 **[Paper Presentation]** TBD
-* 14:45 - 15:00 **[Paper Presentation]** TBD 
-* 15:00 - 15:15 **[Paper Presentation]** TBD 
-* 15:15 - 15:30 **[Paper Presentation]** TBD 
-* 15:30 - 15:45 **[Paper Presentation]** TBD 
-* 15:45 - 16:00 **[Paper Presentation]** TBD 
-* 16:00 - 16:15 **[Paper Presentation]** TBD 
-* 16:15 - 16:30 **[Paper Presentation]** TBD 
-* 16:30 - 16:45 **[Paper Presentation]** TBD 
-* 16:45 - 17:00 **[Paper Presentation]** TBD 
+
+* 14:30 - 14:40 Break
+
+* 14:40 - 14:50 **[Paper Presentation]** Tongwen Huang, Xihua Li and Yi Chao. Finding Similar Exercises in Retrieval Manner
+* 14:50 - 15:00 **[Paper Presentation]** He Zhu, Xihua Li, Xuemin Zhao, Yunbo Cao and Shan Yu. TQ-Net: Mixed Contrastive Representation Learning For Heterogeneous Test Questions
+* 15:00 - 15:10 **[Paper Presentation]** Fang Nan, Feng Tian, Yaozhi Wang, Qidong Liu, Yanze Wu, Jizhong Zhang, Huan Li, Haiping Zhu, Yuzhe Yao, Heng Zhang, Yaqiang Wu and Qinghua Zheng. Inferring Actions and Joint Attention From Dual-view Classroom Videos
+* 15:10 - 15:20 **[Paper Presentation]** Anup Shakya, Vasile Rus and Deepak Venugopal. Mastery Guided Non-parametric Clustering to Scale-up Strategy Prediction
+* 15:20 - 15:30 **[Paper Presentation]** Tim Klausmann, Marius Köppel, Daniel Schunk and Isabell Zipperle. Can machine learning solve the challenge of adaptive learning and the individualization of learning paths? A field experiment in an online learning platform
+* 15:30 - 15:40 **[Paper Presentation]** John Stamper, Huy Nguyen and Steven Moore. Hierarchical Concept Map Generation from Course Data
+* 15:40 - 15:50 **[Paper Presentation]** Hyeondey Kim, Yun Jegal and Kyungwoo Song. Human Inspired Learning for Deep Knowledge Tracing
+* 15:50 - 16:00 **[Paper Presentation]** Alexander Jenkins, Imad Jaimoukha, Ljubisa Stankovic and Danilo Mandic. FAIR AND SKILL-DIVERSE STUDENT GROUP FORMATION VIA CONSTRAINED k-WAY GRAPH PARTITIONING
+* 16:00 - 16:10 **[Paper Presentation]** Xiaofei Zhou, Hanjia Lyu, Jiebo Luo and Zhen Bai. ML-SD Modeling: How Machine Learning Can Support Scientific Discovery Learning for K-12 STEM Education
+* 16:10 - 16:20 **[Paper Presentation]** Vishesh Kalvakurthi, Aparna Varde and John Jenq. Hey Dona! Can you help me with student course registration?
+* 16:20 - 16:30 **[Paper Presentation]** Roberto Daza, Luis F. Gomez, Aythami Morales, Ruben Tolosana, Julian Fierrez, Ruth Cobos and Javier Ortega-Garcia. MATT: Multimodal Attention Level Estimation for e-learning Platforms
+* 16:30 - 16:40 **[Paper Presentation]** Jia Tracy Shen and Dongwon Lee. Imputing Knowledge Tracing Data with Subject-Based Training via LSTM Variational Autoencoders
+* 16:40 - 16:50 **[Paper Presentation]** Levi Corallo and Aparna Varde. Optical Character Recognition and Transcription of Berber Signs from Images in a Low-Resource Language Amazigh
+* 16:50 - 17:00 **[Paper Presentation]** Frederik Baucks, Robin Schmucker and Laurenz Wiskott. Tracing Changes in University Course Difficulty Using Item-Response Theory
 
 
 
