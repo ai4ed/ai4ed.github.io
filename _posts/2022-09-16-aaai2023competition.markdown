@@ -7,6 +7,14 @@ tags:   [Competition, AAAI]
 featured: true
 category: competitions
 ---
+## <span style="color:red">Winners of the Global Knowledge Tracing Challenge @AAAI2023</span>
+
+We are pleased to announce the winners of the Global Knowledge Tracing Challenge @AAAI2023.
+
+- **First Prize** (AUC = 0.8178): **Team KeyCoin@USTC**: Shuanghong Shen^{1,2}, Sailan Hu^3, Bihan Xu^{1,2}, Zhenya Huang^{1,2}, Qi Liu^{1,2,4}, Enhong Chen^{1,2} (1 Anhui Province Key Laboratory of Big Data Analysis and Application & School of Data Science, University of Science and Technology of China, 2 State Key Laboratory of Cognitive Intelligence, 3 School of Mathematics and Statistics, Wuhan University, 4 Institute of Artificial Intelligence, Hefei Comprehensive National Science Center) [Codes](https://github.com/shshen-closer/disguer)
+- **Second Prize** (AUC = 0.8167): **Team LZ-SeqKT**: Guimei Liu, Huijing Zhan (Institute for Infocomm Research, A*STAR, Singapore)
+- **Third Prize** (AUC = 0.8166): **Team comecomeya**: Xing Jiang (Netease) [Codes](https://github.com/comecomeya/AAAI2023)
+
 
 
 ## Background

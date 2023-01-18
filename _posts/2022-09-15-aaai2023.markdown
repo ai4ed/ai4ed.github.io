@@ -22,7 +22,7 @@ The AI4Edu workshop is co-located with the main AAAI 2023 conference in Washingt
 
 * 09:00 - 09:10 Opening
 * 09:10 - 10:00 **[Keynote Talk]** TBD, Tom Mitchell, School of Computer Science, Carnegie Mellon University
-* 10:00 - 10:50 **[Keynote Talk]** TBD, Sidney D'Mello,  Institute of Cognitive Science and the Department of Computer Science, University of Colorado Boulder.
+* 10:00 - 10:50 **[Keynote Talk]** [From Autonomy to Synergy: Envisioning Next Generation Human-AI Partnerships](#from-autonomy-to-synergy-envisioning-next-generation-human-ai-partnerships), Sidney D'Mello, Institute of Cognitive Science and the Department of Computer Science, University of Colorado Boulder.
 * 10:50 - 11:00 Break
 
 * 11:00 - 11:15 Summary and Winner Announcement of the AAAI2023 Global Knowledge Tracing Challenge
@@ -55,6 +55,19 @@ The AI4Edu workshop is co-located with the main AAAI 2023 conference in Washingt
 * 16:30 - 16:40 **[Paper Presentation]** Jia Tracy Shen and Dongwon Lee. Imputing Knowledge Tracing Data with Subject-Based Training via LSTM Variational Autoencoders
 * 16:40 - 16:50 **[Paper Presentation]** Levi Corallo and Aparna Varde. Optical Character Recognition and Transcription of Berber Signs from Images in a Low-Resource Language Amazigh
 * 16:50 - 17:00 **[Paper Presentation]** Frederik Baucks, Robin Schmucker and Laurenz Wiskott. Tracing Changes in University Course Difficulty Using Item-Response Theory
+
+## Talk Details
+
+> ### From Autonomy to Synergy: Envisioning Next Generation Human-AI Partnerships
+> 
+> <cite>Sidney K. D’Mello</cite>
+
+{% highlight html %}
+Abstract: I’ll describe a vision for AI, beyond a cold, autonomous agent working for humans to a socio-technical synergistic partnership with humans. I’ll highlight these ideas in the context of the NSF National AI Institute for Student AI Teaming (http://www.isat.ai), which brings together a geographically distributed team of researchers with K-12 partners to reframe the role of AI in education, moving from a facilitator of personalized one-on-one learning, to a social, collaborative partner which helps students and teachers work and learn more effectively, engagingly, and equitably. The talk will highlight insights and technologies at the intersection of the Institute’s three research strands: (1) foundational AI to understand and facilitate conversations; (2) orchestrating classroom interactions with AI; and (3) broadening participation with curriculum co-design. I’ll contextualize the research within our commitment to responsible innovation and polycultural approaches for developing ethical AI technologies.
+
+Bio: Sidney D’Mello (PhD in Computer Science) is a Professor in the Institute of Cognitive Science and Department of Computer Science at the University of Colorado Boulder. He is interested in the dynamic interplay between cognition and emotion while individuals and groups engage in complex real-world activities. He applies insights gleaned from this basic research program to develop intelligent technologies that help people achieve to their fullest potential by coordinating what they think and feel with what they know and do. D’Mello has co-edited seven books and has published more than 300 journal papers, book chapters, and conference proceedings. His research has received 17 awards at international conferences and has been funded by numerous grants. D’Mello serves(d) as Associate Editor and on the Editorial Boards of 11 journals. He leads the NSF National Institute for Student-Agent Teaming (2020-2025), which aims to develop AI technologies to facilitate rich socio-collaborative learning experiences for all students.
+{% endhighlight %}
+
 
 
 
