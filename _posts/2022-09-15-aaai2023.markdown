@@ -21,8 +21,8 @@ category: workshops
 The AI4Edu workshop is co-located with the main AAAI 2023 conference in Washington DC, USA on **<span style="color:red">Feb 13, 2023</span>**. All the time slots are in EST (New York local time).
 
 * 09:00 - 09:10 Opening
-* 09:10 - 10:00 **[Keynote Talk]** TBD, Tom Mitchell, School of Computer Science, Carnegie Mellon University
-* 10:00 - 10:50 **[Keynote Talk]** TBD, Sidney D'Mello,  Institute of Cognitive Science and the Department of Computer Science, University of Colorado Boulder.
+* 09:10 - 10:00 **[Keynote Talk]** [Where Can AI Take Education by 2030](#where-can-ai-take-education-by-2030), Tom Mitchell, School of Computer Science, Carnegie Mellon University
+* 10:00 - 10:50 **[Keynote Talk]** [From Autonomy to Synergy: Envisioning Next Generation Human-AI Partnerships](#from-autonomy-to-synergy-envisioning-next-generation-human-ai-partnerships), Sidney D'Mello,  Institute of Cognitive Science and the Department of Computer Science, University of Colorado Boulder.
 * 10:50 - 11:00 Break
 
 * 11:00 - 11:15 Summary and Winner Announcement of the AAAI2023 Global Knowledge Tracing Challenge
@@ -32,11 +32,11 @@ The AI4Edu workshop is co-located with the main AAAI 2023 conference in Washingt
 
 * 12:00 - 13:15 Lunch
 
-* 13:15 - 13:30 **[Cross-submission Presentation]** Transition-Aware Multi-Activity Knowledge Tracing, Siqian Zhao, Chunpai Wang and Shaghayegh Sahebi.
-* 13:30 - 13:45 **[Cross-submission Presentation]** pyKT: A Python Library to Benchmark Deep Learning based Knowledge Tracing Models. Zitao Liu, Qiongqiong Liu, Jiahao Chen, Shuyan Huang, Jiliang Tang, Weiqi Luo. 36th Conference on Neural Information Processing Systems (NeurIPS 2022) Datasets and Benchmarks Track 
-* 13:45 - 14:00 **[Cross-submission Presentation]** Evaluating the Explainers: Black-Box Explainable Machine Learning for Student Success Prediction in MOOCs. Vinitra Swamy, Bahar Radmehr, Natasa Krco, Mirko Marras, Tanja Käser. The 15th International Conference on Educational Data Mining (EDM 2022)
-* 14:00 - 14:15 **[Cross-submission Presentation]** Meta Transfer Learning for Early Success Prediction in MOOCs. Vinitra Swamy, Mirko Marras, Tanja Käser. The 2022 ACM Conference on Learning at Scale (L@S 2022)
-* 14:15 - 14:30 **[Cross-submission Presentation]** Code-DKT: A Code-based Knowledge Tracing Model for Programming Tasks. Yang Shi, Min Chi, Tiffany Barnes, Thomas Price. The 15th International Conference on Educational Data Mining (EDM 2022)
+* 13:15 - 13:30 **[Cross-submission Presentation]** [Transition-Aware Multi-Activity Knowledge Tracing](#transition-aware-multi-activity-knowledge-tracing), Siqian Zhao, Chunpai Wang and Shaghayegh Sahebi.
+* 13:30 - 13:45 **[Cross-submission Presentation]** [pyKT: A Python Library to Benchmark Deep Learning based Knowledge Tracing Models](#pykt-a-python-library-to-benchmark-deep-learning-based-knowledge-tracing-models). Zitao Liu, Qiongqiong Liu, Jiahao Chen, Shuyan Huang, Jiliang Tang, Weiqi Luo. 36th Conference on Neural Information Processing Systems (NeurIPS 2022) Datasets and Benchmarks Track 
+* 13:45 - 14:00 **[Cross-submission Presentation]** [Evaluating the Explainers: Black-Box Explainable Machine Learning for Student Success Prediction in MOOCs](#evaluating-the-explainers-black-box-explainable-machine-learning-for-student-success-prediction-in-moocs). Vinitra Swamy, Bahar Radmehr, Natasa Krco, Mirko Marras, Tanja Käser. The 15th International Conference on Educational Data Mining (EDM 2022)
+* 14:00 - 14:15 **[Cross-submission Presentation]** [Meta Transfer Learning for Early Success Prediction in MOOCs](#meta-transfer-learning-for-early-success-prediction-in-moocs). Vinitra Swamy, Mirko Marras, Tanja Käser. The 2022 ACM Conference on Learning at Scale (L@S 2022)
+* 14:15 - 14:30 **[Cross-submission Presentation]** [Code-DKT: A Code-based Knowledge Tracing Model for Programming Tasks](#code-dkt-a-code-based-knowledge-tracing-model-for-programming-tasks). Yang Shi, Min Chi, Tiffany Barnes, Thomas Price. The 15th International Conference on Educational Data Mining (EDM 2022)
 
 
 * 14:30 - 14:40 Break
@@ -55,6 +55,94 @@ The AI4Edu workshop is co-located with the main AAAI 2023 conference in Washingt
 * 16:30 - 16:40 **[Paper Presentation]** Jia Tracy Shen and Dongwon Lee. Imputing Knowledge Tracing Data with Subject-Based Training via LSTM Variational Autoencoders
 * 16:40 - 16:50 **[Paper Presentation]** Levi Corallo and Aparna Varde. Optical Character Recognition and Transcription of Berber Signs from Images in a Low-Resource Language Amazigh
 * 16:50 - 17:00 **[Paper Presentation]** Frederik Baucks, Robin Schmucker and Laurenz Wiskott. Tracing Changes in University Course Difficulty Using Item-Response Theory
+
+
+
+## Program Details
+
+
+> ### Where Can AI Take Education by 2030
+> 
+> <cite>Tom Mitchell, School of Computer Science, Carnegie Mellon University</cite>
+
+{% highlight html %}
+Abstract: The past decade has put us in a unique position with respect to AI and Education: AI has made surprisingly rapid progress, while the use of computers in education has finally become mainstream.   The thesis of this talk is that if there is ever going to be a decade in which AI revolutionizes education, it will be the coming decade.  We'll look at the state of the art, and speculate where this could lead us during the 2020's, in three distinct areas:  (1) educational settings where single students interact with single computers, (2) settings where the interaction involves a student-computer-teacher triangle, and (3) settings where students work in teams with an AI assistant also present.  This talk may well raise more questions than it answers, so we'll leave plenty of time for discussion.
+
+Bio: Tom M. Mitchell is the Founders University Professor at Carnegie Mellon University, where he founded the world's first Machine Learning Department.   His research interests range include machine learning, artificial intelligence, cognitive neuroscience, and the impact of AI on society.   His current focus is AI and education, where he has worked closely with organizations that field computer learning environments to millions of students, including Squirrel AI, and CK12.org.   He has testified to the U.S. Congressional Research Service, and the U.S. House Subcommittee on Veterans' Affairs regarding potential uses and impacts of artificial intelligence, and is currently co-chairing a U.S. National Academies study on AI and the future of work.  Mitchell is an elected member of the U.S. National Academy of Engineering, and the American Academy of Arts and Sciences, and a Fellow and Past President of the Association for the Advancement of Artificial Intelligence (AAAI).
+
+{% endhighlight %}
+
+
+
+> ### From Autonomy to Synergy: Envisioning Next Generation Human-AI Partnerships
+> 
+> <cite>Sidney K. D’Mello, University of Colorado Boulder</cite>
+
+{% highlight html %}
+Abstract: I'll describe a vision for AI, beyond a cold, autonomous agent working for humans to a socio-technical synergistic partnership with humans. I'll highlight these ideas in the context of the NSF National AI Institute for Student AI Teaming (www.isat.ai), which brings together a geographically distributed team of researchers with K-12 partners to reframe the role of AI in education, moving from a facilitator of personalized one-on-one learning, to a social, collaborative partner which helps students and teachers work and learn more effectively, engagingly, and equitably. The talk will highlight insights and technologies at the intersection of the Institute's three research strands: (1) foundational AI to understand and facilitate conversations; (2) orchestrating classroom interactions with AI; and (3) broadening participation with curriculum co-design. I'll contextualize the research within our commitment to responsible innovation and polycultural approaches for developing ethical AI technologies. 
+
+Bio: Sidney D'Mello (PhD in Computer Science) is a Professor in the Institute of Cognitive Science and Department of Computer Science at the University of Colorado Boulder. He is interested in the dynamic interplay between cognition and emotion while individuals and groups engage in complex real-world activities. He applies insights gleaned from this basic research program to develop intelligent technologies that help people achieve to their fullest potential by coordinating what they think and feel with what they know and do. D'Mello has co-edited seven books and has published more than 300 journal papers, book chapters, and conference proceedings. His research has received 17 awards at international conferences and has been funded by numerous grants. D'Mello serves(d) as Associate Editor and on the Editorial Boards of 11 journals. He leads the NSF National Institute for Student-Agent Teaming (2020-2025), which aims to develop AI technologies to facilitate rich socio-collaborative learning experiences for all students. 
+{% endhighlight %}
+
+
+
+> ### Transition-Aware Multi-Activity Knowledge Tracing
+> 
+> <cite>Siqian Zhao, Chunpai Wang and Shaghayegh Sahebi</cite>
+
+{% highlight html %}
+Abstract: . 
+
+{% endhighlight %}
+
+> ### pyKT: A Python Library to Benchmark Deep Learning based Knowledge Tracing Models
+> 
+> <cite>Zitao Liu, Qiongqiong Liu, Jiahao Chen, Shuyan Huang, Jiliang Tang, Weiqi Luo</cite>
+
+{% highlight html %}
+Abstract: . 
+
+{% endhighlight %}
+
+> ### Evaluating the Explainers: Black-Box Explainable Machine Learning for Student Success Prediction in MOOCs
+> 
+> <cite>Vinitra Swamy, Bahar Radmehr, Natasa Krco, Mirko Marras, Tanja Käser</cite>
+
+{% highlight html %}
+Abstract: . 
+
+{% endhighlight %}
+
+> ### Meta Transfer Learning for Early Success Prediction in MOOCs
+> 
+> <cite>Vinitra Swamy, Mirko Marras, Tanja Käser</cite>
+
+{% highlight html %}
+Abstract: . 
+
+{% endhighlight %}
+
+> ### A Code-based Knowledge Tracing Model for Programming Tasks
+> 
+> <cite>Yang Shi, Min Chi, Tiffany Barnes, Thomas Price</cite>
+
+{% highlight html %}
+Abstract: . 
+
+{% endhighlight %}
+
+> ### title
+> 
+> <cite>author</cite>
+
+{% highlight html %}
+Abstract: . 
+
+{% endhighlight %}
+
+
+
+
 
 
 
