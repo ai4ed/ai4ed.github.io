@@ -43,20 +43,81 @@ The AI4Edu workshop is co-located with the main AAAI 2023 conference in Washingt
 
 * 14:30 - 14:40 Break
 
-* 14:40 - 14:50 **[Paper Presentation]** Tongwen Huang, Xihua Li and Yi Chao. Finding Similar Exercises in Retrieval Manner
-* 14:50 - 15:00 **[Paper Presentation]** He Zhu, Xihua Li, Xuemin Zhao, Yunbo Cao and Shan Yu. TQ-Net: Mixed Contrastive Representation Learning For Heterogeneous Test Questions
-* 15:00 - 15:10 **[Paper Presentation]** Fang Nan, Feng Tian, Yaozhi Wang, Qidong Liu, Yanze Wu, Jizhong Zhang, Huan Li, Haiping Zhu, Yuzhe Yao, Heng Zhang, Yaqiang Wu and Qinghua Zheng. Inferring Actions and Joint Attention From Dual-view Classroom Videos
-* 15:10 - 15:20 **[Paper Presentation]** Anup Shakya, Vasile Rus and Deepak Venugopal. Mastery Guided Non-parametric Clustering to Scale-up Strategy Prediction
-* 15:20 - 15:30 **[Paper Presentation]** Tim Klausmann, Marius Köppel, Daniel Schunk and Isabell Zipperle. Can machine learning solve the challenge of adaptive learning and the individualization of learning paths? A field experiment in an online learning platform
-* 15:30 - 15:40 **[Paper Presentation]** John Stamper, Huy Nguyen and Steven Moore. Hierarchical Concept Map Generation from Course Data
-* 15:40 - 15:50 **[Paper Presentation]** Hyeondey Kim, Yun Jegal and Kyungwoo Song. Human Inspired Learning for Deep Knowledge Tracing
-* 15:50 - 16:00 **[Paper Presentation]** Alexander Jenkins, Imad Jaimoukha, Ljubisa Stankovic and Danilo Mandic. FAIR AND SKILL-DIVERSE STUDENT GROUP FORMATION VIA CONSTRAINED k-WAY GRAPH PARTITIONING
-* 16:00 - 16:10 **[Paper Presentation]** Xiaofei Zhou, Hanjia Lyu, Jiebo Luo and Zhen Bai. ML-SD Modeling: How Machine Learning Can Support Scientific Discovery Learning for K-12 STEM Education
-* 16:10 - 16:20 **[Paper Presentation]** Vishesh Kalvakurthi, Aparna Varde and John Jenq. Hey Dona! Can you help me with student course registration?
-* 16:20 - 16:30 **[Paper Presentation]** Roberto Daza, Luis F. Gomez, Aythami Morales, Ruben Tolosana, Julian Fierrez, Ruth Cobos and Javier Ortega-Garcia. MATT: Multimodal Attention Level Estimation for e-learning Platforms
-* 16:30 - 16:40 **[Paper Presentation]** Jia Tracy Shen and Dongwon Lee. Imputing Knowledge Tracing Data with Subject-Based Training via LSTM Variational Autoencoders
-* 16:40 - 16:50 **[Paper Presentation]** Levi Corallo and Aparna Varde. Optical Character Recognition and Transcription of Berber Signs from Images in a Low-Resource Language Amazigh
-* 16:50 - 17:00 **[Paper Presentation]** Frederik Baucks, Robin Schmucker and Laurenz Wiskott. Tracing Changes in University Course Difficulty Using Item-Response Theory
+* 14:40 - 14:50 **[Paper Presentation]** Tongwen Huang, Xihua Li and Yi Chao. [Finding Similar Exercises in Retrieval Manner](#finding-similar-exercises-in-retrieval-manner)
+	* Paper PDF [Link](https://drive.google.com/file/d/1GvDYhp3z5FCKyDBG27jKmoPR1tVr5S2O/view?usp=share_link)
+	* Talk Video@Youtube Link
+	* Talk Video@Bilibili Link
+* 14:50 - 15:00 **[Paper Presentation]** He Zhu, Xihua Li, Xuemin Zhao, Yunbo Cao and Shan Yu. [TQ-Net: Mixed Contrastive Representation Learning For Heterogeneous Test Questions](#tq-net-mixed-contrastive-representation-learning-for-heterogeneous-test-questions)
+	* Paper PDF [Link](https://drive.google.com/file/d/1FzQZAp3zE1noDxrNOyGQ9abG-bY2sXXg/view?usp=share_link)
+	* Talk Video@Youtube Link
+	* Talk Video@Bilibili Link
+* 15:00 - 15:10 **[Paper Presentation]** Fang Nan, Feng Tian, Yaozhi Wang, Qidong Liu, Yanze Wu, Jizhong Zhang, Huan Li, Haiping Zhu, Yuzhe Yao, Heng Zhang, Yaqiang Wu and Qinghua Zheng. [Inferring Actions and Joint Attention From Dual-view Classroom Videos](#inferring-actions-and-joint-attention-from-dual-view-classroom-videos)
+	* Paper PDF [Link](https://drive.google.com/file/d/1cfepfbcLpONmgGp9MwvBYr9G9Vp0rIcy/view?usp=share_link)
+	* Talk Video@Youtube Link
+	* Talk Video@Bilibili Link
+* 15:10 - 15:20 **[Paper Presentation]** Anup Shakya, Vasile Rus and Deepak Venugopal. [Mastery Guided Non-parametric Clustering to Scale-up Strategy Prediction](#mastery-guided-non-parametric-clustering-to-scale-up-strategy-prediction)
+	* Paper PDF [Link](https://drive.google.com/file/d/1z_I9sPaRIgDVdeLh4bDRWTGQJtkkGJVL/view?usp=share_link)
+	* Talk Video@Youtube Link
+	* Talk Video@Bilibili Link
+* 15:20 - 15:30 **[Paper Presentation]** Tim Klausmann, Marius Köppel, Daniel Schunk and Isabell Zipperle. [Can machine learning solve the challenge of adaptive learning and the individualization of learning paths? A field experiment in an online learning platform](#can-machine-learning-solve-the-challenge-of-adaptive-learning-and-the-individualization-of-learning-paths?-a-field-experiment-in-an-online-learning-platform)
+	* Paper PDF [Link](https://drive.google.com/file/d/1nmiiM-1FXVKlgfzBJ_Wi_GK1NNA-zCKP/view?usp=share_link)
+	* Talk Video@Youtube Link
+	* Talk Video@Bilibili Link
+* 15:30 - 15:40 **[Paper Presentation]** John Stamper, Bharat Gaind, Karun Thankachan, Huy Nguyen, Steven Moore. [Hierarchical Concept Map Generation from Course Data](#hierarchical-concept-map-generation-from-course-data)
+	* Paper PDF [Link](https://drive.google.com/file/d/1Jn2tISf-yWH1dE3EWlxfAFoOXd7sx26e/view?usp=share_link)
+	* Talk Video@Youtube Link
+	* Talk Video@Bilibili Link
+* 15:40 - 15:50 **[Paper Presentation]** Hyeondey Kim, Jinwoo Nam, Minjae Lee, Yun Jegal, Kyungwoo Song. [Leveraging Skill-to-Skill Supervision for Knowledge Tracing](#leveraging-skill-to-skill-supervision-for-knowledge-tracing)
+	* Paper PDF [Link](https://drive.google.com/file/d/1Q-Ji6glB7RWtKmPouCPPvyA_YhgMWfAV/view?usp=share_link)
+	* Talk Video@Youtube Link
+	* Talk Video@Bilibili Link
+* 15:50 - 16:00 **[Paper Presentation]** Alexander Jenkins, Imad Jaimoukha, Ljubisa Stankovic and Danilo Mandic. [Fair and Skill-diverse Student Group Formation via Constrained K-way Graph Partitioning](#fair-and-skill-diverse-student-group-formation-via-constrained-k-way-graph-partitioning)
+	* Paper PDF [Link]()
+	* Talk Video@Youtube Link
+	* Talk Video@Bilibili Link
+* 16:00 - 16:10 **[Paper Presentation]** Xiaofei Zhou, Hanjia Lyu, Jiebo Luo and Zhen Bai. [ML-SD Modeling: How Machine Learning Can Support Scientific Discovery Learning for K-12 STEM Education](#ml-sd-modeling-how-machine-learning-can-support-scientific-discovery-learning-for-k-12-stem-education)
+	* Paper PDF [Link]()
+	* Talk Video@Youtube Link
+	* Talk Video@Bilibili Link
+* 16:10 - 16:20 **[Paper Presentation]** Vishesh Kalvakurthi, Aparna Varde and John Jenq. [Hey Dona! Can you help me with student course registration?](#hey-dona!-can-you-help-me-with-student-course-registration)
+	* Paper PDF [Link](https://drive.google.com/file/d/1NX_7B6DIBcSqtlKjuH_X3w7JPcVOr6yx/view?usp=share_link)
+	* Talk Video@Youtube Link
+	* Talk Video@Bilibili Link
+* 16:20 - 16:30 **[Paper Presentation]** Roberto Daza, Luis F. Gomez, Aythami Morales, Ruben Tolosana, Julian Fierrez, Ruth Cobos and Javier Ortega-Garcia. [MATT: Multimodal Attention Level Estimation for e-learning Platforms](#matt-multimodal-attention-level-estimation-for-e-learning-platforms)
+	* Paper PDF [Link](https://drive.google.com/file/d/1neJzRVSTqGDmHjNU9TUr5UsOfQNtawCh/view?usp=share_link)
+	* Talk Video@Youtube Link
+	* Talk Video@Bilibili Link
+* 16:30 - 16:40 **[Paper Presentation]** Jia Tracy Shen and Dongwon Lee. [Imputing Knowledge Tracing Data with Subject-Based Training via LSTM Variational Autoencoders](#imputing-knowledge-tracing-data-with-subject-based-training-via-lstm-variational-autoencoders)
+	* Paper PDF [Link](https://drive.google.com/file/d/1yA8p9WZI3mS1cwV3Mem-ox5JdoQGAc2H/view?usp=share_link)
+	* Talk Video@Youtube Link
+	* Talk Video@Bilibili Link
+* 16:40 - 16:50 **[Paper Presentation]** Levi Corallo and Aparna Varde. [Optical Character Recognition and Transcription of Berber Signs from Images in a Low-Resource Language Amazigh](#optical-character-recognition-and-transcription-of-berber-signs-from-images-in-a-low-resource-language-amazigh)
+	* Paper PDF [Link](https://drive.google.com/file/d/1QgY20sz3a-u_UQ7cygWyse9q6OmjJ1nS/view?usp=share_link)
+	* Talk Video@Youtube Link
+	* Talk Video@Bilibili Link
+* 16:50 - 17:00 **[Paper Presentation]** Frederik Baucks, Robin Schmucker and Laurenz Wiskott. [Tracing Changes in University Course Difficulty Using Item-Response Theory](#tracing-changes-in-university-course-difficulty-using-item-response-theory)
+	* Paper PDF [Link](https://drive.google.com/file/d/1LT7p6oSa1aXrcxsZhyWBLLhi_nKk3jM5/view?usp=share_link)
+	* Talk Video@Youtube Link
+	* Talk Video@Bilibili Link
+
+
+
+
+## Program Details
+
+### Keynote Talks
+
+> ### Where Can AI Take Education by 2030
+> 
+> <cite>Tom Mitchell, School of Computer Science, Carnegie Mellon University</cite>
+
+{% highlight html %}
+Abstract: The past decade has put us in a unique position with respect to AI and Education: AI has made surprisingly rapid progress, while the use of computers in education has finally become mainstream.   The thesis of this talk is that if there is ever going to be a decade in which AI revolutionizes education, it will be the coming decade.  We'll look at the state of the art, and speculate where this could lead us during the 2020's, in three distinct areas:  (1) educational settings where single students interact with single computers, (2) settings where the interaction involves a student-computer-teacher triangle, and (3) settings where students work in teams with an AI assistant also present.  This talk may well raise more questions than it answers, so we'll leave plenty of time for discussion.
+
+Bio: Tom M. Mitchell is the Founders University Professor at Carnegie Mellon University, where he founded the world's first Machine Learning Department. His research interests range include machine learning, artificial intelligence, cognitive neuroscience, and the impact of AI on society. His current focus is AI and education, where he has worked closely with organizations that field computer learning environments to millions of students, including Squirrel AI, and CK12.org.   He has testified to the U.S. Congressional Research Service, and the U.S. House Subcommittee on Veterans' Affairs regarding potential uses and impacts of artificial intelligence, and is currently co-chairing a U.S. National Academies study on AI and the future of work.  Mitchell is an elected member of the U.S. National Academy of Engineering, and the American Academy of Arts and Sciences, and a Fellow and Past President of the Association for the Advancement of Artificial Intelligence (AAAI).
+
+{% endhighlight %}
+
 
 
 > ### From Autonomy to Synergy: Envisioning Next Generation Human-AI Partnerships
@@ -143,163 +204,10 @@ Abstract: .
 > <cite>Tongwen Huang, Xihua Li and Yi Chao</cite>
 
 {% highlight html %}
-Abstract: . 
-
-{% endhighlight %}
-
-
-
-> ### TQ-Net: Mixed Contrastive Representation Learning For Heterogeneous Test Questions
-> 
-> <cite>He Zhu, Xihua Li, Xuemin Zhao, Yunbo Cao and Shan Yu</cite>
-
-{% highlight html %}
-Abstract: . 
-
-{% endhighlight %}
-
-
-
-> ### Inferring Actions and Joint Attention From Dual-view Classroom Videos
-> 
-> <cite>Fang Nan, Feng Tian, Yaozhi Wang, Qidong Liu, Yanze Wu, Jizhong Zhang, Huan Li, Haiping Zhu, Yuzhe Yao, Heng Zhang, Yaqiang Wu and Qinghua Zheng</cite>
-
-{% highlight html %}
-Abstract: . 
-
-{% endhighlight %}
-
-
-
-> ### Mastery Guided Non-parametric Clustering to Scale-up Strategy Prediction
-> 
-> <cite>Anup Shakya, Vasile Rus and Deepak Venugopal</cite>
-
-{% highlight html %}
-Abstract: Predicting the strategy (sequence of concepts) that a student is likely to use in problem-solving helps Adaptive Instructional Systems (AISs) better adapt themselves to different types of learners based on their learning abilities. This can lead to a more dynamic, engaging, and personalized experience for students. To scale up training a prediction model (such as LSTMs) over large-scale education datasets, we develop a non-parametric approach to cluster symmetric instances in the data. Specifically, we learn a representation based on Node2Vec that encodes symmetries over mastery or skill level since, to solve a problem, it is natural that a student's strategy is likely to involve concepts in which they have gained mastery. Using this representation, we use DP-Means to group symmetric instances through a coarse-to-fine refinement of the clusters. We apply our model to learn strategies for Math learning from large-scale datasets from MATHia, a leading AIS for middle-school math learning. Our results illustrate that our approach can consistently achieve high accuracy using a small sample that is representative of the full dataset. Further, we show that this approach helps us learn strategies with high accuracy for students at different skill levels, i.e., leveraging symmetries improves fairness in the prediction model.
-
-{% endhighlight %}
-
-
-
-> ### Can Machine Learning Solve the Challenge of Adaptive Learning and The Individualization of Learning Paths? A Field Experiment in An Online Learning Platform
-> 
-> <cite>Tim Klausmann, Marius Köppel, Daniel Schunk and Isabell Zipperle</cite>
-
-{% highlight html %}
-Abstract: . 
-
-{% endhighlight %}
-
-
-
-> ### Hierarchical Concept Map Generation from Course Data
-> 
-> <cite>John Stamper, Bharat Gaind, Karun Thankachan, Huy Nguyen, Steven Moore</cite>
-
-{% highlight html %}
-Abstract: . 
-
-{% endhighlight %}
-
-
-
-> ### Leveraging Skill-to-Skill Supervision for Knowledge Tracing
-> 
-> <cite>Hyeondey Kim, Jinwoo Nam, Minjae Lee, Yun Jegal, Kyungwoo Song</cite>  
-
-{% highlight html %}
-Abstract: . 
-
-{% endhighlight %}
-
-
-
-> ### Fair and Skill-diverse Student Group Formation via Constrained K-way Graph Partitioning
-> 
-> <cite>Alexander Jenkins, Imad Jaimoukha, Ljubisa Stankovic and Danilo Mandic</cite>
-
-{% highlight html %}
-Abstract: . 
-
-{% endhighlight %}
-
-
-
-> ### ML-SD Modeling: How Machine Learning Can Support Scientific Discovery Learning for K-12 STEM Education
-> 
-> <cite>Xiaofei Zhou, Hanjia Lyu, Jiebo Luo and Zhen Bai</cite>
-
-{% highlight html %}
-Abstract: . 
-
-{% endhighlight %}
-
-
-
-> ### Hey Dona! Can you help me with student course registration?
-> 
-> <cite>Vishesh Kalvakurthi, Aparna Varde and John Jenq</cite>
-
-{% highlight html %}
-Abstract: . 
-
-{% endhighlight %}
-
-
-
-> ### MATT: Multimodal Attention Level Estimation for e-learning Platforms
-> 
-> <cite>Roberto Daza, Luis Gomez, Aythami Morales, Ruben Tolosana, Julian Fierrez, Ruth Cobos and Javier Ortega-Garcia</cite>
-
-{% highlight html %}
-Abstract: . 
-
-{% endhighlight %}
-
-
-
-> ### Imputing Knowledge Tracing Data with Subject-Based Training via LSTM Variational Autoencoders
-> 
-> <cite>Jia Tracy Shen and Dongwon Lee</cite>
-
-{% highlight html %}
-Abstract: The issue of missing data poses a great challenge on boosting performance and application of deep learning models in the Knowledge Tracing (KT) problem. However, there has been the lack of understanding on the issue in the literature. In this work, to address this challenge, we adopt a subject-based training method to split and impute data by student IDs instead of row number splitting which we call non-subject based training. The benefit of subject-based training can retain the complete sequence for each student and hence achieve efficient training. Further, we leverage two existing deep generative frameworks, namely variational Autoencoders (VAE) and Longitudinal Variational Autoencoders (LVAE) frameworks and build LSTM kernels into them to form LSTM-VAE and LSTM LVAE (noted as VAE and LVAE for simplicity) models to generate quality data. In LVAE, a Gaussian Process (GP) model is trained to disentangle the correlation between the subject (i.e., student) descriptor information (e.g., age, gender) and the latent space. The paper finally compare the model performance between training the original data and training the data imputed with generated data from non-subject based model VAE-NS and subject-based training models (i.e., VAE and LVAE). We demonstrate that the generated data from LSTM-VAE and LSTM-LVAE can boost the original model performance by about 50%. Moreover, the original model just needs 10% more student data to surpass the original performance if the prediction model is small and 50% more data if the prediction model is large with our proposed frameworks.
-
-{% endhighlight %}
-
-
-
-> ### Optical Character Recognition and Transcription of Berber Signs from Images in a Low-Resource Language Amazigh
-> 
-> <cite>Levi Corallo and Aparna Varde</cite>
-
-{% highlight html %}
-Abstract: . 
-
-{% endhighlight %}
-
-
-
-> ### Tracing Changes in University Course Difficulty Using Item-Response Theory
-> 
-> <cite>Frederik Baucks, Robin Schmucker and Laurenz Wiskott</cite>
-
-{% highlight html %}
-Abstract: . 
-
-{% endhighlight %}
-
-
-
-<!-- * 14:30 - 14:40 Break -->
-> ### Finding Similar Exercises in Retrieval Manner
-> 
-> <cite>Tongwen Huang, Xihua Li and Yi Chao</cite>
-
-{% highlight html %}
 Abstract: When students make a mistake in an exercise, they can consolidate it by “similar exercises” which have the same concepts, purposes and methods. Commonly, for a certain subject and study stage, the size of the exercise bank is in the range of millions to even tens of millions, how to find similar exercises for a given exercise becomes a crucial technical problem. Generally, we can assign a variety of explicit labels to the exercise, and then query through the labels, but the label annotation is time-consuming, laborious and costly, with limited precision and granularity, so it is not feasible. In practice, we define “similar exercises” as a retrieval process of finding a set of similar exercises based on recall, ranking and re-rank procedures, called the FSE problem (Finding similar exercises). In other papers, FSE focuses on ranking method, this paper will comprehensively introduce recall, ranking, re-rank, and define similar exercise more accurately. Furthermore, comprehensive representation of the semantic information of exercises was obtained through representation learning. In addition to the reasonable architecture, we also explore what kind of tasks are more conducive to the learning of exercise semantic information from pre-training and supervised learning. It is difficult to annotate similar exercises and the annotation consistency among experts is low. Therefore this paper also provides solutions to solve the problem of low-quality annotated data. Compared with other methods, this paper has obvious advantages in both architecture rationality and algorithm precision, which now serves the daily teaching of hundreds of schools.
+
 {% endhighlight %}
+
 
 
 > ### TQ-Net: Mixed Contrastive Representation Learning For Heterogeneous Test Questions
@@ -309,6 +217,7 @@ Abstract: When students make a mistake in an exercise, they can consolidate it b
 {% highlight html %}
 Abstract: Recently, more and more people study online for the convenience of access to massive learning materials (e.g. test questions/notes), thus accurately understanding learning materials became a crucial issue, which is essential for many educational applications. Previous studies focus on using language models to represent the question data. However, test questions (TQ) are usually heterogeneous and multi-modal, e.g., some of them may only contain text, while others half contain images with information beyond their literal description. In this context, both supervised and unsupervised methods are difficult to learn a fused representation of questions. Meanwhile, this problem cannot be solved by conventional methods such as image caption, as the images may contain information complementary rather than duplicate to the text. In this paper, we first improve previous text-only representation with a two-stage unsupervised instance level contrastive based pre-training method (MCL: Mixture Unsupervised Contrastive Learning). Then, TQ-Net was proposed to fuse the content of images to the representation of heterogeneous data. Finally, supervised contrastive learning was conducted on relevance prediction-related downstream tasks, which help the model to effectively learn the representation of questions. We conducted extensive experiments on question-based tasks on large-scale, real-world datasets, which demonstrated the effectiveness of TQ-Net and improve the precision of downstream applications (e.g. similar questions ↑2.02% and knowledge point prediction ↑7.20%). Our code will be available, and we will open-source a subset of our data to promote the development of relative studies.
 {% endhighlight %}
+
 
 
 
@@ -330,13 +239,15 @@ Abstract: Predicting the strategy (sequence of concepts) that a student is likel
 {% endhighlight %}
 
 
-> ### Can machine learning solve the challenge of adaptive learning and the individualization of learning paths? A field experiment in an online learning platform
+
+> ### Can Machine Learning Solve the Challenge of Adaptive Learning and The Individualization of Learning Paths? A Field Experiment in An Online Learning Platform
 > 
 > <cite>Tim Klausmann, Marius Köppel, Daniel Schunk and Isabell Zipperle</cite>
 
 {% highlight html %}
 Abstract: The individualization of learning contents with digital technologies promises large individual and social benefits. However, the optimal implementation of individualization remains an open question. To tackle this question we conduct a randomized controlled trial on a large digital self-learning platform. We develop an algorithm based on two convolutional neural networks that assigns tasks to 4,365 learners according to their learning paths. Learners are randomized into three groups: two treatment groups – a group-based adaptive treatment group and an individual adaptive treatment group and one control group. We analyze the difference between the three groups with respect to effort learners provide and their performance on the platform. We do not find differences between our groups. This results light on the multiple challenges associated with the individualization of learning paths.
 {% endhighlight %}
+
 
 
 > ### Hierarchical Concept Map Generation from Course Data
@@ -349,13 +260,15 @@ Abstract: Concept maps are a core feature supporting the design, development, an
 
 
 
+
 > ### Leveraging Skill-to-Skill Supervision for Knowledge Tracing
 > 
-> <cite>Hyeondey Kim, Jinwoo Nam, Minjae Lee, Yun Jegal and Kyungwoo Song</cite>
+> <cite>Hyeondey Kim, Jinwoo Nam, Minjae Lee, Yun Jegal, Kyungwoo Song</cite>  
 
 {% highlight html %}
 Abstract: Knowledge tracing plays a pivotal role in intelligent tutoring systems. This task aims to predict the probability of students answering correctly to specific questions. To do so, knowledge tracing systems should trace the knowledge state of the students by utilizing their problem-solving history and knowledge about the problems. Recent advances in knowledge tracing models have enabled better exploitation of problem solving history. However, knowledge about problems has not been studied, as well compared to students’ answering histories. Knowledge tracing algorithms that incorporate knowledge directly are important to settings with limited data or cold starts. Therefore, we consider the problem of utilizing skill-to-skill relation to knowledge tracing. In this work, we introduce expert labeled skill-to-skill relationships. Moreover, we also provide novel methods to construct a knowledge-tracing model to leverage human experts’ insight regarding relationships between skills. The results of an extensive experimental analysis show that our method outperformed a baseline Transformer model. Furthermore, we found that the extent of our model’s superiority was greater in situations with limited data, which allows a smooth cold start of our model.
 {% endhighlight %}
+
 
 
 > ### Fair and Skill-diverse Student Group Formation via Constrained K-way Graph Partitioning
@@ -363,8 +276,10 @@ Abstract: Knowledge tracing plays a pivotal role in intelligent tutoring systems
 > <cite>Alexander Jenkins, Imad Jaimoukha, Ljubisa Stankovic and Danilo Mandic</cite>
 
 {% highlight html %}
-Abstract: 
+Abstract: . 
+
 {% endhighlight %}
+
 
 
 > ### ML-SD Modeling: How Machine Learning Can Support Scientific Discovery Learning for K-12 STEM Education
@@ -372,8 +287,10 @@ Abstract:
 > <cite>Xiaofei Zhou, Hanjia Lyu, Jiebo Luo and Zhen Bai</cite>
 
 {% highlight html %}
-Abstract: 
+Abstract: . 
+
 {% endhighlight %}
+
 
 
 > ### Hey Dona! Can you help me with student course registration?
@@ -385,13 +302,16 @@ Abstract: In this paper. we present a demo of an intelligent personal agent Hey 
 {% endhighlight %}
 
 
+
+
 > ### MATT: Multimodal Attention Level Estimation for e-learning Platforms
 > 
-> <cite>Roberto Daza, Luis F. Gomez, Aythami Morales, Ruben Tolosana, Julian Fierrez, Ruth Cobos and Javier Ortega-Garcia</cite>
+> <cite>Roberto Daza, Luis Gomez, Aythami Morales, Ruben Tolosana, Julian Fierrez, Ruth Cobos and Javier Ortega-Garcia</cite>
 
 {% highlight html %}
 Abstract: This work presents a new multimodal system for remote attention level estimation based on multimodal face analysis. Our multimodal approach uses different parameters and signals obtained from the behavior and physiological processes that have been related to modeling cognitive load such as faces gestures (e.g., blink rate, facial actions units) and user actions (e.g., head pose, distance to the camera). The multimodal system uses the following modules based on Convolutional Neural Networks (CNNs): Eye blink detection, head pose estimation, facial landmark detection, and facial expression features. First, we individually evaluate the proposed modules in the task of estimating the student’s attention level captured during online e-learning sessions. For that we trained binary classifiers (high or low attention) based on Support Vector Machines (SVM) for each module. Secondly, we find out to what extent multimodal score level fusion improves the attention level estimation. The mEBAL database is used in the experimental framework, a public multi-modal database for attention level estimation obtained in an e-learning environment that contains data from 38 users while conducting several e-learning tasks of variable difficulty (creating changes in student cognitive loads).
 {% endhighlight %}
+
 
 
 > ### Imputing Knowledge Tracing Data with Subject-Based Training via LSTM Variational Autoencoders
@@ -401,6 +321,7 @@ Abstract: This work presents a new multimodal system for remote attention level 
 {% highlight html %}
 Abstract: The issue of missing data poses a great challenge on boosting performance and application of deep learning models in the Knowledge Tracing (KT) problem. However, there has been the lack of understanding on the issue in the literature. In this work, to address this challenge, we adopt a subject-based training method to split and impute data by student IDs instead of row number splitting which we call nonsubject based training. The benefit of subject-based training can retain the complete sequence for each student and hence achieve efficient training. Further, we leverage two existing deep generative frameworks, namely variational Autoencoders (VAE) and Longitudinal Variational Autoencoders (LVAE) frameworks and build LSTM kernels into them to form LSTM-VAE and LSTM LVAE (noted as VAE and LVAE for simplicity) models to generate quality data. In LVAE, a Gaussian Process (GP) model is trained to disentangle the correlation between the subject (i.e., student) descriptor information (e.g., age, gender) and the latent space. The paper finally compare the model performance between training the original data and training the data imputed with generated data from non-subject based model VAE-NS and subjectbased training models (i.e., VAE and LVAE). We demonstrate that the generated data from LSTM-VAE and LSTMLVAE can boost the original model performance by about 50%. Moreover, the original model just needs 10% more student data to surpass the original performance if the prediction model is small and 50% more data if the prediction model is large with our proposed frameworks.
 {% endhighlight %}
+
 
 
 
