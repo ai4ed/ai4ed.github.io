@@ -28,9 +28,9 @@ The AI4Edu workshop is co-located with the main AAAI 2023 conference in Washingt
 * 10:50 - 11:00 Break
 
 * 11:00 - 11:15 Summary and Winner Announcement of the AAAI2023 Global Knowledge Tracing Challenge
-* 11:15 - 11:30 **[Winning Solution Presentation]** TBD 
-* 11:30 - 11:45 **[Winning Solution Presentation]** TBD 
-* 11:45 - 12:00 **[Winning Solution Presentation]** TBD 
+* 11:15 - 11:30 **[Winning Solution Presentation] 3rd** TBD
+* 11:30 - 11:45 **[Winning Solution Presentation] 2nd** [Effective Use of Sequence Models for Knowledge Tracing](#effective-use-of-sequence-models-for-knowledge-tracing), Guimei Liu, Huijing Zhan
+* 11:45 - 12:00 **[Winning Solution Presentation] 1st** [Attention-based Knowledge Tracing with Rich Interaction Representations](#attention-based-knowledge-tracing-with-rich-interaction-representations), Shuanghong Shen, Sailan Hu, Bihan Xu, Zhenya Huang, Qi Liu, Enhong Chen 
 
 * 12:00 - 13:15 Lunch
 
@@ -133,16 +133,34 @@ Bio: Sidney D'Mello (PhD in Computer Science) is a Professor in the Institute of
 
 ### Winning Solution Presentations
 
-> ### title
+
+> ### TBD
 > 
-> <cite>author</cite>
+> <cite>Xing Jiang</cite>
 
 {% highlight html %}
-Abstract: . 
+Abstract: 
+{% endhighlight %}
+
+> ### Effective Use of Sequence Models for Knowledge Tracing
+> 
+> <cite>Guimei Liu, Huijing Zhan</cite>
+
+{% highlight html %}
+Abstract: In this talk, we introduce our 2nd place solution for AAAI 2023 Global Knowledge Tracing Challenge. Our solution is an ensemble of predictions made by several model architectures using different feature sets under various hyper-parameter settings. Our base model architecture takes two sequences as inputs: a history sequence and a query sequence. The history sequence has class labels and it stores users’ historical performance. The class labels of the query sequence are to be predicted. We applied Transformer, LSTM, GRU, vanilla RNN, their components and combinations on the two sequences to construct several model architectures. We generated features to capture user experiences and forgetting behaviors and incorporated them via an embedding layer. The best single model in our experiments uses a standard Transformer and achieves an AUC of 0.8095 on public leaderboard.
 
 {% endhighlight %}
 
 
+
+> ### Attention-based Knowledge Tracing with Rich Interaction Representations
+> 
+> <cite>Shuanghong Shen, Sailan Hu, Bihan Xu, Zhenya Huang, Qi Liu, Enhong Chen</cite>
+
+{% highlight html %}
+Abstract: We propose an effective solution for the AAAI2023 Global Knowledge Tracing Challenge, which is positioned in first place of this challenge. Specifically, we incorporate rich features (e.g., answering time, interval time, question length) for the interaction representation, and design an Attention-based Knowledge Tracing method to conduct the interaction sequence modeling. In our proposed methods, we utilize many effective strategies to improve the prediction precision,  such as data augmentation, cross-attention mechanism, and weights redistribution. The code for the solutions is available at https://github.com/shshen-closer/disguer
+
+{% endhighlight %}
 
 
 
