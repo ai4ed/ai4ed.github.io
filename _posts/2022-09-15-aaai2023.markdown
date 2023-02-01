@@ -72,7 +72,7 @@ The AI4Edu workshop is co-located with the main AAAI 2023 conference in Washingt
 	* Talk Video@Youtube Link
 	* Talk Video@Bilibili Link
 * 15:50 - 16:00 **[Paper Presentation]** Alexander Jenkins, Imad Jaimoukha, Ljubisa Stankovic and Danilo Mandic. [Fair and Skill-diverse Student Group Formation via Constrained K-way Graph Partitioning](#fair-and-skill-diverse-student-group-formation-via-constrained-k-way-graph-partitioning)
-	* Paper PDF [Link]()
+	* Paper PDF [Link](https://drive.google.com/file/d/1mvZLdGAuS9SkOqpeKr5H3GMrlh-LTvTM/view?usp=share_link)
 	* Talk Video@Youtube Link
 	* Talk Video@Bilibili Link
 * 16:00 - 16:10 **[Paper Presentation]** Xiaofei Zhou, Hanjia Lyu, Jiebo Luo and Zhen Bai. [ML-SD Modeling: How Machine Learning Can Support Scientific Discovery Learning for K-12 STEM Education](#ml-sd-modeling-how-machine-learning-can-support-scientific-discovery-learning-for-k-12-stem-education)
@@ -294,7 +294,7 @@ Abstract: Knowledge tracing plays a pivotal role in intelligent tutoring systems
 > <cite>Alexander Jenkins, Imad Jaimoukha, Ljubisa Stankovic and Danilo Mandic</cite>
 
 {% highlight html %}
-Abstract: . 
+Abstract: Forming the right combination of students in a group promises to enable a powerful and effective environment for learning and collaboration. However, defining a group of students is a complex task which has to satisfy multiple constraints. This work introduces an unsupervised algorithm for fair and skill-diverse student group formation. This is achieved by taking account of student course marks and sensitive attributes provided by the education office. The skill sets of students are determined using unsupervised dimensionality reduction of course mark data via the Laplacian eigenmap. The problem is formulated as a constrained graph partitioning problem, whereby the diversity of skill sets in each group are maximised, group sizes are upper and lower bounded according to available resources, and ‘balance’ of a sensitive attribute is lower bounded to enforce fairness in group formation. This optimisation problem is solved using integer programming and its effectiveness is demonstrated on a dataset of student course marks from Imperial College London.
 
 {% endhighlight %}
 
