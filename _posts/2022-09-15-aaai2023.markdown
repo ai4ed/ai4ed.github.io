@@ -28,7 +28,7 @@ The AI4Edu workshop is co-located with the main AAAI 2023 conference in Washingt
 * 10:50 - 11:00 Break
 
 * 11:00 - 11:15 Summary and Winner Announcement of the AAAI2023 Global Knowledge Tracing Challenge
-* 11:15 - 11:30 **[Winning Solution Presentation] 3rd** TBD
+* 11:15 - 11:30 **[Winning Solution Presentation] 3rd** [Effective Information Extraction of Time Series for Knowledge Tracing](#effective-information-extraction-of-time-series-for-knowledge-tracing), Xing Jiang
 * 11:30 - 11:45 **[Winning Solution Presentation] 2nd** [Effective Use of Sequence Models for Knowledge Tracing](#effective-use-of-sequence-models-for-knowledge-tracing), Guimei Liu, Huijing Zhan
 * 11:45 - 12:00 **[Winning Solution Presentation] 1st** [Attention-based Knowledge Tracing with Rich Interaction Representations](#attention-based-knowledge-tracing-with-rich-interaction-representations), Shuanghong Shen, Sailan Hu, Bihan Xu, Zhenya Huang, Qi Liu, Enhong Chen 
 
@@ -134,12 +134,12 @@ Bio: Sidney D'Mello (PhD in Computer Science) is a Professor in the Institute of
 ### Winning Solution Presentations
 
 
-> ### TBD
+> ### Effective Information Extraction of Time Series for Knowledge Tracing
 > 
 > <cite>Xing Jiang</cite>
 
 {% highlight html %}
-Abstract: 
+Abstract: We would introduce our 3rd place solution for AAAI 2023 Global Knowledge Tracing Challenge. Our solution is a tree model with some manual features and a little embedding features, which make full advantage of the gradient tree model. Besides, some ensemble methods are also used in our solution, such as different sets of features and different sets of parameters. And we also used methods like data augmentation and weight method to reach a higher score. The best single lightgbm model can reach 0.8153 on public leaderboard.
 {% endhighlight %}
 
 > ### Effective Use of Sequence Models for Knowledge Tracing
