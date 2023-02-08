@@ -11,16 +11,18 @@ Feel free to contact **ai4ed.workshops@gmail.com** to add your event here :)
 
 ## Incoming
 
-> [Workshop on Artificial Intelligence for Education](http://ai4ed.cc/workshops/aaai2022)
+> [4th Workshop on Artificial Intelligence for Education](http://ai4ed.cc/workshops/aaai2023)
 >
-> <cite>AAAI 2022</cite>
+> <cite>AAAI 2023</cite>
 
 
-> [Workshop on Reinforcement Learning for Education](https://rl4ed.org/aaai2022/index.html)
->
-> <cite>AAAI 2022</cite>
+
 
 ## Past
+
+* [Workshop on Artificial Intelligence for Education](http://ai4ed.cc/workshops/aaai2022) in conjunction with AAAI 2022
+
+* [Workshop on Reinforcement Learning for Education](https://rl4ed.org/aaai2022/index.html) in conjunction with AAAI 2022
 
 * [Workshop on Math AI for Education: Bridging the Gap Between Research and Smart Education](https://mathai4ed.github.io/) in conjunction with NeurIPS 2021
 
