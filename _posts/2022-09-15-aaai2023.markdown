@@ -171,7 +171,7 @@ Abstract: We propose an effective solution for the AAAI2023 Global Knowledge Tra
 > <cite>Siqian Zhao, Chunpai Wang and Shaghayegh Sahebi</cite>
 
 {% highlight html %}
-Abstract: . 
+Abstract: Accurate modeling of student knowledge is essential for large-scale online learning systems that are increasingly used for student training. Knowledge tracing aims to model student knowledge state given the student's sequence of learning activities. Modern Knowledge tracing (KT) is usually formulated as a supervised sequence learning problem to predict students' future practice performance according to their past observed practice scores by summarizing student knowledge state as a set of evolving hidden variables. Because of this formulation, many current KT solutions are not fit for modeling student learning from non-assessed learning activities with no explicit feedback or score observation (e.g., watching video lectures that are not graded). Additionally, these models cannot explicitly represent the dynamics of knowledge transfer among different learning activities, particularly between the assessed (e.g., quizzes) and non-assessed (e.g., video lectures) learning activities. In this paper, we propose Transition-Aware Multi-activity Knowledge Tracing (TAMKOT), which models knowledge transfer between learning materials, in addition to student knowledge, when students transition between and within assessed and non-assessed learning materials. TAMKOT is formulated as a deep recurrent multi-activity learning model that explicitly learns knowledge transfer by activating and learning a set of knowledge transfer matrices, one for each transition type between student activities. Accordingly, our model allows for representing each material type in a different yet transferrable latent space while maintaining student knowledge in a shared space. We evaluate our model on three real-world publicly available datasets and demonstrate TAMKOT's capability in predicting student performance and modeling knowledge transfer.
 
 {% endhighlight %}
 
@@ -180,7 +180,7 @@ Abstract: .
 > <cite>Zitao Liu, Qiongqiong Liu, Jiahao Chen, Shuyan Huang, Jiliang Tang, Weiqi Luo</cite>
 
 {% highlight html %}
-Abstract: . 
+Abstract: Knowledge tracing (KT) is the task of using students' historical learning interaction data to model their knowledge mastery over time so as to make predictions on their future interaction performance. Recently, remarkable progress has been made of using various deep learning techniques to solve the KT problem. However, the success behind deep learning based knowledge tracing (DLKT) approaches is still left somewhat unknown and proper measurement and analysis of these DLKT approaches remain a challenge. First, data preprocessing procedures in existing works are often private and custom, which limits experimental standardization. Furthermore, existing DLKT studies often differ in terms of the evaluation protocol and are far away real-world educational contexts. To address these problems, we introduce a comprehensive python based benchmark platform, \textsc{pyKT}, to guarantee valid comparisons across DLKT methods via thorough evaluations. The \textsc{pyKT} library consists of a standardized set of integrated data preprocessing procedures on 7 popular datasets across different domains, and 10 frequently compared DLKT model implementations for transparent experiments. Results from our fine-grained and rigorous empirical KT studies yield a set of observations and suggestions for effective DLKT, e.g., wrong evaluation setting may cause label leakage that generally leads to performance inflation; and the improvement of many DLKT approaches is minimal compared to the very first DLKT model proposed by Piech et al. \cite{piech2015deep}. We have open sourced \textsc{pyKT} and our experimental results at this https URL. We welcome contributions from other research groups and practitioners.
 
 {% endhighlight %}
 
@@ -189,7 +189,7 @@ Abstract: .
 > <cite>Vinitra Swamy, Bahar Radmehr, Natasa Krco, Mirko Marras, Tanja Käser</cite>
 
 {% highlight html %}
-Abstract: . 
+Abstract: Neural networks are ubiquitous in applied machine learning for education. Their pervasive success in predictive performance comes alongside a severe weakness, the lack of explainability of their decisions, especially relevant in human-centric fields. We implement five state-of-the-art methodologies for explaining black-box machine learning models (LIME, PermutationSHAP, KernelSHAP, DiCE, CEM) and examine the strengths of each approach on the downstream task of student performance prediction for five massive open online courses. Our experiments demonstrate that the families of explainers do not agree with each other on feature importance for the same Bidirectional LSTM models with the same representative set of students. We use Principal Component Analysis, Jensen-Shannon distance, and Spearman's rank-order correlation to quantitatively cross-examine explanations across methods and courses. Furthermore, we validate explainer performance across curriculum-based prerequisite relationships. Our results come to the concerning conclusion that the choice of explainer is an important decision and is in fact paramount to the interpretation of the predictive results, even more so than the course the model is trained on. Source code and models are released at https://github.com/epfl-ml4ed/evaluating-explainers.
 
 {% endhighlight %}
 
@@ -198,7 +198,7 @@ Abstract: .
 > <cite>Vinitra Swamy, Mirko Marras, Tanja Käser</cite>
 
 {% highlight html %}
-Abstract: . 
+Abstract: Despite the increasing popularity of massive open online courses (MOOCs), many suffer from high dropout and low success rates. Early prediction of student success for targeted intervention is therefore essential to ensure no student is left behind in a course. There exists a large body of research in success prediction for MOOCs, focusing mainly on training models from scratch for individual courses. This setting is impractical in early success prediction as the performance of a student is only known at the end of the course. In this paper, we aim to create early success prediction models that can be transferred between MOOCs from different domains and topics. To do so, we present three novel strategies for transfer: 1) pre-training a model on a large set of diverse courses, 2) leveraging the pre-trained model by including meta information about courses, and 3) fine-tuning the model on previous course iterations. Our experiments on 26 MOOCs with over 145,000 combined enrollments and millions of interactions show that models combining interaction data and course information have comparable or better performance than models which have access to previous iterations of the course. With these models, we aim to effectively enable educators to warm-start their predictions for new and ongoing courses.
 
 {% endhighlight %}
 
@@ -207,7 +207,7 @@ Abstract: .
 > <cite>Yang Shi, Min Chi, Tiffany Barnes, Thomas Price</cite>
 
 {% highlight html %}
-Abstract: . 
+Abstract: Knowledge tracing (KT) models are a popular approach for predicting students' future performance at practice problems using their prior attempts. Though many innovations have been made in KT, most models including the state-of-the-art Deep KT (DKT) mainly leverage each student's response either as correct or incorrect, ignoring its content. In this work, we propose Code-based Deep Knowledge Tracing (Code-DKT), a model that uses an attention mechanism to automatically extract and select domain-specific code features to extend DKT. We compared the effectiveness of Code-DKT against Bayesian and Deep Knowledge Tracing (BKT and DKT) on a dataset from a class of 50 students attempting to solve 5 introductory programming assignments. Our results show that Code-DKT consistently outperforms DKT by 3.07-4.00% AUC across the 5 assignments, a comparable improvement to other state-of-the-art domain-general KT models over DKT. Finally, we analyze problem-specific performance through a set of case studies for one assignment to demonstrate when and how code features improve Code-DKT's predictions.
 
 {% endhighlight %}
 
