@@ -11,10 +11,13 @@ Feel free to contact **ai4ed.workshops@gmail.com** to add your event here :)
 
 ## Incoming
 
+>[Talk About "Recent Advances on Deep Learning based Knowledge Tracing" on WSDM](https://www.wsdm-conference.org/2023/program/industry-day)
+>
+> <cite>WSDM 2023</cite>
+
 > [4th Workshop on Artificial Intelligence for Education](http://ai4ed.cc/workshops/aaai2023)
 >
 > <cite>AAAI 2023</cite>
-
 
 
 
