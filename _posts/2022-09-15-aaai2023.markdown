@@ -23,82 +23,105 @@ The AI4Edu workshop is co-located with the main AAAI 2023 conference in Washingt
 * 09:00 - 09:10 Opening
 
 * 09:10 - 10:00 **[Keynote Talk]** [Where Can AI Take Education by 2030](#where-can-ai-take-education-by-2030), Tom Mitchell, School of Computer Science, Carnegie Mellon University
-* 10:00 - 10:50 **[Keynote Talk]** [From Autonomy to Synergy: Envisioning Next Generation Human-AI Partnerships](#from-autonomy-to-synergy-envisioning-next-generation-human-ai-partnerships), Sidney D'Mello,  Institute of Cognitive Science and the Department of Computer Science, University of Colorado Boulder.
+	* Talk Video@Youtube [Link](https://youtu.be/rIJIGdEkJYw)
+	* Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV1VM411P7Hf/)
+* 10:00 - 10:50 **[Keynote Talk]** [From Autonomy to Synergy: Envisioning Next Generation Human-AI Partnerships](#from-autonomy-to-synergy-envisioning-next-generation-human-ai-partnerships), Sidney D'Mello, Institute of Cognitive Science and the Department of Computer Science, University of Colorado Boulder.
+	* Talk Video@Youtube [Link](https://youtu.be/7Exl86YXyFw)
+	* Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV1Ce4y1w7G6/)
+
+
 
 * 10:50 - 11:00 Break
 
 * 11:00 - 11:15 Summary and Winner Announcement of the AAAI2023 Global Knowledge Tracing Challenge
+	* Talk Video@Youtube [Link](https://youtu.be/Ql_-DiH6MsI)
+	* Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV1HR4y1i7AD/)
 * 11:15 - 11:30 **[Winning Solution Presentation] 3rd** [Effective Information Extraction of Time Series for Knowledge Tracing](#effective-information-extraction-of-time-series-for-knowledge-tracing), Xing Jiang
+	* Talk Video@Youtube [Link](https://youtu.be/JqEWcqqW1EQ)
+	* Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV15j411N7Az/)
 * 11:30 - 11:45 **[Winning Solution Presentation] 2nd** [Effective Use of Sequence Models for Knowledge Tracing](#effective-use-of-sequence-models-for-knowledge-tracing), Guimei Liu, Huijing Zhan
+	* Talk Video@Youtube [Link](https://youtu.be/gXOGyCKmgc8)
+	* Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV1VM4y1S7AD/)
 * 11:45 - 12:00 **[Winning Solution Presentation] 1st** [Attention-based Knowledge Tracing with Rich Interaction Representations](#attention-based-knowledge-tracing-with-rich-interaction-representations), Shuanghong Shen, Sailan Hu, Bihan Xu, Zhenya Huang, Qi Liu, Enhong Chen 
+	* Talk Video@Youtube [Link](https://youtu.be/BR-pkVSVp48)
+	* Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV1BR4y1B7SG/)
 
 * 12:00 - 13:15 Lunch
 
 * 13:15 - 13:30 **[Cross-submission Presentation]** [Transition-Aware Multi-Activity Knowledge Tracing](#transition-aware-multi-activity-knowledge-tracing), Siqian Zhao, Chunpai Wang and Shaghayegh Sahebi. The 2022 IEEE International Conference on Big Data (BigData 2022)
+	* Talk Video@Youtube [Link](https://youtu.be/hjvEsL7T3Yw)
+	* Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV1SY411i733/)
 * 13:30 - 13:45 **[Cross-submission Presentation]** [pyKT: A Python Library to Benchmark Deep Learning based Knowledge Tracing Models](#pykt-a-python-library-to-benchmark-deep-learning-based-knowledge-tracing-models). Zitao Liu, Qiongqiong Liu, Jiahao Chen, Shuyan Huang, Jiliang Tang, Weiqi Luo. The 36th Conference on Neural Information Processing Systems (NeurIPS 2022) Datasets and Benchmarks Track 
+	* Talk Video@Youtube [Link](https://youtu.be/2d95-d_gjVo)
+	* Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV1LM411e7K8/)
 * 13:45 - 14:00 **[Cross-submission Presentation]** [Evaluating the Explainers: Black-Box Explainable Machine Learning for Student Success Prediction in MOOCs](#evaluating-the-explainers-black-box-explainable-machine-learning-for-student-success-prediction-in-moocs). Vinitra Swamy, Bahar Radmehr, Natasa Krco, Mirko Marras, Tanja Käser. The 15th International Conference on Educational Data Mining (EDM 2022)
+	* Talk Video@Youtube [Link](https://youtu.be/ZX5okmcVqlc)
+	* Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV1tY411e74g/)
 * 14:00 - 14:15 **[Cross-submission Presentation]** [Meta Transfer Learning for Early Success Prediction in MOOCs](#meta-transfer-learning-for-early-success-prediction-in-moocs). Vinitra Swamy, Mirko Marras, Tanja Käser. The 2022 ACM Conference on Learning at Scale (L@S 2022)
+	* Talk Video@Youtube [Link](https://youtu.be/lYy5lTkZeps)
+	* Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV18M411P7nZ/)
 * 14:15 - 14:30 **[Cross-submission Presentation]** [Code-DKT: A Code-based Knowledge Tracing Model for Programming Tasks](#code-dkt-a-code-based-knowledge-tracing-model-for-programming-tasks). Yang Shi, Min Chi, Tiffany Barnes, Thomas Price. The 15th International Conference on Educational Data Mining (EDM 2022)
-
+	* Talk Video@Youtube [Link](https://youtu.be/pW3fOVkZtQc)
+	* Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV19e4y1w7g2/)
 
 * 14:30 - 14:40 Break
 
 * 14:40 - 14:50 **[Paper Presentation]** Tongwen Huang, Xihua Li and Yi Chao. [Finding Similar Exercises in Retrieval Manner](#finding-similar-exercises-in-retrieval-manner)
 	* Paper PDF [Link](https://drive.google.com/file/d/1GvDYhp3z5FCKyDBG27jKmoPR1tVr5S2O/view?usp=share_link)
-	* Talk Video@Youtube Link
-	* Talk Video@Bilibili Link
+	* Talk Video@Youtube [Link](https://youtu.be/sXvpMXMhB7E)
+	* Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV1je4y1w7rb/)
 * 14:50 - 15:00 **[Paper Presentation]** He Zhu, Xihua Li, Xuemin Zhao, Yunbo Cao and Shan Yu. [TQ-Net: Mixed Contrastive Representation Learning For Heterogeneous Test Questions](#tq-net-mixed-contrastive-representation-learning-for-heterogeneous-test-questions)
 	* Paper PDF [Link](https://drive.google.com/file/d/1FzQZAp3zE1noDxrNOyGQ9abG-bY2sXXg/view?usp=share_link)
-	* Talk Video@Youtube Link
-	* Talk Video@Bilibili Link
+	* Talk Video@Youtube [Link](https://youtu.be/T6NV-N00bFA)
+	* Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV1Jj411N7Bj/)
 * 15:00 - 15:10 **[Paper Presentation]** Fang Nan, Feng Tian, Yaozhi Wang, Qidong Liu, Yanze Wu, Jizhong Zhang, Huan Li, Haiping Zhu, Yuzhe Yao, Heng Zhang, Yaqiang Wu and Qinghua Zheng. [Inferring Actions and Joint Attention From Dual-view Classroom Videos](#inferring-actions-and-joint-attention-from-dual-view-classroom-videos)
 	* Paper PDF [Link](https://drive.google.com/file/d/1cfepfbcLpONmgGp9MwvBYr9G9Vp0rIcy/view?usp=share_link)
-	* Talk Video@Youtube Link
-	* Talk Video@Bilibili Link
+	* Talk Video@Youtube [Link](https://youtu.be/D35-fXcseM8)
+	* Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV1ps4y1a7c7/)
 * 15:10 - 15:20 **[Paper Presentation]** Anup Shakya, Vasile Rus and Deepak Venugopal. [Mastery Guided Non-parametric Clustering to Scale-up Strategy Prediction](#mastery-guided-non-parametric-clustering-to-scale-up-strategy-prediction)
 	* Paper PDF [Link](https://drive.google.com/file/d/1z_I9sPaRIgDVdeLh4bDRWTGQJtkkGJVL/view?usp=share_link)
-	* Talk Video@Youtube Link
-	* Talk Video@Bilibili Link
+	* Talk Video@Youtube [Link](https://youtu.be/Jx-MczsuOmw)
+	* Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV1kD4y1P7xR/)
 * 15:20 - 15:30 **[Paper Presentation]** Tim Klausmann, Marius Köppel, Daniel Schunk and Isabell Zipperle. [Can machine learning solve the challenge of adaptive learning and the individualization of learning paths? A field experiment in an online learning platform](#can-machine-learning-solve-the-challenge-of-adaptive-learning-and-the-individualization-of-learning-paths?-a-field-experiment-in-an-online-learning-platform)
 	* Paper PDF [Link](https://drive.google.com/file/d/1nmiiM-1FXVKlgfzBJ_Wi_GK1NNA-zCKP/view?usp=share_link)
-	* Talk Video@Youtube Link
-	* Talk Video@Bilibili Link
+	* Talk Video@Youtube [Link](https://youtu.be/emaHMQwrCRo)
+	* Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV1rT411S7Ed/)
 * 15:30 - 15:40 **[Paper Presentation]** John Stamper, Bharat Gaind, Karun Thankachan, Huy Nguyen, Steven Moore. [Hierarchical Concept Map Generation from Course Data](#hierarchical-concept-map-generation-from-course-data)
 	* Paper PDF [Link](https://drive.google.com/file/d/1Jn2tISf-yWH1dE3EWlxfAFoOXd7sx26e/view?usp=share_link)
-	* Talk Video@Youtube Link
-	* Talk Video@Bilibili Link
+	<!-- * Talk Video@Youtube Link -->
+	<!-- * Talk Video@Bilibili Link -->
 * 15:40 - 15:50 **[Paper Presentation]** Hyeondey Kim, Jinwoo Nam, Minjae Lee, Yun Jegal, Kyungwoo Song. [Leveraging Skill-to-Skill Supervision for Knowledge Tracing](#leveraging-skill-to-skill-supervision-for-knowledge-tracing)
 	* Paper PDF [Link](https://drive.google.com/file/d/1Q-Ji6glB7RWtKmPouCPPvyA_YhgMWfAV/view?usp=share_link)
-	* Talk Video@Youtube Link
-	* Talk Video@Bilibili Link
+	* Talk Video@Youtube [Link](https://youtu.be/D67ym1WNj8o)
+	* Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV1zD4y1P7cz/)
 * 15:50 - 16:00 **[Paper Presentation]** Alexander Jenkins, Imad Jaimoukha, Ljubisa Stankovic and Danilo Mandic. [Fair and Skill-diverse Student Group Formation via Constrained K-way Graph Partitioning](#fair-and-skill-diverse-student-group-formation-via-constrained-k-way-graph-partitioning)
 	* Paper PDF [Link](https://drive.google.com/file/d/1mvZLdGAuS9SkOqpeKr5H3GMrlh-LTvTM/view?usp=share_link)
-	* Talk Video@Youtube Link
-	* Talk Video@Bilibili Link
+	* Talk Video@Youtube [Link](https://youtu.be/wGViyZ3PJag)
+	* Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV1g8411M7TN/)
 * 16:00 - 16:10 **[Paper Presentation]** Xiaofei Zhou, Hanjia Lyu, Jiebo Luo and Zhen Bai. [ML-SD Modeling: How Machine Learning Can Support Scientific Discovery Learning for K-12 STEM Education](#ml-sd-modeling-how-machine-learning-can-support-scientific-discovery-learning-for-k-12-stem-education)
-	* Paper PDF [Link]()
-	* Talk Video@Youtube Link
-	* Talk Video@Bilibili Link
+	* Paper PDF [Link](https://drive.google.com/file/d/1ptEtvt0-g7G0qcJEpiNKgmQqbIqTPZpH/view?usp=share_link)
+	* Talk Video@Youtube [Link](https://youtu.be/Si0MNht59_M)
+	* Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV1aM411P7em/)
 * 16:10 - 16:20 **[Paper Presentation]** Vishesh Kalvakurthi, Aparna Varde and John Jenq. [Hey Dona! Can you help me with student course registration?](#hey-dona!-can-you-help-me-with-student-course-registration)
 	* Paper PDF [Link](https://drive.google.com/file/d/1NX_7B6DIBcSqtlKjuH_X3w7JPcVOr6yx/view?usp=share_link)
-	* Talk Video@Youtube Link
-	* Talk Video@Bilibili Link
+	* Talk Video@Youtube [Link](https://youtu.be/HqZMCpLqcEA)
+	* Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV1wv4y1x7BM/)
 * 16:20 - 16:30 **[Paper Presentation]** Roberto Daza, Luis F. Gomez, Aythami Morales, Ruben Tolosana, Julian Fierrez, Ruth Cobos and Javier Ortega-Garcia. [MATT: Multimodal Attention Level Estimation for e-learning Platforms](#matt-multimodal-attention-level-estimation-for-e-learning-platforms)
 	* Paper PDF [Link](https://drive.google.com/file/d/1neJzRVSTqGDmHjNU9TUr5UsOfQNtawCh/view?usp=share_link)
-	* Talk Video@Youtube Link
-	* Talk Video@Bilibili Link
+	* Talk Video@Youtube [Link](https://youtu.be/6T75Yhy-8nw)
+	* Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV1Zv4y1s7Gw/)
 * 16:30 - 16:40 **[Paper Presentation]** Jia Tracy Shen and Dongwon Lee. [Imputing Knowledge Tracing Data with Subject-Based Training via LSTM Variational Autoencoders](#imputing-knowledge-tracing-data-with-subject-based-training-via-lstm-variational-autoencoders)
 	* Paper PDF [Link](https://drive.google.com/file/d/1yA8p9WZI3mS1cwV3Mem-ox5JdoQGAc2H/view?usp=share_link)
-	* Talk Video@Youtube Link
-	* Talk Video@Bilibili Link
+	* Talk Video@Youtube [Link](https://youtu.be/bmZjlGrA0pU)
+	* Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV1KT411X7nG/)
 * 16:40 - 16:50 **[Paper Presentation]** Levi Corallo and Aparna Varde. [Optical Character Recognition and Transcription of Berber Signs from Images in a Low-Resource Language Amazigh](#optical-character-recognition-and-transcription-of-berber-signs-from-images-in-a-low-resource-language-amazigh)
 	* Paper PDF [Link](https://drive.google.com/file/d/1QgY20sz3a-u_UQ7cygWyse9q6OmjJ1nS/view?usp=share_link)
-	* Talk Video@Youtube Link
-	* Talk Video@Bilibili Link
+	* Talk Video@Youtube [Link](https://youtu.be/rjOGUNf_y6I)
+	* Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV1RA411m7BP/)
 * 16:50 - 17:00 **[Paper Presentation]** Frederik Baucks, Robin Schmucker and Laurenz Wiskott. [Tracing Changes in University Course Difficulty Using Item-Response Theory](#tracing-changes-in-university-course-difficulty-using-item-response-theory)
 	* Paper PDF [Link](https://drive.google.com/file/d/1LT7p6oSa1aXrcxsZhyWBLLhi_nKk3jM5/view?usp=share_link)
-	* Talk Video@Youtube Link
-	* Talk Video@Bilibili Link
+	* Talk Video@Youtube [Link](https://youtu.be/Y6T2_h1H5YE)
+	* Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV1784y1p7H4/)
 
 
 
