@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  AAAI2023 Global Knowledge Tracing Challenge
-date:   2022-09-16 10:00:00
+date:   2023-02-07 10:00:00
 image:  '/images/aaai2023competition.jpg'
 tags:   [Competition, AAAI]
 featured: true
