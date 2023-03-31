@@ -4,7 +4,7 @@ title:  AAAI2023 Artificial Intelligence for Education
 date:   2023-02-07 10:00:00
 image:  '/images/aaai2023.jpg'
 tags:   [Workshop, AAAI]
-featured: true
+featured: false
 category: workshops
 ---
 

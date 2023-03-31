@@ -1,0 +1,40 @@
+---
+layout: post
+title:  AIED2023 Title TBD
+date:   2023-03-30 10:00:00
+image:  '/images/aied2023.jpg'
+tags:   [Workshop, AIED]
+featured: true
+category: workshops
+---
+
+## Introduction
+
+
+## Call for Papers & Participation
+
+
+## Tentative Schedule
+
+
+
+## Important Dates
+
+<!-- * **Nov 27, 2022**: Workshop paper submission due AOE
+* ~~**Dec 25, 2022**~~ **<span style="color:red">Jan 01, 2023</span>**: Notifications of acceptance
+* **Jan 5, 2023**: Deadline of the camera-ready final paper submission
+* **Feb 13, 2023**: Workshop Date  -->
+
+
+
+## Organizers
+
+<!-- ![Beautiful place]({{site.baseurl}}/images/aaai2022_workshop_organizers.jpg) -->
+
+<!-- * **Zitao Liu** TAL Education Group & Jinan University, China
+* **Weiqi Luo** Guangdong Institute of Smart Education, Jinan University, China
+* **Shaghayegh (Sherry) Sahebi** University at Albany – SUNY, USA
+* **Lu Yu** Beijing Normal University, China
+* **Richard Tong** IEEE AI Standard Committee & Squirrel AI Learning, USA
+* **Jiahao Chen** TAL Education Group, China
+* **Qiongqiong Liu** TAL Education Group, China -->

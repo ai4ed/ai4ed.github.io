@@ -4,7 +4,7 @@ title:  AAAI2023 Global Knowledge Tracing Challenge
 date:   2023-02-07 10:00:00
 image:  '/images/aaai2023competition.jpg'
 tags:   [Competition, AAAI]
-featured: true
+featured: false
 category: competitions
 ---
 
