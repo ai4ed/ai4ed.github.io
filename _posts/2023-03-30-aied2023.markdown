@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  AIED2023 Title TBD
+title:  AIED2023 Empowering Education with LLMs - the Next-Gen Interface and Content Generation
 date:   2023-03-30 10:00:00
 image:  '/images/aied2023.jpg'
 tags:   [Workshop, AIED]
@@ -12,6 +12,9 @@ category: workshops
 
 
 ## Call for Papers & Participation
+
+This workshop aims to bring together researchers and practitioners from academia and industry to explore the potential of generative artificial intelligence to both support and hinder learning. We will explore the use of Large Language Models (LLMs) in human-in-the-loop systems, discussing how different human-AI partnerships involving students, instructors, and others can be effectively leveraged. Through guest speakers, participant presentations, panel discussions, and a mini-hackathon, attendees will have the opportunity to engage with LLMs in the context of education. We will further explore topics related to educational content creation and evaluation, challenges and opportunities for LLMs, and ethical considerations. While no submission is required for this workshop in order to participate, we are accepting papers consisting of around 5 pages.
+
 
 
 ## Tentative Schedule
