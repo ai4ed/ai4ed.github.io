@@ -328,7 +328,7 @@ Abstract: Forming the right combination of students in a group promises to enabl
 > <cite>Xiaofei Zhou, Hanjia Lyu, Jiebo Luo and Zhen Bai</cite>
 
 {% highlight html %}
-Abstract: . 
+Abstract: The importance of machine learning (ML) in scientific discovery is growing. In order to prepare the next generation for a future dominated by data and artificial intelligence, we need to study how ML can improve K-12 students’ scientific discovery in STEM learning and how to assist K-12 teachers in designing ML-based scientific discovery (SD) learning activities. This study proposes research ideas and provides initial findings on the relationship between different ML components and young learners’ scientific investigation behaviors. Results show that cluster analysis is promising for supporting pattern interpretation and scientific communication behaviors. The levels of cognitive complexity are associated with different ML-powered SD and corresponding learning support is needed. The next steps include a further co-design study between K-12 STEM teachers and ML experts and a plan for collecting and analyzing data to further understand the connection between ML and SD.
 
 {% endhighlight %}
 
