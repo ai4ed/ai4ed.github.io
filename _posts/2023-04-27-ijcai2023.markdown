@@ -70,7 +70,7 @@ The submission AUTHOR KIT can be found at [https://www.ijcai.org/authors_kit](ht
 * **June 20, 2023**: Symposium paper submission due AOE
 * **July 04, 2023**: Notifications of acceptance
 * **August 03, 2023**: Deadline of the camera-ready final paper submission
-* **August 19-25, 2023**: Symposium Date (The symposium date will be communicated when the conference program is finalized.)
+* **August 20, 2023**: Symposium date
 
 
 
