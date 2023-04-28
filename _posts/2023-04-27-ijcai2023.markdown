@@ -1,0 +1,85 @@
+---
+layout: post
+title:  IJCAI2023 Multimodal Reasoning - Techniques, Applications, and Challenges
+date:   2023-04-27 10:00:00
+image:  '/images/ijcai2023.jpg'
+tags:   [Workshop, IJCAI]
+featured: true
+category: workshops
+---
+
+## Overview
+
+Multimodal Reasoning is an emerging research area that aims to enable intelligent systems to reason and learn from information obtained from various modalities, such as language, images, videos, and sensor data. This workshop focuses on exploring different aspects of multimodal reasoning, including combining multimodal learners, language models, and attention mechanisms, evaluating the effectiveness of transfer learning and pre-training in multimodal reasoning, and examining the impact of data augmentation techniques. Additionally, we will explore how multimodal reasoning can be used to improve educational outcomes, healthcare outcomes, and other information processing tasks.
+
+
+
+## Scope and Objectives
+
+The objectives of this workshop are to:
+
+* Provide a forum for researchers and practitioners to discuss the latest developments, challenges, and opportunities in multimodal reasoning.
+* Exchange ideas and insights on using multimodal reasoning techniques to address real-world problems in education, healthcare, and other information processing fields.
+* Identify potential future research directions and applications of multimodal reasoning.
+* Identify and discussion standardization, deployment, operation and responsible AI practices
+
+
+## Topics (but not limited to)
+
+* Develop new architectures and models for multimodal reasoning.
+* Utilize multimodal reasoning for intelligent agents in education and healthcare settings.
+* Combine multimodal learners with LLM reasoners using language symbols to enable information exchange through chain of thought.
+* Develop multimodal representation in theory of mind and other hidden contexts Create a GAN framework to enable self-learning using multimodal generation.
+* Cross-validate the model grounding by utilizing different modalities and combining different reasoning strategies.
+* Investigate the use of attention mechanisms in multimodal reasoning.
+* Explore the role of pre-training and fine-tuning in multimodal reasoning. Evaluate the effectiveness of transfer learning in multimodal reasoning.
+* Examine the impact of data augmentation techniques on multimodal reasoning performance.
+* Investigate the ethical implications of multimodal reasoning, including the impact of bias and fairness. Explore ethical considerations and standardization issues in the use of multimodal reasoning, especially with the IEEE AI Standards Committee and IEEE Learning Technology Standards Committee.
+* Introduce and design new implementation approaches such as prompt engineering, local fine-tuning, integrated reasoning from LLM base, and incremental learning.
+
+
+## Format
+
+One day workshop. Program includes invited talks, presentations, discussion, final panel discussion, and interactive sessions.
+
+
+## Proposed Schedule
+
+* 08:30 - 08:40 Welcome remarks
+* 08:40 - 09:00 Overview of the workshop
+* 09:00 - 09:30 Invited talk (1)
+* 09:30 - 10:00 Contributed talks (2)
+* 10:00 - 10:30 Coffee break and start Interactive Session - mini-hackathon 10:30 - 11:30 Invited talks (2)
+* 11:30 - 12:00 Contributed talks (2)
+* 12:00 - 14:00 Lunch break
+* 14:00 - 15:00 Papers (6)
+* 15:00 - 16:00 Interactive Session - mini-hackathon 16:00 - 17:00 Panel Discussion
+* 17:00 Closing remarks
+
+
+
+### Submission Website
+
+The submission AUTHOR KIT can be found at [https://www.ijcai.org/authors_kit](https://www.ijcai.org/authors_kit). We will announce the submission website soon.
+
+<!-- Submission website: [https://easychair.org/conferences/?conf=ijcai2023multireason](https://easychair.org/conferences/?conf=ijcai2023multireason).  -->
+
+
+## Important Dates
+
+* **June 20, 2023**: Workshop paper submission due AOE
+* **July 04, 2023**: Notifications of acceptance
+* **August 03, 2023**: Deadline of the camera-ready final paper submission
+* **August 19-25, 2023**: Workshop Date (The workshop date will be communicated when the conference program is finalized.)
+
+
+
+## Organizers
+
+<!-- ![Beautiful place]({{site.baseurl}}/images/aaai2022_workshop_organizers.jpg) -->
+
+* **Richard Tong** IEEE AISC Chair, USA
+* **Yiqiang Chen** Institute of Computing Technology, Chinese Academy of Sciences, China
+* **Zitao Liu** Guangdong Institute of Smart Education, Jinan University, China
+* **Joleen Liang** Squirrel AI, China
+* **Jiahao Chen** TAL Education Group, China
