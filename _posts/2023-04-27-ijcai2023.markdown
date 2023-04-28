@@ -3,20 +3,20 @@ layout: post
 title:  IJCAI2023 Multimodal Reasoning - Techniques, Applications, and Challenges
 date:   2023-04-27 10:00:00
 image:  '/images/ijcai2023.jpg'
-tags:   [Workshop, IJCAI]
+tags:   [Symposium, IJCAI]
 featured: true
-category: workshops
+category: symposiums
 ---
 
 ## Overview
 
-Multimodal Reasoning is an emerging research area that aims to enable intelligent systems to reason and learn from information obtained from various modalities, such as language, images, videos, and sensor data. This workshop focuses on exploring different aspects of multimodal reasoning, including combining multimodal learners, language models, and attention mechanisms, evaluating the effectiveness of transfer learning and pre-training in multimodal reasoning, and examining the impact of data augmentation techniques. Additionally, we will explore how multimodal reasoning can be used to improve educational outcomes, healthcare outcomes, and other information processing tasks.
+Multimodal Reasoning is an emerging research area that aims to enable intelligent systems to reason and learn from information obtained from various modalities, such as language, images, videos, and sensor data. This symposium focuses on exploring different aspects of multimodal reasoning, including combining multimodal learners, language models, and attention mechanisms, evaluating the effectiveness of transfer learning and pre-training in multimodal reasoning, and examining the impact of data augmentation techniques. Additionally, we will explore how multimodal reasoning can be used to improve educational outcomes, healthcare outcomes, and other information processing tasks.
 
 
 
 ## Scope and Objectives
 
-The objectives of this workshop are to:
+The objectives of this symposium are to:
 
 * Provide a forum for researchers and practitioners to discuss the latest developments, challenges, and opportunities in multimodal reasoning.
 * Exchange ideas and insights on using multimodal reasoning techniques to address real-world problems in education, healthcare, and other information processing fields.
@@ -40,13 +40,13 @@ The objectives of this workshop are to:
 
 ## Format
 
-One day workshop. Program includes invited talks, presentations, discussion, final panel discussion, and interactive sessions.
+One day symposium. Program includes invited talks, presentations, discussion, final panel discussion, and interactive sessions.
 
 
 ## Proposed Schedule
 
 * 08:30 - 08:40 Welcome remarks
-* 08:40 - 09:00 Overview of the workshop
+* 08:40 - 09:00 Overview of the symposium
 * 09:00 - 09:30 Invited talk (1)
 * 09:30 - 10:00 Contributed talks (2)
 * 10:00 - 10:30 Coffee break and start Interactive Session - mini-hackathon 10:30 - 11:30 Invited talks (2)
@@ -67,16 +67,16 @@ The submission AUTHOR KIT can be found at [https://www.ijcai.org/authors_kit](ht
 
 ## Important Dates
 
-* **June 20, 2023**: Workshop paper submission due AOE
+* **June 20, 2023**: Symposium paper submission due AOE
 * **July 04, 2023**: Notifications of acceptance
 * **August 03, 2023**: Deadline of the camera-ready final paper submission
-* **August 19-25, 2023**: Workshop Date (The workshop date will be communicated when the conference program is finalized.)
+* **August 19-25, 2023**: Symposium Date (The symposium date will be communicated when the conference program is finalized.)
 
 
 
 ## Organizers
 
-<!-- ![Beautiful place]({{site.baseurl}}/images/aaai2022_workshop_organizers.jpg) -->
+<!-- ![Beautiful place]({{site.baseurl}}/images/aaai2022_symposium_organizers.jpg) -->
 
 * **Richard Tong** IEEE AISC Chair, USA
 * **Yiqiang Chen** Institute of Computing Technology, Chinese Academy of Sciences, China
