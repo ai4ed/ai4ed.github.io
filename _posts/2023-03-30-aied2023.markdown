@@ -10,34 +10,61 @@ category: workshops
 
 ## Introduction
 
+This workshop aims to bring together researchers and practitioners from academia and industry to explore the potential of generative artificial intelligence to both support and hinder learning. We will explore the use of Large Language Models (LLMs) in human-in-the-loop systems, discussing how different human-AI partnerships involving students, instructors, and others can be effectively leveraged. Through guest speakers, participant presentations, panel discussions, and a mini-hackathon, attendees will have the opportunity to engage with LLMs in the context of education. We will further explore topics related to educational content creation and evaluation, challenges and opportunities for LLMs, and ethical considerations. While no submission is required for this workshop in order to participate, we are accepting papers consisting of around 5 pages, find out more details below.
+
 
 ## Call for Papers & Participation
 
-This workshop aims to bring together researchers and practitioners from academia and industry to explore the potential of generative artificial intelligence to both support and hinder learning. We will explore the use of Large Language Models (LLMs) in human-in-the-loop systems, discussing how different human-AI partnerships involving students, instructors, and others can be effectively leveraged. Through guest speakers, participant presentations, panel discussions, and a mini-hackathon, attendees will have the opportunity to engage with LLMs in the context of education. We will further explore topics related to educational content creation and evaluation, challenges and opportunities for LLMs, and ethical considerations. While no submission is required for this workshop in order to participate, we are accepting papers consisting of around 5 pages.
+
+This workshop at AIED 2023 is a unique venue to showcase work and initiatives related to leveraging large language models in an educational context, such as assisting with the creation of content or their use in adaptive learning systems. While no submission is required for this workshop in order to participate, we are accepting papers that are 5 - 10 pages (roughly 2,000 - 4,000 words) in length using the workshop style in either the [LaTeX template](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw) or the [DOCX template](https://ceur-ws.org/Vol-XXX/CEUR-Template-1col.docx). We invite you to participate and submit papers based on:
+
+
+* The application of Large Language Models (LLMs) in educational settings
+* Generation and evaluation of educational content with the help of LLMs
+* Co-creation of educational partnerships, where the human or AI might benefit the most
+* Ethical considerations in the use of LLMs as communication interfaces in educational settings
+* Designing effective and standardized user interfaces for LLM-based educational systems
+* Crowdsourcing & Learnersourcing in conjunction with LLMs
+
+The  submissions will be curated into a proceedings that will be made available via [ceur-ws.org](ceur-ws.org). Submissions should contain mostly novel work, however there can be overlap between the submission and work submitted elsewhere (such as summaries, describing the process of the work, and focusing on the learnersourcing aspect). Each of the submissions will be reviewed by the members of the Program Committee.
+
+**Submission URL**: [https://easychair.org/conferences/?conf=aiedllm1](https://easychair.org/conferences/?conf=aiedllm1)
 
 
 
 ## Tentative Schedule
 
+* Introductions (9:00 - 9:30)
+* Invited speakers (9:30 - 10:30)
+* Round-table Discussion (10:30 - 11:30)
+* Hackathon-Introduction & Brainstorming (11:30 - 12:00)
+* Lunch (12:00 - 13:00)
+* Mini-Hackathon (13:00 - 14:00)
+* Paper presentations (14:00 - 16:00)
 
 
 ## Important Dates
 
-<!-- * **Nov 27, 2022**: Workshop paper submission due AOE
-* ~~**Dec 25, 2022**~~ **<span style="color:red">Jan 01, 2023</span>**: Notifications of acceptance
-* **Jan 5, 2023**: Deadline of the camera-ready final paper submission
+* **May 27, 2023**: Workshop paper submission due AOE
+* **June 03, 2023**: Notifications of acceptance
+<!-- * **Jan 5, 2023**: Deadline of the camera-ready final paper submission
 * **Feb 13, 2023**: Workshop Date  -->
 
 
 
 ## Organizers
 
-<!-- ![Beautiful place]({{site.baseurl}}/images/aaai2022_workshop_organizers.jpg) -->
+<!-- ![Beautiful place]({{site.baseurl}}/images/aaai2023_workshop_organizers.jpg) -->
 
-<!-- * **Zitao Liu** TAL Education Group & Jinan University, China
-* **Weiqi Luo** Guangdong Institute of Smart Education, Jinan University, China
-* **Shaghayegh (Sherry) Sahebi** University at Albany – SUNY, USA
-* **Lu Yu** Beijing Normal University, China
-* **Richard Tong** IEEE AI Standard Committee & Squirrel AI Learning, USA
-* **Jiahao Chen** TAL Education Group, China
-* **Qiongqiong Liu** TAL Education Group, China -->
+
+* **Steven Moore** (main contact), Carnegie Mellon University
+* **Richard Tong** (main contact), Carnegie Learning
+* **Zitao Liu**, Guangdong Institute of Smart Education, Jinan University
+* **Xiangen Hu**, The University of Memphis
+* **Yu Lu**, Beijing Normal University
+* **Joleen Liang**, Macao University
+* **Hassan Khosravi**, The University of Queensland
+* **Paul Denny**, The University of Auckland
+* **Anjali Singh**, University of Michigan
+* **Chris Brooks**, University of Michigan
+* **John Stamper**, Carnegie Mellon University
