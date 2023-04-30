@@ -58,15 +58,15 @@ The  submissions will be curated into a proceedings that will be made available 
 <!-- ![Beautiful place]({{site.baseurl}}/images/aaai2023_workshop_organizers.jpg) -->
 
 
-* **Steven Moore** (main contact), Carnegie Mellon University
-* **Richard Tong** (main contact), Carnegie Learning
-* **Zitao Liu**, Guangdong Institute of Smart Education, Jinan University
-* **Xiangen Hu**, The University of Memphis
-* **Yu Lu**, Beijing Normal University
-* **Joleen Liang**, Macao University
-* **Hassan Khosravi**, The University of Queensland
-* **Paul Denny**, The University of Auckland
-* **Anjali Singh**, University of Michigan
-* **Chris Brooks**, University of Michigan
-* **John Stamper**, Carnegie Mellon University
-* **Chen Cao**, University of Sheffield
+* **Steven Moore** (main contact), Carnegie Mellon University, USA
+* **Richard Tong** (main contact), Carnegie Learning, USA
+* **Zitao Liu**, Guangdong Institute of Smart Education, Jinan University, China
+* **Xiangen Hu**, The University of Memphis, USA
+* **Yu Lu**, Beijing Normal University, China
+* **Joleen Liang**, Squirrel AI Learning, China
+* **Hassan Khosravi**, The University of Queensland, Australia
+* **Paul Denny**, The University of Auckland, New Zealand
+* **Anjali Singh**, University of Michigan, USA
+* **Chris Brooks**, University of Michigan, USA
+* **John Stamper**, Carnegie Mellon University, USA
+* **Chen Cao**, University of Sheffield, UK

@@ -81,5 +81,5 @@ The submission AUTHOR KIT can be found at [https://www.ijcai.org/authors_kit](ht
 * **Richard Tong** IEEE AISC Chair, USA
 * **Yiqiang Chen** Institute of Computing Technology, Chinese Academy of Sciences, China
 * **Zitao Liu** Guangdong Institute of Smart Education, Jinan University, China
-* **Joleen Liang** Squirrel AI, China
+* **Joleen Liang** Squirrel AI Learning, China
 * **Jiahao Chen** TAL Education Group, China
