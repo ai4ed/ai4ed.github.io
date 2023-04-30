@@ -62,7 +62,7 @@ One day symposium. Program includes invited talks, presentations, discussion, fi
 
 The submission AUTHOR KIT can be found at [https://www.ijcai.org/authors_kit](https://www.ijcai.org/authors_kit). We will announce the submission website soon.
 
-<!-- Submission website: [https://easychair.org/conferences/?conf=ijcai2023multireason](https://easychair.org/conferences/?conf=ijcai2023multireason).  -->
+Submission website: [https://easychair.org/my/conference?conf=ijcai2023multireason](https://easychair.org/my/conference?conf=ijcai2023multireason). 
 
 
 ## Important Dates
