@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  AIED2023 Empowering Education with LLMs - the Next-Gen Interface and Content Generation
-date:   2023-03-30 10:00:00
+date:   2023-07-07 10:00:00
 image:  '/images/aied2023.jpg'
 tags:   [Workshop, AIED]
 featured: true
@@ -47,6 +47,7 @@ The  submissions will be curated into a proceedings that will be made available 
 
 * **May 27, 2023**: Workshop paper submission due AOE
 * **June 03, 2023**: Notifications of acceptance
+* **July 07, 2023**: Workshop Date
 
 <!-- * **Jan 5, 2023**: Deadline of the camera-ready final paper submission
 * **Feb 13, 2023**: Workshop Date  -->
