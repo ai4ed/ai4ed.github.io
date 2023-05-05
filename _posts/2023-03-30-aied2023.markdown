@@ -10,13 +10,13 @@ category: workshops
 
 ## Introduction
 
-This workshop aims to bring together researchers and practitioners from academia and industry to explore the potential of generative artificial intelligence to both support and hinder learning. We will explore the use of Large Language Models (LLMs) in human-in-the-loop systems, discussing how different human-AI partnerships involving students, instructors, and others can be effectively leveraged. Through guest speakers, participant presentations, panel discussions, and a mini-hackathon, attendees will have the opportunity to engage with LLMs in the context of education. We will further explore topics related to educational content creation and evaluation, challenges and opportunities for LLMs, and ethical considerations. While no submission is required for this workshop in order to participate, we are accepting papers consisting of around 5 pages, find out more details below.
+This hybrid workshop aims to bring together researchers and practitioners from academia and industry to explore the potential of generative artificial intelligence to both support and hinder learning. We will explore the use of Large Language Models (LLMs) in human-in-the-loop systems, discussing how different human-AI partnerships involving students, instructors, and others can be effectively leveraged. Through guest speakers, participant presentations, panel discussions, and a mini-hackathon, attendees will have the opportunity to engage with LLMs in the context of education. We will further explore topics related to educational content creation and evaluation, challenges and opportunities for LLMs, and ethical considerations. While no submission is required for this hybrid workshop in order to participate, we are accepting papers consisting of around 5 pages, find out more details below.
 
 
 ## Call for Papers & Participation
 
 
-This workshop at AIED 2023 is a unique venue to showcase work and initiatives related to leveraging large language models in an educational context, such as assisting with the creation of content or their use in adaptive learning systems. While no submission is required for this workshop in order to participate, we are accepting papers that are 5 - 10 pages (roughly 2,000 - 4,000 words) in length using the workshop style in either the [LaTeX template](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw) or the [DOCX template](https://ceur-ws.org/Vol-XXX/CEUR-Template-1col.docx). We invite you to participate and submit papers based on:
+This hybrid workshop at AIED 2023 is a unique venue to showcase work and initiatives related to leveraging large language models in an educational context, such as assisting with the creation of content or their use in adaptive learning systems. While no submission is required for this hybrid workshop in order to participate, we are accepting papers that are 5 - 10 pages (roughly 2,000 - 4,000 words) in length using the workshop style in either the [LaTeX template](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw) or the [DOCX template](https://ceur-ws.org/Vol-XXX/CEUR-Template-1col.docx). We invite you to participate and submit papers based on:
 
 
 * The application of Large Language Models (LLMs) in educational settings
@@ -30,7 +30,7 @@ The  submissions will be curated into a proceedings that will be made available 
 
 **Submission URL**: [https://easychair.org/conferences/?conf=aiedllm1](https://easychair.org/conferences/?conf=aiedllm1)
 
-
+This will be a hybrid workshop, offering participation for everyone both in-person and online via Zoom.
 
 ## Tentative Schedule
 
