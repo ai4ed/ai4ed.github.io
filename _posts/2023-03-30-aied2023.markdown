@@ -40,7 +40,7 @@ This hybrid workshop aims to bring together researchers and practitioners from a
 		- Paper PDF [Link](https://drive.google.com/file/d/1eQ8Ek6CB8MY8bpioWoAt2m12qpf2U96j/view?usp=drive_link)
 	* 14:15 - 14:30 **[Paper Presentation]**: Kole Norberg, Husni Almoubayyed, Stephen Fancsali, Logan De Ley, Kyle Weldon, April Murphy and Steve Ritter - Rewriting Math Word Problems with Large Language Models
 		- Paper PDF [Link](https://drive.google.com/file/d/1kPLSpjBdTcL2uwZrNlVvlnlWqZl2GoBm/view?usp=drive_link)
-	* 14:30 - 14:45 **[Paper Presentation]**:Gautam Yadav, Ying-Jui Tseng and Xiaolin Ni - Contextualizing Problems to Student Interests at Scale in Intelligent Tutoring System Using Large Language Models
+	* 14:30 - 14:45 **[Paper Presentation]**: Gautam Yadav, Ying-Jui Tseng and Xiaolin Ni - Contextualizing Problems to Student Interests at Scale in Intelligent Tutoring System Using Large Language Models
 		- Paper PDF [Link](https://drive.google.com/file/d/1trdsesc_A4AQdEn0kUSCUYOIBbB0aSKA/view?usp=drive_link)
 * Coffee Break (15:00 - 15:30)
 * Mini-Hackathon (15:30 - 16:45) 
