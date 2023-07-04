@@ -20,18 +20,28 @@ This hybrid workshop aims to bring together researchers and practitioners from a
 * Coffee Break (10:40 - 11:00)
 * Round-table Discussion (11:00 - 11:30)
 * Paper Presentations (11:30 - 12:45) 
-	* 11:30 - 11:45: Detecting ChatGPT-Generated Code in a CS1 Course - Muntasir Hoq, Yang Shi, Juho Leinonen, Damilola Babalola, Collin Lynch, Thomas Price and Bita Akram 
-	* 11:45 - 12:00: On the application of Large Language Models for language teaching and assessment technology - Andrew Caines, Luca Benedetto, Shiva Taslimipoor, Christopher Davis, Yuan Gao, Øistein Andersen, Zheng Yuan, Mark Elliott, Russell Moore, Christopher Bryant, Marek Rei, Andrew Mullooly, Diane Nicholls and Paula Buttery 
-	* 12:00 - 12:15: Generative Large Language Models for Dialog-Based Tutoring: An Early Consideration of Opportunities and Concerns - Benjamin Nye, Dillon Mee and Mark G. Core 
-	* 12:15 - 12:30: The Unseen A+ Student: Evaluating the Performance and Detectability of Large Language Models in High School Assignments - Matyáš Boháček 
-	* 12:30 - 12:45: Leveraging LLMs for Adaptive Testing and Learning in Taiwan Adaptive Learning Platform (TALP) - Bor-Chen Kuo, Frederic Chang and Zong-En Bai
+	* 11:30 - 11:45 **[Paper Presentation]**: Muntasir Hoq, Yang Shi, Juho Leinonen, Damilola Babalola, Collin Lynch, Thomas Price and Bita Akram - Detecting ChatGPT-Generated Code in a CS1 Course 
+		- Paper PDF [Link](https://drive.google.com/file/d/1eVfGgatxPHkPZTdH3HgyKhssz83kH8BH/view?usp=drive_link)
+	* 11:45 - 12:00 **[Paper Presentation]**: Andrew Caines, Luca Benedetto, Shiva Taslimipoor, Christopher Davis, Yuan Gao, Øistein Andersen, Zheng Yuan, Mark Elliott, Russell Moore, Christopher Bryant, Marek Rei, Andrew Mullooly, Diane Nicholls and Paula Buttery - On the application of Large Language Models for language teaching and assessment technology
+		- Paper PDF [Link](https://drive.google.com/file/d/1CkzEqGb62tnz5mlulxbcHyil4SEaaXLl/view?usp=drive_link)
+	* 12:00 - 12:15 **[Paper Presentation]**: Benjamin Nye, Dillon Mee and Mark G. Core - Generative Large Language Models for Dialog-Based Tutoring: An Early Consideration of Opportunities and Concerns
+		- Paper PDF [Link](https://drive.google.com/file/d/1aIrWE3U4wDxUhtOXgsxvj6nwb_3_q046/view?usp=drive_link)
+	* 12:15 - 12:30 **[Paper Presentation]**: Matyáš Boháček - The Unseen A+ Student: Evaluating the Performance and Detectability of Large Language Models in High School Assignments
+		- Paper PDF [Link](https://drive.google.com/file/d/1ZB2XGJrZHEVIc44k0VQ04-U4TSsJTfbY/view?usp=drive_link)
+	* 12:30 - 12:45 **[Paper Presentation]**: Bor-Chen Kuo, Frederic Chang and Zong-En Bai - Leveraging LLMs for Adaptive Testing and Learning in Taiwan Adaptive Learning Platform (TALP) 
+		- Paper PDF [Link](https://drive.google.com/file/d/1XKFRvTmu4dOHcZvFmbChdN0tC0mUjJiY/view?usp=drive_link)
 * Lunch (12:45 - 13:30)
 * Paper presentations (13:30 - 14:45): 
-	* 13:30 - 13:45: Generating multiple choice questions from a textbook: LLMs match human performance on most metrics - Andrew Oleny 
-	* 13:45 - 14:00: Prototyping the use of Large Language Models (LLMs) for adult learning content creation at scale - Daniel Leiker, Sara Finnigan, Ashley Ricker Gyllen and Mutlu Cukurova 
-	* 14:00 - 14:15: Language Modeling for Plan Generation in Game-Base Learning Environments - Alex Goslen, Yeo Jin Kim, Jonathan Rowe and James Lester
-	* 14:15 - 14:30: Rewriting Math Word Problems with Large Language Models - Kole Norberg, Husni Almoubayyed, Stephen Fancsali, Logan De Ley, Kyle Weldon, April Murphy and Steve Ritter 
-	* 14:30 - 14:45: Contextualizing Problems to Student Interests at Scale in Intelligent Tutoring System Using Large Language Models - Gautam Yadav, Ying-Jui Tseng and Xiaolin Ni 
+	* 13:30 - 13:45 **[Paper Presentation]**: Andrew Oleny - Generating multiple choice questions from a textbook: LLMs match human performance on most metrics 
+		- Paper PDF [Link](https://drive.google.com/file/d/18swn5plXyQlBlxRnA-tvRkQSMd3PELEl/view?usp=drive_link)
+	* 13:45 - 14:00 **[Paper Presentation]**: Daniel Leiker, Sara Finnigan, Ashley Ricker Gyllen and Mutlu Cukurova - Prototyping the use of Large Language Models (LLMs) for adult learning content creation at scale
+		- Paper PDF [Link](https://drive.google.com/file/d/1jldYQaiRDBllQHrQhZJ5Zgyus3ZGXTBF/view?usp=drive_link)
+	* 14:00 - 14:15 **[Paper Presentation]**: Alex Goslen, Yeo Jin Kim, Jonathan Rowe and James Lester - Language Modeling for Plan Generation in Game-Base Learning Environments
+		- Paper PDF [Link](https://drive.google.com/file/d/1eQ8Ek6CB8MY8bpioWoAt2m12qpf2U96j/view?usp=drive_link)
+	* 14:15 - 14:30 **[Paper Presentation]**: Kole Norberg, Husni Almoubayyed, Stephen Fancsali, Logan De Ley, Kyle Weldon, April Murphy and Steve Ritter - Rewriting Math Word Problems with Large Language Models
+		- Paper PDF [Link](https://drive.google.com/file/d/1kPLSpjBdTcL2uwZrNlVvlnlWqZl2GoBm/view?usp=drive_link)
+	* 14:30 - 14:45 **[Paper Presentation]**: Gautam Yadav, Ying-Jui Tseng and Xiaolin Ni - Contextualizing Problems to Student Interests at Scale in Intelligent Tutoring System Using Large Language Models
+		- Paper PDF [Link](https://drive.google.com/file/d/1trdsesc_A4AQdEn0kUSCUYOIBbB0aSKA/view?usp=drive_link)
 * Coffee Break (15:00 - 15:30)
 * Mini-Hackathon (15:30 - 16:45) 
 * Closing Remarks (16:45 - 17:00)
