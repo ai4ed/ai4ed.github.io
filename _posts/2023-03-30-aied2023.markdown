@@ -56,13 +56,13 @@ This hybrid workshop aims to bring together researchers and practitioners from a
 	- Talk Video@Youtube [Link](https://drive.google.com/file/d/1QaUK1CDAKkLZwV9WpSDXeV5lb2gvFxT-/view?usp=drive_link)
 * **[Virtual Presentation]**: Md Rayhan Kabir, Fuhua (Oscar) Lin - An LLM-Powered Adaptive Practicing System
 	- Talk Video@Youtube [Link](https://drive.google.com/file/d/1SDyr1IohN3ZN9-qgBXkYtjFf3nHxIG_C/view?usp=drive_link)
-* **[Virtual Presentation]**: Shouvik Ahmed Antu, Haiyan Cheng, Cindy K Roberts - Using LLM(Large Language Model) to Improve Efficiency for Literature Reviews in Undergraduate Research
-	- Talk Video@Youtube [Link](https://drive.google.com/file/d/1FE9eRTnRJ9ZlSQ9ZbWKjGdRwMnOmkTcu/view?usp=drive_link)
+* **[Virtual Presentation]**: Shouvik Ahmed Antu, Haiyan Cheng, Cindy K Roberts - Using LLM (Large Language Model) to Improve Efficiency for Literature Reviews in Undergraduate Research
+	- Talk Video@Youtube [Link](https://drive.google.com/file/d/1hfoUuERGZf-QZ1srvdkL4uLQR2BV6_JU/view?usp=drive_link)
 * **[Virtual Presentation]**: Katie Bainbridge, Candace Walkington, Armon Ibrahim, Iris Zhong, Debshila Basu Mallick, Julianna Washington, Richard Baraniuk - A Case Study using Large Language Models to Generate Metadata for Math Questions
 	- Talk Video@Youtube [Link](https://drive.google.com/file/d/1FE9eRTnRJ9ZlSQ9ZbWKjGdRwMnOmkTcu/view?usp=drive_link)
 * **[Virtual Presentation]**: Sai Gattupalli, Will Lee, Danielle Allessio, Danielle Crabtree, Ivon Arroyo, Beverly Woolf - Exploring Pre-Service Teachers' Perceptions of Large Language Models-Generated Hints in Online Mathematics Learning
 	- Talk Video@Youtube [Link](https://drive.google.com/file/d/1-wZncNs0A3Zo6opiBZVx5hEiw4bZ8o7g/view?usp=drive_link)
-* **[Virtual Presentation]**: Qianou(Christina) Ma, Sherry(Tongshuang) Wu, Ken Koedinger - Is LLM the Better Programming Partner?
+* **[Virtual Presentation]**: Qianou (Christina) Ma, Sherry (Tongshuang) Wu, Ken Koedinger - Is LLM the Better Programming Partner?
 	- Talk Video@Youtube [Link](https://drive.google.com/file/d/1sqFLJGAhsFOmbioFTubmUoEJOb70bRqh/view?usp=drive_link)
 
 
