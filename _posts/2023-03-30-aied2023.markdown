@@ -76,15 +76,6 @@ The  submissions will be curated into a proceedings that will be made available 
 
 This will be a hybrid workshop, offering participation for everyone both in-person and online via Zoom.
 
-## Tentative Schedule
-
-* Introductions (9:00 - 9:30)
-* Invited speakers (9:30 - 10:30)
-* Round-table Discussion (10:30 - 11:30)
-* Hackathon-Introduction & Brainstorming (11:30 - 12:00)
-* Lunch (12:00 - 13:00)
-* Mini-Hackathon (13:00 - 14:00)
-* Paper presentations (14:00 - 16:00)
 
 
 ## Important Dates
