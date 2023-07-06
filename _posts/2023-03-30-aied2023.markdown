@@ -16,9 +16,12 @@ This hybrid workshop aims to bring together researchers and practitioners from a
 ## Workshop Schedule
 
 * Introductions (9:00 - 9:30)
-* Invited speakers (9:30 - 10:40)
-* Coffee Break (10:40 - 11:00)
-* Round-table Discussion (11:00 - 11:30)
+* Invited speakers (9:30 - 10:30)
+	* Bor-Chen Kuo
+	* Zachary Pardos
+* Round-table Discussion (10:30 - 11:15)
+* Invited speakers (11:15 - 11:30)
+	* Neil Heffernan
 * Onsite Paper Presentations (11:30 - 12:45) 
 	* 11:30 - 11:45 **[Paper Presentation]**: Muntasir Hoq, Yang Shi, Juho Leinonen, Damilola Babalola, Collin Lynch, Thomas Price and Bita Akram - Detecting ChatGPT-Generated Code in a CS1 Course 
 		- Paper PDF [Link](https://drive.google.com/file/d/1eVfGgatxPHkPZTdH3HgyKhssz83kH8BH/view?usp=drive_link)
