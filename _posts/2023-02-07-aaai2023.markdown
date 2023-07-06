@@ -99,7 +99,7 @@ The AI4Edu workshop is co-located with the main AAAI 2023 conference in Washingt
 	* Talk Video@Youtube [Link](https://youtu.be/wGViyZ3PJag)
 	* Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV1g8411M7TN/)
 * 16:00 - 16:10 **[Paper Presentation]** Xiaofei Zhou, Hanjia Lyu, Jiebo Luo and Zhen Bai. [ML-SD Modeling: How Machine Learning Can Support Scientific Discovery Learning for K-12 STEM Education](#ml-sd-modeling-how-machine-learning-can-support-scientific-discovery-learning-for-k-12-stem-education)
-	* Paper PDF [Link](https://drive.google.com/file/d/1ptEtvt0-g7G0qcJEpiNKgmQqbIqTPZpH/view?usp=share_link)
+	* Paper PDF [Link](https://drive.google.com/file/d/19dzEgGoi5jMSLkJbENyJh_ljuoN7hRyX/view?usp=sharing)
 	* Talk Video@Youtube [Link](https://youtu.be/Si0MNht59_M)
 	* Talk Video@Bilibili [Link](https://www.bilibili.com/video/BV1aM411P7em/)
 * 16:10 - 16:20 **[Paper Presentation]** Vishesh Kalvakurthi, Aparna Varde and John Jenq. [Hey Dona! Can you help me with student course registration?](#hey-dona!-can-you-help-me-with-student-course-registration)
