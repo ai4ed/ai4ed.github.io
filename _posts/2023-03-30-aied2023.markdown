@@ -16,9 +16,12 @@ This hybrid workshop aims to bring together researchers and practitioners from a
 ## Workshop Schedule
 
 * Introductions (9:00 - 9:30)
-* Invited speakers (9:30 - 10:40)
-* Coffee Break (10:40 - 11:00)
-* Round-table Discussion (11:00 - 11:30)
+* Invited speakers (9:30 - 10:30)
+	* Bor-Chen Kuo
+	* Zachary Pardos
+* Round-table Discussion (10:30 - 11:15)
+* Invited speaker (11:15 - 11:30)
+	* Neil Heffernan
 * Onsite Paper Presentations (11:30 - 12:45) 
 	* 11:30 - 11:45 **[Paper Presentation]**: Muntasir Hoq, Yang Shi, Juho Leinonen, Damilola Babalola, Collin Lynch and Bita Akram - Detecting ChatGPT-Generated Code in a CS1 Course 
 		- Paper PDF [Link](https://drive.google.com/file/d/1eVfGgatxPHkPZTdH3HgyKhssz83kH8BH/view?usp=drive_link)
@@ -31,10 +34,10 @@ This hybrid workshop aims to bring together researchers and practitioners from a
 	* 12:30 - 12:45 **[Paper Presentation]**: Bor-Chen Kuo, Frederic Chang and Zong-En Bai - Leveraging LLMs for Adaptive Testing and Learning in Taiwan Adaptive Learning Platform (TALP) 
 		- Paper PDF [Link](https://drive.google.com/file/d/1XKFRvTmu4dOHcZvFmbChdN0tC0mUjJiY/view?usp=drive_link)
 * Lunch (12:45 - 13:30)
-* Onsite Paper presentations (13:30 - 14:45): 
-	* 13:30 - 13:45 **[Paper Presentation]**: Andrew Oleny - Generating multiple choice questions from a textbook: LLMs match human performance on most metrics 
+* Onsite Paper presentations (13:30 - 14:45)
+	* 13:30 - 13:45 **[Paper Presentation]**: Andrew Oleny - Generating Multiple Choice Questions from A Textbook: LLMs Match Human Performance on Most Metrics 
 		- Paper PDF [Link](https://drive.google.com/file/d/18swn5plXyQlBlxRnA-tvRkQSMd3PELEl/view?usp=drive_link)
-	* 13:45 - 14:00 **[Paper Presentation]**: Daniel Leiker, Sara Finnigan, Ashley Ricker Gyllen and Mutlu Cukurova - Prototyping the use of Large Language Models (LLMs) for adult learning content creation at scale
+	* 13:45 - 14:00 **[Paper Presentation]**: Daniel Leiker, Sara Finnigan, Ashley Ricker Gyllen and Mutlu Cukurova - Prototyping the Use of Large Language Models (LLMs) for Adult Learning Content Creation at Scale
 		- Paper PDF [Link](https://drive.google.com/file/d/1jldYQaiRDBllQHrQhZJ5Zgyus3ZGXTBF/view?usp=drive_link)
 	* 14:00 - 14:15 **[Paper Presentation]**: Alex Goslen, Yeo Jin Kim, Jonathan Rowe and James Lester - Language Modeling for Plan Generation in Game-Base Learning Environments
 		- Paper PDF [Link](https://drive.google.com/file/d/1eQ8Ek6CB8MY8bpioWoAt2m12qpf2U96j/view?usp=drive_link)
@@ -50,10 +53,20 @@ This hybrid workshop aims to bring together researchers and practitioners from a
 ### Virtual Presentation (Pre-recorded Video) Schedule
 
 
-* **[Virtual Presentation]**: author - paper_title
-	- Talk Video@Youtube [Link](https://xxx)
-* **[Virtual Presentation]**: author - paper_title
-	- Talk Video@Youtube [Link](https://xxx)
+* **[Virtual Presentation]**: Shashank Sonkar, Richard Baraniuk - DUPEd GPT: Can GPT do Knowledge Tracing?
+	- Talk Video@Youtube [Link](https://drive.google.com/file/d/1gUR9rA9D_Xy_TBRX6hV4-NXn5EwFL0L5/view?usp=drive_link)
+* **[Virtual Presentation]**: Pragnya Sridhar, Aidan Doyle, Arav Agarwal, Christopher Bogart, Jaromir Savelka, Majd Sakr - Harnessing LLMs in Curricular Design: Using GPT-4 to Support Authoring of Learning Objectives
+	- Talk Video@Youtube [Link](https://drive.google.com/file/d/1QaUK1CDAKkLZwV9WpSDXeV5lb2gvFxT-/view?usp=drive_link)
+* **[Virtual Presentation]**: Md Rayhan Kabir, Fuhua (Oscar) Lin - An LLM-Powered Adaptive Practicing System
+	- Talk Video@Youtube [Link](https://drive.google.com/file/d/1SDyr1IohN3ZN9-qgBXkYtjFf3nHxIG_C/view?usp=drive_link)
+* **[Virtual Presentation]**: Shouvik Ahmed Antu, Haiyan Cheng, Cindy K Roberts - Using LLM (Large Language Model) to Improve Efficiency for Literature Reviews in Undergraduate Research
+	- Talk Video@Youtube [Link](https://drive.google.com/file/d/1hfoUuERGZf-QZ1srvdkL4uLQR2BV6_JU/view?usp=drive_link)
+* **[Virtual Presentation]**: Katie Bainbridge, Candace Walkington, Armon Ibrahim, Iris Zhong, Debshila Basu Mallick, Julianna Washington, Richard Baraniuk - A Case Study using Large Language Models to Generate Metadata for Math Questions
+	- Talk Video@Youtube [Link](https://drive.google.com/file/d/1FE9eRTnRJ9ZlSQ9ZbWKjGdRwMnOmkTcu/view?usp=drive_link)
+* **[Virtual Presentation]**: Sai Gattupalli, Will Lee, Danielle Allessio, Danielle Crabtree, Ivon Arroyo, Beverly Woolf - Exploring Pre-Service Teachers' Perceptions of Large Language Models-Generated Hints in Online Mathematics Learning
+	- Talk Video@Youtube [Link](https://drive.google.com/file/d/1-wZncNs0A3Zo6opiBZVx5hEiw4bZ8o7g/view?usp=drive_link)
+* **[Virtual Presentation]**: Qianou (Christina) Ma, Sherry (Tongshuang) Wu, Ken Koedinger - Is LLM the Better Programming Partner?
+	- Talk Video@Youtube [Link](https://drive.google.com/file/d/1sqFLJGAhsFOmbioFTubmUoEJOb70bRqh/view?usp=drive_link)
 
 
 ## PC Members
