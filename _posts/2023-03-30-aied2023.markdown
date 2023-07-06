@@ -20,7 +20,7 @@ This hybrid workshop aims to bring together researchers and practitioners from a
 	* Bor-Chen Kuo
 	* Zachary Pardos
 * Round-table Discussion (10:30 - 11:15)
-* Invited speakers (11:15 - 11:30)
+* Invited speaker (11:15 - 11:30)
 	* Neil Heffernan
 * Onsite Paper Presentations (11:30 - 12:45) 
 	* 11:30 - 11:45 **[Paper Presentation]**: Muntasir Hoq, Yang Shi, Juho Leinonen, Damilola Babalola, Collin Lynch, Thomas Price and Bita Akram - Detecting ChatGPT-Generated Code in a CS1 Course 
@@ -34,7 +34,7 @@ This hybrid workshop aims to bring together researchers and practitioners from a
 	* 12:30 - 12:45 **[Paper Presentation]**: Bor-Chen Kuo, Frederic Chang and Zong-En Bai - Leveraging LLMs for Adaptive Testing and Learning in Taiwan Adaptive Learning Platform (TALP) 
 		- Paper PDF [Link](https://drive.google.com/file/d/1XKFRvTmu4dOHcZvFmbChdN0tC0mUjJiY/view?usp=drive_link)
 * Lunch (12:45 - 13:30)
-* Onsite Paper presentations (13:30 - 14:45): 
+* Onsite Paper presentations (13:30 - 14:45)
 	* 13:30 - 13:45 **[Paper Presentation]**: Andrew Oleny - Generating Multiple Choice Questions from A Textbook: LLMs Match Human Performance on Most Metrics 
 		- Paper PDF [Link](https://drive.google.com/file/d/18swn5plXyQlBlxRnA-tvRkQSMd3PELEl/view?usp=drive_link)
 	* 13:45 - 14:00 **[Paper Presentation]**: Daniel Leiker, Sara Finnigan, Ashley Ricker Gyllen and Mutlu Cukurova - Prototyping the Use of Large Language Models (LLMs) for Adult Learning Content Creation at Scale
