@@ -4,7 +4,7 @@ title:  AIED2023 Empowering Education with LLMs - the Next-Gen Interface and Con
 date:   2023-07-07 10:00:00
 image:  '/images/aied2023.jpg'
 tags:   [Workshop, AIED]
-featured: true
+featured: false
 category: workshops
 ---
 
