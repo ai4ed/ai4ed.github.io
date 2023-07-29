@@ -130,7 +130,8 @@ This will be a hybrid workshop, offering participation for everyone both in-pers
 
 * **Steven Moore** (main contact), Carnegie Mellon University, USA
 * **Richard Tong** (main contact), Carnegie Learning, USA
-* **Zitao Liu**, Guangdong Institute of Smart Education, Jinan University, China
+<!-- * **Zitao Liu**, Guangdong Institute of Smart Education, Jinan University, China -->
+* **Zitao Liu**, TAL Education Group, China
 * **Xiangen Hu**, The University of Memphis, USA
 * **Yu Lu**, Beijing Normal University, China
 * **Joleen Liang**, Squirrel AI Learning, China
