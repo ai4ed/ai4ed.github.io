@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  AIED2023 Empowering Education with LLMs - the Next-Gen Interface and Content Generation
-date:   2023-03-30 10:00:00
+date:   2023-07-07 10:00:00
 image:  '/images/aied2023.jpg'
 tags:   [Workshop, AIED]
-featured: true
+featured: false
 category: workshops
 ---
 
@@ -23,7 +23,7 @@ This hybrid workshop aims to bring together researchers and practitioners from a
 * Invited speaker (11:15 - 11:30)
 	* Neil Heffernan
 * Onsite Paper Presentations (11:30 - 12:45) 
-	* 11:30 - 11:45 **[Paper Presentation]**: Muntasir Hoq, Yang Shi, Juho Leinonen, Damilola Babalola, Collin Lynch, Thomas Price and Bita Akram - Detecting ChatGPT-Generated Code in a CS1 Course 
+	* 11:30 - 11:45 **[Paper Presentation]**: Muntasir Hoq, Yang Shi, Juho Leinonen, Damilola Babalola, Collin Lynch and Bita Akram - Detecting ChatGPT-Generated Code in a CS1 Course 
 		- Paper PDF [Link](https://drive.google.com/file/d/1eVfGgatxPHkPZTdH3HgyKhssz83kH8BH/view?usp=drive_link)
 	* 11:45 - 12:00 **[Paper Presentation]**: Andrew Caines, Luca Benedetto, Shiva Taslimipoor, Christopher Davis, Yuan Gao, Øistein Andersen, Zheng Yuan, Mark Elliott, Russell Moore, Christopher Bryant, Marek Rei, Andrew Mullooly, Diane Nicholls and Paula Buttery - On the application of Large Language Models for language teaching and assessment technology
 		- Paper PDF [Link](https://drive.google.com/file/d/1CkzEqGb62tnz5mlulxbcHyil4SEaaXLl/view?usp=drive_link)
@@ -130,7 +130,8 @@ This will be a hybrid workshop, offering participation for everyone both in-pers
 
 * **Steven Moore** (main contact), Carnegie Mellon University, USA
 * **Richard Tong** (main contact), Carnegie Learning, USA
-* **Zitao Liu**, Guangdong Institute of Smart Education, Jinan University, China
+<!-- * **Zitao Liu**, Guangdong Institute of Smart Education, Jinan University, China -->
+* **Zitao Liu**, TAL Education Group, China
 * **Xiangen Hu**, The University of Memphis, USA
 * **Yu Lu**, Beijing Normal University, China
 * **Joleen Liang**, Squirrel AI Learning, China
