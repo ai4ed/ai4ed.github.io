@@ -31,8 +31,8 @@ Multimodal Reasoning is an emerging research area that aims to enable intelligen
   - Yonggang Luo
 - Touch Sensing and Multimodal Reasoning for The Future (14:00 - 14:30)
   - Deli Wang
-- Paper1 (14:30 - 14:45)
-- Paper2 (14:45 - 15:00)
+- Paper1 (14:30 - 14:45) Multimodal Reasoning and Language Prompting for Interactive Learning Assistant for Robotic Surgery. Gokul Kannan, Lalithkumar Seenivasan, Hongliang Ren.
+- Paper2 (14:45 - 15:00) Behavior Cognition Association Analysis with Heterogeneous Multimodal Causal Inference. Shuang Wu, Yingwei Zhang, Yiqiang Chen. 
 - Paper3 (15:00 - 15:15)
 - Paper4 (15:15 - 15:30)
 - Afternoon Break (15:30 - 16:00)
