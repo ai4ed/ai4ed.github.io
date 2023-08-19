@@ -16,33 +16,31 @@ Multimodal Reasoning is an emerging research area that aims to enable intelligen
 
 - Zoom Host Login (07:30 - 08:30)
 - Opening Remarks (08:30 - 09:00)
-- [Federated Learning for Multi-Center Collaboration Healthcare](#federated-learning-for-multi-center-collaboration-healthcare) (09:00 - 09:30)
+- [FedMMR: towards large scale multitask learning model](#fedmmr-towards-large-scale-multitask-learning-model) (09:00 - 09:30)
   - Yiqiang Chen
-- [Game Theory and Machine Learning for Addressing Societal Challenges: From Theory to Real-World Impact](#game-theory-and-machine-learning-for-addressing-societal-challenges-from-theory-to-real-world-impact) (09:30 - 10:00)
+- [Multimodal Reasoning with Multi-agent Game Theory](#multimodal-reasoning-with-multi-agent-game-theory) (09:30 - 10:00)
   - Fei Fang
 - [LLM Applied to education - Institutions and Applications](#llm-applied-to-education---institutions-and-applications) (10:00 - 11:00)
-  - Richard Tong, Joleen Liang, Jerry Liu, Xiangen Hu, Julia Chen
+  - Richard Tong, Joleen Liang, Xiangen Hu, Julia Chen
 - [Cross-Modal Reasoning for Visual Question Answering and Visual Dialogue](#cross-modal-reasoning-for-visual-question-answering-and-visual-dialogue) (11:00 - 11:30)
   - Zengchang Qin
-- [Promoting interactions between cognitive science and large language models](#promoting-interactions-between-cognitive-science-and-large-language-models) (11:30 - 12:00)
+- [Multimodal Measurement Framework](#multimodal-measurement-framework) (11:30 - 12:00)
   - Quanying Liu
 - Lunch Break (12:00 - 13:30)
-- [Exploring Innovations in Applying LLMs to Automotive Service-oriented Scenarios](#exploring-innovations-in-applying-llms-to-automotive-service-oriented-scenarios) (13:30 - 14:00)
+- [Automotive Multimodal Reasoning ](#automotive-multimodal-reasoning) (13:30 - 14:00)
   - Yonggang Luo
 - [Touch Sensing and Multimodal Reasoning for The Future](#touch-sensing-and-multimodal-reasoning-for-the-future) (14:00 - 14:30)
   - Deli Wang
 - Paper1 (14:30 - 14:45) Multimodal Reasoning and Language Prompting for Interactive Learning Assistant for Robotic Surgery. Gokul Kannan, Lalithkumar Seenivasan, Hongliang Ren.
 - Paper2 (14:45 - 15:00) Behavior Cognition Association Analysis with Heterogeneous Multimodal Causal Inference. Shuang Wu, Yingwei Zhang, Yiqiang Chen.
-- Paper3 (15:00 - 15:15)
-- Paper4 (15:15 - 15:30)
-- Afternoon Break (15:30 - 16:00)
+- Afternoon Break (15:00 - 16:00)
 - Hackathon (16:00 - 16:30)
 - Hackathon Demo (16:30 - 17:00)
 - Final Remarks (17:00 - 17:10)
 
 ## Program Details
 
-> ### Federated Learning for Multi-Center Collaboration Healthcare
+> ### FedMMR: towards large scale multitask learning model
 >
 > <cite>Yiqiang Chen</cite>
 
@@ -53,7 +51,7 @@ Bio: Dr. Chen Yiqiang is professor at the Institute of Computing Technology, Chi
 
 {% endhighlight %}
 
-### Game Theory and Machine Learning for Addressing Societal Challenges: From Theory to Real-World Impact
+### Multimodal Reasoning with Multi-agent Game Theory
 
 > <cite>Fei Fang</cite>
 
@@ -66,19 +64,23 @@ Bio: Fei Fang is an Associate Professor at the Software and Societal Systems Dep
 
 ### LLM Applied to education - Institutions and Applications
 
-Richard Tong, Joleen Liang, Jerry Liu, Xiangen Hu, Julia Chen
+<!-- Richard Tong, Joleen Liang, Xiangen Hu, Julia Chen -->
 
 > <cite>Richard Tong</cite>
 
 {% highlight html %}
-Bio: xxx
+Bio: Richard Tong is a principal architect at Carnegie Learning and an experienced technologist, researcher, and evangelist for standardization in the field of artificial intelligence and learning technologies. He is an industry-recognized R&D leader for AI products and services, having architected one of the largest adaptive learning platforms in the world. His research and development effort focuses on neural-symbolic cognitive architecture for AI systems, human-in-the-loop AI, trustworthy AI, agent-based architecture for software engineering, and multimodal reasoning and multitask continuous learning. He also serves as the Chair of the IEEE Artificial Intelligence Standards Committee. He will co-chair the 2024 IEEE Conference on Artificial Intelligence - Education Vertical Track (https://ieeecai.org/2024/verticals/) in Singapore on June 25-27, 2024.
 
 {% endhighlight %}
 
 > <cite>Joleen Liang</cite>
 
 {% highlight html %}
-Bio: xxx
+Bio: Dr. Joleen Liang, Co-Founder of Squirrel Ai Learning, Ph.D in Intelligent Science and Systems at Macau University of Science and Technology. Visiting Professor at the Research Institute for Innovation and Technology in Education (UNIR iTED). Founder/Director of AI+Adaptive Education International Conference (AIAED) .
+
+Joleen has spoken at World Summit AI together with Yoshua Bengio and Stefania Giannini, Assistant Director General for Education,UNESCO. Joleen was also invited to speak at IJCAI, ACM KDD, ACM UMAP, Tsinghua University, New York University Shanghai, Harvard University Education Dept., Slush, TechCrunch, UBS Investor Conference, SFT, Global Smart Education Summit, BETT and other domestic and international summits, and interviewed by Bloomberg and other media.
+
+Joleen has been researched on areas in AI adaptive learning, Intelligent education with LLM, Multimodal learning analytics, and etc and have published papers at different conferences and journals. She has led the promotion of smart education public school project and AI Intelligent hardware, which has served 60,000+ full-time primary and secondary schools nationwide. The company Squirrel Ai has brought AI intelligent learning systems/hardwares to more than 20 million users. In 2020, Joleen and Squirrel Ai was honored ‘AI Education Innovation Award’ by UNESCO. Squirrel Ai’s case study in online learning was published in UNESCO reports.
 
 {% endhighlight %}
 
@@ -107,7 +109,7 @@ Bio: Zengchang Qin is a professor in the School of Automation Science and Electr
 
 {% endhighlight %}
 
-### Promoting interactions between cognitive science and large language models
+### Multimodal Measurement Framework
 
 > <cite>Quanying Liu</cite>
 
@@ -118,7 +120,7 @@ Bio: Dr. Quanying Liu is an assistant professor in Department of Biomedical Engi
 
 {% endhighlight %}
 
-### Exploring Innovations in Applying LLMs to Automotive Service-oriented Scenarios
+### Automotive Multimodal Reasoning
 
 > <cite>Yonggang Luo</cite>
 
