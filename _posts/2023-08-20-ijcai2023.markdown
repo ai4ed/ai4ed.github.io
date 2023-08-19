@@ -20,8 +20,8 @@ Multimodal Reasoning is an emerging research area that aims to enable intelligen
   - Yiqiang Chen
 - [Multimodal Reasoning with Multi-agent Game Theory](#multimodal-reasoning-with-multi-agent-game-theory) (09:30 - 10:00)
   - Fei Fang
-- [LLM Applied to education - Institutions and Applications](#llm-applied-to-education---institutions-and-applications) (10:00 - 11:00)
-  - Richard Tong, Joleen Liang, Xiangen Hu, Julia Chen
+- [MMR-LLM Applied to education](#mmr-llm-applied-to-education) (10:00 - 11:00)
+  - Richard Tong, Joleen Liang, Xiangen Hu
 - [Cross-Modal Reasoning for Visual Question Answering and Visual Dialogue](#cross-modal-reasoning-for-visual-question-answering-and-visual-dialogue) (11:00 - 11:30)
   - Zengchang Qin
 - [Multimodal Measurement Framework](#multimodal-measurement-framework) (11:30 - 12:00)
@@ -62,7 +62,7 @@ Bio: Fei Fang is an Associate Professor at the Software and Societal Systems Dep
 
 {% endhighlight %}
 
-### LLM Applied to education - Institutions and Applications
+### MMR-LLM Applied to education
 
 <!-- Richard Tong, Joleen Liang, Xiangen Hu, Julia Chen -->
 
@@ -87,14 +87,9 @@ Joleen has been researched on areas in AI adaptive learning, Intelligent educati
 > <cite>Xiangen Hu</cite>
 
 {% highlight html %}
-Bio: xxx
+Bio: Dr. Xiangen Hu is a professor in the Department of Psychology, Department of Electrical and Computer Engineering and Computer Science Department at The University of Memphis (UofM) and senior researcher at the Institute for Intelligent Systems (IIS) at the UofM and is professor and Dean of the School of Psychology at Central China Normal University (CCNU). Dr. Hu received his MS in applied mathematics from Huazhong University of Science and Technology, MA in social sciences and Ph.D. in Cognitive Sciences from the University of California, Irvine. Dr. Hu is the Director of Advanced Distributed Learning (ADL) Partnership Laboratory at the UofM, and is a senior researcher in the Chinese Ministry of Education’s Key Laboratory of Adolescent Cyberpsychology and Behavior.
 
-{% endhighlight %}
-
-> <cite>Julia Chen</cite>
-
-{% highlight html %}
-Bio: xxx
+Dr. Hu's primary research areas include Mathematical Psychology, Research Design and Statistics, and Cognitive Psychology. More specific research interests include General Processing Tree (GPT) models, categorical data analysis, knowledge representation, computerized tutoring, and advanced distributed learning. Dr. Hu has received funding for the above research from the US National Science Foundation (NSF), US Institute of Education Sciences (IES), ADL of the US Department of Defense (DoD), US Army Medical Research Acquisition Activity (USAMRAA), US Army Research Laboratories (ARL), US Office of Naval Research (ONR), UofM, and CCNU.
 
 {% endhighlight %}
 
