@@ -1,14 +1,14 @@
 ---
 layout: post
-title: IJCAI2023 Symposium on Multimodal Reasoning with LLM
-date: 2023-08-20 10:00:00
-image: "/images/ijcai2023.jpg"
-tags: [Symposium, IJCAI]
-featured: false
-category: symposiums
+title: AAAI2024 Workshop on AI for Education - Bridging Innovation and Responsibility
+date: 2024-02-26 10:00:00
+image: "/images/aaai2024.jpg"
+tags: [Workshop, AAAI]
+featured: true
+category: workshops
 ---
 
-## Overview
+<!-- ## Overview
 
 Multimodal Reasoning is an emerging research area that aims to enable intelligent systems to reason and learn from information obtained from various modalities, such as language, images, videos, and sensor data. This symposium focuses on exploring different aspects of multimodal reasoning, including combining multimodal learners, language models, and attention mechanisms, evaluating the effectiveness of transfer learning and pre-training in multimodal reasoning, and examining the impact of data augmentation techniques. Additionally, we will explore how multimodal reasoning can be used to improve educational outcomes, healthcare outcomes, and other information processing tasks.
 
@@ -81,10 +81,9 @@ Submission website: [https://easychair.org/my/conference?conf=ijcai2023multireas
 
 ## Organizers
 
-<!-- ![Beautiful place]({{site.baseurl}}/images/aaai2022_symposium_organizers.jpg) -->
 
 - **Richard Tong** IEEE AISC Chair, USA
 - **Yiqiang Chen** Institute of Computing Technology, Chinese Academy of Sciences, China
 - **Zitao Liu** Guangdong Institute of Smart Education, Jinan University, China
 - **Joleen Liang** Squirrel AI Learning, China
-- **Jiahao Chen** TAL Education Group, China
+- **Jiahao Chen** TAL Education Group, China -->
