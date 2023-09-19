@@ -16,29 +16,127 @@ Multimodal Reasoning is an emerging research area that aims to enable intelligen
 
 - Zoom Host Login (07:30 - 08:30)
 - Opening Remarks (08:30 - 09:00)
-- FedMMR: towards large scale multitask learning model (09:00 - 09:30)
+- [FedMMR: towards large scale multitask learning model](#fedmmr-towards-large-scale-multitask-learning-model) (09:00 - 09:30)
   - Yiqiang Chen
-- Multimodal Reasoning with Multi-agent Game Theory (09:30 - 10:00)
+- [Multimodal Reasoning with Multi-agent Game Theory](#multimodal-reasoning-with-multi-agent-game-theory) (09:30 - 10:00)
   - Fei Fang
-- LLM Applied to education - Institutions and Applications (10:00 - 11:00)
-  - Richard Tong, Joleen Liang, Jerry Liu, Xiangen Hu, Julia Chen
-- Cross-Modal Reasoning for Visual Question Answering and Visual Dialogue (11:00 - 11:30)
+- [MMR-LLM Applied to education](#mmr-llm-applied-to-education) (10:00 - 11:00)
+  - Richard Tong, Joleen Liang, Xiangen Hu
+- [Cross-Modal Reasoning for Visual Question Answering and Visual Dialogue](#cross-modal-reasoning-for-visual-question-answering-and-visual-dialogue) (11:00 - 11:30)
   - Zengchang Qin
-- Multimodal Measurement Framework (11:30 - 12:00)
+- [Multimodal Measurement Framework](#multimodal-measurement-framework) (11:30 - 12:00)
   - Quanying Liu
 - Lunch Break (12:00 - 13:30)
-- Automotive Multimodal Reasoning (13:30 - 14:00)
+- [Automotive Multimodal Reasoning ](#automotive-multimodal-reasoning) (13:30 - 14:00)
   - Yonggang Luo
-- Touch Sensing and Multimodal Reasoning for The Future (14:00 - 14:30)
+- [Touch Sensing and Multimodal Reasoning for The Future](#touch-sensing-and-multimodal-reasoning-for-the-future) (14:00 - 14:30)
   - Deli Wang
 - Paper1 (14:30 - 14:45) Multimodal Reasoning and Language Prompting for Interactive Learning Assistant for Robotic Surgery. Gokul Kannan, Lalithkumar Seenivasan, Hongliang Ren.
-- Paper2 (14:45 - 15:00) Behavior Cognition Association Analysis with Heterogeneous Multimodal Causal Inference. Shuang Wu, Yingwei Zhang, Yiqiang Chen. 
-- Paper3 (15:00 - 15:15)
-- Paper4 (15:15 - 15:30)
-- Afternoon Break (15:30 - 16:00)
+- Paper2 (14:45 - 15:00) Behavior Cognition Association Analysis with Heterogeneous Multimodal Causal Inference. Shuang Wu, Yingwei Zhang, Yiqiang Chen.
+- Paper3 (15:00 - 15:15) Elucidating STEM Concepts through Generative AI: A Multi-modal Exploration of Analogical Reasoning. Chen Cao, Zijian Ding, Gyeong-Geon Lee, Jiajun Jiao, Jionghao Lin, Xioaming Zhai
+- Afternoon Break (15:00 - 16:00)
 - Hackathon (16:00 - 16:30)
 - Hackathon Demo (16:30 - 17:00)
 - Final Remarks (17:00 - 17:10)
+
+## Program Details
+
+> ### FedMMR: towards large scale multitask learning model
+>
+> <cite>Yiqiang Chen</cite>
+
+{% highlight html %}
+Abstract: Artificial intelligence has become a new computing paradigm in the field of healthcare, and the significant progress achieved in the application of artificial intelligence is due to the analysis and mining of massive, high-quality, and multi-center data resources. However, the contradiction between data privacy and shared use has become a major bottleneck in the development of intelligent healthcare. Federated learning adopts the idea of "data immobility and model mobility" to achieve the integration analysis and collaborative modeling of multi-center data under the conditions of "original data not leaving the domain and data availability but invisibility". This report will start from the challenges faced by multi-center collaboration healthcare, and introduce the basic principles, cutting-edge progress, as well as federated learning-based healthcare research platform and applications.
+
+Bio: Dr. Chen Yiqiang is professor at the Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS). Currently, he is the director of the Beijing Key Laboratory of Mobile Computing and Pervasive Device, a fellow of CCF, and a senior member of IEEE. He has been selected as the Leading Talent of Technological Innovation of “Ten-Thousands Talents”, the Young and Middle-aged Leading Innovative Talent in the Ministry of Science and Technology of China, and the New-Star of Science and Technology supported by Beijing Metropolis. He engages in the research of artificial intelligence and pervasive computing, especially multi-modal learning, federated learning and the application in the field of disease auxiliary diagnosis. He has about 200 publications in several top journals and conferences, including TKDE, IJHCS, AAAI, and IMWUT. His work on wearable and transfer learning was awarded the best paper of IJCAI-FL2020, 2022, GameNets 2014, PlatCon 2015, and ICCSE 2018. Moreover, His research achievements have won the second prize of the National Science and Technology Progress Award and the first prize of the 2017 China Computer Federation Technology Invention Award , and have successively won the second prize of the Beijing Science and Technology Progress Award. His research results have produced significant economic and social benefits: 1) The developed Digital Human Sign Language System was applied to more than 3000 deaf schools and the 2022 Winter Olympics. 2) The developed Federated Learning based Parkinson's Disease Early Warning System was applied in the Chinese Parkinson's Disease Alliance.
+
+{% endhighlight %}
+
+### Multimodal Reasoning with Multi-agent Game Theory
+
+> <cite>Fei Fang</cite>
+
+{% highlight html %}
+Abstract: Societal challenges spanning security, environmental sustainability, food security, and transportation often involve complex decision-making by multiple self-interested agents. In our research, we delve into the development of game theory and machine learning-based methodologies and tools to tackle these challenges, with a strong focus on contributing to the social good. In this talk, I will introduce our work that has led to successful applications in ferry protection, environmental conservation, and food rescue. Moreover, I will cover our foundational research in inverse game theory, scalable game solving, and interpretable multi-agent reinforcement learning. These advancements are motivated by the real-world problems we have been working on and enable us to tackle more complex decision-making scenarios in the future.
+
+Bio: Fei Fang is an Associate Professor at the Software and Societal Systems Department in the School of Computer Science at Carnegie Mellon University. Before joining CMU, she was a Postdoctoral Fellow at Harvard University. She received her Ph.D. from the Department of Computer Science at the University of Southern California. Her research lies in the field of artificial intelligence and multi-agent systems, focusing on integrating machine learning with game theory.
+
+{% endhighlight %}
+
+### MMR-LLM Applied to education
+
+<!-- Richard Tong, Joleen Liang, Xiangen Hu, Julia Chen -->
+
+> <cite>Richard Tong</cite>
+
+{% highlight html %}
+Bio: Richard Tong is a principal architect at Carnegie Learning and an experienced technologist, researcher, and evangelist for standardization in the field of artificial intelligence and learning technologies. He is an industry-recognized R&D leader for AI products and services, having architected one of the largest adaptive learning platforms in the world. His research and development effort focuses on neural-symbolic cognitive architecture for AI systems, human-in-the-loop AI, trustworthy AI, agent-based architecture for software engineering, and multimodal reasoning and multitask continuous learning. He also serves as the Chair of the IEEE Artificial Intelligence Standards Committee. He will co-chair the 2024 IEEE Conference on Artificial Intelligence - Education Vertical Track (https://ieeecai.org/2024/verticals/) in Singapore on June 25-27, 2024.
+
+{% endhighlight %}
+
+> <cite>Joleen Liang</cite>
+
+{% highlight html %}
+Bio: Dr. Joleen Liang, Co-Founder of Squirrel Ai Learning, Ph.D in Intelligent Science and Systems at Macau University of Science and Technology. Visiting Professor at the Research Institute for Innovation and Technology in Education (UNIR iTED). Founder/Director of AI+Adaptive Education International Conference (AIAED) .
+
+Joleen has spoken at World Summit AI together with Yoshua Bengio and Stefania Giannini, Assistant Director General for Education,UNESCO. Joleen was also invited to speak at IJCAI, ACM KDD, ACM UMAP, Tsinghua University, New York University Shanghai, Harvard University Education Dept., Slush, TechCrunch, UBS Investor Conference, SFT, Global Smart Education Summit, BETT and other domestic and international summits, and interviewed by Bloomberg and other media.
+
+Joleen has been researched on areas in AI adaptive learning, Intelligent education with LLM, Multimodal learning analytics, and etc and have published papers at different conferences and journals. She has led the promotion of smart education public school project and AI Intelligent hardware, which has served 60,000+ full-time primary and secondary schools nationwide. The company Squirrel Ai has brought AI intelligent learning systems/hardwares to more than 20 million users. In 2020, Joleen and Squirrel Ai was honored ‘AI Education Innovation Award’ by UNESCO. Squirrel Ai’s case study in online learning was published in UNESCO reports.
+
+{% endhighlight %}
+
+> <cite>Xiangen Hu</cite>
+
+{% highlight html %}
+Bio: Dr. Xiangen Hu is a professor in the Department of Psychology, Department of Electrical and Computer Engineering and Computer Science Department at The University of Memphis (UofM) and senior researcher at the Institute for Intelligent Systems (IIS) at the UofM and is professor and Dean of the School of Psychology at Central China Normal University (CCNU). Dr. Hu received his MS in applied mathematics from Huazhong University of Science and Technology, MA in social sciences and Ph.D. in Cognitive Sciences from the University of California, Irvine. Dr. Hu is the Director of Advanced Distributed Learning (ADL) Partnership Laboratory at the UofM, and is a senior researcher in the Chinese Ministry of Education’s Key Laboratory of Adolescent Cyberpsychology and Behavior.
+
+Dr. Hu's primary research areas include Mathematical Psychology, Research Design and Statistics, and Cognitive Psychology. More specific research interests include General Processing Tree (GPT) models, categorical data analysis, knowledge representation, computerized tutoring, and advanced distributed learning. Dr. Hu has received funding for the above research from the US National Science Foundation (NSF), US Institute of Education Sciences (IES), ADL of the US Department of Defense (DoD), US Army Medical Research Acquisition Activity (USAMRAA), US Army Research Laboratories (ARL), US Office of Naval Research (ONR), UofM, and CCNU.
+
+{% endhighlight %}
+
+> ### Cross-Modal Reasoning for Visual Question Answering and Visual Dialogue
+>
+> <cite>Zengchang Qin</cite>
+
+{% highlight html %}
+Abstract: In this talk, we are going to talk a series of our works in text modeling, image modeling and how to model cross correlations In visual question answering and visual dialogue. Graph neural networks are used to fuse information from learning and knowledge graph in both text and image modeling. Object relaitons can be captured using a graph neural network and cross-model attentions. Several models were proposed and demonstrated the effectiveness using benchmark data.
+
+Bio: Zengchang Qin is a professor in the School of Automation Science and Electrical Engineering at Beihang University. His research interests are machine learning, natural language understanding and multi-modal reasoning. He obtained his MSc and PhD degrees from the University of Bristol. He did his Post-doc research with Prof Lotfi Zadeh at Univeristy of California Berkeley. He was a visiting fellow at University of Oxford, and also a visiting scholar at Carnegie Mellon University. He has published two books by Springers and over 120 papers in AI journals and conferences including IJCAI, AAAI, ICML, ICCV, CVPR, EMNLP and ICASSP.
+
+{% endhighlight %}
+
+### Multimodal Measurement Framework
+
+> <cite>Quanying Liu</cite>
+
+{% highlight html %}
+Abstract: During the rapid evolution of large language models (LLMs), their abilities have grown significantly, leading to increased awareness of the world and themselves. Have LLMs acquired feelings, emotions, self-awareness, and free will? Would they contemplate suicide? Do they have an intention to lie to humans, or even to destroy humanity? As many LLMs have been trained, will they suffer from different mental diseases like humans? These concerns go beyond the scope of computer science, posing new challenges for the LLM community which require comprehensive evaluations of the intelligence and treatments of mental health for LLMs.
+
+Bio: Dr. Quanying Liu is an assistant professor in Department of Biomedical Engineering, PI of Neural Computing and Control lab (NCC lab) at Southern University of Science and Technology since 2019. She received the B.S. degree in electrical engineering at Lanzhou University, China, in 2010 and the M.S. degree in computer science at Lanzhou University, in 2013. After receiving her Ph.D. degree in biomedical engineering at ETH Zurich in 2017, she moved to the US as a postdoctoral fellow at CalTech. Quanying’s research interests are bridging human intelligence and artificial intelligence, and applying the advanced neuroimaging tools, AI models and control theory to solve the fundamental questions in the neuroscience field.
+
+{% endhighlight %}
+
+### Automotive Multimodal Reasoning
+
+> <cite>Yonggang Luo</cite>
+
+{% highlight html %}
+Abstract: Currently, LLMs are receiving significant attentions, including those from the automotive industry. This presentation will explore innovations in applying LLMs to automotive service scenarios, specifically focusing on Changan Automobile's service-oriented architecture. We will present the creation of multi-intention service models for in-vehicle usages based on LLMs' robust generalization capabilities. Alongside Changan's reconfigurable concept, we will discuss how the vehicle scenarios’tuned LLMs are utilized to achieve end-to-end service orchestration and execution. Furthermore, we'll highlight a type of prompt learning that integrates sensor signals to provide smart recommendations for the car functional related services. Finally, the construction of a service-oriented ecosystem for large scale models, unified by interface standards, will be introduced. The presentation will conclude with an overview of the vision for a standardized service-oriented ecosystem and its potential development directions with large scale multimodal models.
+
+Bio: Bachelor degree from Shandong University. PhD degree from Purdue University. Director of AI Lab at Changan Automobile.
+
+{% endhighlight %}
+
+### Touch Sensing and Multimodal Reasoning for The Future
+
+> <cite>Deli Wang</cite>
+
+{% highlight html %}
+Abstract: Artificial intelligence (AI) is changing the world! Current AI – either facial recognition or voice recognition – is based on one of our human intelligence/senses. However, we human perceive the world using five senses. In this talk, I will present some of touch related research we conducted at UCSD and NEEM Scientific, Inc., including the recording of replay touch elements, such as force/pressure. I will also illustrate the potential development of touch AI.
+
+Bio: Deli Wang received his B.S. degree from the University of Science and Technology of China (USTC) in Polymer Chemistry in 1990. From 1990 to 1996, Deli worked on organic nonlinear optical and electro-optic (EO) polymers at Changchun Institute of Applied Chemistry (CIAC), Chinese Academy of Sciences. He earned his Ph.D. in 2001 under the supervision of Prof. Alan Heeger at the Materials Department of University of California at Santa Barbara (UCSB) with dissertation on the fabrication of novel biosensors using organic light emitting polymers. He then conducted his postdoctoral research with Prof. Charles Lieber at Harvard University on semiconductor nanowires based nanoelectronics. From 2004 to 2014, Deli Wang worked at the University of California - San Diego (UCSD) as an assistant professor and tenured associate professor in the department of electrical and computer engineering. His research interests are on nanoscale electronics, optoelectronics, sensors, ionics-electronics interfacing, renewable energy, human sensing, etc. Since 2014, Deli has been working on research and product development of wearable sensors for digital health, touch sensing and replay technology, prosthetics, touch AI at NEEM Scientific Inc. Deli published about 80 peer-reviewed scientific articles with a total citation of > 22000, presented about 100 invited talks, held 10 patents.
+
+{% endhighlight %}
 
 ## Scope and Objectives
 
