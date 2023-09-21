@@ -268,3 +268,26 @@
     margin: 20px 0;
   }
 }
+
+.avatar-item {
+  h3 {
+    margin: 10px 0;
+    text-align: center;
+  }
+}
+
+.grid-custom {
+  display: grid;
+  grid-column-gap: 30px;
+  grid-row-gap: 30px;
+
+  &.grid-cols-2 {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  &.grid-cols-3 {
+    grid-template-columns: repeat(3, 1fr);
+  }
+  &.grid-cols-4 {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}

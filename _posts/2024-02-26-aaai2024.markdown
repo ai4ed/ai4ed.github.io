@@ -8,6 +8,76 @@ featured: true
 category: workshops
 ---
 
+<!-- Avatar list start -->
+
+# Three column example
+
+<div class="grid-custom grid-cols-3">
+  <div class="avatar-item">
+    <img src="{{site.baseurl}}/images/avatar-placeholder.png" alt="User Name" />
+    <h3>Title</h3>
+  </div>
+  <div class="avatar-item">
+    <img src="{{site.baseurl}}/images/avatar-placeholder.png" alt="User Name" />
+    <h3>Title</h3>
+  </div>
+  <div class="avatar-item">
+    <img src="{{site.baseurl}}/images/avatar-placeholder.png" alt="User Name" />
+    <h3>Title</h3>
+  </div>
+  <div class="avatar-item">
+    <img src="{{site.baseurl}}/images/avatar-placeholder.png" alt="User Name" />
+    <h3>Title</h3>
+  </div>
+  <div class="avatar-item">
+    <img src="{{site.baseurl}}/images/avatar-placeholder.png" alt="User Name" />
+    <h3>Title</h3>
+  </div>
+  <div class="avatar-item">
+    <img src="{{site.baseurl}}/images/avatar-placeholder.png" alt="User Name" />
+    <h3>Title</h3>
+  </div>
+</div>
+
+# Four column example
+
+<div class="grid-custom grid-cols-4">
+  <div class="avatar-item">
+    <img src="{{site.baseurl}}/images/avatar-placeholder.png" alt="User Name" />
+    <h3>Title</h3>
+  </div>
+  <div class="avatar-item">
+    <img src="{{site.baseurl}}/images/avatar-placeholder.png" alt="User Name" />
+    <h3>Title</h3>
+  </div>
+  <div class="avatar-item">
+    <img src="{{site.baseurl}}/images/avatar-placeholder.png" alt="User Name" />
+    <h3>Title</h3>
+  </div>
+  <div class="avatar-item">
+    <img src="{{site.baseurl}}/images/avatar-placeholder.png" alt="User Name" />
+    <h3>Title</h3>
+  </div>
+  <div class="avatar-item">
+    <img src="{{site.baseurl}}/images/avatar-placeholder.png" alt="User Name" />
+    <h3>Title</h3>
+  </div>
+  <div class="avatar-item">
+    <img src="{{site.baseurl}}/images/avatar-placeholder.png" alt="User Name" />
+    <h3>Title</h3>
+  </div>
+  <div class="avatar-item">
+    <img src="{{site.baseurl}}/images/avatar-placeholder.png" alt="User Name" />
+    <h3>Title</h3>
+  </div>
+  <div class="avatar-item">
+    <img src="{{site.baseurl}}/images/avatar-placeholder.png" alt="User Name" />
+    <h3>Title</h3>
+  </div>
+</div>
+
+<!-- /Avatar list end -->
+
 <!-- ## Overview
 
 Multimodal Reasoning is an emerging research area that aims to enable intelligent systems to reason and learn from information obtained from various modalities, such as language, images, videos, and sensor data. This symposium focuses on exploring different aspects of multimodal reasoning, including combining multimodal learners, language models, and attention mechanisms, evaluating the effectiveness of transfer learning and pre-training in multimodal reasoning, and examining the impact of data augmentation techniques. Additionally, we will explore how multimodal reasoning can be used to improve educational outcomes, healthcare outcomes, and other information processing tasks.
