@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  AAAI2024 Global Competition of Solving Math Problems using LLMs
+title:  AAAI2024 Global Competition on Math Problem Solving and Reasoning
 date:   2023-10-01 10:00:00
 image:  '/images/aaai2024competition.jpg'
 tags:   [Competition, AAAI]
