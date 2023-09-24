@@ -49,27 +49,27 @@ The evaluation results of this task are divided into public leaderboard results 
   - "qtype": The type of the question, with the value "short_answer" indicating that the question is a short answer question.
   - "problem": the question string to a math competition question.
   - "knowledge_point_routes": knowledge point route from coarse-grained to fine-grained.  
-  <pre>{
-     <span class="ag-soft-line-break"></span>	"dataset_version": "2023-07-07",
-     <span class="ag-soft-line-break"></span>	"queId": "05de5fa272834c0d91b4a9e60d3b9068",
-     <span class="ag-soft-line-break"></span>	"difficulty": "4",
-     <span class="ag-soft-line-break"></span>	"qtype": "short_answer",
-     <span class="ag-soft-line-break"></span>	"problem": "一枚均匀的硬币掷$$10$$次，从不接连出现正面的概率为$$\\frac{i}{j}$$（即约分数），求$$i+j$$．",
-     <span class="ag-soft-line-break"></span>	"knowledge_point_routes": ["竞赛-&gt;知识点-&gt;排列组合与概率-&gt;概率初步]"
-     <span class="ag-soft-line-break"></span>}
-     </pre>
+  <pre class="highlight"><code>{
+    "dataset_version": "2023-07-07",
+    "queId": "05de5fa272834c0d91b4a9e60d3b9068",
+    "difficulty": "4",
+    "qtype": "short_answer",
+    "problem": "一枚均匀的硬币掷$$10$$次，从不接连出现正面的概率为$$\\frac{i}{j}$$（即约分数），求$$i+j$$．",
+    "knowledge_point_routes": ["竞赛-&gt;知识点-&gt;排列组合与概率-&gt;概率初步"]
+  }
+  </code></pre> 
 <!-- **<span style="color:red">All the data files can be download at [https://forms.gle/3TT5VN9ZFnG3JXBPA](https://forms.gle/3TT5VN9ZFnG3JXBPA).</span>** -->
 - **tal_saq7k_cn_stage_2.jsonl:** This is a part of TAL-SAQ7K-CN used in the second stage of the evaluation, with the same fields and examples as above.
 - **tal_saq6k_en_stage_1.jsonl:** This is a part of TAL-SAQ6K-EN used in the first stage of the evaluation, with the same fields as above and examples as follows:
-    <pre>{
-    <span class="ag-soft-line-break"></span>	"dataset_version": "2023-07-07",
-    <span class="ag-soft-line-break"></span>	"queId": "17a4a261e09e46b188ed0705441570df",
-    <span class="ag-soft-line-break"></span>	"difficulty": "3",
-    <span class="ag-soft-line-break"></span>	"qtype": "short_answer",
-    <span class="ag-soft-line-break"></span>	"problem": "In a number sequence, the first integer is $$3$$, the second is $$10$$, and starting from the third integer, each integer is the sum of the two integers directly in front of it. What is the remainder when the $$1997^{\\text{th}}$$ integer is divided by $$3$$? ",
-    <span class="ag-soft-line-break"></span>	"knowledge_point_routes": ["Overseas Competition-&gt;Knowledge Point-&gt;Number Theory Modules-&gt;Remainder Problems-&gt;Questions involving Divisions with Remainders"]
-    <span class="ag-soft-line-break"></span>
-    } </pre>
+  <pre class="highlight"><code>{
+    "dataset_version": "2023-07-07",
+    "queId": "17a4a261e09e46b188ed0705441570df",
+    "difficulty": "3",
+    "qtype": "short_answer",
+    "problem": "In a number sequence, the first integer is $$3$$, the second is $$10$$, and starting from the third integer, each integer is the sum of the two integers directly in front of it. What is the remainder when the $$1997^{\\text{th}}$$ integer is divided by $$3$$? ",
+    "knowledge_point_routes": ["Overseas Competition-&gt;Knowledge Point-&gt;Number Theory Modules-&gt;Remainder Problems-&gt;Questions involving Divisions with Remainders"]
+  }
+  </code></pre> 
 - **tal_saq6k_en_stage_2.jsonl:** This is a part of TAL-SAQ6K-EN used in the second stage of the evaluation, with the same fields and examples as above.
 
 ### Baseline Results
