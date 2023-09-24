@@ -130,9 +130,9 @@ All deadlines are at 11:59 PM UTC on the corresponding day unless otherwise note
 Note: The top-3 teams should make their training and testing code publicly available for verification after the testing submission deadline.
 
 
-<!--## Sponsor-->
+## Sponsor
 
-<!--![Sponsor TAL Education Group]({{site.baseurl}}/images/aaai2024competition_sponsor.jpg) -->
+![Sponsor TAL Education Group]({{site.baseurl}}/images/aaai2024competition_sponsor.jpg) 
 
 
 ## Terms and Conditions
