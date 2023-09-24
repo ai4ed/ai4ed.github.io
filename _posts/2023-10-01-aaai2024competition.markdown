@@ -49,7 +49,6 @@ The evaluation results of this task are divided into public leaderboard results 
   - "qtype": The type of the question, with the value "short_answer" indicating that the question is a short answer question.
   - "problem": the question string to a math competition question.
   - "knowledge_point_routes": knowledge point route from coarse-grained to fine-grained.  
-   
   <pre>{
      <span class="ag-soft-line-break"></span>	"dataset_version": "2023-07-07",
      <span class="ag-soft-line-break"></span>	"queId": "05de5fa272834c0d91b4a9e60d3b9068",
@@ -60,11 +59,8 @@ The evaluation results of this task are divided into public leaderboard results 
      <span class="ag-soft-line-break"></span>}
      </pre>
 <!-- **<span style="color:red">All the data files can be download at [https://forms.gle/3TT5VN9ZFnG3JXBPA](https://forms.gle/3TT5VN9ZFnG3JXBPA).</span>** -->
-
 - **tal_saq7k_cn_stage_2.jsonl:** This is a part of TAL-SAQ7K-CN used in the second stage of the evaluation, with the same fields and examples as above.
-
 - **tal_saq6k_en_stage_1.jsonl:** This is a part of TAL-SAQ6K-EN used in the first stage of the evaluation, with the same fields as above and examples as follows:
-
     <pre>{
     <span class="ag-soft-line-break"></span>	"dataset_version": "2023-07-07",
     <span class="ag-soft-line-break"></span>	"queId": "17a4a261e09e46b188ed0705441570df",
@@ -74,7 +70,6 @@ The evaluation results of this task are divided into public leaderboard results 
     <span class="ag-soft-line-break"></span>	"knowledge_point_routes": ["Overseas Competition-&gt;Knowledge Point-&gt;Number Theory Modules-&gt;Remainder Problems-&gt;Questions involving Divisions with Remainders"]
     <span class="ag-soft-line-break"></span>
     } </pre>
-    
 - **tal_saq6k_en_stage_2.jsonl:** This is a part of TAL-SAQ6K-EN used in the second stage of the evaluation, with the same fields and examples as above.
 
 ### Baseline Results
@@ -111,14 +106,11 @@ We use Codabench to receive submission results, please submit your results at:
 - January 2, 2024 - Final competition results announced.-->
 
 - October 10, 2023 - Start Date.
-
 - December 31, 2023 - Final submission deadline.
-
 - January 10, 2024 - Final competition results announced.
-
 All deadlines are at 11:59 PM UTC on the corresponding day unless otherwise noted.The competition organizers reserve the right to update the contest timeline if they deem it necessary.
 
-<!--All deadlines are at 11:59 PM UTC on the corresponding day unless otherwise noted.The competition organizers reserve the right to update  -->the contest timeline if they deem it necessary.-->
+<!--All deadlines are at 11:59 PM UTC on the corresponding day unless otherwise noted.The competition organizers reserve the right to update the contest timeline if they deem it necessary.-->
 
 ## Award
 
