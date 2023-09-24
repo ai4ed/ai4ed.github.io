@@ -135,9 +135,9 @@ The rules of the competition are as follows:
 
 ## Organizers
 
-- **Liang Xu** TAL Education Group, China
-- **Jiong Zhao** TAL Education Group, China
-- **Zitao Liu** Guangdong Institute of Smart Education, Jinan University, China
+- **Liang Xu**, TAL Education Group, China
+- **Jiong Zhao**, TAL Education Group, China
+- **Zitao Liu**, Guangdong Institute of Smart Education, Jinan University, China
 - **Isabelle Guyon**, Google, USA
 - **Simon Woodhead**, EEDI, UK
 - **Panagiota Konstantinou**, EEDI, UK
