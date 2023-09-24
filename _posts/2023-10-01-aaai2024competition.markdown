@@ -12,11 +12,11 @@ category: competitions
 
 ## Background
 
-Mathematics has always been regarded as the touchstone of artificial intelligence. The ability to reason mathematically represents, to a certain extent, the level of intelligence of today's general artificial intelligence cognitive models. When large language models overcome their "innate defects" (such as lack of complex reasoning capabilities, inaccurate numerical calculations, etc.) and successfully cope with the challenges of mathematical reasoning, the world of artificial intelligence will enter a new era.
+Mathematics has always been regarded as the touchstone of artificial intelligence. The ability to reason mathematically represents, to a certain extent, the level of intelligence of today's general artificial intelligence cognitive models. When large language models overcome their "innate defects" (such as lack of complex reasoning capabilities, inaccurate numerical calculations, etc.) and successfully cope with the challenges of mathematical reasoning, **the world of artificial intelligence will enter a new era**.
 
 In this context, how to enhance the mathematical reasoning ability of large language models and break through the innate deficiencies of language models has become a focus of attention in the global artificial intelligence field. Therefore, we have decided to hold the AAAI2024 Global Mathematical Problem Solving and Reasoning Competition, inviting AI enthusiasts, experts, and developers from around the world with forward-looking perspectives and innovative spirits to explore and solve challenges in the field of mathematics using large language models. This is not only a competition, but also a platform for collaboration, communication, and sharing innovative ideas.
 
-This competition will bring us a brand new experience, allowing us to enjoy the fun of mathematics while appreciating the powerful capabilities of artificial intelligence. Let us witness together how AI solves challenging problems in new ways and paves new paths for the future.
+This competition will bring us a brand new experience, allowing us to enjoy the fun of mathematics while appreciating the powerful capabilities of artificial intelligence. **Let us witness together how AI solves challenging problems in new ways and paves new paths for the future**.
 
 ## Data & Task Description
 
@@ -74,7 +74,7 @@ The evaluation results of this task are divided into public leaderboard results 
 
 ### Baseline Results
 
-We provide three test baseline methods for this competition, which are GPT-3.5, GPT-4, and MathGPT. Their performance on the public leaderboard is as follows:
+We provide three test baseline methods for this competition, which are **GPT-3.5**, **GPT-4**, and **MathGPT**. Their performance on the public leaderboard is as follows:
 
 <!-- We have used pyKT to run **DKT** and **AKT** on the aforementioned training data and evaluate on our public test sets. All these approaches are purely trained with question/KC ids and student responses without any auxiliary information, such as question content. For the **Majority** model, we use the correct rate of each question in the training dataset to predict the test set. Details can reference our [codes](https://github.com/pykt-team/pykt-toolkit/tree/main/examples/competitions/aaai2024_competition). The results are used as baseline results for this competition:
 
