@@ -74,55 +74,41 @@ In this competition, we create both public and private leaderboards for better p
 
 - **tal_saq7k_cn_stage_2.jsonl:** This is a part of TAL-SAQ7K-CN used in the second stage of the evaluation, with the same fields and examples as above.
 - **tal_saq6k_en_stage_1.jsonl:** This is a part of TAL-SAQ6K-EN used in the first stage of the evaluation, with the same fields as above and examples as follows:
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>{
+
+```
+{
     "dataset_version": "2023-07-07",
     "queId": "17a4a261e09e46b188ed0705441570df",
     "difficulty": "3",
     "qtype": "short_answer",
     "problem": "In a number sequence, the first integer is $$3$$, the second is $$10$$, and starting from the third integer, each integer is the sum of the two integers directly in front of it. What is the remainder when the $$1997^{\\text{th}}$$ integer is divided by $$3$$? ",
     "knowledge_point_routes": ["Overseas Competition-&gt;Knowledge Point-&gt;Number Theory Modules-&gt;Remainder Problems-&gt;Questions involving Divisions with Remainders"]
-}</code></pre> </div></div>
+}
+```
 - **tal_saq6k_en_stage_2.jsonl:** This is a part of TAL-SAQ6K-EN used in the second stage of the evaluation, with the same fields and examples as above.
+
 
 ### Baseline Results
 
 We provide three test baseline methods for this competition, which are **GPT-3.5**, **GPT-4**, and **MathGPT**. Their performance on the public leaderboard is as follows:
 
-<!-- We have used pyKT to run **DKT** and **AKT** on the aforementioned training data and evaluate on our public test sets. All these approaches are purely trained with question/KC ids and student responses without any auxiliary information, such as question content. For the **Majority** model, we use the correct rate of each question in the training dataset to predict the test set. Details can reference our [codes](https://github.com/pykt-team/pykt-toolkit/tree/main/examples/competitions/aaai2024_competition). The results are used as baseline results for this competition:
-
-| Model      | Non-Accumulative | Accumulative     |
-| :---       |    :----:        |    :----:        |
-| DKT        | 0.6801           | 0.7086           |
-| AKT        | 0.7812           | 0.7692           |
-| Majority   | 0.7381           | -                |
-
-
-
-Practically, there are two different approaches, i.e., **accumulative prediction** and **non-accumulative prediction**. The accumulative prediction approach uses the last predicted values for the current prediction while the non-accumulative prediction predicts all future values all at once. Details are discussed in the pyKT paper [^11]. -->
-
-<!--### Instruction and Codes
-<!-- We provide easy to use codes and detailed instructions in [here](https://github.com/pykt-team/pykt-toolkit/tree/main/examples/competitions/aaai2024_competition). -->
-
-
 
 ### Submission Site
 
-<!-- We use codalab to receive submissions and please submit your results at [https://codalab.lisn.upsaclay.fr/competitions/8087](https://codalab.lisn.upsaclay.fr/competitions/8087). -->
+
 We use Codabench to receive submission results, please submit your results at: 
 
 
 ## Competition Schedule
 
-<!-- - November 17, 2022 - Start Date.
-- December 31, 2022 - Final submission deadline.
-- January 2, 2024 - Final competition results announced.-->
 
-- October 10, 2023 - Start Date.
+- October 10, 2023 - Start date.
 - December 31, 2023 - Final submission deadline.
 - January 10, 2024 - Final competition results announced.
+
 All deadlines are at 11:59 PM UTC on the corresponding day unless otherwise noted.The competition organizers reserve the right to update the contest timeline if they deem it necessary.
 
-<!--All deadlines are at 11:59 PM UTC on the corresponding day unless otherwise noted.The competition organizers reserve the right to update the contest timeline if they deem it necessary.-->
+
 
 ## Award
 
@@ -147,7 +133,7 @@ The rules of the competition are as follows:
 - For participants to be eligible for prizes, their code must be publicly available.
 
 
-## Organizers
+## Competition Organizers
 
 - **Liang Xu**, TAL Education Group, China
 - **Jiong Zhao**, TAL Education Group, China
@@ -155,6 +141,42 @@ The rules of the competition are as follows:
 - **Isabelle Guyon**, Google, USA
 - **Simon Woodhead**, EEDI, UK
 - **Panagiota Konstantinou**, EEDI, UK
+
+
+<div class="grid-custom grid-cols-4">
+  <div class="avatar-item">
+    <img src="{{site.baseurl}}/images/aaai2024competition/avatar-placeholder.png" alt="User Name" />
+    <h3>Liang Xu</h3><h3>TAL Education Group, China</h3>
+  </div>
+  <div class="avatar-item">
+    <img src="{{site.baseurl}}/images/aaai2024competition/avatar-placeholder.png" alt="User Name" />
+    <h3>Jiong Zhao</h3><h3>TAL Education Group, China</h3>
+  </div>
+  <div class="avatar-item">
+    <img src="{{site.baseurl}}/images/aaai2024competition/avatar-placeholder.png" alt="User Name" />
+    <h3>Title</h3>
+  </div>
+  <div class="avatar-item">
+    <img src="{{site.baseurl}}/images/aaai2024competition/avatar-placeholder.png" alt="User Name" />
+    <h3>Title</h3>
+  </div>
+  <div class="avatar-item">
+    <img src="{{site.baseurl}}/images/aaai2024competition/avatar-placeholder.png" alt="User Name" />
+    <h3>Title</h3>
+  </div>
+  <div class="avatar-item">
+    <img src="{{site.baseurl}}/images/aaai2024competition/avatar-placeholder.png" alt="User Name" />
+    <h3>Title</h3>
+  </div>
+  <div class="avatar-item">
+    <img src="{{site.baseurl}}/images/aaai2024competition/avatar-placeholder.png" alt="User Name" />
+    <h3>Title</h3>
+  </div>
+  <div class="avatar-item">
+    <img src="{{site.baseurl}}/images/aaai2024competition/avatar-placeholder.png" alt="User Name" />
+    <h3>Title</h3>
+  </div>
+</div>
 
 **Contact**: ai4ed-24@aaai.org
 
