@@ -146,7 +146,7 @@ The rules of the competition are as follows:
   </div>
   <div class="avatar-item">
     <img src="{{site.baseurl}}/images/aaai2024competition/avatar-placeholder.png" alt="User Name" />
-    <h3>Ying Zheng</h3><h3>Jinan University, China</h3>
+    <h3>Jiahao Chen</h3><h3>TAL Education Group, China</h3>
   </div>
   <div class="avatar-item">
     <img src="{{site.baseurl}}/images/aaai2024competition/avatar-placeholder.png" alt="User Name" />
