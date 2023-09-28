@@ -135,14 +135,6 @@ The rules of the competition are as follows:
 
 ## Competition Organizers
 
-- **Liang Xu**, TAL Education Group, China
-- **Jiong Zhao**, TAL Education Group, China
-- **Zitao Liu**, Guangdong Institute of Smart Education, Jinan University, China
-- **Isabelle Guyon**, Google, USA
-- **Simon Woodhead**, EEDI, UK
-- **Panagiota Konstantinou**, EEDI, UK
-
-
 <div class="grid-custom grid-cols-4">
   <div class="avatar-item">
     <img src="{{site.baseurl}}/images/aaai2024competition/avatar-placeholder.png" alt="User Name" />
@@ -154,27 +146,27 @@ The rules of the competition are as follows:
   </div>
   <div class="avatar-item">
     <img src="{{site.baseurl}}/images/aaai2024competition/avatar-placeholder.png" alt="User Name" />
-    <h3>Ying Zheng</h3>
+    <h3>Ying Zheng</h3><h3>Jinan University, China</h3>
   </div>
   <div class="avatar-item">
     <img src="{{site.baseurl}}/images/aaai2024competition/avatar-placeholder.png" alt="User Name" />
-    <h3>Zitao Liu</h3>
+    <h3>Zitao Liu</h3><h3>Jinan University, China</h3>
   </div>
   <div class="avatar-item">
     <img src="{{site.baseurl}}/images/aaai2024competition/avatar-placeholder.png" alt="User Name" />
-    <h3>Isabelle Guyon</h3>
+    <h3>Isabelle Guyon</h3><h3>Google, USA</h3>
   </div>
   <div class="avatar-item">
     <img src="{{site.baseurl}}/images/aaai2024competition/avatar-placeholder.png" alt="User Name" />
-    <h3>Muktha Ananda</h3>
+    <h3>Muktha Ananda</h3><h3>Google, USA</h3>
   </div>
   <div class="avatar-item">
     <img src="{{site.baseurl}}/images/aaai2024competition/avatar-placeholder.png" alt="User Name" />
-    <h3>Panagiota Konstantinou</h3>
+    <h3>Panagiota Konstantinou</h3><h3>EEDI, UK</h3>
   </div>
   <div class="avatar-item">
     <img src="{{site.baseurl}}/images/aaai2024competition/avatar-placeholder.png" alt="User Name" />
-    <h3>Simon Woodhead</h3>
+    <h3>Simon Woodhead</h3><h3>EEDI, UK</h3>
   </div>
 </div>
 
