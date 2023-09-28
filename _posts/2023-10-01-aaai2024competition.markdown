@@ -154,27 +154,27 @@ The rules of the competition are as follows:
   </div>
   <div class="avatar-item">
     <img src="{{site.baseurl}}/images/aaai2024competition/avatar-placeholder.png" alt="User Name" />
-    <h3>Title</h3>
+    <h3>Ying Zheng</h3>
   </div>
   <div class="avatar-item">
     <img src="{{site.baseurl}}/images/aaai2024competition/avatar-placeholder.png" alt="User Name" />
-    <h3>Title</h3>
+    <h3>Zitao Liu</h3>
   </div>
   <div class="avatar-item">
     <img src="{{site.baseurl}}/images/aaai2024competition/avatar-placeholder.png" alt="User Name" />
-    <h3>Title</h3>
+    <h3>Isabelle Guyon</h3>
   </div>
   <div class="avatar-item">
     <img src="{{site.baseurl}}/images/aaai2024competition/avatar-placeholder.png" alt="User Name" />
-    <h3>Title</h3>
+    <h3>Muktha Ananda</h3>
   </div>
   <div class="avatar-item">
     <img src="{{site.baseurl}}/images/aaai2024competition/avatar-placeholder.png" alt="User Name" />
-    <h3>Title</h3>
+    <h3>Panagiota Konstantinou</h3>
   </div>
   <div class="avatar-item">
     <img src="{{site.baseurl}}/images/aaai2024competition/avatar-placeholder.png" alt="User Name" />
-    <h3>Title</h3>
+    <h3>Simon Woodhead</h3>
   </div>
 </div>
 
