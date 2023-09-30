@@ -52,13 +52,34 @@ In this competition, we create both public and private leaderboards for better p
 
 ### Data Files
 
-- **tal_saq7k_cn_stage_1.jsonl:** This is a part of TAL-SAQ7K-CN used in the first stage of the evaluation, with fields and examples as follows:
-  - "dataset_version": The identifier of the dataset version, identification of the source dataset version from which TAL-SCQ5K-EN/TAL-SCQ5K-CN has been created.
-  - "queId": The identifier of the global ID for the question.
-  - "difficulty": The difficulty level of the question, ranging from 0 to 4.
-  - "qtype": The type of the question, with the value "short_answer" indicating that the question is a short answer question.
-  - "problem": the question string to a math competition question.
-  - "knowledge_point_routes": knowledge point route from coarse-grained to fine-grained.  
+Both the TAL-SAQ7K-CN and TAL-SAQ6K-EN datasets can be download at [https://github.com/math-eval/aaai2024comp](https://github.com/math-eval/aaai2024comp).
+
+Each question and its auxiliary information is stored in the JSON format with the following fields:
+
+- "dataset_version": The identifier of the source dataset version.
+- "queId": The identifier of the global ID for the question.
+- "difficulty": The difficulty level of the question, ranging from 0 to 4.
+- "qtype": The type of the question, with the value "short_answer" indicating that the question is a short answer question.
+- "problem": The question content of a math competition question.
+- "knowledge_point_routes": The knowledge point route from coarse-grained to fine-grained.  
+
+Here, we provide a real sample from TAL-SAQ6K-EN and TAL-SAQ7K-CN respectively.
+
+
+#### A math problem sample from TAL-SAQ6K-EN
+
+```
+{
+    "dataset_version": "2023-07-07",
+    "queId": "17a4a261e09e46b188ed0705441570df",
+    "difficulty": "3",
+    "qtype": "short_answer",
+    "problem": "In a number sequence, the first integer is $$3$$, the second is $$10$$, and starting from the third integer, each integer is the sum of the two integers directly in front of it. What is the remainder when the $$1997^{\\text{th}}$$ integer is divided by $$3$$? ",
+    "knowledge_point_routes": ["Overseas Competition-&gt;Knowledge Point-&gt;Number Theory Modules-&gt;Remainder Problems-&gt;Questions involving Divisions with Remainders"]
+}
+```
+
+#### A math problem sample from TAL-SAQ7K-CN
 
 ```
 {
@@ -72,20 +93,6 @@ In this competition, we create both public and private leaderboards for better p
 ```
 
 
-- **tal_saq7k_cn_stage_2.jsonl:** This is a part of TAL-SAQ7K-CN used in the second stage of the evaluation, with the same fields and examples as above.
-- **tal_saq6k_en_stage_1.jsonl:** This is a part of TAL-SAQ6K-EN used in the first stage of the evaluation, with the same fields as above and examples as follows:
-
-```
-{
-    "dataset_version": "2023-07-07",
-    "queId": "17a4a261e09e46b188ed0705441570df",
-    "difficulty": "3",
-    "qtype": "short_answer",
-    "problem": "In a number sequence, the first integer is $$3$$, the second is $$10$$, and starting from the third integer, each integer is the sum of the two integers directly in front of it. What is the remainder when the $$1997^{\\text{th}}$$ integer is divided by $$3$$? ",
-    "knowledge_point_routes": ["Overseas Competition-&gt;Knowledge Point-&gt;Number Theory Modules-&gt;Remainder Problems-&gt;Questions involving Divisions with Remainders"]
-}
-```
-- **tal_saq6k_en_stage_2.jsonl:** This is a part of TAL-SAQ6K-EN used in the second stage of the evaluation, with the same fields and examples as above.
 
 
 ### Baseline Results
