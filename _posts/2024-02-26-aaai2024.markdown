@@ -6,154 +6,390 @@ image: "/images/aaai2024.jpg"
 tags: [Workshop, AAAI]
 featured: true
 category: workshops
+toc: true
 ---
 
-<!-- Avatar list start -->
 
-# Three column example
+# Workshop Overview
+
+This two-day workshop explores the innovations in artificial intelligence (AI), specifically generative-AI (GenAI), in educational applications, and discusses the related ethical implications of responsible-AI (RAI). Over two days, attendees will examine GenAI technologies, potential vulnerabilities, and the development of RAI standards in an educational context. Through a variety of formats like papers, demonstrations, posters, a global competition on Math reasoning, and opportunities to hear experts and representatives from various communities, participants will explore AI's impact on instruction quality, learner outcomes, and ethics. This workshop ultimately aims to inspire novel ideas, foster partnerships, and navigate the ethical complexities of AI in education. 
+
+## Topics of interest
+
+**Day 1.** Cognitive and learning science principles for improving genAI-based learning frameworks and tutoring systems; Mitigating “hallucinations” in large language models (LLMs) and improving factual validity for education; Improving mathematical and scientific reasoning capabilities of LLMs; Methods and metrics for evaluating GenAI content; AI-based methods to evaluate students, monitor their progress and personalize their education; Analyses, studies, and solutions for preserving academic integrity in the abundance of GenAI models and generated educational content; Benchmark datasets for genAI applications in education; Next generation infrastructure to support research on GenAI for education
+
+
+**Day 2.** Responsible AI (RAI; e.g., Fairness, Accountability, Interpretability, and Transparency) for consequential decision-making in education (e.g. admissions, early warning systems, grading); Methodological contributions and impact of responsible AI in education, including and not restricted to generative modeling, predictive modeling, causal inference, reinforcement learning, and data collection; AI for better student outcomes: applications that use AI to enhance educational interventions under resource constraints and inequity; Privacy, security, and AI Regulation in education equity, pipelines, and representation; surveillance; platform governance; regulating large/foundation models in education settings; Social and cultural impacts of AI in education; historical perspectives and critical theory
+
+## Format of Workshop
+
+We have a two-day workshop with distinct themes and events on each day. Day 1 will focus on innovations in AI for education specifically highlighting GenAI and a variety of different events including keynotes, invited presentations/posters/demos, a debate all with representation from research and allied communities, and finally, a global challenge on math reasoning. Day 2 will highlight topics on responsibility in AI for education with a keynote, a stellar lineup of invited speakers, a moderated discussion session, expert panels highlighting critical issues in responsible AI, spotlight talks, and a poster session to highlight accepted papers. Participants will be encouraged to think critically, ask questions, identify edge cases for demos, and come together to brainstorm solutions.
+
+## Call for Submissions
+
+We welcome different kinds of submissions: 
+
+- **Short papers (2 pages + references).** Demo papers, Work-in-progress papers. These submissions will be exhibited as posters or demonstrations. 
+
+- **Full papers (up to 6 pages + references).** Novel research papers, Appraisal papers of existing methods and tools (e.g., lessons learned), Benchmark datasets highlighting the application of GenAI, Evaluatory papers that revisit the validity of domain assumptions
+
+All submissions must follow the [PMLR style template](https://rice.box.com/s/4itqz94qaxxkycq0r6zqla186pz9ed3y){:target="_blank"}.
+
+*Accepted full papers will be invited to submit an extended version, addressing the remarks of the reviewers, to PMLR ([https://proceedings.mlr.press/](https://proceedings.mlr.press/){:target="_blank"}) to be published as part of the Workshop Proceedings.*
+
+## Submission Process
+
+All submissions must be made through the [OpenReview portal for the workshop](https://openreview.net/group?id=AAAI.org/2024/Workshop/AI4ED){:target="_blank"}. Authors must have an OpenReview account in order to make submissions. All submissions must follow the [PMLR style template](https://rice.box.com/s/4itqz94qaxxkycq0r6zqla186pz9ed3y){:target="_blank"}.
+
+
+[> Access the OpenReview Submission Portal](https://openreview.net/group?id=AAAI.org/2024/Workshop/AI4ED){:target="_blank"}
+
+## Global challenge on math problem solving and reasoning. 
+
+We invite researchers and practitioners worldwide to investigate the opportunities of automatically solving math problems via LLM approaches. More details about this competition can be found at [https://ai4ed.cc/competitions/aaai2024competition](https://ai4ed.cc/competitions/aaai2024competition).
+
+# Important Dates
+
+Submission opens: September 29, 2023 
+
+**Submission due: November 23, 2023, by 23:59 PM AoE**
+
+**Final paper decision:	December 11, 2023**
+
+Camera-ready: January 15, 2024
+
+Workshop Dates: February 26-27, 2024
+
+---
+
+# Invited Speakers and Panelists
 
 <div class="grid-custom grid-cols-3">
   <div class="avatar-item">
-    <img src="{{site.baseurl}}/images/avatar-placeholder.png" alt="User Name" />
-    <h3>Title</h3>
+    <img src="{{site.baseurl}}/images/aaai2024/Gary-Marcus.png" />
+    <div class="title">
+      <a href="https://en.wikipedia.org/wiki/Gary_Marcus" target="_blank">Gary Marcus</a>
+    </div>
+    <P class="text-center">NYU Prof. Emeritus, </P>
+    <P class="text-center">Geometric Intelligence - Founder</P>
   </div>
   <div class="avatar-item">
-    <img src="{{site.baseurl}}/images/avatar-placeholder.png" alt="User Name" />
-    <h3>Title</h3>
+    <img src="{{site.baseurl}}/images/aaai2024/Nicole-Turner-Lee.png" />
+    <div class="title">
+      <a href="https://www.brookings.edu/people/nicol-turner-lee/" target="_blank">Nicole Turner Lee</a>
+    </div>
+    <P class="text-center">Director-Center for Technology Innovation, Brookings Institute</P>
   </div>
   <div class="avatar-item">
-    <img src="{{site.baseurl}}/images/avatar-placeholder.png" alt="User Name" />
-    <h3>Title</h3>
+    <img src="{{site.baseurl}}/images/aaai2024/Emma-Brunskill.png" />
+    <div class="title">
+      <a href="https://cs.stanford.edu/people/ebrun/" target="_blank">Emma Brunskill</a>
+    </div>
+    <P>Associate Professor of Computer Science, Stanford University.</P>
+  </div>
+
+  <div class="avatar-item">
+    <img src="{{site.baseurl}}/images/aaai2024/Virginia-Dignum.png" />
+    <div class="title">
+      <a href="https://www.umu.se/en/staff/virginia-dignum/" target="_blank">Virginia Dignum</a>
+    </div>
+    <P class="text-center">Professor in Responsible Artificial Intelligence and the scientific Director of WASP-HS (Humanities and Society), Umea University</P>
   </div>
   <div class="avatar-item">
-    <img src="{{site.baseurl}}/images/avatar-placeholder.png" alt="User Name" />
-    <h3>Title</h3>
+    <img src="{{site.baseurl}}/images/aaai2024/Will-Belzak.png" />
+    <div class="title">
+      Will Belzak
+    </div>
+    <P class="text-center">Senior Assessment Scientist, Duolingo</P>
   </div>
   <div class="avatar-item">
-    <img src="{{site.baseurl}}/images/avatar-placeholder.png" alt="User Name" />
-    <h3>Title</h3>
+    <img src="{{site.baseurl}}/images/aaai2024/Cristina-Conati.png" />
+    <div class="title">
+      <a href="https://www.cs.ubc.ca/people/cristina-conati" target="_blank">Cristina Conati</a>
+    </div>
+    <P class="text-center">Professor of Computer Science, University of British Columbia</P>
+  </div>
+
+  <div class="avatar-item">
+    <img src="{{site.baseurl}}/images/aaai2024/Carrie-Demmans-Epp.png" />
+    <div class="title">
+      <a href="https://www.cdemmansepp.com/" target="_blank">Carrie Demmans Epp</a>
+    </div>
+    <P>Assistant Professor of Computing Science, </P>
+    <P>University of Alberta </P>
   </div>
   <div class="avatar-item">
-    <img src="{{site.baseurl}}/images/avatar-placeholder.png" alt="User Name" />
-    <h3>Title</h3>
+    <img src="{{site.baseurl}}/images/aaai2024/Dora-Demszky.png" />
+    <div class="title">
+      <a href="https://www.dorademszky.com/" target="_blank">Dora Demszky</a>
+    </div>
+    <P>Assistant Professor in Education Data Science,</P>
+    <P>Stanford Graduate School of Education</P>
+  </div>
+  <div class="avatar-item">
+    <img src="{{site.baseurl}}/images/aaai2024/Jodi-Forlizzi.png" />
+    <div class="title">
+      <a href="https://hcii.cmu.edu/people/jodi-forlizzi" target="_blank">Jodi Forlizzi</a>
+    </div>
+    <P class="text-center">Professor in Computer Science and Human-Computer Interaction Institute, </P>
+    <p>Carnegie Mellon University</p>
+  </div>
+
+  <div class="avatar-item">
+    <img src="{{site.baseurl}}/images/aaai2024/Matt-Johnson.png" />
+    <div class="title">
+      <a href="https://www.ets.org/research/author-bio/Johnson-Matthew-S.html" target="_blank">Matt Johnson</a>
+    </div>
+    <P class="text-center"> Principal research director of Foundational Psychometrics and Statistics Research center</P>
+    <p class="text-center"><b>ETS</b></p>
+  </div>
+  <div class="avatar-item">
+    <img src="{{site.baseurl}}/images/aaai2024/Sue-Lottridge.png" />
+    <div class="title">
+      <a href="https://www.linkedin.com/in/susan-lottridge-1a659395" target="_blank">Sue Lottridge</a>
+    </div>
+    <P>Chief Scientist, </P>
+    <P>Natural Language Applications at Cambium Assessment</P>
+  </div>
+  <div class="avatar-item">
+    <img src="{{site.baseurl}}/images/aaai2024/Michael-Madaio.png" />
+    <div class="title">
+      <a href="http://michaelmadaio.com/" target="_blank">Michael Madaio</a>
+    </div>
+    <P>Research Scientist,</P>
+    <P>Google Research</P>
+  </div>
+
+  <div class="avatar-item">
+    <img src="{{site.baseurl}}/images/aaai2024/Victoria-Yaneva.png" />
+    <div class="title">
+      <a href="https://www.victoriayaneva.info/" target="_blank">Victoria Yaneva</a>
+    </div>
+    <P>Manager, </P>
+    <P><b>NLP Science at NBME</b></P>
+  </div>
+  <div class="avatar-item">
+    <img src="{{site.baseurl}}/images/aaai2024/Renzhe-Yu.png" />
+    <div class="title">
+      <a href="https://renzheyu.com/" target="_blank">Renzhe Yu</a>
+    </div>
+    <P>Assistant Professor of Learning Analytics and Educational Data Mining, </P>
+    <p><b>Columbia University</b></p>
+  </div>
+  <div class="avatar-item">
+    <img src="{{site.baseurl}}/images/aaai2024/AJ-Alvero.png" />
+    <div class="title">
+      AJ Alvero
+    </div>
+    <P>Assistant Professor of Sociology and Data Science</P>
+    <p><b>University of Florida</b></p>
   </div>
 </div>
 
-# Four column example
+# Travel Scholarship
 
-<div class="grid-custom grid-cols-4">
+We are pleased to announce travel scholarships to the AAAI 2024 conference and attendance at the AI in Education: Bridging Innovation and Responsibility workshop. These scholarships are intended to broaden participation in the conference and the workshop, with a focus on reaching underserved and underrepresented undergraduate and graduate students as well as postdocs in the machine learning and AI domain. Each award is valued at $2000 CAD and is intended to cover travel, accommodation, and registration fees. We look forward to your applications and hope to see you in Vancouver, Canada, in February 2024.
+
+<div style="margin-bottom: 20px; font-size: 16pt; font-weight: bold; color: #1155cc;">
+Application Deadline: 12/30/2023
+</div>
+
+<div style="margin-bottom: 30px; padding: 40px 0; background: #f9f9f9; text-align: center;">
+  <a href="https://forms.gle/kE2KCTnTn1gBZMxKA" target="_blank">
+    Click here to apply
+  </a>
+</div>
+
+# Workshop Steering Committee
+
+<div class="grid-custom grid-cols-3">
   <div class="avatar-item">
-    <img src="{{site.baseurl}}/images/avatar-placeholder.png" alt="User Name" />
-    <h3>Title</h3>
+    <img src="{{site.baseurl}}/images/aaai2024/Muktha-Ananda.png" />
+    <div class="title">
+      <a href="https://www.linkedin.com/in/mukthananda/" target="_blank">Muktha Ananda</a>
+    </div>
+    <P class="text-center">Director of Engineering</P>
+    <P class="text-center"><b>Google Learning Platform</b></P>
   </div>
   <div class="avatar-item">
-    <img src="{{site.baseurl}}/images/avatar-placeholder.png" alt="User Name" />
-    <h3>Title</h3>
+    <img src="{{site.baseurl}}/images/aaai2024/Basu-Mallick.png" />
+    <div class="title">
+      <a href="https://www.linkedin.com/in/panagiota-konstantinou/" target="_blank">Debshila <br>Basu Mallick</a>
+    </div>
+    <P class="text-center">Director of Research</P>
+    <P class="text-center"><b>OpenStax, Rice University</b></P>
   </div>
   <div class="avatar-item">
-    <img src="{{site.baseurl}}/images/avatar-placeholder.png" alt="User Name" />
-    <h3>Title</h3>
+    <img src="{{site.baseurl}}/images/aaai2024/Jill-Burstein.png" />
+    <div class="title">
+      <a href="https://sites.google.com/site/jbursteinets/" target="_blank">Jill Burstein</a>
+    </div>
+    <P class="text-center">Principal Assessment Scientist, </P>
+    <P class="text-center"><b>Duolingo</b></P>
+  </div>
+
+  <div class="avatar-item">
+    <img src="{{site.baseurl}}/images/aaai2024/Lydia-T-Liu.png" />
+    <div class="title">
+      <a href="https://www.lydiatliu.com/" target="_blank">Lydia T. Liu</a>
+    </div>
+    <P class="text-center">Assistant Professor of Computer Science (2024),</P>
+    <P class="text-center"><b>Princeton University</b></P>
   </div>
   <div class="avatar-item">
-    <img src="{{site.baseurl}}/images/avatar-placeholder.png" alt="User Name" />
-    <h3>Title</h3>
+    <img src="{{site.baseurl}}/images/aaai2024/Zitao-Liu.png" />
+    <div class="title">
+      <a href="https://www.zitaoliu.com/" target="_blank">Zitao Liu</a>
+    </div>
+    <P class="text-center">Dean of Guangdong Institute of Smart Education,</P>
+    <P class="text-center"><b>Jinan University, Guangzhou, China</b></P>
   </div>
   <div class="avatar-item">
-    <img src="{{site.baseurl}}/images/avatar-placeholder.png" alt="User Name" />
-    <h3>Title</h3>
+    <img src="{{site.baseurl}}/images/aaai2024/James-Sharpnack.png" />
+    <div class="title">
+      <a href="https://www.linkedin.com/in/jamessharpnack/" target="_blank">James Sharpnack</a>
+    </div>
+    <P class="text-center">Staff AI Research Scientist, <b>Duolingo</b></P>
+    <P class="text-center">Adjunct Associate Professor, <b>UC Davis</b></P>
+  </div>
+
+  <div class="avatar-item">
+    <img src="{{site.baseurl}}/images/aaai2024/Jack-Wang.png" />
+    <div class="title">
+      <a href="https://www.linkedin.com/in/jackzichaowang/" target="_blank">Jack Wang</a>
+    </div>
+    <P class="text-center">Research Scientist </P>
+    <P class="text-center"><b>Adobe</b></P>
   </div>
   <div class="avatar-item">
-    <img src="{{site.baseurl}}/images/avatar-placeholder.png" alt="User Name" />
-    <h3>Title</h3>
-  </div>
-  <div class="avatar-item">
-    <img src="{{site.baseurl}}/images/avatar-placeholder.png" alt="User Name" />
-    <h3>Title</h3>
-  </div>
-  <div class="avatar-item">
-    <img src="{{site.baseurl}}/images/avatar-placeholder.png" alt="User Name" />
-    <h3>Title</h3>
+    <img src="{{site.baseurl}}/images/aaai2024/Serena-Wang.png" />
+    <div class="title">
+      <a href="https://serenalwang.com/" target="_blank">Serena Wang</a>
+    </div>
+    <P class="text-center">PhD Candidate</P>
+    <P class="text-center"><b>UC Berkeley</b></P>
   </div>
 </div>
 
-<!-- /Avatar list end -->
+# Subcommittee Leads
 
-<!-- ## Overview
+## Program Committee and Proceedings
 
-Multimodal Reasoning is an emerging research area that aims to enable intelligent systems to reason and learn from information obtained from various modalities, such as language, images, videos, and sensor data. This symposium focuses on exploring different aspects of multimodal reasoning, including combining multimodal learners, language models, and attention mechanisms, evaluating the effectiveness of transfer learning and pre-training in multimodal reasoning, and examining the impact of data augmentation techniques. Additionally, we will explore how multimodal reasoning can be used to improve educational outcomes, healthcare outcomes, and other information processing tasks.
+<div class="grid-custom grid-cols-3">
+  <div class="avatar-item">
+    <img src="{{site.baseurl}}/images/aaai2024/Isabelle-Guyon.png" />
+    <div class="title">
+      <a href="https://guyon.chalearn.org/" target="_blank">Isabelle Guyon</a>
+    </div>
+    <P class="text-center">Director of Research</P>
+    <P class="text-center"><b>Google Brain</b></P>
+  </div>
+  <div class="avatar-item">
+    <img src="{{site.baseurl}}/images/aaai2024/Andrew-Lan.png" />
+    <div class="title">
+      <a href="https://www.cics.umass.edu/people/lan-andrew" target="_blank">Andrew Lan</a>
+    </div>
+    <P class="text-center">Assistant Professor</P>
+    <P class="text-center"><b>University of Massachusetts at Amherst</b></P>
+  </div>
+  <div class="avatar-item">
+    <img src="{{site.baseurl}}/images/aaai2024/James-Sharpnack.png" />
+    <div class="title">
+      <a href="https://www.linkedin.com/in/jamessharpnack/" target="_blank">James Sharpnack</a>
+    </div>
+    <P class="text-center">Staff AI Research Scientist, <b>Duolingo</b></P>
+    <P class="text-center">Adjunct Associate Professor, <b>UC Davis</b></P>
+  </div>
+</div>
 
-## Schedule
+## Mathematical Reasoning Competition
 
-- Zoom Host Login (07:30 - 08:30)
-- Opening Remarks (08:30 - 09:00)
-- FedMMR: towards large scale multitask learning model (09:00 - 09:30)
-  - Yiqiang Chen
-- Multimodal Reasoning with Multi-agent Game Theory (09:30 - 10:00)
-  - Fei Fang
-- LLM Applied to education - Institutions and Applications (10:00 - 11:00)
-  - Richard Tong, Joleen Liang, Jerry Liu, Xiangen Hu, Julia Chen
-- Cross-Modal Reasoning for Visual Question Answering and Visual Dialogue (11:00 - 11:30)
-  - Zengchang Qin
-- Multimodal Measurement Framework (11:30 - 12:00)
-  - Quanying Liu
-- Lunch Break (12:00 - 13:30)
-- Automotive Multimodal Reasoning (13:30 - 14:00)
-  - Yonggang Luo
-- Touch Sensing and Multimodal Reasoning for The Future (14:00 - 14:30)
-  - Deli Wang
-- Paper1 (14:30 - 14:45) Multimodal Reasoning and Language Prompting for Interactive Learning Assistant for Robotic Surgery. Gokul Kannan, Lalithkumar Seenivasan, Hongliang Ren.
-- Paper2 (14:45 - 15:00) Behavior Cognition Association Analysis with Heterogeneous Multimodal Causal Inference. Shuang Wu, Yingwei Zhang, Yiqiang Chen. 
-- Paper3 (15:00 - 15:15)
-- Paper4 (15:15 - 15:30)
-- Afternoon Break (15:30 - 16:00)
-- Hackathon (16:00 - 16:30)
-- Hackathon Demo (16:30 - 17:00)
-- Final Remarks (17:00 - 17:10)
+<div class="grid-custom grid-cols-3">
+  <div class="avatar-item">
+    <img src="{{site.baseurl}}/images/aaai2024/Zitao-Liu.png" />
+    <div class="title">
+      <a href="https://www.zitaoliu.com/" target="_blank">Zitao Liu</a>
+    </div>
+    <P class="text-center">Dean of Guangdong Institute of Smart Education,</P>
+    <P class="text-center"><b>Jinan University, Guangzhou, China</b></P>
+  </div>
+  <div class="avatar-item">
+    <img src="{{site.baseurl}}/images/aaai2024/Jiahao-Chen.png" />
+    <div class="title">
+      Jiahao Chen
+    </div>
+    <P class="text-center">Staff Machine Learning Engineer</P>
+    <P class="text-center"><b>TAL Education Group, China</b></P>
+  </div>
+  <div class="avatar-item">
+    <img src="{{site.baseurl}}/images/aaai2024/avatar.png" />
+    <div class="title">
+      Tianqiao Liu
+    </div>
+    <P class="text-center">Staff Machine Learning Engineer</P>
+    <P class="text-center"><b>TAL Education Group, China</b></P>
+  </div>
 
-## Scope and Objectives
+  <div class="avatar-item">
+    <img src="{{site.baseurl}}/images/aaai2024/Isabelle-Guyon.png" />
+    <div class="title">
+      <a href="https://guyon.chalearn.org/" target="_blank">Isabelle Guyon</a>
+    </div>
+    <P class="text-center">Director of Research</P>
+    <P class="text-center"><b>Google Brain</b></P>
+  </div>
+  <div class="avatar-item">
+    <img src="{{site.baseurl}}/images/aaai2024/Simon-Woodhead.png" />
+    <div class="title">
+      <a href="https://www.linkedin.com/in/simon-woodhead/?originalSubdomain=uk" target="_blank">Simon Woodhead</a>
+    </div>
+    <P class="text-center">Chief Data Scientist and Co-Founder</P>
+    <P class="text-center"><b>EEDI, UK</b></P>
+  </div>
+  <div class="avatar-item">
+    <img src="{{site.baseurl}}/images/aaai2024/Panagiota-Konstantinou.png" />
+    <div class="title">
+      <a href="https://www.linkedin.com/in/panagiota-konstantinou/" target="_blank">Panagiota Konstantinou</a>
+    </div>
+    <P class="text-center">Machine Learning Research Engineer</P>
+    <P class="text-center"><b>EEDI, UK</b></P>
+  </div>
+</div>
 
-The objectives of this symposium are to:
+## Debate
 
-- Provide a forum for researchers and practitioners to discuss the latest developments, challenges, and opportunities in multimodal reasoning.
-- Exchange ideas and insights on using multimodal reasoning techniques to address real-world problems in education, healthcare, and other information processing fields.
-- Identify potential future research directions and applications of multimodal reasoning.
-- Identify and discussion standardization, deployment, operation and responsible AI practices
+<div class="grid-custom grid-cols-3">
+  <div class="avatar-item">
+    <img src="{{site.baseurl}}/images/aaai2024/Dongwook-Yoon.png" />
+    <div class="title">
+      <a href="https://dwyoon.com/" target="_blank">Dongwook Yoon</a>
+    </div>
+    <P class="text-center">Associate Professor, Computer Science</P>
+    <P class="text-center"><b>University of British Columbia, Canada</b></P>
+  </div>
+</div>
 
-## Topics (but not limited to)
+## Travel Scholarship 
 
-- Develop new architectures and models for multimodal reasoning.
-- Utilize multimodal reasoning for intelligent agents in education and healthcare settings.
-- Combine multimodal learners with LLM reasoners using language symbols to enable information exchange through chain of thought.
-- Develop multimodal representation in theory of mind and other hidden contexts Create a GAN framework to enable self-learning using multimodal generation.
-- Cross-validate the model grounding by utilizing different modalities and combining different reasoning strategies.
-- Investigate the use of attention mechanisms in multimodal reasoning.
-- Explore the role of pre-training and fine-tuning in multimodal reasoning. Evaluate the effectiveness of transfer learning in multimodal reasoning.
-- Examine the impact of data augmentation techniques on multimodal reasoning performance.
-- Investigate the ethical implications of multimodal reasoning, including the impact of bias and fairness. Explore ethical considerations and standardization issues in the use of multimodal reasoning, especially with the IEEE AI Standards Committee and IEEE Learning Technology Standards Committee.
-- Introduce and design new implementation approaches such as prompt engineering, local fine-tuning, integrated reasoning from LLM base, and incremental learning.
+<div class="grid-custom grid-cols-3">
+  <div class="avatar-item">
+    <img src="{{site.baseurl}}/images/aaai2024/Muktha-Ananda.png" />
+    <div class="title">
+      <a href="https://www.linkedin.com/in/mukthananda/" target="_blank">Muktha Ananda</a>
+    </div>
+    <P class="text-center">Director of Engineering</P>
+    <P class="text-center"><b>Google Learning Platform</b></P>
+  </div>
+  <div class="avatar-item">
+    <img src="{{site.baseurl}}/images/aaai2024/Simon-Woodhead.png" />
+    <div class="title">
+      <a href="https://www.linkedin.com/in/simon-woodhead/?originalSubdomain=uk" target="_blank">Simon Woodhead</a>
+    </div>
+    <P class="text-center">Chief Data Scientist and Co-Founder</P>
+    <P class="text-center"><b>EEDI, UK</b></P>
+  </div>
+</div>
 
-## Format
+<div style="margin-bottom: 20px; font-size: 16pt; font-weight: bold;">Collaborating Organizations</div>
 
-One day symposium. Program includes invited talks, presentations, discussion, final panel discussion, and interactive sessions.
-
-### Submission Website
-
-The submission AUTHOR KIT can be found at [https://www.ijcai.org/authors_kit](https://www.ijcai.org/authors_kit). We will announce the submission website soon.
-
-Submission website: [https://easychair.org/my/conference?conf=ijcai2023multireason](https://easychair.org/my/conference?conf=ijcai2023multireason).
-
-## Important Dates
-
-- **June 20, 2023**: Symposium paper submission due AOE
-- **July 04, 2023**: Notifications of acceptance
-- **August 03, 2023**: Deadline of the camera-ready final paper submission
-- **August 20, 2023**: Symposium date
-
-## Organizers
-
-
-- **Richard Tong** IEEE AISC Chair, USA
-- **Yiqiang Chen** Institute of Computing Technology, Chinese Academy of Sciences, China
-- **Zitao Liu** Guangdong Institute of Smart Education, Jinan University, China
-- **Joleen Liang** Squirrel AI Learning, China
-- **Jiahao Chen** TAL Education Group, China -->
+![Collaborating Organizations]({{site.baseurl}}/images/aaai2024/collaborating-organizations.png) 

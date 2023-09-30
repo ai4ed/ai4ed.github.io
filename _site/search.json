@@ -1,11 +1,83 @@
 [
   
     {
+      "title"    : "AAAI2024 Workshop on AI for Education - Bridging Innovation and Responsibility",
+      "category" : "workshops",
+      "tags"     : "Workshop and AAAI",
+      "url"      : "/workshops/aaai2024",
+      "date"     : "Feb 26, 2024",
+      "image": "/images/aaai2024.jpg"
+    } ,
+  
+    {
+      "title"    : "AAAI2024 Global Competition on Math Problem Solving and Reasoning",
+      "category" : "competitions",
+      "tags"     : "Competition and AAAI",
+      "url"      : "/competitions/aaai2024competition",
+      "date"     : "Oct 1, 2023",
+      "image": "/images/aaai2024competition.jpg"
+    } ,
+  
+    {
+      "title"    : "IJCAI2023 Symposium on Multimodal Reasoning with LLM",
+      "category" : "symposiums",
+      "tags"     : "Symposium and IJCAI",
+      "url"      : "/symposiums/ijcai2023",
+      "date"     : "Aug 20, 2023",
+      "image": "/images/ijcai2023.jpg"
+    } ,
+  
+    {
+      "title"    : "AIED2023 Empowering Education with LLMs - the Next-Gen Interface and Content Generation",
+      "category" : "workshops",
+      "tags"     : "Workshop and AIED",
+      "url"      : "/workshops/aied2023",
+      "date"     : "Jul 7, 2023",
+      "image": "/images/aied2023.jpg"
+    } ,
+  
+    {
+      "title"    : "AAAI2023 Global Knowledge Tracing Challenge",
+      "category" : "competitions",
+      "tags"     : "Competition and AAAI",
+      "url"      : "/competitions/aaai2023competition",
+      "date"     : "Feb 7, 2023",
+      "image": "/images/aaai2023competition.jpg"
+    } ,
+  
+    {
+      "title"    : "AAAI2023 Artificial Intelligence for Education",
+      "category" : "workshops",
+      "tags"     : "Workshop and AAAI",
+      "url"      : "/workshops/aaai2023",
+      "date"     : "Feb 7, 2023",
+      "image": "/images/aaai2023.jpg"
+    } ,
+  
+    {
+      "title"    : "AAAI2022 Artificial Intelligence for Education",
+      "category" : "workshops",
+      "tags"     : "Workshop and AAAI",
+      "url"      : "/workshops/aaai2022",
+      "date"     : "Feb 28, 2022",
+      "image": "/images/aaai2022.jpg"
+    } ,
+  
+    {
+      "title"    : "IJCAI2021 Artificial Intelligence for Education",
+      "category" : "workshops",
+      "tags"     : "Workshop and IJCAI",
+      "url"      : "/workshops/ijcai2021",
+      "date"     : "Aug 20, 2021",
+      "image": "/images/ijcai2021.jpg"
+    } ,
+  
+    {
       "title"    : "AAAI2021 Spring Symposium on Artificial Intelligence for K-12 Education",
       "category" : "workshops",
       "tags"     : "Workshop and AAAI",
       "url"      : "/workshops/aaai2021sss",
-      "date"     : "Sep 15, 2020",
+      "date"     : "Mar 22, 2021",
       "image": "/images/aaai2021sss.jpg"
     } ,
   
@@ -14,7 +86,7 @@
       "category" : "tutorials",
       "tags"     : "Tutorial and IJCAI",
       "url"      : "/tutorials/ijcai2020",
-      "date"     : "Sep 1, 2020",
+      "date"     : "Jan 8, 2021",
       "image": "/images/ijcai2020.jpg"
     } ,
   

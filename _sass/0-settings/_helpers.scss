@@ -40,3 +40,7 @@
 .screen-reader-text {
   @include screen-reader();
 }
+
+.text-center {
+  text-align: center;
+}

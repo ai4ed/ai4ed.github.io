@@ -67,6 +67,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll/tagging
+  - jekyll-toc
 
 paginate: 8
 paginate_path: "/page/:num"
@@ -91,3 +92,7 @@ sass:
   style: compressed
 
 future: true
+
+toc:
+  min_level: 2 # default: 1
+  max_level: 2 # default: 6
