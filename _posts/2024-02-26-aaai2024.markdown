@@ -202,16 +202,14 @@ Application Deadline: 12/30/2023
 <div class="grid-custom grid-cols-3">
   <div class="avatar-item">
     <img src="{{site.baseurl}}/images/aaai2024/Muktha-Ananda.png" />
-    <div class="title">
-      <a href="https://www.linkedin.com/in/mukthananda/" target="_blank">Muktha Ananda</a>
-    </div>
+    <div class="title"><a href="https://www.linkedin.com/in/mukthananda/" target="_blank">Muktha Ananda</a></div>
     <P class="text-center">Director of Engineering</P>
     <P class="text-center">Google Learning Platform</P>
   </div>
   <div class="avatar-item">
     <img src="{{site.baseurl}}/images/aaai2024/Basu-Mallick.png" />
     <div class="title">
-      <a href="https://www.linkedin.com/in/panagiota-konstantinou/" target="_blank">Debshila <br>Basu Mallick</a>
+      <a href="https://www.linkedin.com/in/panagiota-konstantinou/" target="_blank">Debshila Basu Mallick</a>
     </div>
     <P class="text-center">Director of Research</P>
     <P class="text-center">OpenStax, Rice University</P>
@@ -299,7 +297,7 @@ Application Deadline: 12/30/2023
   </div>
 </div>
 
-## Mathematical Reasoning Competition
+<!-- ## Mathematical Reasoning Competition
 
 <div class="grid-custom grid-cols-3">
 
@@ -324,12 +322,11 @@ Application Deadline: 12/30/2023
   <div class="avatar-item">
     <img src="{{site.baseurl}}/images/aaai2024/Jiahao-Chen.png" />
     <div class="title">
-      Jiahao Chen
+      <a href="https://www.tabchen.com/" target="_blank">Jiahao Chen</a>
     </div>
     <P class="text-center">Staff Machine Learning Engineer</P>
     <P class="text-center">TAL Education Group, China</P>
   </div>
-
 
   <div class="avatar-item">
     <img src="{{site.baseurl}}/images/aaai2024/Zitao-Liu.png" />
@@ -374,7 +371,7 @@ Application Deadline: 12/30/2023
     <P class="text-center">Machine Learning Research Engineer</P>
     <P class="text-center">EEDI, UK</P>
   </div>
-</div>
+</div> -->
 
 ## Debate
 
