@@ -50,15 +50,11 @@ We invite researchers and practitioners worldwide to investigate the opportuniti
 
 # Important Dates
 
-Submission opens: September 29, 2023 
-
-**Submission due: November 23, 2023, by 23:59 PM AoE**
-
-**Final paper decision:	December 11, 2023**
-
-Camera-ready: January 15, 2024
-
-Workshop Dates: February 26-27, 2024
+* Submission opens: September 29, 2023 
+* **Submission due: November 23, 2023, by 23:59 PM AoE**
+* **Final paper decision:	December 11, 2023**
+* Camera-ready: January 15, 2024
+* Workshop Dates: February 26-27, 2024
 
 ---
 
@@ -85,7 +81,7 @@ Workshop Dates: February 26-27, 2024
     <div class="title">
       <a href="https://cs.stanford.edu/people/ebrun/" target="_blank">Emma Brunskill</a>
     </div>
-    <P>Associate Professor of Computer Science, Stanford University.</P>
+    <P class="text-center">Associate Professor of Computer Science, Stanford University.</P>
   </div>
 
   <div class="avatar-item">
@@ -93,7 +89,7 @@ Workshop Dates: February 26-27, 2024
     <div class="title">
       <a href="https://www.umu.se/en/staff/virginia-dignum/" target="_blank">Virginia Dignum</a>
     </div>
-    <P class="text-center">Professor in Responsible Artificial Intelligence and the scientific Director of WASP-HS (Humanities and Society), Umea University</P>
+    <P class="text-center">Professor in Responsible AI and the scientific Director of WASP-HS (Humanities and Society), Umea University</P>
   </div>
   <div class="avatar-item">
     <img src="{{site.baseurl}}/images/aaai2024/Will-Belzak.png" />
@@ -107,7 +103,8 @@ Workshop Dates: February 26-27, 2024
     <div class="title">
       <a href="https://www.cs.ubc.ca/people/cristina-conati" target="_blank">Cristina Conati</a>
     </div>
-    <P class="text-center">Professor of Computer Science, University of British Columbia</P>
+    <P class="text-center">Professor of Computer Science, </P>
+    <P class="text-center">University of British Columbia</P>
   </div>
 
   <div class="avatar-item">
@@ -115,16 +112,16 @@ Workshop Dates: February 26-27, 2024
     <div class="title">
       <a href="https://www.cdemmansepp.com/" target="_blank">Carrie Demmans Epp</a>
     </div>
-    <P>Assistant Professor of Computing Science, </P>
-    <P>University of Alberta </P>
+    <P class="text-center">Assistant Professor of Computing Science, </P>
+    <P class="text-center">University of Alberta</P>
   </div>
   <div class="avatar-item">
     <img src="{{site.baseurl}}/images/aaai2024/Dora-Demszky.png" />
     <div class="title">
       <a href="https://www.dorademszky.com/" target="_blank">Dora Demszky</a>
     </div>
-    <P>Assistant Professor in Education Data Science,</P>
-    <P>Stanford Graduate School of Education</P>
+    <P class="text-center">Assistant Professor in Education Data Science, </P>
+    <P class="text-center">Stanford Graduate School of Education</P>
   </div>
   <div class="avatar-item">
     <img src="{{site.baseurl}}/images/aaai2024/Jodi-Forlizzi.png" />
@@ -132,7 +129,7 @@ Workshop Dates: February 26-27, 2024
       <a href="https://hcii.cmu.edu/people/jodi-forlizzi" target="_blank">Jodi Forlizzi</a>
     </div>
     <P class="text-center">Professor in Computer Science and Human-Computer Interaction Institute, </P>
-    <p>Carnegie Mellon University</p>
+    <p class="text-center">Carnegie Mellon University</p>
   </div>
 
   <div class="avatar-item">
@@ -140,24 +137,24 @@ Workshop Dates: February 26-27, 2024
     <div class="title">
       <a href="https://www.ets.org/research/author-bio/Johnson-Matthew-S.html" target="_blank">Matt Johnson</a>
     </div>
-    <P class="text-center"> Principal research director of Foundational Psychometrics and Statistics Research center</P>
-    <p class="text-center"><b>ETS</b></p>
+    <P class="text-center"> Principal Research Director in Foundational Psychometrics and Statistics Research Center, </P>
+    <p class="text-center">ETS</p>
   </div>
   <div class="avatar-item">
     <img src="{{site.baseurl}}/images/aaai2024/Sue-Lottridge.png" />
     <div class="title">
       <a href="https://www.linkedin.com/in/susan-lottridge-1a659395" target="_blank">Sue Lottridge</a>
     </div>
-    <P>Chief Scientist, </P>
-    <P>Natural Language Applications at Cambium Assessment</P>
+    <P class="text-center">Chief Scientist, </P>
+    <P class="text-center">Cambium Assessment</P>
   </div>
   <div class="avatar-item">
     <img src="{{site.baseurl}}/images/aaai2024/Michael-Madaio.png" />
     <div class="title">
       <a href="http://michaelmadaio.com/" target="_blank">Michael Madaio</a>
     </div>
-    <P>Research Scientist,</P>
-    <P>Google Research</P>
+    <P class="text-center">Research Scientist, </P>
+    <P class="text-center">Google Research</P>
   </div>
 
   <div class="avatar-item">
@@ -165,24 +162,24 @@ Workshop Dates: February 26-27, 2024
     <div class="title">
       <a href="https://www.victoriayaneva.info/" target="_blank">Victoria Yaneva</a>
     </div>
-    <P>Manager, </P>
-    <P><b>NLP Science at NBME</b></P>
+    <P class="text-center">Manager, </P>
+    <P class="text-center">NLP Science at NBME</P>
   </div>
   <div class="avatar-item">
     <img src="{{site.baseurl}}/images/aaai2024/Renzhe-Yu.png" />
     <div class="title">
       <a href="https://renzheyu.com/" target="_blank">Renzhe Yu</a>
     </div>
-    <P>Assistant Professor of Learning Analytics and Educational Data Mining, </P>
-    <p><b>Columbia University</b></p>
+    <P class="text-center">Assistant Professor of Learning Analytics and Educational Data Mining, </P>
+    <p class="text-center">Columbia University</p>
   </div>
   <div class="avatar-item">
     <img src="{{site.baseurl}}/images/aaai2024/AJ-Alvero.png" />
     <div class="title">
       AJ Alvero
     </div>
-    <P>Assistant Professor of Sociology and Data Science</P>
-    <p><b>University of Florida</b></p>
+    <P class="text-center">Assistant Professor of Sociology and Data Science, </P>
+    <p class="text-center">University of Florida</p>
   </div>
 </div>
 
