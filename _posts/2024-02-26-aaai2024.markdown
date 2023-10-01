@@ -206,7 +206,7 @@ Application Deadline: 12/30/2023
       <a href="https://www.linkedin.com/in/mukthananda/" target="_blank">Muktha Ananda</a>
     </div>
     <P class="text-center">Director of Engineering</P>
-    <P class="text-center"><b>Google Learning Platform</b></P>
+    <P class="text-center">Google Learning Platform</P>
   </div>
   <div class="avatar-item">
     <img src="{{site.baseurl}}/images/aaai2024/Basu-Mallick.png" />
@@ -214,7 +214,7 @@ Application Deadline: 12/30/2023
       <a href="https://www.linkedin.com/in/panagiota-konstantinou/" target="_blank">Debshila <br>Basu Mallick</a>
     </div>
     <P class="text-center">Director of Research</P>
-    <P class="text-center"><b>OpenStax, Rice University</b></P>
+    <P class="text-center">OpenStax, Rice University</P>
   </div>
   <div class="avatar-item">
     <img src="{{site.baseurl}}/images/aaai2024/Jill-Burstein.png" />
@@ -222,7 +222,7 @@ Application Deadline: 12/30/2023
       <a href="https://sites.google.com/site/jbursteinets/" target="_blank">Jill Burstein</a>
     </div>
     <P class="text-center">Principal Assessment Scientist, </P>
-    <P class="text-center"><b>Duolingo</b></P>
+    <P class="text-center">Duolingo</P>
   </div>
 
   <div class="avatar-item">
@@ -231,7 +231,7 @@ Application Deadline: 12/30/2023
       <a href="https://www.lydiatliu.com/" target="_blank">Lydia T. Liu</a>
     </div>
     <P class="text-center">Assistant Professor of Computer Science (2024),</P>
-    <P class="text-center"><b>Princeton University</b></P>
+    <P class="text-center">Princeton University</P>
   </div>
   <div class="avatar-item">
     <img src="{{site.baseurl}}/images/aaai2024/Zitao-Liu.png" />
@@ -239,15 +239,15 @@ Application Deadline: 12/30/2023
       <a href="https://www.zitaoliu.com/" target="_blank">Zitao Liu</a>
     </div>
     <P class="text-center">Dean of Guangdong Institute of Smart Education,</P>
-    <P class="text-center"><b>Jinan University, Guangzhou, China</b></P>
+    <P class="text-center">Jinan University, Guangzhou, China</P>
   </div>
   <div class="avatar-item">
     <img src="{{site.baseurl}}/images/aaai2024/James-Sharpnack.png" />
     <div class="title">
       <a href="https://www.linkedin.com/in/jamessharpnack/" target="_blank">James Sharpnack</a>
     </div>
-    <P class="text-center">Staff AI Research Scientist, <b>Duolingo</b></P>
-    <P class="text-center">Adjunct Associate Professor, <b>UC Davis</b></P>
+    <P class="text-center">Staff AI Research Scientist, <b>Duolingo</P>
+    <P class="text-center">Adjunct Associate Professor, <b>UC Davis</P>
   </div>
 
   <div class="avatar-item">
@@ -256,7 +256,7 @@ Application Deadline: 12/30/2023
       <a href="https://www.linkedin.com/in/jackzichaowang/" target="_blank">Jack Wang</a>
     </div>
     <P class="text-center">Research Scientist </P>
-    <P class="text-center"><b>Adobe</b></P>
+    <P class="text-center">Adobe</P>
   </div>
   <div class="avatar-item">
     <img src="{{site.baseurl}}/images/aaai2024/Serena-Wang.png" />
@@ -264,7 +264,7 @@ Application Deadline: 12/30/2023
       <a href="https://serenalwang.com/" target="_blank">Serena Wang</a>
     </div>
     <P class="text-center">PhD Candidate</P>
-    <P class="text-center"><b>UC Berkeley</b></P>
+    <P class="text-center">UC Berkeley</P>
   </div>
 </div>
 
@@ -279,7 +279,7 @@ Application Deadline: 12/30/2023
       <a href="https://guyon.chalearn.org/" target="_blank">Isabelle Guyon</a>
     </div>
     <P class="text-center">Director of Research</P>
-    <P class="text-center"><b>Google Brain</b></P>
+    <P class="text-center">Google Brain</P>
   </div>
   <div class="avatar-item">
     <img src="{{site.baseurl}}/images/aaai2024/Andrew-Lan.png" />
@@ -287,15 +287,15 @@ Application Deadline: 12/30/2023
       <a href="https://www.cics.umass.edu/people/lan-andrew" target="_blank">Andrew Lan</a>
     </div>
     <P class="text-center">Assistant Professor</P>
-    <P class="text-center"><b>University of Massachusetts at Amherst</b></P>
+    <P class="text-center">University of Massachusetts at Amherst</P>
   </div>
   <div class="avatar-item">
     <img src="{{site.baseurl}}/images/aaai2024/James-Sharpnack.png" />
     <div class="title">
       <a href="https://www.linkedin.com/in/jamessharpnack/" target="_blank">James Sharpnack</a>
     </div>
-    <P class="text-center">Staff AI Research Scientist, <b>Duolingo</b></P>
-    <P class="text-center">Adjunct Associate Professor, <b>UC Davis</b></P>
+    <P class="text-center">Staff AI Research Scientist, <b>Duolingo</P>
+    <P class="text-center">Adjunct Associate Professor, <b>UC Davis</P>
   </div>
 </div>
 
@@ -308,7 +308,7 @@ Application Deadline: 12/30/2023
       <a href="https://www.zitaoliu.com/" target="_blank">Zitao Liu</a>
     </div>
     <P class="text-center">Dean of Guangdong Institute of Smart Education,</P>
-    <P class="text-center"><b>Jinan University, Guangzhou, China</b></P>
+    <P class="text-center">Jinan University, Guangzhou, China</P>
   </div>
   <div class="avatar-item">
     <img src="{{site.baseurl}}/images/aaai2024/Jiahao-Chen.png" />
@@ -316,7 +316,7 @@ Application Deadline: 12/30/2023
       Jiahao Chen
     </div>
     <P class="text-center">Staff Machine Learning Engineer</P>
-    <P class="text-center"><b>TAL Education Group, China</b></P>
+    <P class="text-center">TAL Education Group, China</P>
   </div>
   <div class="avatar-item">
     <img src="{{site.baseurl}}/images/aaai2024/avatar.png" />
@@ -324,7 +324,7 @@ Application Deadline: 12/30/2023
       Tianqiao Liu
     </div>
     <P class="text-center">Staff Machine Learning Engineer</P>
-    <P class="text-center"><b>TAL Education Group, China</b></P>
+    <P class="text-center">TAL Education Group, China</P>
   </div>
 
   <div class="avatar-item">
@@ -333,7 +333,7 @@ Application Deadline: 12/30/2023
       <a href="https://guyon.chalearn.org/" target="_blank">Isabelle Guyon</a>
     </div>
     <P class="text-center">Director of Research</P>
-    <P class="text-center"><b>Google Brain</b></P>
+    <P class="text-center">Google Brain</P>
   </div>
   <div class="avatar-item">
     <img src="{{site.baseurl}}/images/aaai2024/Simon-Woodhead.png" />
@@ -341,7 +341,7 @@ Application Deadline: 12/30/2023
       <a href="https://www.linkedin.com/in/simon-woodhead/?originalSubdomain=uk" target="_blank">Simon Woodhead</a>
     </div>
     <P class="text-center">Chief Data Scientist and Co-Founder</P>
-    <P class="text-center"><b>EEDI, UK</b></P>
+    <P class="text-center">EEDI, UK</P>
   </div>
   <div class="avatar-item">
     <img src="{{site.baseurl}}/images/aaai2024/Panagiota-Konstantinou.png" />
@@ -349,7 +349,7 @@ Application Deadline: 12/30/2023
       <a href="https://www.linkedin.com/in/panagiota-konstantinou/" target="_blank">Panagiota Konstantinou</a>
     </div>
     <P class="text-center">Machine Learning Research Engineer</P>
-    <P class="text-center"><b>EEDI, UK</b></P>
+    <P class="text-center">EEDI, UK</P>
   </div>
 </div>
 
@@ -362,7 +362,7 @@ Application Deadline: 12/30/2023
       <a href="https://dwyoon.com/" target="_blank">Dongwook Yoon</a>
     </div>
     <P class="text-center">Associate Professor, Computer Science</P>
-    <P class="text-center"><b>University of British Columbia, Canada</b></P>
+    <P class="text-center">University of British Columbia, Canada</P>
   </div>
 </div>
 
@@ -375,7 +375,7 @@ Application Deadline: 12/30/2023
       <a href="https://www.linkedin.com/in/mukthananda/" target="_blank">Muktha Ananda</a>
     </div>
     <P class="text-center">Director of Engineering</P>
-    <P class="text-center"><b>Google Learning Platform</b></P>
+    <P class="text-center">Google Learning Platform</P>
   </div>
   <div class="avatar-item">
     <img src="{{site.baseurl}}/images/aaai2024/Simon-Woodhead.png" />
@@ -383,7 +383,7 @@ Application Deadline: 12/30/2023
       <a href="https://www.linkedin.com/in/simon-woodhead/?originalSubdomain=uk" target="_blank">Simon Woodhead</a>
     </div>
     <P class="text-center">Chief Data Scientist and Co-Founder</P>
-    <P class="text-center"><b>EEDI, UK</b></P>
+    <P class="text-center">EEDI, UK</P>
   </div>
 </div>
 
