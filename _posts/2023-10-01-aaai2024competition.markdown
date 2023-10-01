@@ -143,37 +143,77 @@ The rules of the competition are as follows:
 ## Competition Organizers
 
 <div class="grid-custom grid-cols-4">
+
   <div class="avatar-item">
-    <img src="{{site.baseurl}}/images/aaai2024competition/avatar-placeholder.png" alt="User Name" />
-    <h3>Liang Xu</h3><h3>TAL Education Group, China</h3>
+    <img src="{{site.baseurl}}/images/aaai2024/avatar.png" />
+    <div class="title">
+      Liang Xu
+    </div>
+    <P class="text-center">Staff Machine Learning Engineer</P>
+    <P class="text-center">TAL Education Group, China</P>
+  </div>
+
+  <div class="avatar-item">
+    <img src="{{site.baseurl}}/images/aaai2024/avatar.png" />
+    <div class="title">
+      Jiong Zhao
+    </div>
+    <P class="text-center">Staff Machine Learning Engineer</P>
+    <P class="text-center">TAL Education Group, China</P>
+  </div>
+
+  <div class="avatar-item">
+    <img src="{{site.baseurl}}/images/aaai2024/Jiahao-Chen.png" />
+    <div class="title">
+      Jiahao Chen
+    </div>
+    <P class="text-center">Staff Machine Learning Engineer</P>
+    <P class="text-center">TAL Education Group, China</P>
+  </div>
+
+
+  <div class="avatar-item">
+    <img src="{{site.baseurl}}/images/aaai2024/Zitao-Liu.png" />
+    <div class="title">
+      <a href="https://www.zitaoliu.com/" target="_blank">Zitao Liu</a>
+    </div>
+    <P class="text-center">Dean of Guangdong Institute of Smart Education,</P>
+    <P class="text-center">Jinan University, Guangzhou, China</P>
+  </div>
+
+  <div class="avatar-item">
+    <img src="{{site.baseurl}}/images/aaai2024/Isabelle-Guyon.png" />
+    <div class="title">
+      <a href="https://guyon.chalearn.org/" target="_blank">Isabelle Guyon</a>
+    </div>
+    <P class="text-center">Director of Research</P>
+    <P class="text-center">Google Brain</P>
+  </div>
+
+  <div class="avatar-item">
+    <img src="{{site.baseurl}}/images/aaai2024/Muktha-Ananda.png" />
+    <div class="title">
+      <a href="https://www.linkedin.com/in/mukthananda/" target="_blank">Muktha Ananda</a>
+    </div>
+    <P class="text-center">Director of Engineering</P>
+    <P class="text-center">Google Learning Platform</P>
+  </div>
+
+  <div class="avatar-item">
+    <img src="{{site.baseurl}}/images/aaai2024/Simon-Woodhead.png" />
+    <div class="title">
+      <a href="https://www.linkedin.com/in/simon-woodhead/?originalSubdomain=uk" target="_blank">Simon Woodhead</a>
+    </div>
+    <P class="text-center">Chief Data Scientist and Co-Founder</P>
+    <P class="text-center">EEDI, UK</P>
   </div>
   <div class="avatar-item">
-    <img src="{{site.baseurl}}/images/aaai2024competition/avatar-placeholder.png" alt="User Name" />
-    <h3>Jiong Zhao</h3><h3>TAL Education Group, China</h3>
-  </div>
-  <div class="avatar-item">
-    <img src="{{site.baseurl}}/images/aaai2024competition/avatar-placeholder.png" alt="User Name" />
-    <h3>Jiahao Chen</h3><h3>TAL Education Group, China</h3>
-  </div>
-  <div class="avatar-item">
-    <img src="{{site.baseurl}}/images/aaai2024competition/avatar-placeholder.png" alt="User Name" />
-    <h3>Zitao Liu</h3><h3>Jinan University, China</h3>
-  </div>
-  <div class="avatar-item">
-    <img src="{{site.baseurl}}/images/aaai2024competition/avatar-placeholder.png" alt="User Name" />
-    <h3>Isabelle Guyon</h3><h3>Google, USA</h3>
-  </div>
-  <div class="avatar-item">
-    <img src="{{site.baseurl}}/images/aaai2024competition/avatar-placeholder.png" alt="User Name" />
-    <h3>Muktha Ananda</h3><h3>Google, USA</h3>
-  </div>
-  <div class="avatar-item">
-    <img src="{{site.baseurl}}/images/aaai2024competition/avatar-placeholder.png" alt="User Name" />
-    <h3>Panagiota Konstantinou</h3><h3>EEDI, UK</h3>
-  </div>
-  <div class="avatar-item">
-    <img src="{{site.baseurl}}/images/aaai2024competition/avatar-placeholder.png" alt="User Name" />
-    <h3>Simon Woodhead</h3><h3>EEDI, UK</h3>
+    <img src="{{site.baseurl}}/images/aaai2024/Panagiota-Konstantinou.png" />
+    <div class="title">
+      <a href="https://www.linkedin.com/in/panagiota-konstantinou/" target="_blank">Panagiota Konstantinou</a>
+    </div>
+    <P class="text-center">Machine Learning Research Engineer</P>
+    <P class="text-center">EEDI, UK</P>
   </div>
 </div>
 
