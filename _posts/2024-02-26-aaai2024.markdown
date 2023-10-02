@@ -14,18 +14,18 @@ toc: true
 
 This two-day workshop explores the innovations in artificial intelligence (AI), specifically generative-AI (GenAI), in educational applications, and discusses the related ethical implications of responsible-AI (RAI). Over two days, attendees will examine GenAI technologies, potential vulnerabilities, and the development of RAI standards in an educational context. Through a variety of formats like papers, demonstrations, posters, a global competition on Math reasoning, and opportunities to hear experts and representatives from various communities, participants will explore AI's impact on instruction quality, learner outcomes, and ethics. This workshop ultimately aims to inspire novel ideas, foster partnerships, and navigate the ethical complexities of AI in education. 
 
-## Topics of interest
+# Topics of interest
 
 **Day 1.** Cognitive and learning science principles for improving genAI-based learning frameworks and tutoring systems; Mitigating “hallucinations” in large language models (LLMs) and improving factual validity for education; Improving mathematical and scientific reasoning capabilities of LLMs; Methods and metrics for evaluating GenAI content; AI-based methods to evaluate students, monitor their progress and personalize their education; Analyses, studies, and solutions for preserving academic integrity in the abundance of GenAI models and generated educational content; Benchmark datasets for genAI applications in education; Next generation infrastructure to support research on GenAI for education
 
 
 **Day 2.** Responsible AI (RAI; e.g., Fairness, Accountability, Interpretability, and Transparency) for consequential decision-making in education (e.g. admissions, early warning systems, grading); Methodological contributions and impact of responsible AI in education, including and not restricted to generative modeling, predictive modeling, causal inference, reinforcement learning, and data collection; AI for better student outcomes: applications that use AI to enhance educational interventions under resource constraints and inequity; Privacy, security, and AI Regulation in education equity, pipelines, and representation; surveillance; platform governance; regulating large/foundation models in education settings; Social and cultural impacts of AI in education; historical perspectives and critical theory
 
-## Format of Workshop
+# Format of Workshop
 
 We have a two-day workshop with distinct themes and events on each day. Day 1 will focus on innovations in AI for education specifically highlighting GenAI and a variety of different events including keynotes, invited presentations/posters/demos, a debate all with representation from research and allied communities, and finally, a global challenge on math reasoning. Day 2 will highlight topics on responsibility in AI for education with a keynote, a stellar lineup of invited speakers, a moderated discussion session, expert panels highlighting critical issues in responsible AI, spotlight talks, and a poster session to highlight accepted papers. Participants will be encouraged to think critically, ask questions, identify edge cases for demos, and come together to brainstorm solutions.
 
-## Call for Submissions
+# Call for Submissions
 
 We welcome different kinds of submissions: 
 
@@ -44,7 +44,7 @@ All submissions must be made through the [OpenReview portal for the workshop](ht
 
 [> Access the OpenReview Submission Portal](https://openreview.net/group?id=AAAI.org/2024/Workshop/AI4ED){:target="_blank"}
 
-## Global challenge on math problem solving and reasoning. 
+# Global Challenge on Math Problem Solving and Reasoning
 
 We invite researchers and practitioners worldwide to investigate the opportunities of automatically solving math problems via LLM approaches. More details about this competition can be found at [https://ai4ed.cc/competitions/aaai2024competition](https://ai4ed.cc/competitions/aaai2024competition).
 
@@ -407,6 +407,8 @@ Application Deadline: 12/30/2023
   </div>
 </div>
 
-<div style="margin-bottom: 20px; font-size: 16pt; font-weight: bold;">Collaborating Organizations</div>
+<!-- <div style="margin-bottom: 20px; font-size: 16pt; font-weight: bold;">Collaborating Organizations</div> -->
+
+# Collaborating Organizations
 
 ![Collaborating Organizations]({{site.baseurl}}/images/aaai2024/collaborating-organizations.png) 
