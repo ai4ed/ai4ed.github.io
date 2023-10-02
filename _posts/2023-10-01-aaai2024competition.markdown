@@ -145,7 +145,7 @@ The rules of the competition are as follows:
 <div class="grid-custom grid-cols-4">
 
   <div class="avatar-item">
-    <img src="{{site.baseurl}}/images/aaai2024/avatar.png" />
+    <img src="{{site.baseurl}}/images/aaai2024/Liang-Xu.png" />
     <div class="title">
       Liang Xu
     </div>
@@ -154,7 +154,7 @@ The rules of the competition are as follows:
   </div>
 
   <div class="avatar-item">
-    <img src="{{site.baseurl}}/images/aaai2024/avatar.png" />
+    <img src="{{site.baseurl}}/images/aaai2024/Jiong-Zhao.png" />
     <div class="title">
       Jiong Zhao
     </div>
