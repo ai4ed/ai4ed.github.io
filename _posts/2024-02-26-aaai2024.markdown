@@ -244,8 +244,8 @@ Application Deadline: 12/30/2023
     <div class="title">
       <a href="https://www.linkedin.com/in/jamessharpnack/" target="_blank">James Sharpnack</a>
     </div>
-    <P class="text-center">Staff AI Research Scientist, <b>Duolingo</P>
-    <P class="text-center">Adjunct Associate Professor, <b>UC Davis</P>
+    <P class="text-center">Staff AI Research Scientist, Duolingo</P>
+    <P class="text-center">Adjunct Associate Professor, UC Davis</P>
   </div>
 
   <div class="avatar-item">
@@ -292,8 +292,8 @@ Application Deadline: 12/30/2023
     <div class="title">
       <a href="https://www.linkedin.com/in/jamessharpnack/" target="_blank">James Sharpnack</a>
     </div>
-    <P class="text-center">Staff AI Research Scientist, <b>Duolingo</P>
-    <P class="text-center">Adjunct Associate Professor, <b>UC Davis</P>
+    <P class="text-center">Staff AI Research Scientist, Duolingo</P>
+    <P class="text-center">Adjunct Associate Professor, UC Davis</P>
   </div>
 </div>
 
