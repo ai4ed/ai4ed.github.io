@@ -297,11 +297,11 @@ Application Deadline: 12/30/2023
   </div>
 </div>
 
-<!-- ## Mathematical Reasoning Competition
+## Mathematical Reasoning Competition
 
 <div class="grid-custom grid-cols-3">
 
-  <div class="avatar-item">
+<!--   <div class="avatar-item">
     <img src="{{site.baseurl}}/images/aaai2024/avatar.png" />
     <div class="title">
       Liang Xu
@@ -326,7 +326,7 @@ Application Deadline: 12/30/2023
     </div>
     <P class="text-center">Staff Machine Learning Engineer</P>
     <P class="text-center">TAL Education Group, China</P>
-  </div>
+  </div> -->
 
   <div class="avatar-item">
     <img src="{{site.baseurl}}/images/aaai2024/Zitao-Liu.png" />
@@ -371,7 +371,7 @@ Application Deadline: 12/30/2023
     <P class="text-center">Machine Learning Research Engineer</P>
     <P class="text-center">EEDI, UK</P>
   </div>
-</div> -->
+</div>
 
 ## Debate
 
