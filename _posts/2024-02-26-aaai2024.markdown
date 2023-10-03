@@ -183,7 +183,7 @@ We invite researchers and practitioners worldwide to investigate the opportuniti
   </div>
 </div>
 
-# Tentative Schedule
+# Schedule
 
 Our **2-day** workshop will focus on both AI Innovation (day 1) and Responsible AI (day 2). The detailed workshop schedule can be found at:
 
