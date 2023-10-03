@@ -16,7 +16,7 @@ image: '/images/aaai2024.jpg'
 * 11:00 - 11:40 - INVITED TALK
 * 11:45 - 12:00 - SPOTLIGHT TALK(S) 
 * 12:00 - 13:30 - LUNCH
-* 13:45  - 2:45 - POSTERS 
+* 13:45 - 14:45 - POSTERS 
 * 15:00 - 15:30 - PANEL 1  (TOPIC TBD)
 * 15:30 - 16:00 - TBD
 * 16:00 - 16:30 - PANEL 2  (TOPIC TBD)
