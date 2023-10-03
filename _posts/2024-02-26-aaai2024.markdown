@@ -183,6 +183,14 @@ We invite researchers and practitioners worldwide to investigate the opportuniti
   </div>
 </div>
 
+# Tentative Schedule
+
+Our **2-day** workshop will focus on both AI Innovation (day 1) and Responsible AI (day 2). The detailed workshop schedule can be found at:
+
+* Day 1, February 26, 2024. AI Innovation. [https://ai4ed.cc/aaai2024day1/](https://ai4ed.cc/aaai2024day1/)
+
+* Day 2, February 27, 2024. Responsible AI. [https://ai4ed.cc/aaai2024day2/](https://ai4ed.cc/aaai2024day2/)
+
 # Travel Scholarship
 
 We are pleased to announce travel scholarships to the AAAI 2024 conference and attendance at the AI in Education: Bridging Innovation and Responsibility workshop. These scholarships are intended to broaden participation in the conference and the workshop, with a focus on reaching underserved and underrepresented undergraduate and graduate students as well as postdocs in the machine learning and AI domain. Each award is valued at $2000 CAD and is intended to cover travel, accommodation, and registration fees. We look forward to your applications and hope to see you in Vancouver, Canada, in February 2024.
