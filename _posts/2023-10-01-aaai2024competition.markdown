@@ -99,6 +99,9 @@ Here, we provide a real sample from TAL-SAQ6K-EN and TAL-SAQ7K-CN respectively.
 
 We provide three test baseline methods for this competition, which are **GPT-3.5**, **GPT-4**, and **MathGPT**. Their performance on the public leaderboard is as follows:
 
+|   | TAL-SAQ7K-CN-Public | TAL-SAQ6K-EN-Public |
+| -------- | -------- | -------- |
+| GPT3.5| 13.5| 50.84 |
 
 ### Submission Site
 
