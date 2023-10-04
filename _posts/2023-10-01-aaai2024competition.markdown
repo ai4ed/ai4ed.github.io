@@ -105,6 +105,10 @@ We provide three test baseline methods for this competition, which are **GPT-3.5
 
 We use Codabench to receive submission results, please submit your results at: 
 
+- Track 1: [https://www.codabench.org/competitions/1455/](https://www.codabench.org/competitions/1455/)
+
+- Track 2: [https://www.codabench.org/competitions/1456/](https://www.codabench.org/competitions/1456/)
+
 
 ## Competition Schedule
 
