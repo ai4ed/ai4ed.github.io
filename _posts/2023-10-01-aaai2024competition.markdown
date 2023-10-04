@@ -100,7 +100,18 @@ Here, we provide a real sample from TAL-SAQ6K-EN and TAL-SAQ7K-CN respectively.
 We provide three test baseline methods for this competition, which are **GPT-3.5**, **GPT-4**, and **MathGPT**. Their performance on the public leaderboard is as follows:
 
 
-### Submission Site
+### Submission Instructions
+
+In this competition, we require the participants to submit their prediction results of all math problems in either track 1 or track 2. As we mentioned, there are 7436 and 5927 math problems in track 1 and track 2 respectively.
+
+When preparing the prediction results, please strictly following the rules below:
+
+- Generate your prediction results in a JSON format: The JSON file should only contain queIds (unique identifier of each question) as the key, and the cleaned final answer (extracted from the models' original generations) in **str** format as the value. 
+- Name your prediction results files to **TAL_SAQ7K_CN_prediction.json** for track 1 and **TAL_SAQ6K_EN_prediction.json** for track 2.
+- When submitting, put the prediction result file TAL_SAQ7K_CN_prediction.json or TAL_SAQ6K_EN_prediction.json in a constructed directory and go inside the directory to do zip, instead of doing zip outside the directory.
+
+
+Here is an example of expected submission format: [https://github.com/math-eval/aaai2024comp/blob/main/submission_example.json](https://github.com/math-eval/aaai2024comp/blob/main/submission_example.json).
 
 
 We use Codabench to receive submission results, please submit your results at: 
@@ -108,6 +119,7 @@ We use Codabench to receive submission results, please submit your results at:
 - Track 1: [https://www.codabench.org/competitions/1455/](https://www.codabench.org/competitions/1455/)
 
 - Track 2: [https://www.codabench.org/competitions/1456/](https://www.codabench.org/competitions/1456/)
+
 
 
 ## Competition Schedule
@@ -123,10 +135,10 @@ All deadlines are at 11:59 PM UTC on the corresponding day unless otherwise note
 
 ## Award
 
-- We will provide cash prizes for the top-3 teams (1st place: $1000; 2nd place: $600 ; 3rd place $300)
-- An official certificate will be awarded to the top-3 teams.
-- The top-3 teams will be invited to give oral presentations during AAAI 2024.
-- The first author of the top-3 teams will be invited to contribute to a competition review paper.
+- We will provide cash prizes for the top-3 teams of both tracks (1st place: $1000; 2nd place: $600; 3rd place $300)
+- An official certificate will be awarded to the top-3 teams for both track 1 and track 2.
+- The top-3 teams of two tracks will be invited to give oral presentations during AAAI 2024.
+- The first author of the top-3 teams from both tracks will be invited to contribute to a competition review paper.
 
 Note: The top-3 teams should make their training and testing code publicly available for verification after the testing submission deadline.
 
@@ -139,6 +151,8 @@ Note: The top-3 teams should make their training and testing code publicly avail
 ## Terms and Conditions
 
 The rules of the competition are as follows:
+
+- Participants can choose to participate one of two tracks or both.
 - Submitted code must use a machine learning model to generate predictions. Submission of hard-coded prediction results is prohibited.
 - Users may work in teams of up to 6 people.
 - For participants to be eligible for prizes, their code must be publicly available.
