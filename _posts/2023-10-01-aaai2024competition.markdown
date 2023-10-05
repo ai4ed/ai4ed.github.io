@@ -111,7 +111,12 @@ When preparing the prediction results, please strictly following the rules below
 
 - Generate your prediction results in a JSON format: The JSON file should only contain queIds (unique identifier of each question) as the key, and the cleaned final answer (extracted from the models' original generations) in **str** format as the value. 
 - Name your prediction results files to **TAL_SAQ7K_CN_prediction.json** for track 1 and **TAL_SAQ6K_EN_prediction.json** for track 2.
-- When submitting, put the prediction result file TAL_SAQ7K_CN_prediction.json or TAL_SAQ6K_EN_prediction.json in a constructed directory and go inside the directory to do zip, instead of doing zip outside the directory.
+- Please **zip** your json result file as follows:
+  * create a folder and put your json file in.
+  * open your terminal and cd to the folder
+  * run the **zip** command as ___zip file_to_be_submitted.zip *___
+- Submit the **file_to_be_submitted.zip** file to Codabench.
+
 
 
 Here is an example of expected submission format: [https://github.com/math-eval/aaai2024comp/blob/main/submission_example.json](https://github.com/math-eval/aaai2024comp/blob/main/submission_example.json).
