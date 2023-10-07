@@ -37,24 +37,50 @@ All submissions must follow the [PMLR style template](https://rice.box.com/s/4it
 
 *Accepted full papers will be invited to submit an extended version, addressing the remarks of the reviewers, to PMLR ([https://proceedings.mlr.press/](https://proceedings.mlr.press/){:target="_blank"}) to be published as part of the Workshop Proceedings.*
 
-## Submission Process
-
-All submissions must be made through the [OpenReview portal for the workshop](https://openreview.net/group?id=AAAI.org/2024/Workshop/AI4ED){:target="_blank"}. Authors must have an OpenReview account in order to make submissions. All submissions must follow the [PMLR style template](https://rice.box.com/s/4itqz94qaxxkycq0r6zqla186pz9ed3y){:target="_blank"}.
-
-
-[> Access the OpenReview Submission Portal](https://openreview.net/group?id=AAAI.org/2024/Workshop/AI4ED){:target="_blank"}
-
-# Global Challenge on Math Problem Solving and Reasoning
-
-We invite researchers and practitioners worldwide to investigate the opportunities of automatically solving math problems via LLM approaches. More details about this competition can be found at [https://ai4ed.cc/competitions/aaai2024competition](https://ai4ed.cc/competitions/aaai2024competition).
-
 # Important Dates
 
 * Submission opens: September 29, 2023 
 * **Submission due: November 23, 2023, by 23:59 PM AoE**
 * **Final paper decision:	December 11, 2023**
-* Camera-ready: January 15, 2024
+* Camera-ready: February 15, 2024
 * Workshop Dates: February 26-27, 2024
+
+## Submission Process
+
+All submissions must be made through the [OpenReview portal for the workshop](https://openreview.net/group?id=AAAI.org/2024/Workshop/AI4ED){:target="_blank"}. Authors must have an OpenReview account in order to make submissions. All submissions must follow the [PMLR style template](https://rice.box.com/s/4itqz94qaxxkycq0r6zqla186pz9ed3y){:target="_blank"}.
+
+### Submission Guidelines
+Workshop submissions are anonymous and must conform to the instructions (detailed below) for double-blind review. The authors must remove all author and affiliation information from their submission for review and may replace it with other information, such as paper number and keywords. Submissions may consist of up to 6 pages of technical content plus additional pages solely for references; acknowledgments should be omitted from papers submitted for review.
+Only PDF files are required at the time of submission for review; authors will additionally need to submit paper source files if their paper is accepted for publication.
+
+[> Access the OpenReview Submission Portal](https://openreview.net/group?id=AAAI.org/2024/Workshop/AI4ED){:target="_blank"}
+
+#### Submission Limit per Author
+Each individual author is limited to no more than a combined limit of 5 submissions to the AI4ED-AAAI24 workshop (including papers in the Innovation and Responsible AI tracks) and authors may not be added to papers following submission (see below for policies about author changes).
+
+#### Guidelines for Changes to Titles/Authors after Submissions
+MODIFICATIONS TO SUBMISSIONS ARE ONLY ALLOWED UNTIL SUBMISSION DEADLINE (November 23, 2023). No exceptions will be granted. Please see the full policy on [Paper Modification Guidelines](https://aaai.org/aaai-conference/paper-modification-guidelines/).
+
+#### Policy Concerning Multiple Submissions to Conferences or Journals
+This workshop will not consider any paper that, at the time of submission, is under review or has already been published or accepted for publication in any archival venue such as a journal or a conference (workshops and preprint servers such as arXiv are acceptable). Authors are free to retract a submission from a venue with a concurrent review process (e.g., from NeurIPS-23) and submit the same work to the AI4ED-AAAI24 workshop  as a full paper, provided that this retraction occurs before the AI4ED-AAAI-24 submission. Authors must confirm at the time of submission that the paper is not under review at another archival conference or journal.
+Once they have made a submission to the workshop, authors may not submit the same paper to another archival conference or journal until they receive an accept/reject decision from AI4ED-AAAI24 or they withdraw their submission from AI4ED-AAAI-24. In some cases, it may require a judgment call to determine whether two concurrent submissions constitute a violation of AAAI’s multiple submission policy. If a concern is raised about the similarity of two non-identical submissions, at least three people will inspect whatever information is available about both submissions. If they all agree that the simultaneous submission has excessive technical overlap, the paper will be summarily rejected and the organizers of the other conference will be informed about AAAI’s decision. As with all summary rejects, such decisions are final.
+
+#### Citation and Comparison
+Papers are expected to cite those refereed publications most relevant to their content, but authors are excused for not knowing about all non-refereed work (e.g, appearing on arXiv). Nevertheless, in cases where such prior work is widely known in the field, its existence may be considered by reviewers in assessing a submission’s novelty. Papers published less than two months before the regular paper submission deadline (November 23, 2023) are considered contemporaneous to all AAAI-24 submissions; authors are not obliged to address such papers (though, especially for the camera-ready versions of accepted papers, authors are encouraged to do so).
+
+#### Reproducibility Guidelines
+Authors must complete a [reproducibility checklist](https://aaai.org/aaai-conference/reproducibility-checklist/) at the time of paper submission, which outlines how to reproduce the results of the submission. These responses will become part of each paper submission and will be shared with reviewers. Information related to reproducing experimental results described in the submission may be included in the main paper or the Code and Data Appendix, as appropriate. Further technical details (proofs, descriptions of assumptions, algorithm pseudocode) may be included in the Technical Appendix. When appropriate, authors are encouraged to include detailed information about each reproducibility criterion as part of their Technical Appendix. Reviewers will be asked to assess the degree to which the results reported in a paper are reproducible, and this assessment will be weighed when making final decisions about each paper.
+
+#### Ethics Policy
+All AAAI authors and reviewers are required to honor the [AAAI Publications Ethics and Malpractice Statement](http://aaai.org/wp-content/uploads/2023/01/Publications_Ethics_and_Malpractice_Statement.pdf), as well as the [AAAI Code of Professional Conduct](https://aaai.org/Conferences/code-of-ethics-and-conduct.php). A paper may be rejected if an author is found to violate the AAAI Publications Ethics and Malpractice Statement or the AAAI Code of Professional Conduct.
+Demonstrations
+During paper submission, authors will be able to express interest in giving a public demo of the systems described in the paper. Based on these expressions of interest and reviews, papers will be selected to participate in a demonstration session, which will happen in addition to technical talks and posters.
+
+
+
+# Global Challenge on Math Problem Solving and Reasoning
+
+We invite researchers and practitioners worldwide to investigate the opportunities of automatically solving math problems via LLM approaches. More details about this competition can be found at [https://ai4ed.cc/competitions/aaai2024competition](https://ai4ed.cc/competitions/aaai2024competition).
 
 ---
 
@@ -89,7 +115,7 @@ We invite researchers and practitioners worldwide to investigate the opportuniti
     <div class="title">
       <a href="https://www.umu.se/en/staff/virginia-dignum/" target="_blank">Virginia Dignum</a>
     </div>
-    <P class="text-center">Professor in Responsible AI and the scientific Director of WASP-HS (Humanities and Society), Umea University</P>
+    <P class="text-center">Professor in Responsible AI and the Scientific Director of WASP-HS (Humanities and Society), Umea University</P>
   </div>
   <div class="avatar-item">
     <img src="{{site.baseurl}}/images/aaai2024/Will-Belzak.png" />
