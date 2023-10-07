@@ -107,8 +107,7 @@ We invite researchers and practitioners worldwide to investigate the opportuniti
     <div class="title">
       <a href="https://morehouse.edu/gosha-kennis/" target="_blank">Kinnis Gosha</a>
     </div>
-    <P class="text-center">Hortenius I. Chenault Endowed Associate Professor & Director, Culturally Relevant Computer Lab</P>
-    <P class="text-center"> Morehouse College</P>
+    <P class="text-center">Hortenius I. Chenault Endowed Associate Professor & Director, Culturally Relevant Computer Lab, Morehouse College</P>
   </div>
 
   <div class="avatar-item">
