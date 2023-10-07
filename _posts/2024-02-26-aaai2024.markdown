@@ -102,6 +102,16 @@ We invite researchers and practitioners worldwide to investigate the opportuniti
     </div>
     <P class="text-center">Director-Center for Technology Innovation, Brookings Institute</P>
   </div>
+    <div class="avatar-item">
+    <img src="{{site.baseurl}}/images/aaai2024/Kinnis-Gosha.jpeg" />
+    <div class="title">
+      <a href="https://morehouse.edu/gosha-kennis/" target="_blank">Kinnis Gosha</a>
+    </div>
+    <P class="text-center">Hortenius I. Chenault Endowed Associate Professor & Director, Culturally Relevant Computer Lab, Morehouse College</P>
+    <P class="text-center"> Director, Culturally Relevant Computer Lab, </P>
+    <P class="text-center"> Morehouse College</P>
+  </div>
+
   <div class="avatar-item">
     <img src="{{site.baseurl}}/images/aaai2024/Emma-Brunskill.png" />
     <div class="title">
@@ -206,6 +216,22 @@ We invite researchers and practitioners worldwide to investigate the opportuniti
     </div>
     <P class="text-center">Assistant Professor of Sociology and Data Science, </P>
     <p class="text-center">University of Florida</p>
+  </div>
+  <div class="avatar-item">
+    <img src="{{site.baseurl}}/images/aaai2024/Caroline-Running-Wolf.jpeg" />
+    <div class="title">
+       <a href="https://mila.quebec/en/project/flair-initiative/" target="_blank">Caroline Running Wolf</a>
+    </div>
+    <P class="text-center">Program Lead, </P>
+    <p class="text-center">FLAIR</p>
+  </div>
+   <div class="avatar-item">
+    <img src="{{site.baseurl}}/images/aaai2024/Michael-Running-Wolf.jpeg" />
+    <div class="title">
+       <a href="https://mila.quebec/en/project/flair-initiative/" target="_blank">Michael Running Wolf</a>
+    </div>
+    <P class="text-center">Technical Director, </P>
+    <p class="text-center">FLAIR</p>
   </div>
 </div>
 
