@@ -102,6 +102,8 @@ We provide three test baseline methods for this competition, which are **GPT-3.5
 |   | TAL-SAQ7K-CN-Public | TAL-SAQ6K-EN-Public |
 | -------- | -------- | -------- |
 | GPT3.5| 13.5| 50.84 |
+| GPT4 | 33.9 | 69.52 |
+| MathGPT | 51.75 | 43.7 |
 
 ### Submission Instructions
 
