@@ -45,6 +45,7 @@ All submissions must follow the [PMLR style template](https://rice.box.com/s/4it
 * Camera-ready: February 15, 2024
 * Workshop Dates: February 26-27, 2024
 * **Travel Scholarship applications due: November 23, 2023**
+* Travel scholarship announcements: December 15, 2023
 
 ## Submission Process
 
@@ -256,6 +257,7 @@ We are pleased to announce travel scholarships to the AAAI 2024 conference and a
 
 <div style="margin-bottom: 20px; font-size: 16pt; font-weight: bold; color: #1155cc;">
 Application Deadline: 11/23/2023
+Recipient announcement: 12/15/2023  
 </div>
 
 <div style="margin-bottom: 30px; padding: 40px 0; background: #f9f9f9; text-align: center;">
