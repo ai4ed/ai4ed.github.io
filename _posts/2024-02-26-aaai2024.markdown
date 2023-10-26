@@ -261,7 +261,7 @@ Recipient announcement: 12/15/2023
 </div>
 
 <div style="margin-bottom: 30px; padding: 40px 0; background: #f9f9f9; text-align: center;">
-  <a href="https://forms.gle/kE2KCTnTn1gBZMxKA" target="_blank">
+  <a href="https://forms.gle/bmCpbU1pYtVK3u139" target="_blank">
     Click here to apply
   </a>
 </div>
