@@ -111,6 +111,14 @@ We invite researchers and practitioners worldwide to investigate the opportuniti
     </div>
     <P class="text-center">Hortenius I. Chenault Endowed Associate Professor & Director, Culturally Relevant Computer Lab, Morehouse College</P>
   </div>
+   </div>
+    <div class="avatar-item">
+    <img src="{{site.baseurl}}/images/aaai2024/Jeremy Roschelle.jpeg" />
+    <div class="title">
+      <a href="https://digitalpromise.org/our-team/jeremy-roschelle/" target="_blank">Jeremy Roschelle</a>
+    </div>
+    <P class="text-center">Executive Director, Digital Promise</P>    
+  </div>
 
   <div class="avatar-item">
     <img src="{{site.baseurl}}/images/aaai2024/Emma-Brunskill.png" />
