@@ -38,8 +38,12 @@ layout: default
           </div>
         </div>
 
+        {% if page.toc %}
+        <div id="toc"></div>
+        {% endif %}
+
         <div class="post__content">
-          {{ content | toc }}
+          {{ content }}
         </div>
 
         <div class="post__share">

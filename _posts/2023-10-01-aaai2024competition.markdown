@@ -8,8 +8,6 @@ featured: false
 category: competitions
 ---
 
-
-
 ## Background
 
 Mathematics has always been regarded as the touchstone of artificial intelligence. The ability to reason mathematically represents, to a certain extent, the level of intelligence of today's general artificial intelligence cognitive models. When large language models (LLMs) overcome their "innate defects" (such as lack of complex reasoning capabilities, inaccurate numerical calculations, etc.) and successfully cope with the challenges of mathematical reasoning, the world of artificial intelligence will enter a new era.
