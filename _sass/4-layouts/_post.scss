@@ -1,5 +1,13 @@
 /* Post */
 .post {
+  .toc-entry {
+    a {
+      border-bottom: none;
+    }
+  }
+}
+
+.post {
   position: relative;
   margin-bottom: 30px;
 }
