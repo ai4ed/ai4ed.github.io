@@ -97,6 +97,13 @@ We invite researchers and practitioners worldwide to investigate the opportuniti
     <P class="text-center">Geometric Intelligence - Founder</P>
   </div>
   <div class="avatar-item">
+    <img src="{{site.baseurl}}/images/aaai2024/Vered-Shwartz.png" />
+    <div class="title">
+      <a href="https://www.cs.ubc.ca/~vshwartz/" target="_blank">Vered Shwartz</a>
+    </div>
+    <P class="text-center">Assistant Professor of Computer Science, University of British Columbia</P>
+  </div>
+  <div class="avatar-item">
     <img src="{{site.baseurl}}/images/aaai2024/Nicole-Turner-Lee.png" />
     <div class="title">
       <a href="https://www.brookings.edu/people/nicol-turner-lee/" target="_blank">Nicole Turner Lee</a>
