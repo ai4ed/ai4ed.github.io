@@ -32,7 +32,8 @@ We welcome different kinds of submissions:
 
 - **Full papers (up to 6 pages + references).** Novel research papers, Appraisal papers of existing methods and tools (e.g., lessons learned), Benchmark datasets highlighting the application of GenAI, Evaluatory papers that revisit the validity of domain assumptions
 
-All submissions must follow the [PMLR style template](https://rice.box.com/s/4itqz94qaxxkycq0r6zqla186pz9ed3y){:target="_blank"}.
+Full paper submissions must follow the [PMLR style template](https://rice.box.com/s/4itqz94qaxxkycq0r6zqla186pz9ed3y){:target="_blank"}.
+*Update:* Short paper submissions should follow the [AAAI style template](https://aaai.org/authorkit24-2/){:target="_blank"}.
 
 *Accepted full papers will be invited to submit an extended version, addressing the remarks of the reviewers, to PMLR ([https://proceedings.mlr.press/](https://proceedings.mlr.press/){:target="_blank"}) to be published as part of the Workshop Proceedings.*
 
@@ -48,7 +49,8 @@ All submissions must follow the [PMLR style template](https://rice.box.com/s/4it
 
 ## Submission Process
 
-All submissions must be made through the [OpenReview portal for the workshop](https://openreview.net/group?id=AAAI.org/2024/Workshop/AI4ED){:target="_blank"}. Authors must have an OpenReview account in order to make submissions. All submissions must follow the [PMLR style template](https://rice.box.com/s/4itqz94qaxxkycq0r6zqla186pz9ed3y){:target="_blank"}.
+All submissions must be made through the [OpenReview portal for the workshop](https://openreview.net/group?id=AAAI.org/2024/Workshop/AI4ED){:target="_blank"}. Authors must have an OpenReview account in order to make submissions. Full paper submissions must follow the [PMLR style template](https://rice.box.com/s/4itqz94qaxxkycq0r6zqla186pz9ed3y){:target="_blank"}.  Short paper submissions should follow the [AAAI style template](https://aaai.org/authorkit24-2/){:target="_blank"}.
+
 
 ### Submission Guidelines
 Workshop submissions are anonymous and must conform to the instructions (detailed below) for double-blind review. The authors must remove all author and affiliation information from their submission for review and may replace it with other information, such as paper number and keywords. Submissions may consist of up to 6 pages of technical content plus additional pages solely for references; acknowledgments should be omitted from papers submitted for review.
@@ -172,14 +174,6 @@ We invite researchers and practitioners worldwide to investigate the opportuniti
     <P class="text-center">Assistant Professor in Education Data Science, </P>
     <P class="text-center">Stanford Graduate School of Education</P>
   </div>
-  <div class="avatar-item">
-    <img src="{{site.baseurl}}/images/aaai2024/Jodi-Forlizzi.png" />
-    <div class="title">
-      <a href="https://hcii.cmu.edu/people/jodi-forlizzi" target="_blank">Jodi Forlizzi</a>
-    </div>
-    <P class="text-center">Professor in Computer Science and Human-Computer Interaction Institute, </P>
-    <p class="text-center">Carnegie Mellon University</p>
-  </div>
 
   <div class="avatar-item">
     <img src="{{site.baseurl}}/images/aaai2024/Matt-Johnson.png" />
@@ -211,8 +205,8 @@ We invite researchers and practitioners worldwide to investigate the opportuniti
     <div class="title">
       <a href="https://www.victoriayaneva.info/" target="_blank">Victoria Yaneva</a>
     </div>
-    <P class="text-center">Manager, </P>
-    <P class="text-center">NLP Science at NBME</P>
+    <P class="text-center">Manager NLP Research</P>
+    <P class="text-center">National Board of Medical Examiners (NBME)</P>
   </div>
   <div class="avatar-item">
     <img src="{{site.baseurl}}/images/aaai2024/Renzhe-Yu.png" />
