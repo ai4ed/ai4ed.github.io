@@ -7,11 +7,17 @@ tags: [Workshop, AAAI]
 featured: true
 category: workshops
 toc: true
+toc_float:
+      collapsed: true
+      smooth_scroll: true
 ---
 
 # Workshop Overview
 
-This two-day workshop explores the innovations in artificial intelligence (AI), specifically generative-AI (GenAI), in educational applications, and discusses the related ethical implications of responsible-AI (RAI). Over two days, attendees will examine GenAI technologies, potential vulnerabilities, and the development of RAI standards in an educational context. Through a variety of formats like papers, demonstrations, posters, a global competition on Math reasoning, and opportunities to hear experts and representatives from various communities, participants will explore AI's impact on instruction quality, learner outcomes, and ethics. This workshop ultimately aims to inspire novel ideas, foster partnerships, and navigate the ethical complexities of AI in education. 
+This **two-day in-person** workshop explores the innovations in artificial intelligence (AI), specifically generative-AI (GenAI), in educational applications, and discusses the related ethical implications of responsible-AI (RAI). Over two days, attendees will examine GenAI technologies, potential vulnerabilities, and the development of RAI standards in an educational context. Through a variety of formats like papers, demonstrations, posters, a global competition on Math reasoning, and opportunities to hear experts and representatives from various communities, participants will explore AI's impact on instruction quality, learner outcomes, and ethics. This workshop ultimately aims to inspire novel ideas, foster partnerships, and navigate the ethical complexities of AI in education. 
+
+Date: February 26-27, 2024
+Location: Vancouver Convention Center, Vancouver, Canada
 
 # Topics of interest
 
