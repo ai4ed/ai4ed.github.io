@@ -466,15 +466,16 @@ Recipient announcement: 12/15/2023
     <P class="text-center">Associate Professor, Computer Science</P>
     <P class="text-center">University of British Columbia, Canada</P>
   </div>
-</div>
-
-  <div class="avatar-item">
+      <div class="avatar-item">
     <img src="{{site.baseurl}}/images/aaai2024/Jeremy Roschelle.jpeg" />
     <div class="title">
       <a href="https://digitalpromise.org/our-team/jeremy-roschelle/" target="_blank">Jeremy Roschelle</a>
     </div>
     <P class="text-center">Executive Director, Digital Promise</P>    
   </div>
+</div>
+
+  
 
 ## Travel Scholarship 
 
