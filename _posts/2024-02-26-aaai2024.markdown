@@ -30,6 +30,14 @@ Location: Vancouver Convention Center, Vancouver, Canada
 
 We have a two-day workshop with distinct themes and events on each day. Day 1 will focus on innovations in AI for education specifically highlighting GenAI and a variety of different events including keynotes, invited presentations/posters/demos, a debate all with representation from research and allied communities, and finally, a global challenge on math reasoning. Day 2 will highlight topics on responsibility in AI for education with a keynote, a stellar lineup of invited speakers, a moderated discussion session, expert panels highlighting critical issues in responsible AI, spotlight talks, and a poster session to highlight accepted papers. Participants will be encouraged to think critically, ask questions, identify edge cases for demos, and come together to brainstorm solutions.
 
+# Register for Workshop
+
+Please register for the workshop [here](https://aaai.org/aaai-conference/registration/#ws-only). 
+
+If you need an invitation letter, then please follow the instructions on the [AAAI website](https://aaai.org/aaai-conference/registration/):
+
+> Letters of invitation for visa application purposes are available through your registration confirmation email. Please follow the instructions in your confirmation email to apply for a visa letter and receive the necessary documentation for a Canadian visa.
+
 # Call for Submissions
 
 We welcome different kinds of submissions: 
