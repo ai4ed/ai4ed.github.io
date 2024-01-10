@@ -65,6 +65,12 @@ Full paper submissions must follow the [PMLR style template](https://rice.box.co
 
 All submissions must be made through the [OpenReview portal for the workshop](https://openreview.net/group?id=AAAI.org/2024/Workshop/AI4ED){:target="_blank"}. Authors must have an OpenReview account to make submissions. Full paper submissions must follow the [PMLR style template](https://rice.box.com/s/4itqz94qaxxkycq0r6zqla186pz9ed3y){:target="_blank"}.  Short paper submissions should follow the [AAAI style template](https://aaai.org/authorkit24-2/){:target="_blank"}.
 
+### Posters
+Posters are 30"x 40" and can be portrait or landscape orientation.
+
+### Camera-ready versions
+Instructions coming soon.
+
 
 ### Submission Guidelines
 Workshop submissions are anonymous and must conform to the instructions (detailed below) for double-blind review. The authors must remove all author and affiliation information from their submission for review and may replace it with other information, such as paper number and keywords. Submissions may consist of up to 6 pages of technical content plus additional pages solely for references; acknowledgments should be omitted from papers submitted for review.
