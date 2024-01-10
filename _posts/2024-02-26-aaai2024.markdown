@@ -122,7 +122,7 @@ We invite researchers and practitioners worldwide to investigate the opportuniti
   <div class="avatar-item">
     <img src="{{site.baseurl}}/images/aaai2024/Nicole-Turner-Lee.png" />
     <div class="title">
-      <a href="https://www.brookings.edu/people/nicol-turner-lee/" target="_blank">Nicole Turner Lee</a>
+      <a href="https://www.brookings.edu/people/nicol-turner-lee/" target="_blank">Nicol Turner Lee</a>
     </div>
     <P class="text-center">Director-Center for Technology Innovation, Brookings Institute</P>
   </div>
