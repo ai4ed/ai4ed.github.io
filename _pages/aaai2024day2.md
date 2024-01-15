@@ -6,7 +6,7 @@ image: '/images/aaai2024.jpg'
 ---
 
 
-# Agenda (Tentative)
+# Agenda
 
 ## Day 2, February 27, 2024
 
