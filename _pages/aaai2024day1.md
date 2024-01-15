@@ -10,6 +10,8 @@ image: '/images/aaai2024.jpg'
 
 ## Day 1, February 26, 2024
 
+ <img src="{{site.baseurl}}/images/aaai2024/day1_agenda.png" />
+
 * 09:00 - 09:05 - Opening Remarks by **Isabelle Guyon, Google Brain**
 * 09:05 - 09:XX - Keynote 1
 * 09:XX - 10:XX - 4 Contributed Talks (~14 min each)
