@@ -39,7 +39,7 @@ If you need an invitation letter, then please follow the instructions on the [AA
 > Letters of invitation for visa application purposes are available through your registration confirmation email. Please follow the instructions in your confirmation email to apply for a visa letter and receive the necessary documentation for a Canadian visa.
 
 # Getting your submission camera-ready
-Thank you all for submitting your work to the AI4Ed Workshop at AAAI, 2024! Camera-ready versions are due on February 15, 2024, by 11:59 ET. 
+Thank you all for submitting your work to the AI4Ed Workshop at AAAI, 2024! Camera-ready versions are due on February 15, 2024, by 11:59 PM ET. 
 
 If you missed adding anyone to the manuscript during submission last year, please make sure all co-authors have an OpenReview account and have been added to the camera-ready manuscript. **All authorship and content must be final in the camera-ready version.** 
 
