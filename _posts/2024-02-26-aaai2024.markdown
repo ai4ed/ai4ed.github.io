@@ -50,12 +50,13 @@ All camera-ready versions will be submitted using OpenReview. Instructions for c
 ## Short-papers
 - [ ] Add a cover letter addressing reviews
 - [ ] Concisely address reviews in short paper
+- [ ] Short paper submissions should follow the [AAAI style template](https://aaai.org/authorkit24-2/){:target="_blank"}
 
 ## Full-papers
 
 - [ ] Add a cover letter addressing reviews
 - [ ] Can add up to two additional pages to the submission to effectively address the reviews.
-- [ ] Full paper submissions must follow the [PMLR style template](https://rice.box.com/s/4itqz94qaxxkycq0r6zqla186pz9ed3y).
+- [ ] Full paper submissions must follow the [PMLR style template](https://rice.box.com/s/4itqz94qaxxkycq0r6zqla186pz9ed3y){:target="_blank"}.
 - [ ] Authors can opt-in to submit their papers as part of the conference proceedings in PMLR. [Learn more](conference-proceedings).
 
 # Posters
@@ -71,7 +72,7 @@ All slide presentations must be uploaded to the google folder by February 20, 20
 
 # Conference proceedings
 - Accepted full papers will be invited to submit an extended version, addressing the remarks of the reviewers, to PMLR (https://proceedings.mlr.press/) to be published as part of the Workshop Proceedings. If authors would like to opt-out of the proceedings, they should email the organizers at ai4ed-24@aaai.org by 02/15/2024.
-- The authors must submit separate PDF files for the paper. Full paper submissions must follow the [PMLR style template](https://rice.box.com/s/4itqz94qaxxkycq0r6zqla186pz9ed3y). It is similar to that of JMLR, but the header must be "Proceedings of Machine Learning Research" instead of "Journal of Machine Learning Research"
+- The authors must submit separate PDF files for the paper. Full paper submissions must follow the [PMLR style template](https://rice.box.com/s/4itqz94qaxxkycq0r6zqla186pz9ed3y){:target="_blank"}. It is similar to that of JMLR, but the header must be "Proceedings of Machine Learning Research" instead of "Journal of Machine Learning Research"
 - *Acceptance to the proceedings is contingent upon adequately addressing the reviews in the camera-ready version which will undergo editorial review.*
 
 
