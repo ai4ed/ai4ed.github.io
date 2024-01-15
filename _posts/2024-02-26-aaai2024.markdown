@@ -45,7 +45,8 @@ If you missed adding anyone to the manuscript during submission last year, pleas
 
 Irrespective of whether you submitted a short- or long-paper, you need to submit a cover letter addressing the reviewer comments as well as address the comments in your work. Here are the instructions for getting your submissions camera-ready. 
 
-All camera-ready versions will be submitted using OpenReview. Instructions for camera-ready submission on OpenReview will follow shortly!
+All camera-ready versions will be submitted using the [OpenReview portal for the workshop](https://openreview.net/group?id=AAAI.org/2024/Workshop/AI4ED){:target="_blank"}. On OpenReview, go to the author console, navigate to your paper, click edit, and camera-ready. Fill out the form, and upload the new version and the cover letter.
+
 
 ## Short-papers
 - [ ] Add a cover letter addressing reviews
