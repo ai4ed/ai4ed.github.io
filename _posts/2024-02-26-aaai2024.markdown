@@ -38,6 +38,43 @@ If you need an invitation letter, then please follow the instructions on the [AA
 
 > Letters of invitation for visa application purposes are available through your registration confirmation email. Please follow the instructions in your confirmation email to apply for a visa letter and receive the necessary documentation for a Canadian visa.
 
+# Getting your submission camera-ready
+Thank you all for submitting your work to the AI4Ed Workshop at AAAI, 2024! Camera-ready versions are due on February 15, 2024, by 11:59 ET. 
+
+If you missed adding anyone to the manuscript during submission last year, please make sure all co-authors have an OpenReview account and have been added to the camera-ready manuscript. **All authorship and content must be final in the camera-ready version.** 
+
+Irrespective of whether you submitted a short- or long-paper, you need to submit a cover letter addressing the reviewer comments as well as address the comments in your work. Here are the instructions for getting your submissions camera-ready. 
+
+All camera-ready versions will be submitted using OpenReview. Instructions for camera-ready submission on OpenReview will follow shortly!
+
+## Short-papers
+- [ ] Add a cover letter addressing reviews
+- [ ] Concisely address reviews in short paper
+
+## Full-papers
+
+- [ ] Add a cover letter addressing reviews
+- [ ] Can add up to two additional pages to the submission to effectively address the reviews.
+- [ ] Full paper submissions must follow the [PMLR style template](https://rice.box.com/s/4itqz94qaxxkycq0r6zqla186pz9ed3y).
+- [ ] Authors can opt-in to submit their papers as part of the conference proceedings in PMLR. [Learn more](conference-proceedings).
+
+# Posters
+Poster submissions will be 30" x 40" and can be portrait or landscape orientation. Posters can be set up on the day of the workshop starting at 8.30 am.
+Poster session times
+- Day 1: 10.30 am - 11 am (during break), 11.45 am to 12.30 pm, 3.30 pm - 4.00 pm (during break)
+- Day 2: Poster spotlights (10.15 am - 10.30 am), 10.30 am - 11 am (during break), 3.30 pm - 4.00 pm (during break)
+
+# Talks
+All slide presentations must be uploaded to the google folder by February 20, 2024. Upload your presentations to the folder based on your day of presentation.
+- [Day 1](https://drive.google.com/drive/folders/1sMIZbRUlXinVDmfG5eeLDOwGcnPDX9vS?usp=sharing)
+- [Day 2](https://drive.google.com/drive/folders/1ZQXEDp6u2ZAZWHRGuktbl6xzVlsKHMa4?usp=sharing)
+
+# Conference proceedings
+- Accepted full papers will be invited to submit an extended version, addressing the remarks of the reviewers, to PMLR (https://proceedings.mlr.press/) to be published as part of the Workshop Proceedings. If authors would like to opt-out of the proceedings, they should email the organizers at ai4ed-24@aaai.org by 02/15/2024.
+- The authors must submit separate PDF files for the paper. Full paper submissions must follow the [PMLR style template](https://rice.box.com/s/4itqz94qaxxkycq0r6zqla186pz9ed3y). It is similar to that of JMLR, but the header must be "Proceedings of Machine Learning Research" instead of "Journal of Machine Learning Research"
+- *Acceptance to the proceedings is contingent upon adequately addressing the reviews in the camera-ready version which will undergo editorial review.*
+
+
 # Call for Submissions
 
 We welcome different kinds of submissions: 
