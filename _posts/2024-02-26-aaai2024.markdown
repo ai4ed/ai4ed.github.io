@@ -67,7 +67,7 @@ Poster session times
 - Day 2: Poster spotlights (10.15 am - 10.30 am), 10.30 am - 11 am (during break), 3.30 pm - 4.00 pm (during break)
 
 # Talks
-All slide presentations must be uploaded to the google folder by February 20, 2024. Upload your presentations to the folder based on your day of presentation.
+All slide presentations must be uploaded to the google folder by February 20, 2024. Upload your presentations to the folder based on your day of presentation. Please use the following convention for the presentation filename: `presenter-lastname_submission-title`.
 - [Day 1](https://drive.google.com/drive/folders/1sMIZbRUlXinVDmfG5eeLDOwGcnPDX9vS?usp=sharing)
 - [Day 2](https://drive.google.com/drive/folders/1ZQXEDp6u2ZAZWHRGuktbl6xzVlsKHMa4?usp=sharing)
 
