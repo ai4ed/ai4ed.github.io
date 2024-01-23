@@ -180,15 +180,6 @@ The rules of the competition are as follows:
   </div>
 
   <div class="avatar-item">
-    <img src="{{site.baseurl}}/images/aaai2024/Jiong-Zhao.png" />
-    <div class="title">
-      Jiong Zhao
-    </div>
-    <P class="text-center">Staff Machine Learning Engineer</P>
-    <P class="text-center">TAL Education Group, China</P>
-  </div>
-
-  <div class="avatar-item">
     <img src="{{site.baseurl}}/images/aaai2024/Jiahao-Chen.png" />
     <div class="title">
       <a href="https://www.tabchen.com/" target="_blank">Jiahao Chen</a>
