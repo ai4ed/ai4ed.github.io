@@ -185,6 +185,14 @@ We invite researchers and practitioners worldwide to investigate the opportuniti
     </div>
     <P class="text-center">Executive Director, Digital Promise</P>    
   </div>
+      <div class="avatar-item">
+    <img src="{{site.baseurl}}/images/aaai2024/muhammad.jpeg" />
+    <div class="title">
+      <a href="https://mageed.arts.ubc.ca/" target="_blank">Muhammad Abdul-mageed</a>
+    </div>
+    <P class="text-center">Canada Research Chair in NLP and ML, Associate Professor in the School of Information and Department of Linguistics, and Computer Science, University of British Columbia</P>    
+  </div>
+
    <div class="avatar-item">
     <img src="{{site.baseurl}}/images/aaai2024/mohi_reza.jpeg" />
     <div class="title">
