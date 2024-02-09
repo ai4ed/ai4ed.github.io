@@ -10,7 +10,8 @@ image: '/images/aaai2024.jpg'
 
 ## Day 2, February 27, 2024
 
-<img src="{{site.baseurl}}/images/aaai2024/day2_agenda.png" />
+<img src="{{site.baseurl}}/images/aaai2024/day2_agenda_1.png" />
+<img src="{{site.baseurl}}/images/aaai2024/day2_agenda_2.png" />
  
 
 
