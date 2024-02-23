@@ -165,11 +165,11 @@ We invite researchers and practitioners worldwide to investigate the opportuniti
     <P class="text-center">Assistant Professor of Computer Science, University of British Columbia</P>
   </div>
   <div class="avatar-item">
-    <img src="{{site.baseurl}}/images/aaai2024/Nicole-Turner-Lee.png" />
+    <img src="{{site.baseurl}}/images/aaai2024/pat.jpeg" />
     <div class="title">
-      <a href="https://www.brookings.edu/people/nicol-turner-lee/" target="_blank">Nicol Turner Lee</a>
+      <a href="https://code.org/about/leadership/pat_yongpradit" target="_blank">Pat Yongpradit</a>
     </div>
-    <P class="text-center">Director-Center for Technology Innovation, Brookings Institute</P>
+    <P class="text-center">Chief Academic Officer, Code.org</P>
   </div>
     <div class="avatar-item">
     <img src="{{site.baseurl}}/images/aaai2024/Kinnis-Gosha.jpeg" />
