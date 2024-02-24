@@ -1377,8 +1377,8 @@ h6 {
     <tr class="c34">
         <td class="c35" colspan="3" rowspan="1">
             <ol class="c26 lst-kix_hblxj6p80ilr-0 start" start="1">
-                <li class="c14 c17 li-bullet-0"><span class="c13 c28">Day 1 Best paper runner-up: Using Large Language Models for Student-Code Guided Test Case Generation in Computer Science Education <a href="https://drive.google.com/file/d/14wxZMteeBU-uOUjkRZaqWrfOQyvymbyi/view?usp=drive_link" target="_blank">[paper]</a> <a href="https://docs.google.com/presentation/d/1FgI-hzAIRFt26QBzrkm4iB9qDxsx99pG/edit?usp=drive_link&ouid=117257488046190665878&rtpof=true&sd=true" target="_blank">[slide]</a></span></li>
-                <li class="c14 c17 li-bullet-0"><span class="c2">Explaining Code Examples in Introductory Programming Courses: LLM vs Humans<a href="https://drive.google.com/file/d/1OoOy0rQQ4sby7GSwENfC_YYBSw8zP4da/view?usp=drive_link" target="_blank">[paper]</a> <a href="https://docs.google.com/presentation/d/1pcMbTRIh7HMC7h8lB5qMtS_FFpeQkRNF/edit?usp=drive_link&ouid=117257488046190665878&rtpof=true&sd=true" target="_blank">[slide]</a></span></li>
+                <li class="c14 c17 li-bullet-0"><span class="c13 c28">Day 1 Best paper runner-up: Using Large Language Models for Student-Code Guided Test Case Generation in Computer Science Education <a href="https://drive.google.com/file/d/14wxZMteeBU-uOUjkRZaqWrfOQyvymbyi/view?usp=drive_link" target="_blank"> [paper]</a> <a href="https://docs.google.com/presentation/d/1FgI-hzAIRFt26QBzrkm4iB9qDxsx99pG/edit?usp=drive_link&ouid=117257488046190665878&rtpof=true&sd=true" target="_blank"> [slide]</a></span></li>
+                <li class="c14 c17 li-bullet-0"><span class="c2">Explaining Code Examples in Introductory Programming Courses: LLM vs Humans<a href="https://drive.google.com/file/d/1OoOy0rQQ4sby7GSwENfC_YYBSw8zP4da/view?usp=drive_link" target="_blank"> [paper]</a> <a href="https://docs.google.com/presentation/d/1pcMbTRIh7HMC7h8lB5qMtS_FFpeQkRNF/edit?usp=drive_link&ouid=117257488046190665878&rtpof=true&sd=true" target="_blank"> [slide]</a></span></li>
                 <li class="c14 c17 li-bullet-0"><span class="c2">Using Large Language Models to Assess Tutors&#39; Performance in Reacting to Students Making Math Errors<a href="https://drive.google.com/file/d/1FdddWESULg-IWE_03c0VO2bkLJnvv9yY/view?usp=drive_link" target="_blank">[paper]</a> <a href="https://drive.google.com/file/d/1gxexy-ifyCk3CVfaCtPA9gUiMFgzGVZR/view?usp=drive_link" target="_blank">[slide]</a></span></li>
                 <li class="c14 c17 li-bullet-0"><span class="c2">Improving Assessment of Tutoring Practices using Retrieval-Augmented Generation<a href="https://drive.google.com/file/d/1JtEKOlezHauXKv_Dk02Q8Gp1lOxksOTi/view?usp=drive_link" target="_blank">[paper]</a> <a href="https://docs.google.com/presentation/d/10ob55whECmxmWcnhITGlMnQUQWCiWq-I/edit?usp=drive_link&ouid=117257488046190665878&rtpof=true&sd=true" target="_blank">[slide]</a></span></li>
                 <li class="c14 c17 li-bullet-0"><span class="c2">Learning to Compare Hints: Combining Insights from Student Logs and Large Language Models<a href="https://drive.google.com/file/d/1ZOEoNYbH8ZTuvwd12EFgXpW2jGhKN0kz/view?usp=drive_link" target="_blank">[paper]</a> <a href="https://docs.google.com/presentation/d/1DOD6GxuaGehaksalkSb4nfv8CDiq0SPLTQMXv7NEAyA/edit?usp=drive_link" target="_blank">[slide]</a></span></li>
@@ -1464,7 +1464,7 @@ h6 {
     <tr class="c21">
         <td class="c44" colspan="3" rowspan="1">
             <ul class="c26 lst-kix_cp5l865kimsy-0 start">
-                <li class="c14 c17 li-bullet-0"><span class="c32 c48 c40"><a href="https://drive.google.com/drive/folders/1M-j3BwWS-8h6ID0DrDcjLxANcYI5ScS3?usp=drive_link" target="_blank">Top-3 winners of track1 & track2</a></span></li>
+                <li class="c14 c17 li-bullet-0"><span class="c32 c48 c40"><a href="https://drive.google.com/drive/folders/1M-j3BwWS-8h6ID0DrDcjLxANcYI5ScS3?usp=drive_link" target="_blank">Top-3 winners of Track 1 & Track 2</a></span></li>
             </ul>
         </td>
     </tr>
@@ -1487,9 +1487,11 @@ h6 {
         </td>
         <td class="c22" colspan="1" rowspan="1">
             <p class="c14"><span class="c13">Moderator: Jeremy Roschelle, </span><span class="c2">Digital Promise</span></p>
-            <p class="c14"><span class="c13 c40">Speakers: </span><span class="c13">Nicol Turner Lee, </span><span class="c2">Brooking Institute,</span></p>
+            <p class="c14"><span class="c13 c40">Speakers: </span><span class="c13">Pat Yongpradit, </span><span class="c2">Code.org,</span></p>
             <p class="c14"><span class="c13">Kinnis Gosha, </span><span class="c2">Morehouse College</span></p>
-            <p class="c14"><span class="c8">Coming soon!</span></p>
+	    <p class="c14"><span class="c13">Muhammad Abdul-Mageed, </span><span class="c2">University of British Columbia</span></p>
+	    <p class="c14"><span class="c13">Karen DSouza, </span><span class="c2">Purdue University</span></p>
+	    <p class="c14"><span class="c13">Mohi Reza, </span><span class="c2">University of Toronto</span></p>
         </td>
     </tr>
     <tr class="c39">
