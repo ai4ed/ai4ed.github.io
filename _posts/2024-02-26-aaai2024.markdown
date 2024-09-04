@@ -19,7 +19,9 @@ This **two-day in-person** workshop explores the innovations in artificial intel
 Date: February 26-27, 2024                           
 Location: Vancouver Convention Center, Vancouver, Canada
 
-# [Proceedings now available on PMLR!] (https://proceedings.mlr.press/v257)
+# Proceedings now available on PMLR! 
+
+[Check out the Proceedings!](https://proceedings.mlr.press/v257)
 
 # Topics of interest
 
