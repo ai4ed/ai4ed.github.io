@@ -19,6 +19,8 @@ This **two-day in-person** workshop explores the innovations in artificial intel
 Date: February 26-27, 2024                           
 Location: Vancouver Convention Center, Vancouver, Canada
 
+# [Proceedings now available on PMLR!] (https://proceedings.mlr.press/v257)
+
 # Topics of interest
 
 **Day 1.** Cognitive and learning science principles for improving genAI-based learning frameworks and tutoring systems; Mitigating “hallucinations” in large language models (LLMs) and improving factual validity for education; Improving mathematical and scientific reasoning capabilities of LLMs; Methods and metrics for evaluating GenAI content; AI-based methods to evaluate students, monitor their progress and personalize their education; Analyses, studies, and solutions for preserving academic integrity in the abundance of GenAI models and generated educational content; Benchmark datasets for genAI applications in education; Next generation infrastructure to support research on GenAI for education
