@@ -23,9 +23,9 @@ Location: Vancouver Convention Center, Vancouver, Canada
 
 Our **2-day** workshop will focus on both AI Innovation (day 1) and Responsible AI (day 2). The detailed workshop schedule can be found at:
 
-* Day 1, February 26, 2024. AI Innovation. [https://ai4ed.cc/aaai2024day1/](https://ai4ed.cc/aaai2024day1/)
+* Day 1, February 26, 2024. AI Innovation. [https://ai4ed.cc/workshops/aaai2024day1](https://ai4ed.cc/workshops/aaai2024day1)
 
-* Day 2, February 27, 2024. Responsible AI. [https://ai4ed.cc/aaai2024day2/](https://ai4ed.cc/aaai2024day2/)
+* Day 2, February 27, 2024. Responsible AI. [https://ai4ed.cc/workshops/aaai2024day2](https://ai4ed.cc/workshops/aaai2024day2)
 
 # Proceedings now available on PMLR! 
 
