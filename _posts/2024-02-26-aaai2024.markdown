@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AAAI2024 Workshop on AI for Education - Bridging Innovation and Responsibility
-date: 2024-02-26 10:00:00
+date: 2024-02-26 08:00:00
 image: "/images/aaai2024.jpg"
 tags: [Workshop, AAAI]
 featured: false
