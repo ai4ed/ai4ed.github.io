@@ -4,7 +4,7 @@ title: AAAI2024 Workshop on AI for Education - Bridging Innovation and Responsib
 date: 2024-02-26 10:00:00
 image: "/images/aaai2024.jpg"
 tags: [Workshop, AAAI]
-featured: true
+featured: false
 category: workshops
 toc: true
 toc_float:
@@ -18,6 +18,14 @@ This **two-day in-person** workshop explores the innovations in artificial intel
 
 Date: February 26-27, 2024                           
 Location: Vancouver Convention Center, Vancouver, Canada
+
+# Schedule
+
+Our **2-day** workshop will focus on both AI Innovation (day 1) and Responsible AI (day 2). The detailed workshop schedule can be found at:
+
+* Day 1, February 26, 2024. AI Innovation. [https://ai4ed.cc/aaai2024day1/](https://ai4ed.cc/aaai2024day1/)
+
+* Day 2, February 27, 2024. Responsible AI. [https://ai4ed.cc/aaai2024day2/](https://ai4ed.cc/aaai2024day2/)
 
 # Proceedings now available on PMLR! 
 
@@ -327,14 +335,6 @@ We invite researchers and practitioners worldwide to investigate the opportuniti
   </div>
    
 </div>
-
-# Schedule
-
-Our **2-day** workshop will focus on both AI Innovation (day 1) and Responsible AI (day 2). The detailed workshop schedule can be found at:
-
-* Day 1, February 26, 2024. AI Innovation. [https://ai4ed.cc/aaai2024day1/](https://ai4ed.cc/aaai2024day1/)
-
-* Day 2, February 27, 2024. Responsible AI. [https://ai4ed.cc/aaai2024day2/](https://ai4ed.cc/aaai2024day2/)
 
 # Travel Scholarship
 

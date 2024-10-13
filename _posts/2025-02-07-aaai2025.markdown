@@ -1,0 +1,111 @@
+---
+layout: post
+title:  AAAI2025 AI for Education - Tools, Opportunities, and Risks in the Generative AI Era
+date:   2025-03-03 10:00:00
+image:  '/images/aaai2025.jpg'
+tags:   [Workshop, AAAI]
+featured: true
+category: workshops
+---
+
+# Introduction
+
+## Motivation
+
+The rapid advancement of generative AI technologies presents both unprecedented opportunities and significant challenges within the educational landscape. With tools like ChatGPT, DALL-E, and other generative models becoming increasingly sophisticated, educators have access to powerful resources that can enhance learning experiences, personalize education, and streamline administrative tasks. However, these advancements also bring forth critical issues such as ethical considerations, data privacy concerns, and potential biases. This workshop aims to explore how generative AI can be effectively and responsibly integrated into education, ensuring that its benefits are maximized while mitigating associated risks. 
+
+## Challenges
+
+* **Ethical Considerations**: Ensuring that generative AI is used ethically in educational settings, addressing issues related to bias, fairness, and transparency. Addressing inherent biases in AI algorithms that could lead to unequal learning opportunities or reinforce existing disparities.
+* **Data Privacy**: Protecting student data and ensuring compliance with privacy regulations when using AI tools.
+* **Integration and Adoption**: Overcoming barriers to integrating AI tools into traditional educational systems, including resistance from educators and lack of technical infrastructure.
+* **Skill Gaps**: Equipping educators with the necessary skills and knowledge to effectively use AI tools in their teaching practices.
+* **Evaluation and Effectiveness**: Developing robust methods to assess the effectiveness of AI-driven educational tools and their impact on learning outcomes.
+
+
+## Goals
+
+* **Knowledge Sharing and Collaboration**: To provide a platform for researchers, educators, and industry professionals to share insights, experiences, and best practices regarding the use of generative AI in education. To foster a collaborative environment where participants can engage in discussions, exchange ideas, and form partnerships aimed at advancing the responsible use of AI in education.
+* **Exploration of Tools**: To showcase innovative AI tools and applications that can transform educational practices, highlighting both their capabilities and limitations.
+* **Risk Mitigation Strategies**: To discuss strategies for identifying and mitigating the risks associated with generative AI, focusing on ethical use, data privacy, and bias reduction. 
+* **Policy Recommendations**: To develop guidelines and recommendations for policymakers and educational institutions on the adoption and regulation of generative AI technologies.
+* **Future Directions**: To identify emerging trends and future research directions in the field of AI for education, encouraging continued innovation and development.
+
+By addressing these motivations, challenges, and goals, this workshop seeks to contribute significantly to the discourse on generative AI in education, promoting its responsible and effective integration to improve learning outcomes and educational equity.
+
+
+# Workshop Description
+
+In this workshop, we will invite AIED enthusiasts from all around the world through the following three different channels:
+
+* First, we will invite established researchers in the AIED community to give a keynote talk that (1) describes a vision for bridging AIED communities; (2) summarizes a well-developed AIED research area; or (3) presents promising ideas and visions for new AIED research directions. 
+
+* Second, we will call for regular workshop paper submissions and cross-submissions (papers that have appeared in or submitted to alternative venues) related to a broad range of AI domains for education. 
+
+* Third, we will host an AIED doctoral consortium that provides an opportunity for a group of Ph.D. students to discuss and explore their research interests and career objectives with a panel of established AIED researchers.
+
+Through these initiatives, we aim to provide a common ground for researchers to share their cutting-edge insights on AIED and encourage the development of practical and large-scale AIED methods of lasting impact.
+
+
+
+## Paper Submissions 
+
+We invite high-quality paper submissions of a theoretical and experimental nature on generative AI topics including, but not limited to, the following:
+
+* Emerging technologies in education
+* Evaluation of education technologies
+* Immersive learning and multimedia applications
+* Self-adaptive learning
+* Individual and personalized education
+* Intelligent learning systems
+* Intelligent tutoring and monitoring systems
+* Automatic grading and assessment
+* Automated feedback and recommendations
+* Big data analytics for education
+* Analysis of communities of learning
+* Course development techniques
+* Data analytics & big data in education
+* Mining and web mining in education
+* Learning tools experiences and cases of study
+* Social media in education
+* Smart education
+* Digital libraries for learning
+* Knowledge management for learning
+* Learning technology for lifelong learning
+* Tracking learning activities
+* Wearable computing technology in e-learning
+* Smart classroom
+* Dropout prediction 
+* Knowledge tracing
+
+
+The workshop solicits **5-7 pages double-blind** paper submissions (with unlimited references) from participants. Submissions of the following flavors will be sought: (1) research ideas, (2) case studies (or deployed projects), (3) review papers, (4) best practice papers, and (5) lessons learned. The format is the standard double-column AAAI Proceedings Style. All submissions will be peer-reviewed. Some will be selected for spotlight talks, and some for the poster session.
+
+
+## AIED Doctoral Consortium
+
+The AIED Doctoral Consortium for PhD students researching AI in Education aims to create a focused and supportive environment where emerging scholars can engage with experienced researchers. The primary goals of this event are: (1) Research Feedback and Guidance: To offer participants constructive feedback on their current research projects and advice on future directions. (2) Community Building: To foster a collaborative and supportive community among doctoral students and established researchers. (3) Career Development: To provide insights into various career paths, including academic, industry, and nontraditional roles, thus supporting the professional growth of diverse researchers. (4) Conference Integration: To enhance the overall conference experience by facilitating interactions between consortium attendees and other conference participants.
+
+This specialized consortium is designed to help PhD students refine their research, build networks, and navigate their career paths within the niche field of AI in Education.
+
+
+## Important Dates
+
+Note: All deadlines are **anywhere on earth** (UTC-12)
+
+* Friday, November 22, 2024: Workshop Submissions Due 
+* Monday, December 9, 2024: Notifications Sent to Authors 
+* Thursday, December 19, 2024: AAAI-25 Early Registration Deadline 
+* March 3, 2025: AAAI-25 AI4EDU Workshop Program
+
+
+
+## Organizers
+
+<!-- ![Beautiful place]({{site.baseurl}}/images/aaai2022_workshop_organizers.jpg) -->
+
+* **Zitao Liu** Guangdong Institute of Smart Education, Jinan University, China
+* **John Stamper** Human-Computer Interaction Institute,  Carnegie Mellon University, USA
+* **Andrew M. Olney** Department of Psychology, University of Memphis, USA
+* **Tianqiao Liu** TAL Education Group, China
+* **Qingsong Wen** Squirrel AI Learning, USA
