@@ -40,7 +40,7 @@ In this workshop, we will invite AIED enthusiasts from all around the world thro
 
 * First, we will invite established researchers in the AIED community to give a keynote talk that (1) describes a vision for bridging AIED communities; (2) summarizes a well-developed AIED research area; or (3) presents promising ideas and visions for new AIED research directions. 
 
-* Second, we will call for regular workshop paper submissions and cross-submissions (papers that have appeared in or submitted to alternative venues) related to a broad range of AI domains for education. 
+* Second, we will call for regular workshop paper submissions related to a broad range of AI domains for education. 
 
 * Third, we will host an AIED doctoral consortium that provides an opportunity for a group of Ph.D. students to discuss and explore their research interests and career objectives with a panel of established AIED researchers.
 
