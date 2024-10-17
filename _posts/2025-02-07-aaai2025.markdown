@@ -81,7 +81,7 @@ We invite high-quality paper submissions of a theoretical and experimental natur
 
 The workshop solicits **5-7 pages double-blind** paper submissions (with unlimited references) from participants. Submissions of the following flavors will be sought: (1) research ideas, (2) case studies (or deployed projects), (3) review papers, (4) best practice papers, and (5) lessons learned. The format is the standard double-column AAAI Proceedings Style. All submissions will be peer-reviewed. Some will be selected for spotlight talks, and some for the poster session. 
 
-Papers can be submitted through the OpenReview link: https://openreview.net/group?id=AAAI.org/2025/Workshop/AI4EDU
+Papers can be submitted through the OpenReview link: [https://openreview.net/group?id=AAAI.org/2025/Workshop/AI4EDU](https://openreview.net/group?id=AAAI.org/2025/Workshop/AI4EDU)
 
 
 ## AIED Doctoral Consortium
