@@ -90,6 +90,7 @@ The AIED Doctoral Consortium for PhD students researching AI in Education aims t
 
 This specialized consortium is designed to help PhD students refine their research, build networks, and navigate their career paths within the niche field of AI in Education.
 
+Detailed about the AIED Doctoral Consortium can be found at [https://ai4ed.cc/workshops/aaai2025consortium](https://ai4ed.cc/workshops/aaai2025consortium).
 
 ## Important Dates
 
