@@ -62,3 +62,4 @@ Note: All deadlines are **anywhere on earth** (UTC-12)
 * **Andrew M. Olney** Department of Psychology, University of Memphis, USA
 * **Tianqiao Liu** TAL Education Group, China
 * **Qingsong Wen** Squirrel AI Learning, USA
+* **Jiliang Tang** Michigan State University, USA
