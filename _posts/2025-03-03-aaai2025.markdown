@@ -96,9 +96,9 @@ Detailed about the AIED Doctoral Consortium can be found at [https://ai4ed.cc/wo
 
 Note: All deadlines are **anywhere on earth** (UTC-12)
 
-* Friday, November 22, 2024: Workshop Submissions Due 
-* Monday, December 9, 2024: Notifications Sent to Authors 
-* Thursday, December 19, 2024: AAAI-25 Early Registration Deadline 
+* ~~November 22~~ December 15, 2024: Workshop Submissions Due 
+* ~~December 9~~ December 25, 2024: Notifications Sent to Authors 
+* December 19, 2024: AAAI-25 Early Registration Deadline 
 * March 3, 2025: AAAI-25 AI4EDU Workshop Program
 
 
