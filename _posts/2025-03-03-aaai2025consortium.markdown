@@ -48,7 +48,7 @@ Candidates will be selected by the Program Committee based on the potential impa
 
 Note: All deadlines are **anywhere on earth** (UTC-12)
 
-* December 19, 2024: Application Submissions Due 
+* ~~December 19~~, December 25, 2024: Application Submissions Due 
 * December 30, 2024: Notification
 
 
