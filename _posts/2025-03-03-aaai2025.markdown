@@ -8,6 +8,48 @@ featured: true
 category: workshops
 ---
 
+# Accepted Paper List
+
+* Jing Hao Lim, Mohamed Raasith Mohamed Sirajudeen, Justin Kan, Pranav Tushar, Bowen Zhang, Yin Yin Loo, Indriyati Atmosukarto, Donny Soh and Ian McLoughlin. Integrating AI for Mother Tongue Language Proficiency: A Modular Approach. [Paper Link](https://drive.google.com/file/d/1OEV2gEz09kHfb282sk0ml33EIYehZntb/view?usp=sharing)
+
+* Roberto Daza, Lin Shengkai, Aythami Morales, Julian Fierrez and Katashi Nagao. SMARTe-VR: Student Monitoring and Adaptive Response Technology for e-learning in Virtual Reality. [Paper Link](https://drive.google.com/file/d/1cTuRFJY9PSf-T22rVfujmQSTMutTa4bm/view?usp=sharing)
+
+* Maryam Ebrahimi, Rajeev Sahay, Seyyedali Hosseinalipour and Bita Akram. Vision Paper: Advancing Mental Health in Education through Federated Learning and its Synergies with Broader Human-Centered Domains. [Paper Link](https://drive.google.com/file/d/10OdI3Fb9sEodYEFsFHTCscCYMEDK3pOU/view?usp=sharing)
+
+* Lucile Favero, Juan Antonio Pérez-Ortiz, Tanja Kaser and Nuria Oliver. Argument Mining in Education: Exploring the Potential of Open-source Small LLMs for Argument Classification and Assessment. [Paper Link](https://drive.google.com/file/d/1vPdeujsYKCeElPbSqwdrUSP9K4xE9Vk-/view?usp=sharing)
+
+* Murong Yue, Wenhan Lyu, Wijdane Mifdal, Jennifer Suh, Yixuan Zhang and Ziyu Yao. MathVC: An LLM-Simulated Multi-Character Virtual Classroom for Mathematics Education. [Paper Link](https://drive.google.com/file/d/1zS1ukTfXgsJwqWUqhf0cZVpiRppQBg3I/view?usp=sharing)
+
+* Yibin Wang, Jiaxi Xie and Lakshminarayanan Subramanian. EduBot – Can LLMs Solve Personalized Learning and Programming Assignments? [Paper Link](https://drive.google.com/file/d/13lCEJ5pIo5n9JKQoulEGgK6ToT3pi2f8/view?usp=sharing)
+
+* Likhitha Paruchuri, Emma Terrell, Monica Figueroa, Nonye Alozie and Anirban Roy. A Multimodal Framework for Identifying Science Concepts in Educational Videos. [Paper Link](https://drive.google.com/file/d/1zRHv0l_cPNq57t5vX-PnoAUm8mUUqVQa/view?usp=sharing)
+
+* Ayan, Mukesh Mohania and Vikram Goyal. ASAGLite: A Lightweight and Efficient Technique for Automatic Short Answer Grading. [Paper Link]()
+
+* Xander Beberman, Sarah Novicoff, Ana Trindade Ribeiro, Carly Robinson and Susanna Loeb. Understanding Disruptions to Virtual Learning: How Much Instructional Time Is Lost? [Paper Link](https://drive.google.com/file/d/18q3Qjvhm9I_fwPxPNZ5atLMIbmfHXJok/view?usp=sharing)
+
+* Anthony Cusimano and Renzhe Yu. Mapping Longitudinal Pathways of Learning Strategies with Fair Multi-Level Clustering of Clickstream Data. [Paper Link](https://drive.google.com/file/d/1vP3vopeyvbyW5bKyCJ6XJhmmqf7toqp2/view?usp=sharing)
+
+* Andre Kenneth Chase Randall, Jasmine V. Ngo, Beverly P. Woolf and Andrew Lan. Personalized Paths to Mastery: Real-Time Adaptive Feedback for Student Engagement in Discrete Mathematics. [Paper Link](https://drive.google.com/file/d/1I8Wv9do6s2DuENtyG1NkzD_h0i0Us1xp/view?usp=sharing)
+
+* Janak Kapuriya, Arnav Goel, Medha Hira, Apoorv Singh, Naman Lal, Jay Saraf, Sanjana, Vaibhav Nautiyal, Avinash Anand and Rajiv Ratn Shah. Optimizing Multimodal Large Language Models for Scientific VQA through Caption-Aware Supervised Training. [Paper Link](https://drive.google.com/file/d/1jAFqOiyghhtIYauFFf8fVQIgSTiyc2Oc/view?usp=sharing)
+
+* Priti Oli, Rabin Banjade, Andrew M. Olney and Vasile Rus. Can LLMs identify gaps and errors in students' code explanations? [Paper Link](https://drive.google.com/file/d/13d0z_tMYcsgXxCa6E-ONDqsW-g09RlNQ/view?usp=sharing)
+
+* Rahul K. Dass, Rochan H. Madhusudhana, Erin C. Deye, Shashank Verma, Timothy A. Bydlon, Grace Brazil and Ashok K. Goel. Enhanced Question-Answering for Skill-based learning using Knowledge-based AI and Generative AI. [Paper Link](https://drive.google.com/file/d/1M-WL40gYTO1Rvmhzs1DB_WoO5_pjQ-u8/view?usp=sharing)
+
+* Zheng Guan, Jie Liu, Zhijun Yang and Xue Wang. A Dataset and Cross-subject Enhanced Model for Cognitive Diagnosis. [Paper Link](https://drive.google.com/file/d/138NxYZL58aB63fTVsTaVLHSRP2YuMpWK/view?usp=sharing)
+
+* Sarubi Thillainathan and Alexander Koller. Controllable Text Adaptation Using In-context Learning with Linguistic Features. [Paper Link](https://drive.google.com/file/d/1wpChlJPVdCJEG_O5VMTWh0C0tSbbfTQy/view?usp=sharing)
+
+* Edward Sun, Yijia Xiao and Wei Wang. CurriculumAgents: Automated Multi-Agent Lesson Design. [Paper Link](https://drive.google.com/file/d/1xBDX9GzXLSKYDhVCI7sykIpX1fMviS8G/view?usp=sharing)
+
+* Chao Zhang, Jiamin Tang and Jing Xiao. Tangram: Benchmark for Evaluating Geometric Element Recognition in Large Multimodal Models. [Paper Link](https://drive.google.com/file/d/1FDVTv60LxUI36Byl3AwDQsPc3LFM1Hdw/view?usp=sharing)
+
+* Shayla Sharmin, Elham Bakhshipour, Mohammad Fahim Abrar, Behdokht Kiafar, Pinar Kullu, Nancy Getchell and Roghayeh Leila Barmaki. Functional Near-Infrared Spectroscopy (fNIRS) Analysis of Interaction Techniques in Touchscreen-Based Educational Gaming. [Paper Link](https://drive.google.com/file/d/1NuIqU0CRTzf3pXfzHTcbsGZXV2xYu3_8/view?usp=sharing)
+
+
+
 # Introduction
 
 ## Motivation
