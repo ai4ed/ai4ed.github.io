@@ -24,7 +24,7 @@ category: workshops
 
 * Likhitha Paruchuri, Emma Terrell, Monica Figueroa, Nonye Alozie and Anirban Roy. A Multimodal Framework for Identifying Science Concepts in Educational Videos. [Paper Link](https://drive.google.com/file/d/1zRHv0l_cPNq57t5vX-PnoAUm8mUUqVQa/view?usp=sharing)
 
-* Ayan, Mukesh Mohania and Vikram Goyal. ASAGLite: A Lightweight and Efficient Technique for Automatic Short Answer Grading. [Paper Link]()
+* Ayan, Mukesh Mohania and Vikram Goyal. ASAGLite: A Lightweight and Efficient Technique for Automatic Short Answer Grading. [Paper Link](https://drive.google.com/file/d/1ABZLPzvWyI9iIoeisn8n7y3i71hGdgiD/view?usp=sharing)
 
 * Xander Beberman, Sarah Novicoff, Ana Trindade Ribeiro, Carly Robinson and Susanna Loeb. Understanding Disruptions to Virtual Learning: How Much Instructional Time Is Lost? [Paper Link](https://drive.google.com/file/d/18q3Qjvhm9I_fwPxPNZ5atLMIbmfHXJok/view?usp=sharing)
 
