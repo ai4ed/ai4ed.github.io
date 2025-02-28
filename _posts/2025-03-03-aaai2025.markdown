@@ -8,6 +8,73 @@ featured: true
 category: workshops
 ---
 
+# Workshop Schedule
+
+**Date:** March 03, 2025
+
+**Location:** Pennsylvania Convention Center, Philadelphia, PA, USA
+
+**Room:** 122A
+
+### 2:00 PM - 2:10 PM | Opening Remarks  
+
+### 2:10 PM - 2:50 PM | Keynote Talk One + QA  
+- **Speaker:** Maciej Pankiewicz  
+- **Title:** [Generative AI in Education: Enhancing Learning, Feedback, and Research with LLMs](#generative-ai-in-education-enhancing-learning-feedback-and-research-with-llms)
+
+### 2:50 PM - 3:30 PM | Keynote Talk Two + QA  
+- **Speaker:** Jill Burstein  
+- **Title:** [Responsible AI for Leverage Points in Digital Assessment](#responsible-ai-for-leverage-points-in-digital-assessment) 
+
+### 3:30 PM - 4:15 PM | Poster Session One 
+- **Workshop Paper Posters:**  
+    - Integrating AI for Mother Tongue Language Proficiency: A Modular Approach
+    - SMARTe-VR: Student Monitoring and Adaptive Response Technology for e-learning in Virtual Reality
+    - MathVC: An LLM-Simulated Multi-Character Virtual Classroom for Mathematics Education
+    - EduBot – Can LLMs Solve Personalized Learning and Programming Assignments?
+    - Understanding Disruptions to Virtual Learning: How Much Instructional Time Is Lost?
+    - Personalized Paths to Mastery: Real-Time Adaptive Feedback for Student Engagement in Discrete Mathematics
+    - Optimizing Multimodal Large Language Models for Scientific VQA through Caption-Aware Supervised Training
+
+- **AIED Mini Doctoral Consortium Posters:**  
+    - Accelerating Educational Innovations through Simulations and Cost-Efficient Experimental Design
+    - Construction andValidation of an Online Learning Support Model with Individualized Comments
+ 
+### 4:15 PM - 5:00 PM | Poster Session Two  
+- **Workshop Paper Posters:**  
+    - Can LLMs identify gaps and errors in students' code explanations?
+    - Enhanced Question-Answering for Skill-based learning using Knowledge-based AI and Generative AI
+    - Controllable Text Adaptation Using In-context Learning with Linguistic Features
+    - CurriculumAgents: Automated Multi-Agent Lesson Design
+    - Functional Near-Infrared Spectroscopy (fNIRS) Analysis of Interaction Techniques in Touchscreen-Based Educational Gaming
+
+
+## Keynote Talk Details
+
+> ### Generative AI in Education: Enhancing Learning, Feedback, and Research with LLMs
+>
+> <cite>Maciej Pankiewicz</cite>
+
+{% highlight html %}
+Abstract: Generative artificial intelligence is transforming education by improving instruction, automating feedback, and supporting research. This presentation draws on practical experience with Large Language Models (LLMs) in educational settings, from virtual teaching assistants that engage with students on discussion forums to automated assessment tools that provide instant feedback on programming assignments. Beyond instruction, we will examine how LLMs can support qualitative research through automated coding and enhance privacy compliance by de-identifying forum posts. By analyzing the impact of these applications, we will explore both the opportunities and challenges of integrating LLMs into education.
+
+Bio: Dr. Maciej Pankiewicz is a Senior Research Investigator at the Penn Center for Learning Analytics and a Visiting Assistant Professor in the Education, Culture, and Society Division at the University of Pennsylvania. He earned his Ph.D. (Dr.-Ing.) from the University of Bonn in 2011 and an M.Sc. in Computer Science and Econometrics from the Warsaw University of Life Sciences in 2006. Dr. Pankiewicz’s research focuses on educational data mining, learning analytics, and learning engineering. He has extensive experience as a software developer, data analyst, and researcher, with technical expertise in software development, data management, and predictive modeling using technologies such as Python, SQL, and R. At the Penn Center for Learning Analytics, he leads projects like JeepyTA, a virtual teaching assistant powered by large language models designed to enhance student and instructor experiences. Dr. Pankiewicz has co-authored numerous publications in top journals and conferences, including works on automating feedback on programming assignments and evaluating task difficulty in automated computer programming assessment.
+
+{% endhighlight %}
+
+
+> ### Responsible AI for Leverage Points in Digital Assessment
+>
+> <cite>Jill Burstein</cite>
+
+{% highlight html %}
+Abstract: As AI-driven educational technologies continue to expand, so do the complexities of digital assessment systems. This keynote explores how a structured ecosystem approach can help identify key leverage points—design, measurement, security, and responsible AI—ensuring validity, fairness, and equity in assessments. By integrating human-centered, responsible AI practices, we can mitigate risks, for instance, to improve test-taker experiences, and uphold rigorous standards in automated scoring, content generation, and security protocols. With global responsible AI guidelines on the rise, this talk will provide a roadmap for researchers and practitioners to embed ethical AI practices into digital assessment frameworks, shaping the future of AI in education.
+
+Bio: Dr. Jill Burstein is a Principal Assessment Scientist at Duolingo, leading validity and efficacy research for the Duolingo English Test. She earned her Ph.D. in Linguistics from the City University of New York Graduate Center. Her research interests include artificial intelligence, natural language processing, and educational technology. Dr. Burstein has co-authored numerous publications in top journals and conferences, such as “Automated essay scoring for nonnative English speakers.” She has also contributed to the development of automated writing evaluation systems.
+
+{% endhighlight %}
+
+
 # Accepted Paper List
 
 * Jing Hao Lim, Mohamed Raasith Mohamed Sirajudeen, Justin Kan, Pranav Tushar, Bowen Zhang, Yin Yin Loo, Indriyati Atmosukarto, Donny Soh and Ian McLoughlin. Integrating AI for Mother Tongue Language Proficiency: A Modular Approach. [Paper Link](https://drive.google.com/file/d/1OEV2gEz09kHfb282sk0ml33EIYehZntb/view?usp=sharing)
