@@ -19,12 +19,13 @@ category: workshops
 ### 2:00 PM - 2:10 PM | Opening Remarks  
 
 ### 2:10 PM - 2:50 PM | Keynote Talk One + QA  
+- **Speaker:** Jill Burstein  
+- **Title:** [Responsible AI for Leverage Points in Digital Assessment](#responsible-ai-for-leverage-points-in-digital-assessment) 
+
+### 2:50 PM - 3:30 PM | Keynote Talk Two + QA
 - **Speaker:** Maciej Pankiewicz  
 - **Title:** [Generative AI in Education: Enhancing Learning, Feedback, and Research with LLMs](#generative-ai-in-education-enhancing-learning-feedback-and-research-with-llms)
 
-### 2:50 PM - 3:30 PM | Keynote Talk Two + QA  
-- **Speaker:** Jill Burstein  
-- **Title:** [Responsible AI for Leverage Points in Digital Assessment](#responsible-ai-for-leverage-points-in-digital-assessment) 
 
 ### 3:30 PM - 4:15 PM | Poster Session One 
 - **Workshop Paper Posters:**  
