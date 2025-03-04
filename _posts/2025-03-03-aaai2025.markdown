@@ -51,19 +51,6 @@ category: workshops
 
 
 ## Keynote Talk Details
-
-> ### Generative AI in Education: Enhancing Learning, Feedback, and Research with LLMs
->
-> <cite>Maciej Pankiewicz</cite>
-
-{% highlight html %}
-Abstract: Generative artificial intelligence is transforming education by improving instruction, automating feedback, and supporting research. This presentation draws on practical experience with Large Language Models (LLMs) in educational settings, from virtual teaching assistants that engage with students on discussion forums to automated assessment tools that provide instant feedback on programming assignments. Beyond instruction, we will examine how LLMs can support qualitative research through automated coding and enhance privacy compliance by de-identifying forum posts. By analyzing the impact of these applications, we will explore both the opportunities and challenges of integrating LLMs into education.
-
-Bio: Dr. Maciej Pankiewicz is a Senior Research Investigator and Visiting Assistant Professor at the University of Pennsylvania’s Graduate School of Education (Penn GSE). He also serves as a researcher at the Penn Center for Learning Analytics. Dr. Pankiewicz earned his Ph.D. in Engineering from the University of Bonn in 2011 and his M.Sc. in Computer Science and Econometrics from the Warsaw University of Life Sciences in 2006. His research interests include educational data mining, learning analytics, and learning engineering. Dr. Pankiewicz leads the development of JeepyTA, an AI-driven virtual teaching assistant powered by large language models, aimed at enhancing educational experiences for both students and instructors. Dr. Pankiewicz has published extensively in top journals and conferences. His research has been recognized with multiple nominations for best paper awards at international conferences, including ICQE 2024 and ICCE 2023.  
-
-{% endhighlight %}
-
-
 > ### Responsible AI for Leverage Points in Digital Assessment
 >
 > <cite>Jill Burstein</cite>
@@ -75,6 +62,16 @@ Bio: Dr. Jill Burstein is a Principal Assessment Scientist at Duolingo, where sh
 
 {% endhighlight %}
 
+> ### Generative AI in Education: Enhancing Learning, Feedback, and Research with LLMs
+>
+> <cite>Maciej Pankiewicz</cite>
+
+{% highlight html %}
+Abstract: Generative artificial intelligence is transforming education by improving instruction, automating feedback, and supporting research. This presentation draws on practical experience with Large Language Models (LLMs) in educational settings, from virtual teaching assistants that engage with students on discussion forums to automated assessment tools that provide instant feedback on programming assignments. Beyond instruction, we will examine how LLMs can support qualitative research through automated coding and enhance privacy compliance by de-identifying forum posts. By analyzing the impact of these applications, we will explore both the opportunities and challenges of integrating LLMs into education.
+
+Bio: Dr. Maciej Pankiewicz is a Senior Research Investigator and Visiting Assistant Professor at the University of Pennsylvania’s Graduate School of Education (Penn GSE). He also serves as a researcher at the Penn Center for Learning Analytics. Dr. Pankiewicz earned his Ph.D. in Engineering from the University of Bonn in 2011 and his M.Sc. in Computer Science and Econometrics from the Warsaw University of Life Sciences in 2006. His research interests include educational data mining, learning analytics, and learning engineering. Dr. Pankiewicz leads the development of JeepyTA, an AI-driven virtual teaching assistant powered by large language models, aimed at enhancing educational experiences for both students and instructors. Dr. Pankiewicz has published extensively in top journals and conferences. His research has been recognized with multiple nominations for best paper awards at international conferences, including ICQE 2024 and ICCE 2023.  
+
+{% endhighlight %}
 
 # Accepted Paper List
 
