@@ -8,6 +8,10 @@ featured: true
 category: workshops
 ---
 
+<span style="color:red;">We are delighted to share some memorable moments from the AAAI-25 AI4EDU Workshop! Thank you to all speakers, participants, and organizers for making this event a great success!</span>
+
+![Workshop Moment](/images/aaai2025_ai4ed.jpg)
+
 # Workshop Schedule
 
 **Date:** March 03, 2025
