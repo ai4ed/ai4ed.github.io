@@ -79,7 +79,7 @@ Bio: Dr. Maciej Pankiewicz is a Senior Research Investigator and Visiting Assist
 
 # Accepted Paper List
 
-* Jing Hao Lim, Mohamed Raasith Mohamed Sirajudeen, Justin Kan, Pranav Tushar, Bowen Zhang, Yin Yin Loo, Indriyati Atmosukarto, Donny Soh and Ian McLoughlin. Integrating AI for Mother Tongue Language Proficiency: A Modular Approach. [Paper Link](https://drive.google.com/file/d/1OEV2gEz09kHfb282sk0ml33EIYehZntb/view?usp=sharing)
+* Jing Hao Lim, Mohamed Raasith Mohamed Sirajudeen, Justin Kan, Pranav Tushar, Bowen Zhang, Yin Yin Loo, Indriyati Atmosukarto, Donny Soh and Ian McLoughlin. Integrating AI for Mother Tongue Language Proficiency: A Modular Approach.
 
 * Roberto Daza, Lin Shengkai, Aythami Morales, Julian Fierrez and Katashi Nagao. SMARTe-VR: Student Monitoring and Adaptive Response Technology for e-learning in Virtual Reality. [Paper Link](https://drive.google.com/file/d/1cTuRFJY9PSf-T22rVfujmQSTMutTa4bm/view?usp=sharing)
 
