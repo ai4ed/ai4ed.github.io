@@ -4,7 +4,7 @@ title:  AAAI2025 AI for Education - Tools, Opportunities, and Risks in the Gener
 date:   2025-03-03 10:00:00
 image:  '/images/aaai2025.jpg'
 tags:   [Workshop, AAAI]
-featured: true
+featured: false
 category: workshops
 ---
 

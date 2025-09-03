@@ -1,0 +1,93 @@
+---
+layout: post
+title:  AAAI2026 AI for Education - On Opportunities and Challenges of Large Multimodal Models in Education
+date:   2026-09-02 10:00:00
+image:  '/images/aaai2026.jpg'
+tags:   [Workshop, AAAI]
+featured: true
+category: workshops
+---
+
+
+# Introduction
+
+## Motivation
+
+In the era of rapid advancements in artificial intelligence, large multimodal models (LMMs) represent a transformative leap in how machines understand and generate human-like interactions across text, vision, audio, and beyond. As these models begin to permeate the educational landscape, they offer unprecedented opportunities to enhance personalized learning, support diverse learner needs, and automate complex instructional tasks. However, their integration into real-world classrooms also raises critical questions about equity, transparency, interpretability, and pedagogical alignment.
+
+This workshop seeks to bring together leading researchers, practitioners, and policymakers to explore the multifaceted potentials and pressing challenges of applying LMMs in education. By fostering dialogue across disciplines, the event aims to chart a roadmap for responsible innovation, ensuring that the deployment of these powerful models not only advances educational outcomes but also aligns with core human values in teaching and learning.
+
+
+## Opportunities
+
+* **Personalized Multimodal Learning**: LMMs enable highly tailored educational experiences by integrating text, image, audio, and video, supporting diverse learner needs and preferences.
+* **Intelligent Content and Feedback Generation**: They can automatically generate high-quality teaching materials, explanations, and formative assessments across modalities.
+* **Empowering Teachers and Scaling Quality Instruction**: By assisting in lesson planning, grading, and real-time support, LMMs can augment teacher capacity and democratize access to expert-level instruction.
+
+## Challenges
+
+* **Pedagogical Misalignment and Hallucinations**: LMMs may produce content that is factually incorrect or pedagogically unsound, posing risks in critical educational settings.
+* **Bias, Fairness, and Equity**: Unequal performance across languages, cultures, or abilities can reinforce existing disparities if not carefully addressed.
+* **Interpretability and Trust**: Educators and stakeholders require transparent, explainable systems to make informed decisions about adoption and use.
+
+
+
+# Workshop Description
+
+In this workshop, we will invite AIED enthusiasts from all around the world through the following **two different channels**:
+
+* First, we will invite established researchers in the AIED community to give a keynote talk that (1) describes a vision for bridging AIED communities; (2) summarizes a well-developed AIED research area; or (3) presents promising ideas and visions for new AIED research directions. 
+
+* Second, we will call for regular workshop paper submissions related to a broad range of AI domains for education. 
+
+
+Through these initiatives, we aim to provide a common ground for researchers to share their cutting-edge insights on AIED and encourage the development of practical and large-scale AIED methods of lasting impact.
+
+
+
+## Paper Submissions 
+
+We invite high-quality paper submissions of a theoretical and experimental nature on generative AI topics including, but not limited to, the following:
+
+* Multimodal Representation Learning for Education
+* Prompt Engineering and Instruction Tuning for Educational Tasks
+* Personalized and Adaptive Learning with Generative AI
+* Automated Curriculum and Assessment Design
+* Conversational and Interactive Educational Agents
+* Vision-Language Applications in STEM Education
+* Synthetic Data Generation and Simulation for Education Research
+* Cross-lingual and Cross-cultural Educational Generation
+* Bias, Fairness, and Robustness in Generative Educational Systems
+* Explainability and Trust in Generative Outputs
+* Evaluation Frameworks and Benchmarks
+* Human-AI Co-Creation in the Classroom
+* Ethical, Legal, and Societal Implications
+
+
+The workshop solicits **7 pages double-blind** paper submissions (with unlimited references) from participants. Submissions of the following flavors will be sought: (1) research ideas, (2) case studies (or deployed projects), (3) review papers, (4) best practice papers, and (5) lessons learned. The format is the standard double-column AAAI Proceedings Style. The style files can be found at [https://aaai.org/authorkit26-1/](https://aaai.org/authorkit26-1/). All submissions will be peer-reviewed. Some will be selected for spotlight talks, and some for the poster session.
+
+Reviewing will be double-blind, so please do not include any self-identifying information in the submission. Double submission is allowed, as **the workshop is non-archival**.
+
+
+
+## Important Dates
+
+Note: All deadlines are **anywhere on earth** (UTC-12)
+
+<!-- * ~~November 22~~ December 15, 2024: Workshop Submissions Due 
+* ~~December 9~~ December 25, 2024: Notifications Sent to Authors 
+* December 19, 2024: AAAI-25 Early Registration Deadline 
+* March 3, 2026: AAAI-25 AI4EDU Workshop Program -->
+
+
+
+## Organizers
+
+<!-- ![Beautiful place]({{site.baseurl}}/images/aaai2022_workshop_organizers.jpg) -->
+
+* **Zitao Liu** Guangdong Institute of Smart Education, Jinan University, China
+* **Christian M. Stracke** The University of Bonn, Germany
+* **Yu Lu** Beijing Normal University, China
+* **Emmanuel G. Blanchard** University of Le Mans, France
+* **Tianqiao Liu** TAL Education Group, China
+
