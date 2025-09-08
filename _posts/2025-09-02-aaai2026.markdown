@@ -9,8 +9,6 @@ category: workshops
 ---
 
 
-# Introduction
-
 ## Motivation
 
 In the era of rapid advancements in artificial intelligence, large multimodal models (LMMs) represent a transformative leap in how machines understand and generate human-like interactions across text, vision, audio, and beyond. As these models begin to permeate the educational landscape, they offer unprecedented opportunities to enhance personalized learning, support diverse learner needs, and automate complex instructional tasks. However, their integration into real-world classrooms also raises critical questions about equity, transparency, interpretability, and pedagogical alignment.
