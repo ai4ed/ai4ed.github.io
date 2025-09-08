@@ -30,7 +30,7 @@ This workshop seeks to bring together leading researchers, practitioners, and po
 
 
 
-# Workshop Description
+## Workshop Description
 
 In this workshop, we will invite AIED enthusiasts from all around the world through the following **two different channels**:
 
