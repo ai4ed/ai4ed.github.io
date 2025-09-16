@@ -72,13 +72,13 @@ Reviewing will be double-blind, so please do not include any self-identifying in
 
 ## Important Dates
 
-Note: All deadlines are **anywhere on earth** (UTC-12)
+Note: All deadlines are **anywhere on earth** (AOE)
 
 **September 10, 2025**: Open Review submission site opens for paper submission
 
-**October 15, 2025**: Abstracts due at 11:59 PM UTC-12
+**October 15, 2025**: Abstracts due at 11:59 PM
 
-**October 22, 2025**: Full papers due at 11:59 PM UTC-12
+**October 22, 2025**: Full papers due at 11:59 PM
 
 **November 13, 2025**: Notification of final acceptance or rejection
 
