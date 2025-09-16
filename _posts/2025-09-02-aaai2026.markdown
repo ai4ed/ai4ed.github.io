@@ -74,13 +74,19 @@ Reviewing will be double-blind, so please do not include any self-identifying in
 
 Note: All deadlines are **anywhere on earth** (UTC-12)
 
-September 10, 2025: Open Review submission site opens for paper submission
-October 15, 2025: Abstracts due at 11:59 PM UTC-12
-October 22, 2025: Full papers due at 11:59 PM UTC-12
-October 26, 2025: Supplementary material and code due by 11:59 PM UTC-12
-November 13, 2025: Notification of final acceptance or rejection
-December 13, 2025: Submission of camera-ready files
-January 26-27, 2026: AI4EDU Workshop
+**September 10, 2025**: Open Review submission site opens for paper submission
+
+**October 15, 2025**: Abstracts due at 11:59 PM UTC-12
+
+**October 22, 2025**: Full papers due at 11:59 PM UTC-12
+
+**October 26, 2025**: Supplementary material and code due by 11:59 PM UTC-12
+
+**November 13, 2025**: Notification of final acceptance or rejection
+
+**December 13, 2025**: Submission of camera-ready files
+
+**January 26-27, 2026**: AI4EDU Workshop
 
 <!-- * ~~November 22~~ December 15, 2024: Workshop Submissions Due 
 * ~~December 9~~ December 25, 2024: Notifications Sent to Authors 
