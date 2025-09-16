@@ -68,7 +68,7 @@ The workshop solicits **5-7 pages double-blind** paper submissions (with unlimit
 
 Reviewing will be double-blind, so please do not include any self-identifying information in the submission. Double submission is allowed, as **the workshop is non-archival**.
 
-
+**Submission Link**: https://openreview.net/group?id=AAAI.org/2026/Workshop/AI4EDU
 
 ## Important Dates
 
