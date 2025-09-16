@@ -80,8 +80,6 @@ Note: All deadlines are **anywhere on earth** (UTC-12)
 
 **October 22, 2025**: Full papers due at 11:59 PM UTC-12
 
-**October 26, 2025**: Supplementary material and code due by 11:59 PM UTC-12
-
 **November 13, 2025**: Notification of final acceptance or rejection
 
 **December 13, 2025**: Submission of camera-ready files
