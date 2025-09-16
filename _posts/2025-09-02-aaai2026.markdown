@@ -16,6 +16,7 @@ In the era of rapid advancements in artificial intelligence, large multimodal mo
 This workshop seeks to bring together leading researchers, practitioners, and policymakers to explore the multifaceted potentials and pressing challenges of applying LMMs in education. By fostering dialogue across disciplines, the event aims to chart a roadmap for responsible innovation, ensuring that the deployment of these powerful models not only advances educational outcomes but also aligns with core human values in teaching and learning.
 
 
+
 ## Opportunities
 
 * **Personalized Multimodal Learning**: LMMs enable highly tailored educational experiences by integrating text, image, audio, and video, supporting diverse learner needs and preferences.
@@ -32,11 +33,11 @@ This workshop seeks to bring together leading researchers, practitioners, and po
 
 ## Workshop Description
 
-In this workshop, we will invite AIED enthusiasts from all around the world through the following **two different channels**:
+In this workshop, we will invite AIED enthusiasts and critics as well as AIED designers, providers and practitioners from all around the world through the following **two different channels**:
 
-* First, we will invite established researchers in the AIED community to give a keynote talk that (1) describes a vision for bridging AIED communities; (2) summarizes a well-developed AIED research area; or (3) presents promising ideas and visions for new AIED research directions. 
+* First, we will invite established researchers in the AIED community to give a keynote talk that (1) describes a vision for bridging AIED communities; (2) summarizes a well-developed AIED research area; or (3) presents promising ideas and visions for new AIED research directions.
 
-* Second, we will call for regular workshop paper submissions related to a broad range of AI domains for education. 
+* Second, we will call for regular workshop paper submissions related to a broad range of AI domains for education.
 
 
 Through these initiatives, we aim to provide a common ground for researchers to share their cutting-edge insights on AIED and encourage the development of practical and large-scale AIED methods of lasting impact.
@@ -60,9 +61,10 @@ We invite high-quality paper submissions of a theoretical and experimental natur
 * Evaluation Frameworks and Benchmarks
 * Human-AI Co-Creation in the Classroom
 * Ethical, Legal, and Societal Implications
+* Agentic Generative AI and Education
 
 
-The workshop solicits **7 pages double-blind** paper submissions (with unlimited references) from participants. Submissions of the following flavors will be sought: (1) research ideas, (2) case studies (or deployed projects), (3) review papers, (4) best practice papers, and (5) lessons learned. The format is the standard double-column AAAI Proceedings Style. The style files can be found at [https://aaai.org/authorkit26-1/](https://aaai.org/authorkit26-1/). All submissions will be peer-reviewed. Some will be selected for spotlight talks, and some for the poster session.
+The workshop solicits **5-7 pages double-blind** paper submissions (with unlimited references) from participants. Submissions of the following flavors will be sought: (1) research ideas, (2) case studies (or deployed projects), (3) review papers, (4) best practice papers, and (5) lessons learned. The format is the standard double-column AAAI Proceedings Style. The style files can be found at [https://aaai.org/authorkit26-1/](https://aaai.org/authorkit26-1/). All submissions will be peer-reviewed. Some will be selected for spotlight talks, and some for the poster session.
 
 Reviewing will be double-blind, so please do not include any self-identifying information in the submission. Double submission is allowed, as **the workshop is non-archival**.
 
@@ -71,6 +73,14 @@ Reviewing will be double-blind, so please do not include any self-identifying in
 ## Important Dates
 
 Note: All deadlines are **anywhere on earth** (UTC-12)
+
+September 10, 2025: Open Review submission site opens for paper submission
+October 15, 2025: Abstracts due at 11:59 PM UTC-12
+October 22, 2025: Full papers due at 11:59 PM UTC-12
+October 26, 2025: Supplementary material and code due by 11:59 PM UTC-12
+November 13, 2025: Notification of final acceptance or rejection
+December 13, 2025: Submission of camera-ready files
+January 26-27, 2026: AI4EDU Workshop
 
 <!-- * ~~November 22~~ December 15, 2024: Workshop Submissions Due 
 * ~~December 9~~ December 25, 2024: Notifications Sent to Authors 
