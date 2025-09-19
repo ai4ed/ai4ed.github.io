@@ -96,7 +96,7 @@ The workshop solicits **5-7 pages double-blind** paper submissions (with unlimit
 
 Reviewing will be double-blind, so please do not include any self-identifying information in the submission. Double submission is allowed, as **the workshop is non-archival**.
 
-**Submission Link**: https://openreview.net/group?id=AAAI.org/2026/Workshop/AI4EDU
+**Submission Link**: [https://openreview.net/group?id=AAAI.org/2026/Workshop/AI4EDU](https://openreview.net/group?id=AAAI.org/2026/Workshop/AI4EDU)
 
 
 ## AAAI 2026 Registration Timeline
@@ -107,7 +107,7 @@ Reviewing will be double-blind, so please do not include any self-identifying in
 All accepted papers are encouraged to register for the main AAAI 2026 conference.
 
 For more details, please visit the official registration page:
-https://aaai.org/conference/aaai/aaai-26/registration/
+[https://aaai.org/conference/aaai/aaai-26/registration/](https://aaai.org/conference/aaai/aaai-26/registration/)
 
 
 ## Important Dates
