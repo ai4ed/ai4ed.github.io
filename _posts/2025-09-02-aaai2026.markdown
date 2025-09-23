@@ -104,7 +104,7 @@ Reviewing will be double-blind, so please do not include any self-identifying in
 - **Standard Registration Deadline**: December 14, 2025
 - **Late Registration Deadline**: December 14, 2025
 
-All accepted papers are encouraged to register for the main AAAI 2026 conference.
+It is mandatory for each accepted paper to have at least one author registered to the workshop although authors are also encouraged to register for the main AAAI 2026 conference. Accepted papers are expected to be presented on-site.
 
 For more details, please visit the official registration page:
 [https://aaai.org/conference/aaai/aaai-26/registration/](https://aaai.org/conference/aaai/aaai-26/registration/)
