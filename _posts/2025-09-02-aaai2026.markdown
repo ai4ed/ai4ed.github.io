@@ -1,13 +1,12 @@
 ---
 layout: post
-title:  AAAI2026 AI for Education - On Opportunities and Challenges of Large Multimodal Models in Education
-date:   2026-01-26 10:00:00
-image:  '/images/aaai2026.jpg'
-tags:   [Workshop, AAAI]
+title: AAAI2026 AI for Education - On Opportunities and Challenges of Large Multimodal Models in Education
+date: 2026-01-26 10:00:00
+image: "/images/aaai2026.jpg"
+tags: [Workshop, AAAI]
 featured: true
 category: workshops
 ---
-
 
 ## Motivation
 
@@ -17,80 +16,73 @@ As these diverse AI approaches begin to permeate the educational landscape, they
 
 This workshop seeks to bring together leading researchers, practitioners, and policymakers to explore the multifaceted potentials and pressing challenges of applying multimodal and agentic AI systems — ranging from large foundational models to efficient, task-oriented agents — in education. By fostering dialogue across disciplines, the event aims to chart a roadmap for responsible innovation, ensuring that the deployment of these diverse AI approaches not only advances educational outcomes but also aligns with core human values in teaching and learning — including equity, accessibility, and sustainability.
 
-
 ## Opportunities
 
-* **Personalized Multimodal Learning**: LMMs enable highly tailored educational experiences by integrating text, image, audio, and video, supporting diverse learner needs and preferences.
-* **Intelligent Content and Feedback Generation**: They can automatically generate high-quality teaching materials, explanations, and formative assessments across modalities.
-* **Empowering Teachers and Scaling Quality Instruction**: By assisting in lesson planning, grading, and real-time support, LMMs can augment teacher capacity and democratize access to expert-level instruction.
+- **Personalized Multimodal Learning**: LMMs enable highly tailored educational experiences by integrating text, image, audio, and video, supporting diverse learner needs and preferences.
+- **Intelligent Content and Feedback Generation**: They can automatically generate high-quality teaching materials, explanations, and formative assessments across modalities.
+- **Empowering Teachers and Scaling Quality Instruction**: By assisting in lesson planning, grading, and real-time support, LMMs can augment teacher capacity and democratize access to expert-level instruction.
 
 ## Challenges
 
-* **Pedagogical Misalignment and Hallucinations**: LMMs may produce content that is factually incorrect or pedagogically unsound, posing risks in critical educational settings.
-* **Bias, Fairness, and Equity**: Unequal performance across languages, cultures, or abilities can reinforce existing disparities if not carefully addressed.
-* **Interpretability and Trust**: Educators and stakeholders require transparent, explainable systems to make informed decisions about adoption and use.
-
-
+- **Pedagogical Misalignment and Hallucinations**: LMMs may produce content that is factually incorrect or pedagogically unsound, posing risks in critical educational settings.
+- **Bias, Fairness, and Equity**: Unequal performance across languages, cultures, or abilities can reinforce existing disparities if not carefully addressed.
+- **Interpretability and Trust**: Educators and stakeholders require transparent, explainable systems to make informed decisions about adoption and use.
 
 ## Workshop Description
 
 In this workshop, we will invite AIED enthusiasts and critics as well as AIED designers, providers and practitioners from all around the world through the following **two different channels**:
 
-* First, we will invite established researchers in the AIED community to give a keynote talk that (1) describes a vision for bridging AIED communities; (2) summarizes a well-developed AIED research area; or (3) presents promising ideas and visions for new AIED research directions.
+- First, we will invite established researchers in the AIED community to give a keynote talk that (1) describes a vision for bridging AIED communities; (2) summarizes a well-developed AIED research area; or (3) presents promising ideas and visions for new AIED research directions.
 
-* Second, we will call for regular workshop paper submissions related to a broad range of AI domains for education.
-
+- Second, we will call for regular workshop paper submissions related to a broad range of AI domains for education.
 
 Through these initiatives, we aim to provide a common ground for researchers to share their cutting-edge insights on AIED and encourage the development of practical and large-scale AIED methods of lasting impact.
 
-
-
-## Paper Submissions 
+## Paper Submissions
 
 We invite high-quality paper submissions of a theoretical and experimental nature on generative AI topics including, but not limited to, the following:
 
-* Emerging technologies in education
-* Evaluation of education technologies
-* Immersive learning and multimedia applications
-* Self-adaptive learning
-* Individual and personalized education
-* Intelligent learning systems
-* Intelligent tutoring and monitoring systems
-* Automatic grading and assessment
-* Automated feedback and recommendations
-* Big data analytics for education
-* Analysis of communities of learning
-* Course development techniques
-* Data analytics & big data in education
-*  and web mining in education
-* Learning tools experiences and cases of study
-* Social media in education
-* Smart education
-* Digital libraries for learning
-* Knowledge management for learning
-* Learning technology for lifelong learning
-* Tracking learning activities
-* Wearable computing technology in e-learning
-* Smart classroom
-* Dropout prediction
-* Knowledge tracing
-* Multimodal Representation Learning for Education
-* Prompt Engineering and Instruction Tuning for Educational Tasks
-* Personalized and Adaptive Learning with Generative AI
-* Automated Curriculum, Lesson, and Assessment Design
-* Conversational and Interactive Educational Agents (e.g., AI Tutors, Virtual Classrooms)
-* Agentic Generative AI and Education
-* Vision-Language Applications in STEM, Humanities, and Language Education
-* Synthetic Data Generation and Simulation for Education Research
-* Cross-lingual, Cross-cultural, and Inclusive Educational Generation
-* Bias, Fairness, Robustness, and Equity in Generative Educational Systems
-* Explainability, Interpretability, and Trust in LMM Outputs for Educators and Learners
-* Evaluation Frameworks, Metrics, and Benchmarks for Educational LMMs
-* Human-AI Co-Creation and Collaboration in Teaching & Learning
-* Ethical, Legal, Societal, and Policy Implications of LMMs in Education
-* Teacher Augmentation, Professional Development, and Workflow Integration
-* Hallucination Mitigation and Pedagogical Alignment in AI-Generated Content
-
+- Emerging technologies in education
+- Evaluation of education technologies
+- Immersive learning and multimedia applications
+- Self-adaptive learning
+- Individual and personalized education
+- Intelligent learning systems
+- Intelligent tutoring and monitoring systems
+- Automatic grading and assessment
+- Automated feedback and recommendations
+- Big data analytics for education
+- Analysis of communities of learning
+- Course development techniques
+- Data analytics & big data in education
+- and web mining in education
+- Learning tools experiences and cases of study
+- Social media in education
+- Smart education
+- Digital libraries for learning
+- Knowledge management for learning
+- Learning technology for lifelong learning
+- Tracking learning activities
+- Wearable computing technology in e-learning
+- Smart classroom
+- Dropout prediction
+- Knowledge tracing
+- Multimodal Representation Learning for Education
+- Prompt Engineering and Instruction Tuning for Educational Tasks
+- Personalized and Adaptive Learning with Generative AI
+- Automated Curriculum, Lesson, and Assessment Design
+- Conversational and Interactive Educational Agents (e.g., AI Tutors, Virtual Classrooms)
+- Agentic Generative AI and Education
+- Vision-Language Applications in STEM, Humanities, and Language Education
+- Synthetic Data Generation and Simulation for Education Research
+- Cross-lingual, Cross-cultural, and Inclusive Educational Generation
+- Bias, Fairness, Robustness, and Equity in Generative Educational Systems
+- Explainability, Interpretability, and Trust in LMM Outputs for Educators and Learners
+- Evaluation Frameworks, Metrics, and Benchmarks for Educational LMMs
+- Human-AI Co-Creation and Collaboration in Teaching & Learning
+- Ethical, Legal, Societal, and Policy Implications of LMMs in Education
+- Teacher Augmentation, Professional Development, and Workflow Integration
+- Hallucination Mitigation and Pedagogical Alignment in AI-Generated Content
 
 The workshop solicits **5-7 pages double-blind** paper submissions (with unlimited references) from participants. Submissions of the following flavors will be sought: (1) research ideas, (2) case studies (or deployed projects), (3) review papers, (4) best practice papers, and (5) lessons learned. The format is the standard double-column AAAI Proceedings Style. The style files can be found at [https://aaai.org/authorkit26-1/](https://aaai.org/authorkit26-1/). All submissions will be peer-reviewed. Some will be selected for spotlight talks, and some for the poster session.
 
@@ -98,8 +90,8 @@ Reviewing will be double-blind, so please do not include any self-identifying in
 
 **Submission Link**: [https://openreview.net/group?id=AAAI.org/2026/Workshop/AI4EDU](https://openreview.net/group?id=AAAI.org/2026/Workshop/AI4EDU)
 
-
 ## AAAI 2026 Registration Timeline
+
 - **Early Registration Deadline**: November 16, 2025
 - **Standard Registration Deadline**: December 14, 2025
 - **Late Registration Deadline**: December 14, 2025
@@ -109,14 +101,13 @@ It is mandatory for each accepted paper to have at least one author registered t
 For more details, please visit the official registration page:
 [https://aaai.org/conference/aaai/aaai-26/registration/](https://aaai.org/conference/aaai/aaai-26/registration/)
 
-
 ## Important Dates
 
 Note: All deadlines are **anywhere on earth** (AOE)
 
 **September 10, 2025**: Open Review submission site opens for paper submission
 
-**October 15, 2025**: Abstracts due at 11:59 PM
+~~**October 15, 2025**: Abstracts due at 11:59 PM~~
 
 **October 22, 2025**: Full papers due at 11:59 PM
 
@@ -126,20 +117,17 @@ Note: All deadlines are **anywhere on earth** (AOE)
 
 **January 26-27, 2026**: AI4EDU Workshop
 
-<!-- * ~~November 22~~ December 15, 2024: Workshop Submissions Due 
-* ~~December 9~~ December 25, 2024: Notifications Sent to Authors 
-* December 19, 2024: AAAI-25 Early Registration Deadline 
+<!-- * ~~November 22~~ December 15, 2024: Workshop Submissions Due
+* ~~December 9~~ December 25, 2024: Notifications Sent to Authors
+* December 19, 2024: AAAI-25 Early Registration Deadline
 * March 3, 2026: AAAI-25 AI4EDU Workshop Program -->
-
-
 
 ## Organizers
 
 <!-- ![Beautiful place]({{site.baseurl}}/images/aaai2022_workshop_organizers.jpg) -->
 
-* **Zitao Liu** Guangdong Institute of Smart Education, Jinan University, China
+- **Zitao Liu** Guangdong Institute of Smart Education, Jinan University, China
 <!-- * **Christian M. Stracke** The University of Bonn, Germany -->
-* **Yu Lu** Beijing Normal University, China
-* **Emmanuel G. Blanchard** University of Le Mans, France
-* **Tianqiao Liu** TAL Education Group, China
-
+- **Yu Lu** Beijing Normal University, China
+- **Emmanuel G. Blanchard** University of Le Mans, France
+- **Tianqiao Liu** TAL Education Group, China
