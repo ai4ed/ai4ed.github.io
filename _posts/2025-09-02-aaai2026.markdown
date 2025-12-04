@@ -8,6 +8,52 @@ featured: true
 category: workshops
 ---
 
+# Accepted Paper List
+
+* Yinqi Zhang-Kopf, Chenglu Li, Gokhan Gulfidan, Hai Li, Rui Guo. Does AI-Powered Teachable Agent Benefit Students Evenly? A Look at the Relationship between Individual Characteristics and State Mathematical Exam Results. [Paper Link](https://drive.google.com/open?id=1j-eX8x9o-LxUcnc9QTlEq8tSB1NDSa1K)
+
+* Yuxin Liu, Zeqing Song, Jiong Lou, Chentao Wu, Jie Li. AgentTutor: Empowering Personalized Learning with Multi-Turn Interactive Teaching in Intelligent Education Systems. [Paper Link](https://drive.google.com/open?id=1UCv1dBn35mhxANTC8vFXFlnX95dYNqya)
+
+* Buyuan Zhu, Shiyu Hu, Yiping Ma, Yuanming Zhang, Kang Hao Cheong. From Objective to Subjective: A Benchmark for Virtual Student Abilities. [Paper Link](https://drive.google.com/open?id=1H36MM2uyLifYN4_PrBrWORDGeRmEy6YP)
+
+* Tapiwa Amion Chinodakufa, Ashfaq Ali Shafin, Khandaker Mamun Ahmed. Synthetic Data in Education: Empirical Insights from Traditional Resampling and Deep Generative Models. [Paper Link](https://drive.google.com/open?id=1WMHLhbqUfz7s0RFRcXWPnqZCZjoYm_V7)
+
+* Ding Yu, Yu Lu, Shengquan Yu. RouteKT: A Knowledge Tracing Framework for Modeling Students' Problem-Solving Routes with Large Language Model. [Paper Link](https://drive.google.com/open?id=1oEow9f7GaH1NHt4VqM4fdPbcNuLV-x74)
+
+* Jasper Meynard P. Arana, Kristine Ann M. Carandang, Ethan Robert A. Casin, Daniel Stanley Y. Tan, Christian M. Alis, Christopher P. Monterola. Evaluating LLMs as Self-Assessing Educational Agents: Dual-Role Modeling for Reliable AI-Generated Exams. [Paper Link](https://drive.google.com/open?id=1tQArPA3VKKc1r-ab0M7zZTDq3zMiXvfe)
+
+* Eddison Pham, Prisha Priyadarshini, Adrian Maliackel, Kanishk Bandi, Cristian Meo, Kevin Zhu. DynaStride: Dynamic Stride Windowing with MMCoT for Instructional Multi-Scene Captioning. [Paper Link](https://drive.google.com/open?id=1rtHo_ZwdcEp8IjtaARe7HiYyfg-gp5DI)
+
+* Yiping Ma, Shiyu Hu, Xuchen Li, Yipei Wang, Yuqing Chen, Shiqing Liu, Kang Hao Cheong. Learning to Be Taught: A Structured SOEI Framework for Modeling and Evaluating Personality-Aligned Virtual Student Agents. [Paper Link](https://drive.google.com/open?id=1Bm40u0CL8j4ACwsuZH5zi5TOz38uRS2E)
+
+* Zekun Li, Song Li, Ye He, Haoxuan Li, Yikun Jiang, Joy Lim Jia Yin, Daniel Zhang-Li, Shangqing Tu, Yucheng Wang, Yu Zhang, Jifan Yu. MASA: Multi-Agent Guided Interview for Scenario-Based Assessment of Critical Thinking. [Paper Link](https://drive.google.com/open?id=1rOa668LlzGoeRGvT_zQIBeihNZPRUPKc)
+
+* Ju-Yeong Park, Tae-Gwon Lee, Ji-Hoon Bae. Reconstruction Attention Positional Encoding for Knowledge Tracing: Integrating Cognitive Forgetting into Transformer-Based Models. [Paper Link](https://drive.google.com/open?id=1nSVDz8fG_7kZd7b8VhyUkpAjdP65TLhs)
+
+* Haiping Zhu, Shuaijie He, Ziyu Wang, Qidong Liu, Xinzhu Bai, JiaHao Li, Yan Chen, Nazaraf Shah, Sibo Cai, Feng Tian. Multimodal Sequential Recommendation of On-line courses with MLLM-Enhanced Semantic Edge Embedding. [Paper Link](https://drive.google.com/open?id=1FuxUlj5X2OBZMnLCC84pW2a2O1a0_VXf)
+
+* Xinmeng Hou, Zhouquan Lu, Wenli Chen, Liang Wan, Feng Wei, Hai Hu, Qing Guo. EduThink4AI: Bridging Educational Critical Thinking and Multi-Agent LLM Systems. [Paper Link](https://drive.google.com/open?id=1_uRgjes_gi9sdms_oVqiW9KWYq8LkcbU)
+
+* Yunxuan Lin, Zhengyang Wu, Ronghua Lin, Yong Tang. Context-Driven Learning Path Recommendation: From Static Records to Dynamic Contexts. [Paper Link](https://drive.google.com/open?id=1EmwBoTaKblXDrI83FEt0JNQxxe5x_IdU)
+
+* Andrey Savchenko, Anna Slovyagina, Egor Churaev. SpeakerTrainer: Multimodal Coaching of Presentation Skills on Mobile Devices. [Paper Link](https://drive.google.com/open?id=140pAgq172B3KLuLvMKUmYCkPxOLLaDRW)
+
+* Jayapradeep Jayaraman Srinivas, Riley Phan, Gabriella Campos, Nagendra Chaudhary, Robin Chataut. AI-Driven Adaptive Tutoring: A Multi-Agent System for Structured, Multimedia-Enhanced Education. [Paper Link](https://drive.google.com/open?id=1sn2bh6HENmMpAu5jil3adevT7VoPDYym)
+
+* Jaein Kim, Yuna Kim, Juyoung Park, Duk-Jo Kong. Teacher-in-the-Loop Story-to-Video: Vision-Language Models and ML Ranking for Educational Content Authoring. [Paper Link](https://drive.google.com/open?id=1bk8wgmWLnZDHRGQiTBc9iAmK83_8_bet)
+
+* Binglin Liu, Yucheng Wang, Zheyuan Zhang, Jiyuan Lu, Shen Yang, Daniel Zhang-Li, Huiqin Liu, Jifan Yu. Addressing Situated Teaching Needs: A Multi-Agent Framework for Automated Slide Adaptation. [Paper Link](https://drive.google.com/open?id=16bHfCBZ2p5_GS25v-bKJ0BK_e7za-ZB8)
+
+* Yang Wu, Rujing Yao, Tong Zhang, Yufei Shi, Zhuoren Jiang, Zhushan Li, Xiaozhong Liu. Teaching According to Students’ Aptitude: Personalized Mathematics Tutoring via Persona-, Memory-, and Forgetting-Aware LLMs. [Paper Link](https://drive.google.com/open?id=15eeeIn1g01Y9AYmQo0hCnEdNlqUvaK88)
+
+* Yiping Ma, Shiyu Hu, Buyuan Zhu, Yipei Wang, Yaxuan Kang, Shiqing Liu, Kang Hao Cheong. Redefining Educational Simulation: EduVerse as a User-Defined and Developmental Multi-Agent Simulation Space. [Paper Link](https://drive.google.com/open?id=1CHwLGK4YTaoZ-NIjRfw1-tt5nMIWksEF)
+
+* Yinqi Zhang-Kopf, Chenglu Li, Gokhan Gulfidan, Hai Li, Yukyeong Song, Rui Guo, Wanli Xing. When to Stop? An Experimental Study on AI Teachable Agent Stopping Mechanisms and Their Learning Affordances in Mathematics. [Paper Link](https://drive.google.com/open?id=1gDcErFU4KaKkmoFz-RuQG_i4Kbyc0OK3)
+
+* Roman Sultimov, Aleksandr Volkov, Tatiana Otbetkina, Mariia Kovalchuk, Melkozerova Yuila, Egor Suraveikin, Maksim Malykh, Yury Maximov. CoLearn: A Multi-Agent System for Personalized Blended Learning in Higher Education. [Paper Link](https://drive.google.com/open?id=1ooUfQheEoArrqtOhkBhmm-sbzs_73qLJ)
+
+# Introduction
+
 ## Motivation
 
 In the era of rapid advancements in artificial intelligence, multimodal AI systems — from large foundational models to efficient, task-specific agents - are reshaping how machines understand and generate human-like interactions across text, vision, audio, and beyond. While Large Language Model (LLM) and Large Multimodal Models (LMMs) offer unprecedented capabilities for personalization and automation in education, emerging paradigms such as Agentic AI and compact, efficient models are demonstrating remarkable efficacy in targeted educational tasks — often with greater deployability, interpretability, and alignment with real-world constraints.
