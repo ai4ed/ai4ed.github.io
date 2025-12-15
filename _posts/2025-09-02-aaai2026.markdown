@@ -28,7 +28,7 @@ category: workshops
 
 * Zekun Li, Song Li, Ye He, Haoxuan Li, Yikun Jiang, Joy Lim Jia Yin, Daniel Zhang-Li, Shangqing Tu, Yucheng Wang, Yu Zhang, Jifan Yu. MASA: Multi-Agent Guided Interview for Scenario-Based Assessment of Critical Thinking. [Paper Link](https://drive.google.com/open?id=1rOa668LlzGoeRGvT_zQIBeihNZPRUPKc)
 
-* Ju-Yeong Park, Tae-Gwon Lee, Ji-Hoon Bae. Reconstruction Attention Positional Encoding for Knowledge Tracing: Integrating Cognitive Forgetting into Transformer-Based Models. [Paper Link](https://drive.google.com/open?id=1nSVDz8fG_7kZd7b8VhyUkpAjdP65TLhs)
+* Ju-Yeong Park, Tae-Gwon Lee, Ji-Hoon Bae. Reconstruction Attention Positional Encoding for Knowledge Tracing: Integrating Cognitive Forgetting into Transformer-Based Models. [Paper Link](https://drive.google.com/file/d/1jEOGEcRMAL9vFsICnOn4xywep6zvueat/view?usp=sharing)
 
 * Haiping Zhu, Shuaijie He, Ziyu Wang, Qidong Liu, Xinzhu Bai, JiaHao Li, Yan Chen, Nazaraf Shah, Sibo Cai, Feng Tian. Multimodal Sequential Recommendation of On-line courses with MLLM-Enhanced Semantic Edge Embedding. [Paper Link](https://drive.google.com/open?id=1FuxUlj5X2OBZMnLCC84pW2a2O1a0_VXf)
 
