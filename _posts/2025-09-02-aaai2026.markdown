@@ -14,8 +14,6 @@ category: workshops
 
 * Yuxin Liu, Zeqing Song, Jiong Lou, Chentao Wu, Jie Li. AgentTutor: Empowering Personalized Learning with Multi-Turn Interactive Teaching in Intelligent Education Systems. [Paper Link](https://drive.google.com/open?id=1UCv1dBn35mhxANTC8vFXFlnX95dYNqya)
 
-* Buyuan Zhu, Shiyu Hu, Yiping Ma, Yuanming Zhang, Kang Hao Cheong. From Objective to Subjective: A Benchmark for Virtual Student Abilities. [Paper Link](https://drive.google.com/open?id=1H36MM2uyLifYN4_PrBrWORDGeRmEy6YP)
-
 * Tapiwa Amion Chinodakufa, Ashfaq Ali Shafin, Khandaker Mamun Ahmed. Synthetic Data in Education: Empirical Insights from Traditional Resampling and Deep Generative Models. [Paper Link](https://drive.google.com/open?id=1WMHLhbqUfz7s0RFRcXWPnqZCZjoYm_V7)
 
 * Ding Yu, Yu Lu, Shengquan Yu. RouteKT: A Knowledge Tracing Framework for Modeling Students' Problem-Solving Routes with Large Language Model. [Paper Link](https://drive.google.com/open?id=1oEow9f7GaH1NHt4VqM4fdPbcNuLV-x74)
@@ -23,8 +21,6 @@ category: workshops
 * Jasper Meynard P. Arana, Kristine Ann M. Carandang, Ethan Robert A. Casin, Daniel Stanley Y. Tan, Christian M. Alis, Christopher P. Monterola. Evaluating LLMs as Self-Assessing Educational Agents: Dual-Role Modeling for Reliable AI-Generated Exams. [Paper Link](https://drive.google.com/open?id=1tQArPA3VKKc1r-ab0M7zZTDq3zMiXvfe)
 
 * Eddison Pham, Prisha Priyadarshini, Adrian Maliackel, Kanishk Bandi, Cristian Meo, Kevin Zhu. DynaStride: Dynamic Stride Windowing with MMCoT for Instructional Multi-Scene Captioning. [Paper Link](https://drive.google.com/open?id=1rtHo_ZwdcEp8IjtaARe7HiYyfg-gp5DI)
-
-* Yiping Ma, Shiyu Hu, Xuchen Li, Yipei Wang, Yuqing Chen, Shiqing Liu, Kang Hao Cheong. Learning to Be Taught: A Structured SOEI Framework for Modeling and Evaluating Personality-Aligned Virtual Student Agents. [Paper Link](https://drive.google.com/open?id=1Bm40u0CL8j4ACwsuZH5zi5TOz38uRS2E)
 
 * Zekun Li, Song Li, Ye He, Haoxuan Li, Yikun Jiang, Joy Lim Jia Yin, Daniel Zhang-Li, Shangqing Tu, Yucheng Wang, Yu Zhang, Jifan Yu. MASA: Multi-Agent Guided Interview for Scenario-Based Assessment of Critical Thinking. [Paper Link](https://drive.google.com/open?id=1rOa668LlzGoeRGvT_zQIBeihNZPRUPKc)
 
@@ -45,8 +41,6 @@ category: workshops
 * Binglin Liu, Yucheng Wang, Zheyuan Zhang, Jiyuan Lu, Shen Yang, Daniel Zhang-Li, Huiqin Liu, Jifan Yu. Addressing Situated Teaching Needs: A Multi-Agent Framework for Automated Slide Adaptation. [Paper Link](https://drive.google.com/open?id=16bHfCBZ2p5_GS25v-bKJ0BK_e7za-ZB8)
 
 * Yang Wu, Rujing Yao, Tong Zhang, Yufei Shi, Zhuoren Jiang, Zhushan Li, Xiaozhong Liu. Teaching According to Students’ Aptitude: Personalized Mathematics Tutoring via Persona-, Memory-, and Forgetting-Aware LLMs. [Paper Link](https://drive.google.com/open?id=15eeeIn1g01Y9AYmQo0hCnEdNlqUvaK88)
-
-* Yiping Ma, Shiyu Hu, Buyuan Zhu, Yipei Wang, Yaxuan Kang, Shiqing Liu, Kang Hao Cheong. Redefining Educational Simulation: EduVerse as a User-Defined and Developmental Multi-Agent Simulation Space. [Paper Link](https://drive.google.com/open?id=1CHwLGK4YTaoZ-NIjRfw1-tt5nMIWksEF)
 
 * Yinqi Zhang-Kopf, Chenglu Li, Gokhan Gulfidan, Hai Li, Yukyeong Song, Rui Guo, Wanli Xing. When to Stop? An Experimental Study on AI Teachable Agent Stopping Mechanisms and Their Learning Affordances in Mathematics. [Paper Link](https://drive.google.com/open?id=1gDcErFU4KaKkmoFz-RuQG_i4Kbyc0OK3)
 
