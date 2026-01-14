@@ -8,6 +8,53 @@ featured: true
 category: workshops
 ---
 
+# Workshop Schedule
+
+**Date:** Monday, January 26, 2026
+
+**Location:** Singapore EXPO
+
+**Room:** Tourmaline 207–209
+
+### 9:00 AM - 9:45 AM | Keynote Talk one + QA
+- **Speaker:** Prof. Wenli Chen (Nanyang Technological University)
+
+### 9:45 AM - 10:30 AM | Oral Session A: AI-Powered Teachable Agents & Learning Interactions
+- Does AI-Powered Teachable Agent Benefit Students Evenly?
+- When to Stop? An Experimental Study on AI Teachable Agent Stopping Mechanisms
+- Learning to Be Taught: A Structured SOEI Framework for Personality-Aligned Virtual Student Agents
+
+### 10:30 AM - 11:15 AM | Keynote Talk Two + QA
+- **Speaker:** Dr. Longxiang Huang (Research Scientist, Nanyang Technological University)
+
+### 11:15 AM - 12:15 PM | Oral Session B: Knowledge Tracing, Personalization & Assessment
+- RouteKT: A Knowledge Tracing Framework for Modeling Students' Problem-Solving Routes
+- Reconstruction Attention Positional Encoding for Knowledge Tracing
+- Teaching According to Students’ Aptitude: Personalized Mathematics Tutoring via Persona-, Memory-, and Forgetting-Aware LLMs
+- Evaluating LLMs as Self-Assessing Educational Agents
+
+### 12:15 PM - 2:00 PM | Lunch Break
+
+### 2:00 PM - 2:45 PM | Keynote Talk Three + QA
+- **Speaker:** Prof. Jiannan Li (Singapore Management University)
+
+### 2:45 PM - 3:30 PM | Keynote Talk Four + QA
+- **Speaker:** Mr. Nansong Wang (Vice Principal, ThinkAcademy Singapore)
+
+### 3:30 PM - 5:00 PM | Oral Session C: Multi-Agent Tutoring & Adaptive Systems
+- CoLearn: A Multi-Agent System for Personalized Blended Learning in Higher Education
+- AI-Driven Adaptive Tutoring: A Multi-Agent System for Structured, Multimedia-Enhanced Education
+- Redefining Educational Simulation: EduVerse as a User-Defined and Developmental Multi-Agent Simulation Space
+- MASA: Multi-Agent Guided Interview for Scenario-Based Assessment of Critical Thinking
+- Addressing Situated Teaching Needs: A Multi-Agent Framework for Automated Slide Adaptation
+- Evaluating LLMs as Self-Assessing Educational Agents
+
+### 5:00 PM - 6:00 PM | Oral Session D: Multimodal Content Generation & Recommendation
+- Multimodal Sequential Recommendation of Online Courses with MLLM-Enhanced Semantic Edge Embedding
+- SpeakerTrainer: Multimodal Coaching of Presentation Skills on Mobile Devices
+- Teacher-in-the-Loop Story-to-Video: Vision-Language Models and ML Ranking for Educational Content Authoring
+- DynaStride: Dynamic Stride Windowing with MMCoT for Instructional Multi-Scene Captioning
+
 # Accepted Paper List
 
 * Yinqi Zhang-Kopf, Chenglu Li, Gokhan Gulfidan, Hai Li, Rui Guo. Does AI-Powered Teachable Agent Benefit Students Evenly? A Look at the Relationship between Individual Characteristics and State Mathematical Exam Results. [Paper Link](https://drive.google.com/open?id=1j-eX8x9o-LxUcnc9QTlEq8tSB1NDSa1K)
