@@ -25,7 +25,7 @@ category: workshops
 - Learning to Be Taught: A Structured SOEI Framework for Personality-Aligned Virtual Student Agents
 
 ### 10:30 AM - 11:15 AM | Keynote Talk Two + QA
-- **Speaker:** Dr. Longxiang Huang (Research Scientist, Nanyang Technological University)
+- **Speaker:** Dr. Lung Hsiang Wong (Research Scientist, Nanyang Technological University)
 
 ### 11:15 AM - 12:15 PM | Oral Session B: Knowledge Tracing, Personalization & Assessment
 - RouteKT: A Knowledge Tracing Framework for Modeling Students' Problem-Solving Routes
