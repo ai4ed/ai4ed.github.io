@@ -41,18 +41,18 @@ category: workshops
 ### 2:45 PM - 3:30 PM | Keynote Talk Four + QA
 - **Speaker:** Mr. Nansong Wang (Vice Principal, ThinkAcademy Singapore)
 
-### 3:30 PM - 5:00 PM | Oral Session C: Multi-Agent Tutoring & Adaptive Systems
+### 3:30 PM - 4:45 PM | Oral Session C: Multi-Agent Tutoring & Adaptive Systems
 - CoLearn: A Multi-Agent System for Personalized Blended Learning in Higher Education
 - AI-Driven Adaptive Tutoring: A Multi-Agent System for Structured, Multimedia-Enhanced Education
 - Redefining Educational Simulation: EduVerse as a User-Defined and Developmental Multi-Agent Simulation Space
 - MASA: Multi-Agent Guided Interview for Scenario-Based Assessment of Critical Thinking
 - Addressing Situated Teaching Needs: A Multi-Agent Framework for Automated Slide Adaptation
-- Evaluating LLMs as Self-Assessing Educational Agents
 
-### 5:00 PM - 5:45 PM | Oral Session D: Multimodal Content Generation & Recommendation
+### 4:45 PM - 5:45 PM | Oral Session D: Multimodal Content Generation & Recommendation
 - Multimodal Sequential Recommendation of Online Courses with MLLM-Enhanced Semantic Edge Embedding
 - SpeakerTrainer: Multimodal Coaching of Presentation Skills on Mobile Devices
 - Teacher-in-the-Loop Story-to-Video: Vision-Language Models and ML Ranking for Educational Content Authoring
+- From Objective to Subjective: A Benchmark for Virtual Student Abilities
 
 # Accepted Paper List
 
