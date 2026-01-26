@@ -29,9 +29,9 @@ category: workshops
 
 ### 11:15 AM - 12:15 PM | Oral Session B: Knowledge Tracing, Personalization & Assessment
 - RouteKT: A Knowledge Tracing Framework for Modeling Students' Problem-Solving Routes
-- Reconstruction Attention Positional Encoding for Knowledge Tracing
 - Teaching According to Students’ Aptitude: Personalized Mathematics Tutoring via Persona-, Memory-, and Forgetting-Aware LLMs
 - Evaluating LLMs as Self-Assessing Educational Agents
+- From Objective to Subjective: A Benchmark for Virtual Student Abilities
 
 ### 12:15 PM - 2:00 PM | Lunch Break
 
@@ -52,7 +52,6 @@ category: workshops
 - Multimodal Sequential Recommendation of Online Courses with MLLM-Enhanced Semantic Edge Embedding
 - SpeakerTrainer: Multimodal Coaching of Presentation Skills on Mobile Devices
 - Teacher-in-the-Loop Story-to-Video: Vision-Language Models and ML Ranking for Educational Content Authoring
-- From Objective to Subjective: A Benchmark for Virtual Student Abilities
 
 # Accepted Paper List
 
