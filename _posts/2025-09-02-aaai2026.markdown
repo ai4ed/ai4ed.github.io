@@ -78,7 +78,7 @@ category: workshops
 
 * Yunxuan Lin, Zhengyang Wu, Ronghua Lin, Yong Tang. Context-Driven Learning Path Recommendation: From Static Records to Dynamic Contexts. [Paper Link](https://drive.google.com/open?id=1EmwBoTaKblXDrI83FEt0JNQxxe5x_IdU)
 
-* Andrey Savchenko, Anna Slovyagina, Egor Churaev. SpeakerTrainer: Multimodal Coaching of Presentation Skills on Mobile Devices. [Paper Link](https://drive.google.com/file/d/140pAgq172B3KLuLvMKUmYCkPxOLLaDRW/view)
+* Andrey Savchenko, Anna Slovyagina, Egor Churaev. SpeakerTrainer: Multimodal Coaching of Presentation Skills on Mobile Devices. [Paper Link](https://drive.google.com/file/d/1JwyRVqceHMa4RMDgKDfGKtMx9goZRkEb/view?usp=sharing)
 
 * Jayapradeep Jayaraman Srinivas, Riley Phan, Gabriella Campos, Nagendra Chaudhary, Robin Chataut. AI-Driven Adaptive Tutoring: A Multi-Agent System for Structured, Multimedia-Enhanced Education. [Paper Link](https://drive.google.com/open?id=1sn2bh6HENmMpAu5jil3adevT7VoPDYym)
 
